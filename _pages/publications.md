@@ -19,7 +19,7 @@ author_profile: true
 
 ## Preprints 
 
-1. **T. Qin**, Z. Chen, J. Jakeman, and D. Xiu. *Data-driven learning of non-autonomous systems*, submitted.
+1. **T. Qin**, Z. Chen, J. Jakeman, and D. Xiu. *Data-driven learning of non-autonomous systems*, submitted. [[arXiv]](https://arxiv.org/abs/2006.02392)
 1. **T. Qin**, Z. Chen, J. Jakeman, and D. Xiu. *Deep learning of parameterized equations with applications to uncertainty quantification*, submitted. [arXiv](https://arxiv.org/abs/1910.07096)
 1. K. Wu, **T. Qin**, and D. Xiu. _Structure-preserving method for reconstructing unknown Hamiltonian systems from data_, submitted. [arXiv](https://arxiv.org/abs/1905.10396)
 
