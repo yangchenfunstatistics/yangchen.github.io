@@ -19,5 +19,7 @@ author_profile: true
 
 ## Preprints 
 
-1. T. Qin, Z. Chen, J. Jakeman, and D. Xiu. *Data-driven learning of non-autonomous systems*, _submitted_
+1. **T. Qin**, Z. Chen, J. Jakeman, and D. Xiu. *Data-driven learning of non-autonomous systems*, submitted.
+2. **T. Qin**, Z. Chen, J. Jakeman, and D. Xiu. *Deep learning of parameterized equations with applications to uncertainty quantification*, submitted.
+3. 
 
