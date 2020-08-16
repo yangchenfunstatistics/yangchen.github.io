@@ -15,6 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## Publications
+[Google Scholar](https://scholar.google.com/citations?user=JzKmIhsAAAAJ&hl=en)
 
-* Data-driven modeling
+## Preprints 
+
+1. T. Qin, Z. Chen, J. Jakeman, and D. Xiu. *Data-driven learning of non-autonomous systems*, _submitted_
+
