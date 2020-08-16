@@ -18,3 +18,4 @@ TBA
 |	2019 Fall, | MATH 3607: Beginning Scientific Computing (2 sections),|
 
 
+
