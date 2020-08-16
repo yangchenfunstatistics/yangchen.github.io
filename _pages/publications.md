@@ -21,5 +21,7 @@ author_profile: true
 
 1. **T. Qin**, Z. Chen, J. Jakeman, and D. Xiu. *Data-driven learning of non-autonomous systems*, submitted.
 2. **T. Qin**, Z. Chen, J. Jakeman, and D. Xiu. *Deep learning of parameterized equations with applications to uncertainty quantification*, submitted.
-3. 
+3. K. Wu, **T. Qin**, and D. Xiu. _Structure-preserving method for reconstructing unknown Hamiltonian systems from data_, submitted.
+4. J. Hou, **T. Qin**, K. Wu, and D. Xiu. _A non-intrusive correction algorithm for classification problems with corrupted data_, accepted.
+5. **T. Qin**, L. Zhou, and D. Xiu. _Reducing parameter space for neural network training_, accepted.
 
