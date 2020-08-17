@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 * I am currently a postdoctoral assistant professor with the Department of Mathematics at University of Michigan (UM). 
-* Before joining UM, I was a visiting assistant professor with the Math Department at the Ohio State University (OSU), where I closely  worked with Prof. [Dongbin Xiu](https://people.math.osu.edu/xiu.16/).
+* Before joining UM, I was a visiting assistant professor with the Math Department at the Ohio State University (OSU), where I worked closely with Prof. [Dongbin Xiu](https://people.math.osu.edu/xiu.16/).
 
 ### Education
 * Ph. D. in Applied Mathematics, [Division of Applied Mathematics](https://www.brown.edu/academics/applied-mathematics/), [Brown University](https://www.brown.edu/), 2017.  
