@@ -24,5 +24,3 @@ redirect_from:
 * Numerical methods for partial differential equations
 * Scientific computing and numerical analysis
 
-
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=SgKDU_t-YVZn9L5NCDu32hIFfKgj25VEXeQlGpDaaf8&cl=ffffff&w=a"></script>
