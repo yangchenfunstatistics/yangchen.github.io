@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Tong Qin"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "Postdoctoral Assistant Professor"
   location         : "Ann Arbor, MI"
-  employer         : University of Michigan
+  employer         : "University of Michigan"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JzKmIhsAAAAJ&hl=en"
   email            : "tongqin@umich.edu"
