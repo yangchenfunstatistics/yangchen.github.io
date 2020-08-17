@@ -7,9 +7,9 @@ author_profile: true
 
 1. Mini-symposium on _Machine Learning for Physical Systems_, SIAM MDS Meeting, June 2020 (virtual)
 1. CCMA Seminar on Data and Computation, Pennsylvania State University, Apr. 2020 (virtual)
-1. Mini-symposium on _Scientific Machine Learning_, AMS Sectional Meeting, West Lafayyette, IN, Apr. 2020 (cancelled due to Covid-19)
-1. Mathematics Department Colloquium, Michigan Techonological University, Mar. 2020
-1. Appleied Math Seminar, Michigan Technological University, Oct. 2019
+1. Mini-symposium on _Scientific Machine Learning_, AMS Sectional Meeting, West Lafayette, IN, Apr. 2020 (canceled due to Covid-19)
+1. Mathematics Department Colloquium, Michigan Technological University, Mar. 2020
+1. Applied Math Seminar, Michigan Technological University, Oct. 2019
 1. Computational Math Seminar, The Ohio State University, Sept. 2019
 1. Mini-symposium on _Statistics and Machine Learning_, SIAM Great Lakes Sectional Meeting, Ann Arbor, MI, Apr. 2019
 1. Mini-symposium on _Recent Advances in Machine Learning and Data-driven Methods for Physical Sciences_, SIAM CSE Meeting, Spokane, WA, Feb. 2019

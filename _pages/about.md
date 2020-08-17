@@ -17,10 +17,10 @@ redirect_from:
 * M. Sc. in Applied Mathematics, [Institute of Applied Mathematics](https://www.iam.ubc.ca/), [University of British Columbia (UBC)](https://www.ubc.ca/), 2013.  
 	Advisor: Prof. [Dominik Sch&ouml;tzau](https://www.math.ubc.ca/~schoetzau/)  
 
-* B. Sc. in Mathematics and Applied Mathematics, [University of Sciencen and Technology of China (USTC)](https://en.ustc.edu.cn/), 2011.
+* B. Sc. in Mathematics and Applied Mathematics, [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), 2011.
 
 ### Research Interests
-* Machine learning and data-driven modelling
+* Machine learning and data-driven modeling
 * Numerical methods for partial differential equations
 * Scientific computing and numerical analysis
 
