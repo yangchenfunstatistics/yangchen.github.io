@@ -25,7 +25,7 @@ author_profile: true
 
 ## Refereed Journal Publications 
 
-1. K. Wu, **T. Qin**, and D. Xiu. _Structure-preserving method for reconstructing unknown Hamiltonian systems from data_, accepted. [[arXiv]](https://arxiv.org/abs/1905.10396)
+1. K. Wu, **T. Qin**, and D. Xiu. _Structure-preserving method for reconstructing unknown Hamiltonian systems from data_, SIAM Journal on Scientific Computing, accepted. [[arXiv]](https://arxiv.org/abs/1905.10396)
 1. J. Hou, **T. Qin**, K. Wu, and D. Xiu. _A non-intrusive correction algorithm for classification problems with corrupted data_, Communications on Applied Mathematics and Computation, accepted. [[arXiv]](https://arxiv.org/abs/2002.04658)
 1. **T. Qin**, L. Zhou, and D. Xiu. _Reducing parameter space for neural network training_, Theoretical and Applied Mechanics Letters, accepted. [[arXiv]](https://arxiv.org/abs/1805.08340)
 1. **T. Qin**, K. Wu, and D. Xiu. _Data driven governing equations approximation using deep neural networks_, Journal of Computational Physics 395, 620-635, 2019.
