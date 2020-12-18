@@ -23,7 +23,7 @@ author_profile: true
 ## Refereed Journal Publications 
 
 1. **T. Qin**, Z. Chen, J. Jakeman, and D. Xiu. *Deep learning of parameterized equations with applications to uncertainty quantification*, International Journal for Uncertainty Quantification, accepted. [[arXiv]](https://arxiv.org/abs/1910.07096) [[journal]](https://doi.org/10.1615/Int.J.UncertaintyQuantification.2020034123)
-1. K. Wu, **T. Qin**, and D. Xiu. _Structure-preserving method for reconstructing unknown Hamiltonian systems from data_, SIAM Journal on Scientific Computing, accepted. [[arXiv]](https://arxiv.org/abs/1905.10396)
+1. K. Wu, **T. Qin**, and D. Xiu. _Structure-preserving method for reconstructing unknown Hamiltonian systems from data_, SIAM Journal on Scientific Computing, 42(6), A3704-A3729, 2020. [[arXiv]](https://arxiv.org/abs/1905.10396) [[journal]](https://doi.org/10.1137/19M1264011)
 1. J. Hou, **T. Qin**, K. Wu, and D. Xiu. _A non-intrusive correction algorithm for classification problems with corrupted data_, Communications on Applied Mathematics and Computation, 2020. [[arXiv]](https://arxiv.org/abs/2002.04658) [[journal]](https://doi.org/10.1007/s42967-020-00084-4)
 1. **T. Qin**, L. Zhou, and D. Xiu. _Reducing parameter space for neural network training_, Theoretical and Applied Mechanics Letters 10(3), 170-181, 2020. [[arXiv]](https://arxiv.org/abs/1805.08340) [[journal]](https://doi.org/10.1016/j.taml.2020.01.043)
 1. **T. Qin**, K. Wu, and D. Xiu. _Data driven governing equations approximation using deep neural networks_, Journal of Computational Physics 395, 620-635, 2019.
