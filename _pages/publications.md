@@ -21,7 +21,7 @@ author_profile: true
 
 
 ## Refereed Journal Publications 
-
+1. **T. Qin**, Z. Chen, J. Jakeman, and D. Xiu. *Data-driven learning of non-autonomous systems*, SIAM Journal on Scientific Computing, accepted. [[arXiv]](https://arxiv.org/abs/2006.02392)
 1. **T. Qin**, Z. Chen, J. Jakeman, and D. Xiu. *Deep learning of parameterized equations with applications to uncertainty quantification*, International Journal for Uncertainty Quantification, accepted. [[arXiv]](https://arxiv.org/abs/1910.07096) [[journal]](https://doi.org/10.1615/Int.J.UncertaintyQuantification.2020034123)
 1. K. Wu, **T. Qin**, and D. Xiu. _Structure-preserving method for reconstructing unknown Hamiltonian systems from data_, SIAM Journal on Scientific Computing, 42(6), A3704-A3729, 2020. [[arXiv]](https://arxiv.org/abs/1905.10396) [[journal]](https://doi.org/10.1137/19M1264011)
 1. J. Hou, **T. Qin**, K. Wu, and D. Xiu. _A non-intrusive correction algorithm for classification problems with corrupted data_, Communications on Applied Mathematics and Computation, 2020. [[arXiv]](https://arxiv.org/abs/2002.04658) [[journal]](https://doi.org/10.1007/s42967-020-00084-4)

@@ -4,7 +4,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-
+1. Mathematics Department Colloquium, University of Alabama, Jan. 2021 (virtual).
 1. Mini-symposium on _Machine Learning for Physical Systems_, SIAM MDS Meeting, June 2020 (virtual)
 1. CCMA Seminar on Data and Computation, Pennsylvania State University, Apr. 2020 (virtual)
 1. Mini-symposium on _Scientific Machine Learning_, AMS Sectional Meeting, West Lafayette, IN, Apr. 2020 (canceled due to Covid-19)
