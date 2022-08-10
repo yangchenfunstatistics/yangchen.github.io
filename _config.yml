@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tong Qin"
 title_separator          : "-"
 name                     : &name "Tong Qin"
-description              : &description "Postdoctoral Assistant Professor"
+description              : &description "PhD in Applied Math"
 url                      : https://tongqin1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tong Qin"
   avatar           : "profile.jpeg"
-  bio              : "Postdoctoral Assistant Professor"
-  location         : "Ann Arbor, MI"
-  employer         : "University of Michigan"
+  bio              : "Applied Scientist"
+  location         : "Sunnyvale, CA"
+  employer         : "Lab 126, Amazon"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JzKmIhsAAAAJ&hl=en"
-  email            : "tongqin@umich.edu"
+  email            : "tqinmath@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
