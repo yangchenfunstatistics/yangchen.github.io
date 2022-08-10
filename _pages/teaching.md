@@ -5,12 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Current Teaching
- 
- TBA
-
----
 ## Past Teaching
+### As Instructor at UM
+### 2020-2021
+* MATH 471 Introduction to Numerical Methods
 
 ### As Instructor at OSU
 
