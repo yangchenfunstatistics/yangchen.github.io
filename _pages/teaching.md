@@ -5,7 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Past Teaching
 ### As Instructor at UM
 ### 2020-2021
 * MATH 471 Introduction to Numerical Methods
