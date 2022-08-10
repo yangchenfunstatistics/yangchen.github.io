@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a researcher and developer at Lab 126, Amazon. Before joining Amazon, I spent several years in academia teaching mathematics and doing research on scientific computing and scientific machine learning. I got my PhD in Applied Mathematics from the Division of Applied Mathematics at Brown University. My advisor is Prof. Chi-Wang Shu. 
+I am currently a researcher and developer at Lab 126, Amazon. Before joining Amazon, I spent several years in academia [teaching](./teaching.md) mathematics and doing [research](./publication.md) on scientific computing and scientific machine learning. I got my PhD in Applied Mathematics from the Division of Applied Mathematics at Brown University. My advisor is Prof. Chi-Wang Shu. 
 
 In my spare time, I like reading, travelling and spending time with my family.
 
