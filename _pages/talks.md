@@ -4,6 +4,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+1. Mathematics Department Colloquium, Nanyang Technological University, Jul. 2021 (virtual).
 1. Mathematics Department Colloquium, University of Alabama, Jan. 2021 (virtual).
 1. Mini-symposium on _Machine Learning for Physical Systems_, SIAM MDS Meeting, June 2020 (virtual)
 1. CCMA Seminar on Data and Computation, Pennsylvania State University, Apr. 2020 (virtual)
