@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
  I am currently a researcher and developer at Lab 126, Amazon. Before joining Amazon, I spent several years in academia teaching mathematics and doing research on scientific computing and scientific machine learning. I got my PhD in Applied Mathematics from  
- [Division of Applied Mathematics](https://www.brown.edu/academics/applied-mathematics/), [Brown University](https://www.brown.edu/).  
+ the Division of Applied Mathematics at Brown University.  
 
 In my spare time, I like reading and spending time with my family.
 
