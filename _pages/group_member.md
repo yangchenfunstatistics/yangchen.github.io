@@ -6,8 +6,8 @@ author_profile: true
 ---
 ## Current Members
 ### PhD Students 
-* Robert N. Trangucci (joint with Jon Zelner), 2017-now
-* Daniel Iong, 2017-now
+* [Robert N. Trangucci](https://www.researchgate.net/profile/Robert-Trangucci) (joint with Jon Zelner), 2017-now
+* [Daniel Iong](https://danieliong.github.io/), 2017-now
 * Bach Viet Do (joint with Long Nguyen), 2017-now
 * Hu Sun, 2020-now
 * Victor Verma, 2022-now
@@ -25,7 +25,7 @@ author_profile: true
 ---
 ## Alumni
 ### Postdoct Alumni
-* Arya Farahi (MIDAS data science fellow), 2019-2021.  
+* [Arya Farahi](https://afarahi.github.io/) (MIDAS data science fellow), 2019-2021.  
   Current position: Assistant Professor at the University of Texas at Austin
   
 ### Ph.D. Alumni 
