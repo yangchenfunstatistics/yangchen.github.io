@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tong Qin"
+title                    : "Yang Chen"
 title_separator          : "-"
-name                     : &name "Tong Qin"
-description              : &description "PhD in Applied Math"
+name                     : &name "Yang Chen"
+description              : &description "PhD in Statisitcs"
 url                      : https://tongqin1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tong Qin"
+  name             : "Yang Chen"
   avatar           : "profile.jpeg"
-  bio              : "PhD in Applied Math"
-  location         : "Sunnyvale, CA"
-  employer         : "Lab 126, Amazon"
+  bio              : "Assistant Professor in Statistics"
+  location         : "Ann Arbor, MI"
+  employer         : "University of Michigan"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=JzKmIhsAAAAJ&hl=en"
-  email            : "tqinmath@gmail.com"
-  researchgate     :  
+  googlescholar    : "https://scholar.google.com/citations?user=ycbIaucAAAAJ&hl=en"
+  email            : "ychenang@umich.edu"
+  researchgate     : "https://www.researchgate.net/profile/Yang-Chen-202/stats" 
   uri              :
   bitbucket        :
   codepen          :
