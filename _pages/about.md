@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a researcher and developer at Lab 126, Amazon. Before joining Amazon, I spent several years in academia [teaching](./teaching.md) mathematics and doing [research](./publications.md) on scientific computing and scientific machine learning. I got my PhD in Applied Mathematics from Brown University.
+I am currently an Applied Scientist at Lab 126, Amazon. Before joining Amazon, I spent several years in academia [teaching](./teaching.md) mathematics and doing [research](./publications.md) on scientific computing and scientific machine learning. I got my PhD in Applied Mathematics from Brown University.
 
 In my spare time, I like reading math and history, coding and spending time with my daughter and son.
 
