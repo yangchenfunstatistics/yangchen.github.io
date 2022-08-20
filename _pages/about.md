@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently an assistant professor at the [Department of Statistics](https://lsa.umich.edu/stats) at University Michigan 
 and a research assistant professor at Michigan Institiute for Data Science ([MIDAS](https://midas.umich.edu/)). 
-For more information, see [CV (2021)](../files/CV_YangChen_2021.pdf)
+For more information, see my [CV](../files/CV_YangChen_2021.pdf) (upated 2021).
 
 ### Research Interests
 My general research interets are in applied and compuational statistics with their applications
