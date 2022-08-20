@@ -22,12 +22,12 @@ author_profile: true
 ## Alumni
 ### Postdoct Alumni
 * Arya Farahi (MIDAS data science fellow), 2019-2021.  
-  Now: Assistant Professor at the University of Texas at Austin
+  Current position: Assistant Professor at the University of Texas at Austin
   
 ### Ph.D. Alumni 
 * Wyane (Yu) Wang (join with Alfred O. Hero), 2018-2022.  
-  Dissertation title: *Interpretable and Scalable Graphical Models for Complex Spatio-temporal Processes*
-  Currently: Research at Google
+  Dissertation title: *Interpretable and Scalable Graphical Models for Complex Spatio-temporal Processes*  
+  Currently position: Researcher at Google
 
 
 ### Master Alumni
