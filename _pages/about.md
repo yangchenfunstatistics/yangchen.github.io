@@ -22,5 +22,5 @@ My general research interets are in applied and compuational statistics includin
 * B. Sc. in Mathematics, University of Science and Technology of China, July 2011.
 
 ---
-## NEWs
-
+## Opportunities 
+I am currently recruiting postdocs, Ph. D. students master students to join my research group. If you are interested, please send your CV and transcript to my email. 
