@@ -12,6 +12,10 @@ author_profile: true
 * Hu Sun, 2020-now
 * Victor Verma, 2022-now
 
+### Bridge Students
+* Dylan Glover
+* Noah Kochanski
+
 ### Master Students
 * Yurui Chang
 * Zeyuan Li
@@ -25,7 +29,7 @@ author_profile: true
   Current position: Assistant Professor at the University of Texas at Austin
   
 ### Ph.D. Alumni 
-* Wyane (Yu) Wang (join with Alfred O. Hero), 2018-2022.  
+* Wyane (Yu) Wang (joint with Alfred O. Hero), 2018-2022.  
   Dissertation title: *Interpretable and Scalable Graphical Models for Complex Spatio-temporal Processes*  
   Currently position: Researcher at Google
 
