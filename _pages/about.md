@@ -12,8 +12,7 @@ I am currently an assistant professor at the [Department of Statistics](https://
 and a research assistant professor at Michigan Institiute for Data Science ([MIDAS](https://midas.umich.edu/)). 
 For more information, see my [CV](../files/CV_YangChen_2021.pdf) (upated 2021).
 
-### Research Interests
-My general research interets are in applied and compuational statistics with their applications
+My general research interets are in applied and compuational statistics including 
 * Bayesian modeling and computation
 * Hidden Markov models and general finite mixture models
 * Applied statistics in astronomy and space sicences
