@@ -82,13 +82,14 @@ analytics:
 author:
   name             : "Yang Chen"
   avatar           : "profile.jpeg"
-  bio              : "Assistant Professor in Statistics"
-  location         : "Ann Arbor, MI"
+  bio              : "Assistant Professor of Statistics, Research Assistant Professor for MIDAS"
   employer         : "University of Michigan"
+  location         : "Ann Arbor, MI"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ycbIaucAAAAJ&hl=en"
   email            : "ychenang@umich.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=ycbIaucAAAAJ&hl=en"
   researchgate     : "https://www.researchgate.net/profile/Yang-Chen-202/stats" 
+  orcid            : "https://orcid.org/0000-0002-9516-8134" 
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +104,6 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
