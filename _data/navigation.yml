@@ -6,16 +6,12 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Group Members"
+  - title: "People"
     url: /group_member/    
 
   - title: "CV"
     url: /cv/
-   
-   
-  - title: "Group Member"
-    url: /group_memeber/
-        
+       
   #- title: "Blog Posts"
     #url: /year-archive/
     

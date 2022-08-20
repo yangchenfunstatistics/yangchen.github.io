@@ -11,7 +11,7 @@ author_profile: true
 
 
 ## Publications 
-*: Corresponding autor.
+* corresponding autor
 ### 2022
 1. K. Whitman et al. *Review of Solar Energetic Particle Models*, Advances in Space Research, in press. [[journal]](https://doi.org/10.1016/j.asr.2022.08.006)
 1. H. Sun, Z. Hua, J. Ren, S. Zou, Y. Sun and **Y. Chen\*** *Matrix completion methods for the total electron video reconstruction*, Annals of Applied Statistics 16(3), 1333-1358, 2022. [[journal](http://dx.doi.org/10.1214/21-AOAS1541)]
