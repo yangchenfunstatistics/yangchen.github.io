@@ -8,7 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Applied Scientist at Lab 126, Amazon. Before joining Amazon, I spent several years in academia [teaching](./teaching.md) mathematics and doing [research](./publications.md) on scientific computing and scientific machine learning. I got my PhD in Applied Mathematics from Brown University.
+I am currently an assistant professor at the [Department of Statistics](https://lsa.umich.edu/stats) at University Michigan and a research assistant professor at [MIDAS](https://midas.umich.edu/).
 
-In my spare time, I like reading math and history, coding and spending time with my daughter and son.
+##Education
+* Ph. D. in Statistics, Harvard University, May 2017.
+* B. Sc. in Mathematics, University of Science and Technology of China, July 2011.
+
+## Research Interests
+* Bayesian modeling and computation
+* Hidden Markov models and general finite mixture models
+* Applied statistics in astronomy and space sicences
+---
+##NEWs
 
