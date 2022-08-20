@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Family"
-permalink: /family/
-author_profile: false
+title: "Group Members"
+permalink: /group_member/
+author_profile: true 
 ---
 <table>
     <tr>
