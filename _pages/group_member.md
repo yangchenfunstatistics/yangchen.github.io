@@ -7,7 +7,7 @@ author_profile: true
 
 ## Current Members
 
-### PhD Students
+### Ph.D. Students
 
 * [Robert N. Trangucci](https://www.researchgate.net/profile/Robert-Trangucci) (joint with Jon Zelner), 2017-now
 * [Daniel Iong](https://danieliong.github.io/), 2017-now
@@ -15,7 +15,7 @@ author_profile: true
 * Hu Sun, 2020-now
 * Victor Verma, 2022-now
 
-### Bridge Students
+### Bridge Program Students
 
 * Dylan Glover
 * Noah Kochanski

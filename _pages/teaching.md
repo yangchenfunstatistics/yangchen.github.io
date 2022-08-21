@@ -5,42 +5,22 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### As Instructor at UM
-### 2020-2021
-* MATH 471 Introduction to Numerical Methods
+## Current Teaching
 
-### As Instructor at OSU
+TBD
 
-### 2019-2020
-* MATH 5602: Computational Partial Differential Equations
-* MATH 3607: Beginning Scientific Computing  I 
-* MATH 3607: Beginning Scientific Computing II
+## Past Teaching
 
-### 2018-2019
-* MATH 5602: Computational Partial Differential Equations
-* MATH 3607: Beginning Scientific Computing I
-* MATH 3607: Beginning Scientific Computing II
+### Department of Statistics, University of Michigan
 
-### 2017-2018
-* MATH 3607: Beginning Scientific Computing I
-* MATH 3607: Beginning Scientific Computing II
-* MATH 1172: Engineering Mathematics A 
+* 2020 Winter, STATS 551: Bayesian Modeling and Computation.
+* 2019 Fall, STATS 451: Bayesian Models.
+* 2019 Winter, STATS 451: Bayesian Models.
+* 2019 Winter, STATS 551: Bayesian Modeling and Computation.
+* 2018 Winter, STATS 551: Bayesian Modeling and Computation.
+* 2017 Fall, STATS 700: Bayesian Modeling and Computation.
 
-### As Teaching Assistant at Brown
+### Department of Biostatistics, University of Michigan
 
-### 2014-2015 
-* APMA 1200: Operational Analysis: Probabilistic Models
-* APMA 0360: Methods of Applied Mathematics III
-
-### As Teaching Assistant at UBC
-
-### 2012-2013
-* Math 210: Introduction to Mathematical Computing
-* Math 215/255: Ordinary Differential Equations
-
-### 2011-2012
-* Math 210: Introduction to Mathematical Computing
-* Math 215/255: Ordinary Differential Equations
-
-
-
+* 2019 Big Data Summer Institute: Bayesian Computation.
+* 2018 Big Data Summer Institute; Bayesian Models.
