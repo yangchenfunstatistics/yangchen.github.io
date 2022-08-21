@@ -10,7 +10,7 @@ author_profile: true
 
 ## Publications
 
-* corresponding autor
+\* corresponding author
 
 ### 2022
 
