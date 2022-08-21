@@ -6,13 +6,14 @@ permalink: /research/
 author_profile: true
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=ycbIaucAAAAJ&hl=en)
 
 ## Publications
 
+[Google Scholar](https://scholar.google.com/citations?user=ycbIaucAAAAJ&hl=en)
+
 \* corresponding author
 
-### 2022
+### Work done in 2022
 
 1. K. Whitman et al. *Review of Solar Energetic Particle Models*, Advances in Space Research, in press. [[journal]](https://doi.org/10.1016/j.asr.2022.08.006)
 1. H. Sun, Z. Hua, J. Ren, S. Zou, Y. Sun and **Y. Chen\*** *Matrix completion methods for the total electron video reconstruction*, Annals of Applied Statistics 16(3), 1333-1358, 2022. [[journal](http://dx.doi.org/10.1214/21-AOAS1541)]
@@ -23,11 +24,11 @@ map dataset based on a Video Imputation Algorithm - VISTA*, submitted, 2022.
 machine learning to forecast SEP events for Solar Cycle 23*, Space Weather, accepted. [[journal](https://doi.org/10.1002/essoar.10507642.1)]
 1. Z. Sun, M. Bobra, X. Wang, Y. Wang, H. Sun, T. Gombosi, **Y. Chen**, A. Hero. *Predicting solar flares using CNN and LSTM on two solar cycles of active region data*, The Astrophysical Journal, 931(2), 2022. [[journal](https://doi.org/10.1002/essoar.10508256.1)]
 1. D. Iong, Q. Zhao, and **Y. Chen**. *Latent mixture model for effect heterogeneity in
-mendelian randomization*, submitted, 2022. [[arXiv](https://arxiv.org/abs/2007.06476)
+mendelian randomization*, submitted, 2022. [[arXiv](https://arxiv.org/abs/2007.06476)]
 
-### 2021
+### Work done in 2021
 
-1. D. E. Jones, R. N. Trangucci, **Yang Chen\***. *Quantifying observed prior impact*, Beyesian Analysis, 17(3), 737-764, 2022. [[journal](https://doi.org/10.1214/21-BA1217).
+1. D. E. Jones, R. N. Trangucci, **Yang Chen\***. *Quantifying observed prior impact*, Beyesian Analysis, 17(3), 737-764, 2022. [[journal](https://doi.org/10.1214/21-BA1217)]
 2. H. Sun, W. B. Manchester IV, **Yang Chen\***. *Improved and interpretable solar flare predictions with spatial and Topological features of the polarity-inversion-lin masked magnetogarams*, Space Weather, accepted. [[journal](https://doi.org/10.1002/essoar.10507540.1)]
 3. A. Farahi, **Y. Chen**. *TATTER: A hypothesis testing tool for multi-dimensional data*, Astronomy and Computing, 34, 2021. [[journal](https://doi.org/10.1016/j.ascom.2020.100445)]
 4. H. Marshall, Y. Chen, J. Drake, M. Guainazzi, V. L. Kashyap, X.-L. Meng, P. Plucinsky, P. Ratzlaff, D. van Dyk, X. Wang, *Concordance: In-flight Calibration of X-ray Telescopes without Absolute References*, The Astronomical Journal, 162(6), 2021. [[journal](https://doi.org/10.3847/1538-3881/ac230a)]
@@ -37,7 +38,7 @@ mendelian randomization*, submitted, 2022. [[arXiv](https://arxiv.org/abs/2007.0
 and Space Sciences, 23, 2021. [[journal](https://doi.org/10.3389/fspas.2021.746429)]
 8. H. Sun, W. Manchester, Z. Jiao, X. Wang, **Y. Chen**, *Interpreting LSTM Prediction on Solar Flare Eruption with Time-series Clustering*, submitted. [[arXiv](https://arxiv.org/abs/1912.12360)]
 
-### 2020
+### Work done in 2020
 
 1. Z. Jiao, H. Sun, X. Wang, W. Manchester, T. Gombosi, A. Hero, **Y. Chen\***, *Solar flare intensity prediction with machine learning models*, Space Weather, 18(7), 2020. [[journal](https://doi.org/10.1029/2020SW002440)]
 2. X. Wang, Y. Chen, G. Toth, W. B. Manchester, T. I. Gombosi, A. O. Hero, Z. Jiao, H. Sun, M. Jin, Y. Liu, *Predicting solar flares with machine learning: investigating solar cycle dependence*, The Astrophysical Journal, 895(3), 2020. [[journal](https://doi.org/10.3847/1538-4357/ab89ac)]
@@ -48,11 +49,11 @@ objective priors from scoring rules (with discussion)*, Bayesian Analysis, 15(4)
 6. A. Farahi, D. Nagai, and Y. Chen. *PoPE: A Population-based Approach to
 Model the Spatial Structure of Astronomical Systems*, The Astronomical Journal
 161(1), 2020. [[journal](https://doi.org/10.3847/1538-3881/abc630)]
-7. Q. Li, **Y. Chen**, and Y. Kim. *Compression by and for Deep Boltzmann Machines*, IEEE Transactions on Communications, 68(12), 7498-7510, 2020. [[journal](10.1109/TCOMM.2020.3020796)]
+7. Q. Li, **Y. Chen**, and Y. Kim. *Compression by and for Deep Boltzmann Machines*, IEEE Transactions on Communications, 68(12), 7498-7510, 2020. [[journal](https://ieeexplore.ieee.org/document/9183947)]
 8. **Y. Chen**, R. Gong, M. Xie. *Geometric conditions for the discrepant posterior phenomenon and connections to Simpson’s paradox*, submitted, 2020. [[arXiv](https://arxiv.org/abs/2001.08336)]
-9. Q. Zhao, **Y. Chen**, D. S. Small. *Analysis of the epidemic growth of the early 2019-nCoV outbreak using internationally confirmed cases*, submitted, 2020. [[medRixv](https://doi.org/10.1101/2020.02.06.20020941)]
+9. Q. Zhao, **Y. Chen**, D. S. Small. *Analysis of the epidemic growth of the early 2019-nCoV outbreak using internationally confirmed cases*, submitted, 2020. [[medRxiv](https://doi.org/10.1101/2020.02.06.20020941)]
 
-### 2019
+### Work done in 2019
 
 1. **Y. Chen**, X.-L. Meng, X. Wang, D. A. van Dyk, H. L. Marshall, V. L. Kashyap. *Calibration concordance for astronomical instruments via multiplicative shrinkage*, Journal of the American Statistical Association, 114(527), 1018-1037, 2019. [[journal](https://doi.org/10.1080/01621459.2018.1528978)]
 2. F. Seeger, A. Little, **Y. Chen**, T. Woolf, H. Cheng and J. Mitchell. *Feature design for protein interface hotspots using KFC2 and Rosetta*, Research in Data Science (Springer), 177-197, 2019. [[book chapter](https://doi.org/10.1007/978-3-030-11566-1_8)]
