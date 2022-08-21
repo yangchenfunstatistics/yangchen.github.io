@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-> The best thing about being a statistician is that you get to play in everyone’s backyard. --John Tukey
+> "The best thing about being a statistician is that you get to play in everyone’s backyard." --John Tukey
 
-I am currently an assistant professor at the [Department of Statistics](https://lsa.umich.edu/stats) at University Michigan
+I am currently an assistant professor at the [Department of Statistics](https://lsa.umich.edu/stats) at University of Michigan 
 and a research assistant professor at Michigan Institute for Data Science ([MIDAS](https://midas.umich.edu/)).
-For more information, see my [CV](../files/CV_YangChen_2021.pdf) (updated 2022).
+For more information, see my [CV](https://drive.google.com/file/d/1NCgR0IXTiUxZ4dGgNoYN0F93fmaYlay2/view) (updated 2022).
 
 My general research interests are in applied and computational statistics including
 
