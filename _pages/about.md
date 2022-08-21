@@ -8,19 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant professor at the [Department of Statistics](https://lsa.umich.edu/stats) at University Michigan 
-and a research assistant professor at Michigan Institiute for Data Science ([MIDAS](https://midas.umich.edu/)). 
-For more information, see my [CV](../files/CV_YangChen_2021.pdf) (upated 2021).
+> The best thing about being a statistician is that you get to play in everyone’s backyard. --John Tukey
 
-My general research interets are in applied and compuational statistics including 
+I am currently an assistant professor at the [Department of Statistics](https://lsa.umich.edu/stats) at University Michigan
+and a research assistant professor at Michigan Institute for Data Science ([MIDAS](https://midas.umich.edu/)).
+For more information, see my [CV](../files/CV_YangChen_2021.pdf) (updated 2022).
+
+My general research interests are in applied and computational statistics including
+
 * Bayesian modeling and computation
 * Hidden Markov models and general finite mixture models
-* Applied statistics in astronomy and space sicences
+* Application of statistics and machine learning in astronomy and space science
 
 ### Education
+
 * Ph. D. in Statistics, Harvard University, May 2017.
 * B. Sc. in Mathematics, University of Science and Technology of China, July 2011.
 
 ---
-## Opportunities 
+
+## Opportunities
+
 I am currently recruiting postdocs, Ph. D. students master students to join my research group. If you are interested, please send your CV and transcript to my email. 
