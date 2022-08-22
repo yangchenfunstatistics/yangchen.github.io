@@ -30,3 +30,14 @@ My general research interests are in applied and computational statistics includ
 ## Opportunities
 
 I am currently recruiting postdocs, Ph. D. students master students to join my research group. If you are interested, please send your CV and transcript to my email. 
+
+---
+
+## Contact
+
+Address: 
+445E West Hall
+1085 S. Univ. Ave.
+Ann Arbor, MI 48109, USA
+
+Email: ychenang at umich.edu
