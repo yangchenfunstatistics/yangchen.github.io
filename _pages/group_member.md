@@ -12,7 +12,7 @@ author_profile: true
 * [Robert N. Trangucci](https://www.researchgate.net/profile/Robert-Trangucci) (joint with Jon Zelner), 2017-now
 * [Daniel Iong](https://danieliong.github.io/), 2017-now
 * Bach Viet Do (joint with Long Nguyen), 2017-now
-* Hu Sun, 2020-now
+* [Hu Sun](https://husun-leo.com/), 2020-now
 * Victor Verma, 2022-now
 
 ### Bridge Program Students
