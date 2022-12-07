@@ -17,14 +17,19 @@ author_profile: true
 
 1. K. Whitman et al. *Review of Solar Energetic Particle Models*, Advances in Space Research, in press. [[journal]](https://doi.org/10.1016/j.asr.2022.08.006)
 1. H. Sun, Z. Hua, J. Ren, S. Zou, Y. Sun and **Y. Chen\*** *Matrix completion methods for the total electron video reconstruction*, Annals of Applied Statistics 16(3), 1333-1358, 2022. [[journal](http://dx.doi.org/10.1214/21-AOAS1541)]
-1. R. Trangucci, **Y. Chen**, J. Zelner. *Modeling rates of disease with missing categorical data*, submitted 2022. [[arXiv]](https://arxiv.org/abs/2206.08161)
-1. H. Sun, **Y. Chen**, J. Ren, S. Zou. *Complete global Total Electron Content (TEC)
-map dataset based on a Video Imputation Algorithm - VISTA*, submitted, 2022.
+1. R. Trangucci, **Y. Chen**, J. Zelner. *Modeling rates of disease with missing categorical data*, Annals of Applied Statistics, accepted, 2022. [[arXiv]](https://arxiv.org/abs/2206.08161)
+1. Z. Sun, M. Bobra, X. Wang, Y. Wang, H. Sun, T. Gombosi, **Y. Chen**, A. Hero. *Predicting solar flares using CNN and LSTM on two solar cycles of active region data*, The Astrophysical Journal, 931(2), 2022. [[journal](https://doi.org/10.1002/essoar.10508256.1)]
+1. M. Aktukmak, Z. Sun, M. Bobra, T. I. Gombosi, W. Manchester, **Y. Chen**, A. O. Hero, *Incorporating Polar
+Field Data for Improved Solar Flare Prediction*, Frontiers in Astronomy and Space Sciences, accepted.
 1. S. Kasapis, L. Zhao, **Y. Chen**, X. Wang, M. Bobra, T. I. Gombosi. *Interpretable
 machine learning to forecast SEP events for Solar Cycle 23*, Space Weather, accepted. [[journal](https://doi.org/10.1002/essoar.10507642.1)]
-1. Z. Sun, M. Bobra, X. Wang, Y. Wang, H. Sun, T. Gombosi, **Y. Chen**, A. Hero. *Predicting solar flares using CNN and LSTM on two solar cycles of active region data*, The Astrophysical Journal, 931(2), 2022. [[journal](https://doi.org/10.1002/essoar.10508256.1)]
 1. D. Iong, Q. Zhao, and **Y. Chen**. *Latent mixture model for effect heterogeneity in
 mendelian randomization*, submitted, 2022. [[arXiv](https://arxiv.org/abs/2007.06476)]
+1. H. Sun, **Y. Chen**, J. Ren, S. Zou. *Complete global Total Electron Content (TEC)
+map dataset based on a Video Imputation Algorithm - VISTA*, submitted, 2022.
+1. A. Jivani, N. Sachdeva, Z. Huang, **Y. Chen**, B. van der Holst, W. Manchester, D. Iong, H. Chen, S. Zou, X.
+Huan, G. Toth, *Global Sensitivity Analysis and Uncertainty Quantification for Background Solar Wind using
+the Alfven Wave Solar Atmosphere Model*, under revision at Space Weather.
 
 ### Work done in 2021
 
