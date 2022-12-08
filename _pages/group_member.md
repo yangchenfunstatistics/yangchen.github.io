@@ -9,7 +9,7 @@ author_profile: true
 
 ### Ph.D. Students
 
-* [Robert N. Trangucci](https://www.researchgate.net/profile/Robert-Trangucci) (joint with Jon Zelner), 2017-now
+* [Robert N. Trangucci](https://rtrangucci.github.io/) (joint with Jon Zelner), 2017-now
 * [Daniel Iong](https://danieliong.github.io/), 2017-now
 * Bach Viet Do (joint with Long Nguyen), 2017-now
 * [Hu Sun](https://husun-leo.com/), 2020-now
