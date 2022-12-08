@@ -30,6 +30,8 @@ map dataset based on a Video Imputation Algorithm - VISTA*, submitted, 2022.
 9. A. Jivani, N. Sachdeva, Z. Huang, **Y. Chen**, B. van der Holst, W. Manchester, D. Iong, H. Chen, S. Zou, X.
 Huan, G. Toth. *Global Sensitivity Analysis and Uncertainty Quantification for Background Solar Wind using
 the Alfven Wave Solar Atmosphere Model*, under revision at Space Weather.
+10. R. Trangucci, **Y. Chen**, J. Zelner, *Identified vaccine efficacy for binary post-infection outcomes under misclassification without monotonicity*, [[arXiv](https://arxiv.org/abs/2211.16502
+)]
 
 ### Work done in 2021
 
