@@ -29,12 +29,12 @@ Field Data for Improved Solar Flare Prediction*, Frontiers in Astronomy and Spac
 6. S. Kasapis, L. Zhao, **Y. Chen**, X. Wang, M. Bobra, T. I. Gombosi. *Interpretable
 machine learning to forecast SEP events for Solar Cycle 23*, Space Weather, accepted. [[journal](https://doi.org/10.1002/essoar.10507642.1)]
 7. D. Iong, Q. Zhao, and **Y. Chen**. *Latent mixture model for effect heterogeneity in
-mendelian randomization*, Nature - Scientific Data, accepted. [[arXiv](https://arxiv.org/abs/2007.06476)]
-8. H. Sun, **Y. Chen**, J. Ren, S. Zou. *Complete global Total Electron Content (TEC)
-map dataset based on a Video Imputation Algorithm - VISTA*, submitted, 2022.
+mendelian randomization*, submitted. [[arXiv](https://arxiv.org/abs/2007.06476)]
+8. H. Sun, **Y. Chen**, S. Zou, J. Ren, Y. Chang, Z. Wang, A. Coster. *Complete global Total Electron Content (TEC)
+map dataset based on a Video Imputation Algorithm - VISTA*, Scientific Data, 2023.
 9. A. Jivani, N. Sachdeva, Z. Huang, **Y. Chen**, B. van der Holst, W. Manchester, D. Iong, H. Chen, S. Zou, X.
 Huan, G. Toth. *Global Sensitivity Analysis and Uncertainty Quantification for Background Solar Wind using
-the Alfven Wave Solar Atmosphere Model*, under revision at Space Weather.
+the Alfven Wave Solar Atmosphere Model*, Space Weather, 21(1), 2023. [[journal](https://doi.org/10.1029/2022SW003262)]
 10. R. Trangucci, **Y. Chen**, J. Zelner, *Identified vaccine efficacy for binary post-infection outcomes under misclassification without monotonicity*, [[arXiv](https://arxiv.org/abs/2211.16502
 )]
  
