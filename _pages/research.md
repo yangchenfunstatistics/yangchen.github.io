@@ -16,8 +16,8 @@ author_profile: true
 ### Work done in 2023
 
 1. **Y. Chen**, C.-D. Fuh, C.-L. Kao, *Determine the number of states in hidden markov models via marginal likelihood*, submitted.
-2. H. Sun, W. Manchester, M. Jin, Y. Liu **Y. Chen***, *Tensor Gaussian process with contraction for multi-channel imaging analysis*, submitted. [[arXiv](https://arxiv.org/abs/2301.11203)]
-3. **Y. Chen***, S. Maloney, E. Camporeale, X. Huang, Z. Zhou, *Eidtorial: Machine learning and statistical methods for solar flare predictions*, Frontiers Astronomy and Space Sciences, accepted.
+2. H. Sun, W. Manchester, M. Jin, Y. Liu **Y. Chen\***, *Tensor Gaussian process with contraction for multi-channel imaging analysis*, submitted. [[arXiv](https://arxiv.org/abs/2301.11203)]
+3. **Y. Chen\***, S. Maloney, E. Camporeale, X. Huang, Z. Zhou, *Eidtorial: Machine learning and statistical methods for solar flare predictions*, Frontiers Astronomy and Space Sciences, accepted.
 
 ### Work done in 2022
 
