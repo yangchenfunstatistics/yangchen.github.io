@@ -7,18 +7,22 @@ author_profile: true
 
 ## Current Members
 
+### Postdoctoral Fellow
+
+* Yiluan Song, 2023-now
+
 ### Ph.D. Students
 
 * [Robert N. Trangucci](https://rtrangucci.github.io/) (joint with Jon Zelner), 2017-now
 * [Daniel Iong](https://danieliong.github.io/), 2017-now
 * Bach Viet Do (joint with Long Nguyen), 2017-now
-* [Hu Sun](https://husun-leo.com/), 2020-now
+* [Hu Sun](https://husun0822.github.io/), 2020-now
 * Victor Verma, 2022-now
 
 ### Bridge Program Students
 
-* Dylan Glover
-* Noah Kochanski
+* Noah Kochanski, 2022-now
+* Mallory Wang, 2023-now
 
 ### Master Students
 
@@ -41,6 +45,10 @@ author_profile: true
 * Wyane (Yu) Wang (joint with Alfred O. Hero), 2018-2022.  
   Dissertation title: *Interpretable and Scalable Graphical Models for Complex Spatio-temporal Processes*  
   First position after graduation: Researcher at Google.
+
+### BRIDGE Program Alumni
+
+* Dylan Glover, 2021-2022.
 
 ### Master Alumni
 
