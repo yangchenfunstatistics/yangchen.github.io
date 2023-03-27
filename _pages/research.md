@@ -13,6 +13,12 @@ author_profile: true
 
 \* corresponding author
 
+### Work done in 2023
+
+1. **Y. Chen**, C.-D. Fuh, C.-L. Kao, *Determine the number of states in hidden markov models via marginal likelihood*, submitted.
+2. H. Sun, W. Manchester, M. Jin, Y. Liu **Y. Chen***, *Tensor Gaussian process with contraction for multi-channel imaging analysis*, submitted. [[arXiv](https://arxiv.org/abs/2301.11203)]
+3. **Y. Chen***, S. Maloney, E. Camporeale, X. Huang, Z. Zhou, *Eidtorial: Machine learning and statistical methods for solar flare predictions*, Frontiers Astronomy and Space Sciences, accepted.
+
 ### Work done in 2022
 
 1. K. Whitman et al. *Review of Solar Energetic Particle Models*, Advances in Space Research, in press. [[journal]](https://doi.org/10.1016/j.asr.2022.08.006)
@@ -24,7 +30,7 @@ Field Data for Improved Solar Flare Prediction*, Frontiers in Astronomy and Spac
 6. S. Kasapis, L. Zhao, **Y. Chen**, X. Wang, M. Bobra, T. I. Gombosi. *Interpretable
 machine learning to forecast SEP events for Solar Cycle 23*, Space Weather, accepted. [[journal](https://doi.org/10.1002/essoar.10507642.1)]
 7. D. Iong, Q. Zhao, and **Y. Chen**. *Latent mixture model for effect heterogeneity in
-mendelian randomization*, submitted, 2022. [[arXiv](https://arxiv.org/abs/2007.06476)]
+mendelian randomization*, Nature - Scientific Data, accepted. [[arXiv](https://arxiv.org/abs/2007.06476)]
 8. H. Sun, **Y. Chen**, J. Ren, S. Zou. *Complete global Total Electron Content (TEC)
 map dataset based on a Video Imputation Algorithm - VISTA*, submitted, 2022.
 9. A. Jivani, N. Sachdeva, Z. Huang, **Y. Chen**, B. van der Holst, W. Manchester, D. Iong, H. Chen, S. Zou, X.
