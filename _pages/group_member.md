@@ -44,7 +44,7 @@ author_profile: true
   Dissertation title: *Inference algorithms for probabilistic models with applications in
 epidemiology and space weather forecasting*
 * Bach Viet Do (joint with Long Nguyen), 2017-2023.
-  Dissertation title: Mixture Modeling: Solar Application and Misspecification Behaviors
+  Dissertation title: *Mixture Modeling: Solar Application and Misspecification Behaviors*
 
 
 ### BRIDGE Program Alumni
