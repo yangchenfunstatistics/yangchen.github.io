@@ -50,8 +50,8 @@ machine learning to forecast SEP events for Solar Cycle 23*, Space Weather, 20.2
 
 1. Z. Jiao, H. Sun, X. Wang, W. Manchester, T. Gombosi, A. Hero, **Y. Chen\***. *Solar flare intensity prediction with machine learning models*, Space Weather, 18(7), 2020. [[journal](https://doi.org/10.1029/2020SW002440)]
 2. X. Wang, Y. Chen, G. Toth, W. B. Manchester, T. I. Gombosi, A. O. Hero, Z. Jiao, H. Sun, M. Jin, Y. Liu, *Predicting solar flares with machine learning: investigating solar cycle dependence*, The Astrophysical Journal, 895(3), 2020. [[journal](https://doi.org/10.3847/1538-4357/ab89ac)]
-3. R. Trangucci, D. Hansen, **Y. Chen**, *Contributed discussion on a class of
-objective priors from scoring rules (with discussion)*, Bayesian Analysis, 15(4), 1345-1423, 2020. [[journal](https://doi.org/10.1214/19-BA1187)]
+3. R. Trangucci, D. Hansen, **Y. Chen**, *Contributed discussion for "on a class of
+objective priors from scoring rules (with discussion)"*, Bayesian Analysis, 15(4), 1345-1423, 2020. [[journal](https://doi.org/10.1214/19-BA1187)]
 4. K. Choi, **Y. Chen**, D. A. Skelly, G. A. Churchill, *Bayesian model selection reveals biological origins of zero inflation in single-cell transcriptomics*, Genome Biology 21, 2020. [[journal](https://doi.org/10.1186/s13059-020-02103-2)]
 5. J. Ren, J. Lu, S. Zou, N. Giertych, **Y. Chen**, R. H. Varney, *Statistical study of ion upflow and downflow observed by the Poker Flat Incoherent Scatter Radar (PFISR)*, Journal of Geophysical Research: Space Physics,  125(10), 2020. [[journal](https://doi.org/10.1029/2020JA028179)]
 6. A. Farahi, D. Nagai, and Y. Chen. *PoPE: A Population-based Approach to
