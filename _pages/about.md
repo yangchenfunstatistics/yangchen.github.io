@@ -12,13 +12,15 @@ redirect_from:
 
 I am currently an assistant professor at the [Department of Statistics](https://lsa.umich.edu/stats) at University of Michigan 
 and a research assistant professor at Michigan Institute for Data Science ([MIDAS](https://midas.umich.edu/)).
-For more information, see my [CV](https://drive.google.com/file/d/1NCgR0IXTiUxZ4dGgNoYN0F93fmaYlay2/view) (updated 2022).
+For more information, see my [CV](https://drive.google.com/file/d/1NCgR0IXTiUxZ4dGgNoYN0F93fmaYlay2/view).
 
 My general research interests are in applied and computational statistics including
 
 * Bayesian modeling and computation
 * Hidden Markov models and general finite mixture models
-* Application of statistics and machine learning in astronomy and space science
+* Applied statistics and machine learning in astronomy and space science
+* Statistical Methods for large scale imaging data
+* Spatial temporal data analysis
 
 ### Education
 
