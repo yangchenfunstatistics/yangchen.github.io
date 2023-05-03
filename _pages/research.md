@@ -15,9 +15,9 @@ author_profile: true
 
 ### 2023+
 
-1. **Y. Chen** (corresponding author), S. Maloney, E. Camporeale, X. Huang, Z. Zhou (2023), Editorial: Machine Learning and Statistical Methods for Solar Flare Predictions (editorial note for a research topic organized by the authors), Frontiers Astronomy and Space Sciences, Sec. Stellar and Solar Physics, Volume 10 - 2023. [[journal](https://doi.org/10.3389/fspas.2023.1121615)]
+1. **Y. Chen\***, S. Maloney, E. Camporeale, X. Huang, Z. Zhou (2023), Editorial: Machine Learning and Statistical Methods for Solar Flare Predictions (editorial note for a research topic organized by the authors), Frontiers Astronomy and Space Sciences, Sec. Stellar and Solar Physics, Volume 10 - 2023. [[journal](https://doi.org/10.3389/fspas.2023.1121615)]
 2. H. Sun, **Y. Chen**, S. Zou, J. Ren, Y. Chang, Z. Wang, A. Coster (2023), Complete Global Total Electron Content (TEC) Map Dataset based on a Video Imputation Algorithm, Scientific Data - Nature, Number 10:236. [[journal](https://doi.org/10.1038/s41597-023-02138-7)]
-3. Sun, H., Manchester, W., Jin, M., Liu, Y., **Chen, Y.** (corresponding author) (2023), Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis, Poster at the 2023 International Conference on Machine Learning. [[arXiv](https://arxiv.org/abs/2301.11203)]
+3. Sun, H., Manchester, W., Jin, M., Liu, Y., **Chen, Y.\*** (2023), Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis, Poster at the 2023 International Conference on Machine Learning. [[arXiv](https://arxiv.org/abs/2301.11203)]
 4. Sun, H., Ren, J., **Chen, Y.**, Zou, S., VISTA TEC database [Data set], University of Michigan - Deep Blue Data, 2023. [[link](https://doi.org/10.7302/vb27-ez24)]
 5. R. Trangucci, **Y. Chen**, J. Zelner, Modeling rates of disease with missing categorical data, accepted by Annals of Applied Statistics. [[arXiv](https://arxiv.org/abs/2206.08161)]
 6. R. Trangucci, **Y. Chen**, J. Zelner, Identified vaccine efficacy for binary post-infection outcomes under misclassification without monotonicity, submitted. [[arXiv](https://https://arxiv.org/abs/2211.16502)]
@@ -64,7 +64,7 @@ Model the Spatial Structure of Astronomical Systems*, The Astronomical Journal
 1. **Y. Chen**, X.-L. Meng, X. Wang, D. A. van Dyk, H. L. Marshall, V. L. Kashyap. *Calibration concordance for astronomical instruments via multiplicative shrinkage*, Journal of the American Statistical Association, 114(527), 1018-1037, 2019. [[journal](https://doi.org/10.1080/01621459.2018.1528978)]
 2. F. Seeger, A. Little, **Y. Chen**, T. Woolf, H. Cheng and J. Mitchell. *Feature design for protein interface hotspots using KFC2 and Rosetta*, Research in Data Science (Springer), 177-197, 2019. [[book chapter](https://doi.org/10.1007/978-3-030-11566-1_8)]
 3. Q. Zhao, **Y. Chen**, J. Wang, and D. S. Small. *Powerful genome-wide design and robust statistical inference in two-sample summary-data Mendelian randomization*, International Journal of Epidemiology, 48(5), 1478-1492, 2019. [[journal](https://doi.org/10.1093/ije/dyz142)]
-4. Y. Chen, W.B. Manchester, A.O. Hero, G. Toth, B. DuFumier, T. Zhou, X. Wang, H. Zhu, Z. Sun, and T.I. Gombosi, *Identifying solar flare precursors using time series of SDO/HMI images and SHARP parameters*, Space Weather 17(10), 1404-1426, 2019. [[journal](https://doi.org/10.1029/2019SW002214)]
+4. **Y. Chen**, W.B. Manchester, A.O. Hero, G. Toth, B. DuFumier, T. Zhou, X. Wang, H. Zhu, Z. Sun, and T.I. Gombosi, *Identifying solar flare precursors using time series of SDO/HMI images and SHARP parameters*, Space Weather 17(10), 1404-1426, 2019. [[journal](https://doi.org/10.1029/2019SW002214)]
 
 ### Before 2018
 
