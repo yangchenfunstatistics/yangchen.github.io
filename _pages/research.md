@@ -36,7 +36,7 @@ Field Data for Improved Solar Flare Prediction*, Frontiers in Astronomy and Spac
 machine learning to forecast SEP events for Solar Cycle 23*, Space Weather, 20.2, 2022. [[journal](https://doi.org/10.1029/2021SW002842)].
 7. D. Iong, Q. Zhao, and **Y. Chen**. *Latent mixture model for effect heterogeneity in
 mendelian randomization*, submitted. [[arXiv](https://arxiv.org/abs/2007.06476)]
-8. Iong, D., **Y. Chen**, Toth, G., Zou, S., Pulkkinen, T., Ren, J., Camporeale, E., Gombosi, T., New Findings From Explainable SYM‐H Forecasting Using Gradient Boosting Machines, Space Weather, 20(8), p.e2021SW002928, 2022. [[journal](https://doi.org/10.1029/2021SW002928)].
+8. D. Iong, **Y. Chen**, G. Toth, S. Zou, T. Pulkkinen, J. Ren, E. Camporeale, T. Gombosi, New Findings From Explainable SYM‐H Forecasting Using Gradient Boosting Machines, Space Weather, 20(8), p.e2021SW002928, 2022. [[journal](https://doi.org/10.1029/2021SW002928)].
 9. D. E. Jones, R. N. Trangucci, **Yang Chen\***. *Quantifying observed prior impact*, Beyesian Analysis, 17(3), 737-764, 2022. [[journal](https://doi.org/10.1214/21-BA1217)]
  
 ### 2021
