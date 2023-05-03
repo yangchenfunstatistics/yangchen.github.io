@@ -20,15 +20,16 @@ author_profile: true
 
 ### Master Students
 
-* Jiayin Ye, 2023 Winter-now.
+* Jiayin Ye, 2023 Winter-now, joint with [Yi Hong](https://ciglr.seas.umich.edu/opportunities/postdoctoral-fellowships/yi-hong/).
 * Xinyu Liang, 2023 summer.
 * Yizhou Zhang, 2023 summer.
+* Matthew McAnear, 2023 summer.
 
 ### Undergraduate Students 
 * Yuezhou Qu, 2023 Winter.
 * Ruipu Li, joint with [Joyce Penner](https://clasp.engin.umich.edu/people/penner-joyce-e/) and [Xianglei Huang](https://clasp.engin.umich.edu/people/huang-xianglei/), 2022 summer -2023 summer.
 * Nicolas Harder, joint with [Joyce Penner](https://clasp.engin.umich.edu/people/penner-joyce-e/) and [Xianglei Huang](https://clasp.engin.umich.edu/people/huang-xianglei/), 2022 summer -2023 summer.
-* Brandon Li, joint with [Yi Hong](https://ciglr.seas.umich.edu/opportunities/postdoctoral-fellowships/yi-hong/).
+* Brandon Li, 2023 Winter-now, joint with [Yi Hong](https://ciglr.seas.umich.edu/opportunities/postdoctoral-fellowships/yi-hong/).
 * Jiuqian Shang, 2022 summer - 2023 Winter.
 * Xiaoli Li, 2023 Winter - now.
 * Xiaofan Xia, 2023 Summer.
