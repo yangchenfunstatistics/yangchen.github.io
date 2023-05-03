@@ -15,12 +15,12 @@ author_profile: true
 
 ### 2023+
 
-1. **Y. Chen** (corresponding author), S. Maloney, E. Camporeale, X. Huang, Z. Zhou (2023), Editorial: Machine Learning and Statistical Methods for Solar Flare Predictions (editorial note for a research topic organized by the authors), Frontiers Astronomy and Space Sciences, Sec. Stellar and Solar Physics, Volume 10 - 2023. [[journal](https://doi.org/10.3389/fspas.2023.1121615)].
-2. H. Sun, **Y. Chen**, S. Zou, J. Ren, Y. Chang, Z. Wang, A. Coster (2023), Complete Global Total Electron Content (TEC) Map Dataset based on a Video Imputation Algorithm, Scientific Data - Nature, Number 10:236. [[journal](https://doi.org/10.1038/s41597-023-02138-7)].
-3. Sun, H., Manchester, W., Jin, M., Liu, Y., **Chen, Y.** (corresponding author) (2023), Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis, Poster at the 2023 International Conference on Machine Learning. [[arXiv](https://arxiv.org/abs/2301.11203)].
-4. Sun, H., Ren, J., **Chen, Y.**, Zou, S., VISTA TEC database [Data set], University of Michigan - Deep Blue Data, 2023. [[link](https://doi.org/10.7302/vb27-ez24)].
-5. R. Trangucci, **Y. Chen**, J. Zelner, Modeling rates of disease with missing categorical data, accepted by Annals of Applied Statistics. [[arXiv](https://arxiv.org/abs/2206.08161)].
-6. R. Trangucci, **Y. Chen**, J. Zelner, Identified vaccine efficacy for binary post-infection outcomes under misclassification without monotonicity, submitted. [[arXiv](https://https://arxiv.org/abs/2211.16502)].
+1. **Y. Chen** (corresponding author), S. Maloney, E. Camporeale, X. Huang, Z. Zhou (2023), Editorial: Machine Learning and Statistical Methods for Solar Flare Predictions (editorial note for a research topic organized by the authors), Frontiers Astronomy and Space Sciences, Sec. Stellar and Solar Physics, Volume 10 - 2023. [[journal](https://doi.org/10.3389/fspas.2023.1121615)]
+2. H. Sun, **Y. Chen**, S. Zou, J. Ren, Y. Chang, Z. Wang, A. Coster (2023), Complete Global Total Electron Content (TEC) Map Dataset based on a Video Imputation Algorithm, Scientific Data - Nature, Number 10:236. [[journal](https://doi.org/10.1038/s41597-023-02138-7)]
+3. Sun, H., Manchester, W., Jin, M., Liu, Y., **Chen, Y.** (corresponding author) (2023), Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis, Poster at the 2023 International Conference on Machine Learning. [[arXiv](https://arxiv.org/abs/2301.11203)]
+4. Sun, H., Ren, J., **Chen, Y.**, Zou, S., VISTA TEC database [Data set], University of Michigan - Deep Blue Data, 2023. [[link](https://doi.org/10.7302/vb27-ez24)]
+5. R. Trangucci, **Y. Chen**, J. Zelner, Modeling rates of disease with missing categorical data, accepted by Annals of Applied Statistics. [[arXiv](https://arxiv.org/abs/2206.08161)]
+6. R. Trangucci, **Y. Chen**, J. Zelner, Identified vaccine efficacy for binary post-infection outcomes under misclassification without monotonicity, submitted. [[arXiv](https://https://arxiv.org/abs/2211.16502)]
 7. A. Jivani, N. Sachdeva, Z. Huang, **Y. Chen**, B. van der Holst, W. Manchester, D. Iong, H. Chen, S. Zou, X. Huan, G. Toth, Global Sensitivity Analysis and Uncertainty Quantification for Background Solar Wind using the Alfven Wave Solar Atmosphere Model, Space Weather 21.1 (2023): e2022SW003262. [[journal](https://doi.org/10.1029/2022SW003262)].
 8. **Y. Chen**, C.-D. Fuh, C.-L. Kao (2023) Determine the Number of States in Hidden Markov Models via Marginal Likelihood, submitted.
 9. Z. Wang, S. Zou, H. Sun, **Y. Chen** (2023), Forecast Global Ionospheric TEC: Apply Modified U-Net on VISTA TEC Dataset, submitted.
@@ -31,7 +31,7 @@ author_profile: true
 3. Z. Sun, M. Bobra, X. Wang, Y. Wang, H. Sun, T. Gombosi, **Y. Chen**, A. Hero. *Predicting solar flares using CNN and LSTM on two solar cycles of active region data*, The Astrophysical Journal, 931(2), 2022. [[journal](https://doi.org/10.1002/essoar.10508256.1)]
 4. R. Trangucci, **Y. Chen**, J. Zelner. *Modeling rates of disease with missing categorical data*, Annals of Applied Statistics, accepted, 2022. [[arXiv]](https://arxiv.org/abs/2206.08161)
 5. M. Aktukmak, Z. Sun, M. Bobra, T. I. Gombosi, W. Manchester, **Y. Chen**, A. O. Hero. *Incorporating Polar
-Field Data for Improved Solar Flare Prediction*, Frontiers in Astronomy and Space Sciences, 21 December 2022, Sec. Stellar and Solar Physics, Volume 9 - 2022. [[journal](https://doi.org/10.3389/fspas.2022.1040107)].
+Field Data for Improved Solar Flare Prediction*, Frontiers in Astronomy and Space Sciences, 21 December 2022, Sec. Stellar and Solar Physics, Volume 9 - 2022. [[journal](https://doi.org/10.3389/fspas.2022.1040107)]
 6. S. Kasapis, L. Zhao, **Y. Chen**, X. Wang, M. Bobra, T. I. Gombosi. *Interpretable
 machine learning to forecast SEP events for Solar Cycle 23*, Space Weather, 20.2, 2022. [[journal](https://doi.org/10.1029/2021SW002842)].
 7. D. Iong, Q. Zhao, and **Y. Chen**. *Latent mixture model for effect heterogeneity in
