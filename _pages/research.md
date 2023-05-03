@@ -21,7 +21,7 @@ author_profile: true
 4. H. Sun, J. Ren, **Y. Chen**, S. Zou, VISTA TEC database [Data set], University of Michigan - Deep Blue Data, 2023. [[link](https://doi.org/10.7302/vb27-ez24)]
 5. R. Trangucci, **Y. Chen**, J. Zelner, Modeling rates of disease with missing categorical data, accepted by Annals of Applied Statistics. [[arXiv](https://arxiv.org/abs/2206.08161)]
 6. R. Trangucci, **Y. Chen**, J. Zelner, Identified vaccine efficacy for binary post-infection outcomes under misclassification without monotonicity, submitted. [[arXiv](https://https://arxiv.org/abs/2211.16502)]
-7. A. Jivani, N. Sachdeva, Z. Huang, **Y. Chen**, B. van der Holst, W. Manchester, D. Iong, H. Chen, S. Zou, X. Huan, G. Toth, Global Sensitivity Analysis and Uncertainty Quantification for Background Solar Wind using the Alfven Wave Solar Atmosphere Model, Space Weather 21.1 (2023): e2022SW003262. [[journal](https://doi.org/10.1029/2022SW003262)].
+7. A. Jivani, N. Sachdeva, Z. Huang, **Y. Chen**, B. van der Holst, W. Manchester, D. Iong, H. Chen, S. Zou, X. Huan, G. Toth, Global Sensitivity Analysis and Uncertainty Quantification for Background Solar Wind using the Alfven Wave Solar Atmosphere Model, Space Weather 21.1 (2023): e2022SW003262. [[journal](https://doi.org/10.1029/2022SW003262)]
 8. **Y. Chen**, C.-D. Fuh, C.-L. Kao (2023) Determine the Number of States in Hidden Markov Models via Marginal Likelihood, submitted.
 9. Z. Wang, S. Zou, H. Sun, **Y. Chen** (2023), Forecast Global Ionospheric TEC: Apply Modified U-Net on VISTA TEC Dataset, submitted.
 10. D. Iong, Q. Zhao, and **Y. Chen**. *Latent mixture model for effect heterogeneity in mendelian randomization*, submitted. [[arXiv](https://arxiv.org/abs/2007.06476)]
