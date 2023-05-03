@@ -64,7 +64,6 @@ Model the Spatial Structure of Astronomical Systems*, The Astronomical Journal
 161(1), 2020. [[journal](https://doi.org/10.3847/1538-3881/abc630)]
 7. Q. Li, **Y. Chen**, and Y. Kim. *Compression by and for Deep Boltzmann Machines*, IEEE Transactions on Communications, 68(12), 7498-7510, 2020. [[journal](https://ieeexplore.ieee.org/document/9183947)]
 8. **Y. Chen**, R. Gong, M. Xie. *Geometric conditions for the discrepant posterior phenomenon and connections to Simpson’s paradox*, submitted, 2020. [[arXiv](https://arxiv.org/abs/2001.08336)]
-9. Q. Zhao, **Y. Chen**, D. S. Small. *Analysis of the epidemic growth of the early 2019-nCoV outbreak using internationally confirmed cases*, submitted, 2020. [[medRxiv](https://doi.org/10.1101/2020.02.06.20020941)]
 
 ### Work done in 2019
 
