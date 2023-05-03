@@ -14,7 +14,7 @@ author_profile: true
 ### Ph.D. Students
 
 * [Hu Sun](https://husun0822.github.io/), 2020-now.
-* Victor Verma, 2022-now, joint with Stilian Stoev.
+* Victor Verma, 2022-now, joint with [Stilian Stoev](https://sites.lsa.umich.edu/sstoev/).
 * Yuxuan Ke, 2023-now.
 * Jiuqian Shang, 2023-now.
 
@@ -26,9 +26,9 @@ author_profile: true
 
 ### Undergraduate Students 
 * Yuezhou Qu, 2023 Winter.
-* Ruipu Li, joint with [[Joyce Penner](https://clasp.engin.umich.edu/people/penner-joyce-e/)] and[[Xianglei Huang](https://clasp.engin.umich.edu/people/huang-xianglei/)], 2022 summer -2023 summer.
-* Nicolas Harder, joint with [[Joyce Penner](https://clasp.engin.umich.edu/people/penner-joyce-e/)] and[[Xianglei Huang](https://clasp.engin.umich.edu/people/huang-xianglei/)], 2022 summer -2023 summer.
-* Brandon Li, joint with [[Yi Hong](https://ciglr.seas.umich.edu/opportunities/postdoctoral-fellowships/yi-hong/)].
+* Ruipu Li, joint with [Joyce Penner](https://clasp.engin.umich.edu/people/penner-joyce-e/)] and[Xianglei Huang](https://clasp.engin.umich.edu/people/huang-xianglei/), 2022 summer -2023 summer.
+* Nicolas Harder, joint with [Joyce Penner](https://clasp.engin.umich.edu/people/penner-joyce-e/)] and[Xianglei Huang](https://clasp.engin.umich.edu/people/huang-xianglei/), 2022 summer -2023 summer.
+* Brandon Li, joint with [Yi Hong](https://ciglr.seas.umich.edu/opportunities/postdoctoral-fellowships/yi-hong/).
 * Jiuqian Shang, 2022 summer - 2023 Winter.
 * Xiaoli Li, 2023 Winter - now.
 * Xiaofan Xia, 2023 Summer.
@@ -45,7 +45,7 @@ author_profile: true
   
 ### Ph.D. Alumni
 
-* Wyane (Yu) Wang (joint with Alfred O. Hero), 2018-2022.  
+* Wyane (Yu) Wang (joint with [Alfred O. Hero](https://hero.engin.umich.edu/)), 2018-2022.  
   Dissertation title: *Interpretable and Scalable Graphical Models for Complex Spatio-temporal Processes*  
   First position after graduation: Researcher at Google.
 * [Robert N. Trangucci](https://rtrangucci.github.io/) (joint with Jon Zelner), 2017-2023.
@@ -81,5 +81,5 @@ epidemiology and space weather forecasting*
 
 ### Undergraduate Alumni
 
-* [[Miaoshiqi Liu](https://shiqi.writingspace.cc/)], 2018 summer.
-* [[Song Wei](https://sites.google.com/view/songwei-gt/home)], 2018 summer.
+* [Miaoshiqi Liu](https://shiqi.writingspace.cc/), 2018 summer.
+* [Song Wei](https://sites.google.com/view/songwei-gt/home), 2018 summer.
