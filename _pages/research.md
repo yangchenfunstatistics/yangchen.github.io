@@ -25,7 +25,7 @@ author_profile: true
 8. **Y. Chen**, C.-D. Fuh, C.-L. Kao (2023) Determine the Number of States in Hidden Markov Models via Marginal Likelihood, submitted.
 9. Z. Wang, S. Zou, H. Sun, **Y. Chen** (2023), Forecast Global Ionospheric TEC: Apply Modified U-Net on VISTA TEC Dataset, submitted.
 
-### Work done in 2022
+### 2022
 1. K. Whitman et al. *Review of Solar Energetic Particle Models*, Advances in Space Research, 2022. [[journal](https://doi.org/10.1016/j.asr.2022.08.006)]
 2. H. Sun, Z. Hua, J. Ren, S. Zou, Y. Sun and **Y. Chen\***. *Matrix completion methods for the total electron video reconstruction*, Annals of Applied Statistics 16(3), 1333-1358, 2022. [[journal](http://dx.doi.org/10.1214/21-AOAS1541)]
 3. Z. Sun, M. Bobra, X. Wang, Y. Wang, H. Sun, T. Gombosi, **Y. Chen**, A. Hero. *Predicting solar flares using CNN and LSTM on two solar cycles of active region data*, The Astrophysical Journal, 931(2), 2022. [[journal](https://doi.org/10.1002/essoar.10508256.1)]
