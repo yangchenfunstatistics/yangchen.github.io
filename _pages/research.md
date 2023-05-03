@@ -24,20 +24,19 @@ author_profile: true
 7. A. Jivani, N. Sachdeva, Z. Huang, **Y. Chen**, B. van der Holst, W. Manchester, D. Iong, H. Chen, S. Zou, X. Huan, G. Toth, Global Sensitivity Analysis and Uncertainty Quantification for Background Solar Wind using the Alfven Wave Solar Atmosphere Model, Space Weather 21.1 (2023): e2022SW003262. [[journal](https://doi.org/10.1029/2022SW003262)].
 8. **Y. Chen**, C.-D. Fuh, C.-L. Kao (2023) Determine the Number of States in Hidden Markov Models via Marginal Likelihood, submitted.
 9. Z. Wang, S. Zou, H. Sun, **Y. Chen** (2023), Forecast Global Ionospheric TEC: Apply Modified U-Net on VISTA TEC Dataset, submitted.
+10. D. Iong, Q. Zhao, and **Y. Chen**. *Latent mixture model for effect heterogeneity in mendelian randomization*, submitted. [[arXiv](https://arxiv.org/abs/2007.06476)]
+
 
 ### 2022
 1. K. Whitman et al. *Review of Solar Energetic Particle Models*, Advances in Space Research, 2022. [[journal](https://doi.org/10.1016/j.asr.2022.08.006)]
 2. H. Sun, Z. Hua, J. Ren, S. Zou, Y. Sun and **Y. Chen\***. *Matrix completion methods for the total electron video reconstruction*, Annals of Applied Statistics 16(3), 1333-1358, 2022. [[journal](http://dx.doi.org/10.1214/21-AOAS1541)]
 3. Z. Sun, M. Bobra, X. Wang, Y. Wang, H. Sun, T. Gombosi, **Y. Chen**, A. Hero. *Predicting solar flares using CNN and LSTM on two solar cycles of active region data*, The Astrophysical Journal, 931(2), 2022. [[journal](https://doi.org/10.1002/essoar.10508256.1)]
-4. R. Trangucci, **Y. Chen**, J. Zelner. *Modeling rates of disease with missing categorical data*, Annals of Applied Statistics, accepted, 2022. [[arXiv]](https://arxiv.org/abs/2206.08161)
-5. M. Aktukmak, Z. Sun, M. Bobra, T. I. Gombosi, W. Manchester, **Y. Chen**, A. O. Hero. *Incorporating Polar
+4. M. Aktukmak, Z. Sun, M. Bobra, T. I. Gombosi, W. Manchester, **Y. Chen**, A. O. Hero. *Incorporating Polar
 Field Data for Improved Solar Flare Prediction*, Frontiers in Astronomy and Space Sciences, 21 December 2022, Sec. Stellar and Solar Physics, Volume 9 - 2022. [[journal](https://doi.org/10.3389/fspas.2022.1040107)]
-6. S. Kasapis, L. Zhao, **Y. Chen**, X. Wang, M. Bobra, T. I. Gombosi. *Interpretable
+5. S. Kasapis, L. Zhao, **Y. Chen**, X. Wang, M. Bobra, T. I. Gombosi. *Interpretable
 machine learning to forecast SEP events for Solar Cycle 23*, Space Weather, 20.2, 2022. [[journal](https://doi.org/10.1029/2021SW002842)].
-7. D. Iong, Q. Zhao, and **Y. Chen**. *Latent mixture model for effect heterogeneity in
-mendelian randomization*, submitted. [[arXiv](https://arxiv.org/abs/2007.06476)]
-8. D. Iong, **Y. Chen**, G. Toth, S. Zou, T. Pulkkinen, J. Ren, E. Camporeale, T. Gombosi, New Findings From Explainable SYM‐H Forecasting Using Gradient Boosting Machines, Space Weather, 20(8), p.e2021SW002928, 2022. [[journal](https://doi.org/10.1029/2021SW002928)].
-9. D. E. Jones, R. N. Trangucci, **Yang Chen\***. *Quantifying observed prior impact*, Beyesian Analysis, 17(3), 737-764, 2022. [[journal](https://doi.org/10.1214/21-BA1217)]
+6. D. Iong, **Y. Chen**, G. Toth, S. Zou, T. Pulkkinen, J. Ren, E. Camporeale, T. Gombosi, New Findings From Explainable SYM‐H Forecasting Using Gradient Boosting Machines, Space Weather, 20(8), p.e2021SW002928, 2022. [[journal](https://doi.org/10.1029/2021SW002928)].
+7. D. E. Jones, R. N. Trangucci, **Yang Chen\***. *Quantifying observed prior impact*, Beyesian Analysis, 17(3), 737-764, 2022. [[journal](https://doi.org/10.1214/21-BA1217)]
  
 ### 2021
  
@@ -47,7 +46,6 @@ mendelian randomization*, submitted. [[arXiv](https://arxiv.org/abs/2007.06476)]
 4. W. Ma, Z. Wang, Y. Zhang, N. Magee, **Y. Chen**, C. Zang. *BARTweb: a web server for transcription factor association analysis*, NAR Genomics and Bioinformatics, 3(2), 2021. [[journal](https://doi.org/10.1093/nargab/lqab022)]
 5. D. Iong, **Y. Chen**, G. Toth, S. Zou, T. I. Pulkkinen, J. Ren, E. Camporeale, T. I. Gombosi. *An interpretable machine learning method for forecasting the SYM-H index*, Space Weather, accepted, 2021. [[journal](https://doi.org/10.1002/essoar.10508063.3)]
 6. S. Zou, J. Ren, Z. Wang, H. Sun, **Y. Chen**. *Impact of Storm-Enhanced Density (SED) on Ion Upflow Fluxes During Geomagnetic Storm*, Frontiers in Astronomy and Space Sciences, 23, 2021. [[journal](https://doi.org/10.3389/fspas.2021.746429)]
-7. H. Sun, W. Manchester, Z. Jiao, X. Wang, **Y. Chen**. *Interpreting LSTM Prediction on Solar Flare Eruption with Time-series Clustering*, submitted. [[arXiv](https://arxiv.org/abs/1912.12360)]
 
 ### 2020
 
@@ -61,7 +59,6 @@ objective priors from scoring rules (with discussion)*, Bayesian Analysis, 15(4)
 Model the Spatial Structure of Astronomical Systems*, The Astronomical Journal
 161(1), 2020. [[journal](https://doi.org/10.3847/1538-3881/abc630)]
 7. Q. Li, **Y. Chen**, and Y. Kim. *Compression by and for Deep Boltzmann Machines*, IEEE Transactions on Communications, 68(12), 7498-7510, 2020. [[journal](https://ieeexplore.ieee.org/document/9183947)]
-8. **Y. Chen**, R. Gong, M. Xie. *Geometric conditions for the discrepant posterior phenomenon and connections to Simpson’s paradox*, submitted, 2020. [[arXiv](https://arxiv.org/abs/2001.08336)]
 9. Q. Li, **Y. Chen**. *Rate distortion via deep learning*, IEEE Transactions on Communications, 68(1), 456-465, 2020. [[journal](https://ieeexplore.ieee.org/document/8888220)] 
 
 
