@@ -44,8 +44,7 @@ machine learning to forecast SEP events for Solar Cycle 23*, Space Weather, 20.2
 2. A. Farahi, **Y. Chen**. *TATTER: A hypothesis testing tool for multi-dimensional data*, Astronomy and Computing, 34, 2021. [[journal](https://doi.org/10.1016/j.ascom.2020.100445)]
 3. H. Marshall, Y. Chen, J. Drake, M. Guainazzi, V. L. Kashyap, X.-L. Meng, P. Plucinsky, P. Ratzlaff, D. van Dyk, X. Wang. *Concordance: In-flight Calibration of X-ray Telescopes without Absolute References*, The Astronomical Journal, 162(6), 2021. [[journal](https://doi.org/10.3847/1538-3881/ac230a)]
 4. W. Ma, Z. Wang, Y. Zhang, N. Magee, **Y. Chen**, C. Zang. *BARTweb: a web server for transcription factor association analysis*, NAR Genomics and Bioinformatics, 3(2), 2021. [[journal](https://doi.org/10.1093/nargab/lqab022)]
-5. D. Iong, **Y. Chen**, G. Toth, S. Zou, T. I. Pulkkinen, J. Ren, E. Camporeale, T. I. Gombosi. *An interpretable machine learning method for forecasting the SYM-H index*, Space Weather, accepted, 2021. [[journal](https://doi.org/10.1002/essoar.10508063.3)]
-6. S. Zou, J. Ren, Z. Wang, H. Sun, **Y. Chen**. *Impact of Storm-Enhanced Density (SED) on Ion Upflow Fluxes During Geomagnetic Storm*, Frontiers in Astronomy and Space Sciences, 23, 2021. [[journal](https://doi.org/10.3389/fspas.2021.746429)]
+5. S. Zou, J. Ren, Z. Wang, H. Sun, **Y. Chen**. *Impact of Storm-Enhanced Density (SED) on Ion Upflow Fluxes During Geomagnetic Storm*, Frontiers in Astronomy and Space Sciences, 23, 2021. [[journal](https://doi.org/10.3389/fspas.2021.746429)]
 
 ### 2020
 
