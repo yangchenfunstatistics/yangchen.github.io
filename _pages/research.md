@@ -58,8 +58,6 @@ objective priors from scoring rules (with discussion)*, Bayesian Analysis, 15(4)
 6. A. Farahi, D. Nagai, and Y. Chen. *PoPE: A Population-based Approach to
 Model the Spatial Structure of Astronomical Systems*, The Astronomical Journal
 161(1), 2020. [[journal](https://doi.org/10.3847/1538-3881/abc630)]
-7. Q. Li, **Y. Chen**, and Y. Kim. *Compression by and for Deep Boltzmann Machines*, IEEE Transactions on Communications, 68(12), 7498-7510, 2020. [[journal](https://ieeexplore.ieee.org/document/9183947)]
-9. Q. Li, **Y. Chen**. *Rate distortion via deep learning*, IEEE Transactions on Communications, 68(1), 456-465, 2020. [[journal](https://ieeexplore.ieee.org/document/8888220)] 
 
 
 ### 2019
