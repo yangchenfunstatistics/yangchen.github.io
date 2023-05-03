@@ -17,8 +17,8 @@ author_profile: true
 
 1. **Y. Chen\***, S. Maloney, E. Camporeale, X. Huang, Z. Zhou (2023), Editorial: Machine Learning and Statistical Methods for Solar Flare Predictions (editorial note for a research topic organized by the authors), Frontiers Astronomy and Space Sciences, Sec. Stellar and Solar Physics, Volume 10 - 2023. [[journal](https://doi.org/10.3389/fspas.2023.1121615)]
 2. H. Sun, **Y. Chen**, S. Zou, J. Ren, Y. Chang, Z. Wang, A. Coster (2023), Complete Global Total Electron Content (TEC) Map Dataset based on a Video Imputation Algorithm, Scientific Data - Nature, Number 10:236. [[journal](https://doi.org/10.1038/s41597-023-02138-7)]
-3. Sun, H., Manchester, W., Jin, M., Liu, Y., **Chen, Y.\*** (2023), Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis, Poster at the 2023 International Conference on Machine Learning. [[arXiv](https://arxiv.org/abs/2301.11203)]
-4. Sun, H., Ren, J., **Chen, Y.**, Zou, S., VISTA TEC database [Data set], University of Michigan - Deep Blue Data, 2023. [[link](https://doi.org/10.7302/vb27-ez24)]
+3. H. Sun, W. Manchester, M. Jin, Y. Liu, **Y. Chen\*** (2023), Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis, Poster at the 2023 International Conference on Machine Learning. [[arXiv](https://arxiv.org/abs/2301.11203)]
+4. H. Sun, J. Ren, **Y. Chen**, S. Zou, VISTA TEC database [Data set], University of Michigan - Deep Blue Data, 2023. [[link](https://doi.org/10.7302/vb27-ez24)]
 5. R. Trangucci, **Y. Chen**, J. Zelner, Modeling rates of disease with missing categorical data, accepted by Annals of Applied Statistics. [[arXiv](https://arxiv.org/abs/2206.08161)]
 6. R. Trangucci, **Y. Chen**, J. Zelner, Identified vaccine efficacy for binary post-infection outcomes under misclassification without monotonicity, submitted. [[arXiv](https://https://arxiv.org/abs/2211.16502)]
 7. A. Jivani, N. Sachdeva, Z. Huang, **Y. Chen**, B. van der Holst, W. Manchester, D. Iong, H. Chen, S. Zou, X. Huan, G. Toth, Global Sensitivity Analysis and Uncertainty Quantification for Background Solar Wind using the Alfven Wave Solar Atmosphere Model, Space Weather 21.1 (2023): e2022SW003262. [[journal](https://doi.org/10.1029/2022SW003262)].
@@ -36,25 +36,25 @@ Field Data for Improved Solar Flare Prediction*, Frontiers in Astronomy and Spac
 5. S. Kasapis, L. Zhao, **Y. Chen**, X. Wang, M. Bobra, T. I. Gombosi. *Interpretable
 machine learning to forecast SEP events for Solar Cycle 23*, Space Weather, 20.2, 2022. [[journal](https://doi.org/10.1029/2021SW002842)].
 6. D. Iong, **Y. Chen**, G. Toth, S. Zou, T. Pulkkinen, J. Ren, E. Camporeale, T. Gombosi, New Findings From Explainable SYM‐H Forecasting Using Gradient Boosting Machines, Space Weather, 20(8), p.e2021SW002928, 2022. [[journal](https://doi.org/10.1029/2021SW002928)].
-7. D. E. Jones, R. N. Trangucci, **Yang Chen\***. *Quantifying observed prior impact*, Bayesian Analysis, 17(3), 737-764, 2022. [[journal](https://doi.org/10.1214/21-BA1217)]
+7. D. E. Jones, R. N. Trangucci, **Y. Chen\***. *Quantifying observed prior impact*, Bayesian Analysis, 17(3), 737-764, 2022. [[journal](https://doi.org/10.1214/21-BA1217)]
  
 ### 2021
  
-1. H. Sun, W. B. Manchester IV, **Yang Chen\***. *Improved and interpretable solar flare predictions with spatial and Topological features of the polarity-inversion-lin masked magnetogarams*, Space Weather, 19, e2021SW002837, 2021. [[journal](https://doi.org/10.1002/essoar.10507540.1)]
+1. H. Sun, W. B. Manchester IV, **Y. Chen\***. *Improved and interpretable solar flare predictions with spatial and Topological features of the polarity-inversion-lin masked magnetogarams*, Space Weather, 19, e2021SW002837, 2021. [[journal](https://doi.org/10.1002/essoar.10507540.1)]
 2. A. Farahi, **Y. Chen**. *TATTER: A hypothesis testing tool for multi-dimensional data*, Astronomy and Computing, 34, 2021. [[journal](https://doi.org/10.1016/j.ascom.2020.100445)]
-3. H. Marshall, Y. Chen, J. Drake, M. Guainazzi, V. L. Kashyap, X.-L. Meng, P. Plucinsky, P. Ratzlaff, D. van Dyk, X. Wang. *Concordance: In-flight Calibration of X-ray Telescopes without Absolute References*, The Astronomical Journal, 162(6), 2021. [[journal](https://doi.org/10.3847/1538-3881/ac230a)]
+3. H. Marshall, **Y. Chen**, J. Drake, M. Guainazzi, V. L. Kashyap, X.-L. Meng, P. Plucinsky, P. Ratzlaff, D. van Dyk, X. Wang. *Concordance: In-flight Calibration of X-ray Telescopes without Absolute References*, The Astronomical Journal, 162(6), 2021. [[journal](https://doi.org/10.3847/1538-3881/ac230a)]
 4. W. Ma, Z. Wang, Y. Zhang, N. Magee, **Y. Chen**, C. Zang. *BARTweb: a web server for transcription factor association analysis*, NAR Genomics and Bioinformatics, 3(2), 2021. [[journal](https://doi.org/10.1093/nargab/lqab022)]
 5. S. Zou, J. Ren, Z. Wang, H. Sun, **Y. Chen**. *Impact of Storm-Enhanced Density (SED) on Ion Upflow Fluxes During Geomagnetic Storm*, Frontiers in Astronomy and Space Sciences, 23, 2021. [[journal](https://doi.org/10.3389/fspas.2021.746429)]
 
 ### 2020
 
 1. Z. Jiao, H. Sun, X. Wang, W. Manchester, T. Gombosi, A. Hero, **Y. Chen\***. *Solar flare intensity prediction with machine learning models*, Space Weather, 18(7), 2020. [[journal](https://doi.org/10.1029/2020SW002440)]
-2. X. Wang, Y. Chen, G. Toth, W. B. Manchester, T. I. Gombosi, A. O. Hero, Z. Jiao, H. Sun, M. Jin, Y. Liu, *Predicting solar flares with machine learning: investigating solar cycle dependence*, The Astrophysical Journal, 895(3), 2020. [[journal](https://doi.org/10.3847/1538-4357/ab89ac)]
+2. X. Wang, **Y. Chen**, G. Toth, W. B. Manchester, T. I. Gombosi, A. O. Hero, Z. Jiao, H. Sun, M. Jin, Y. Liu, *Predicting solar flares with machine learning: investigating solar cycle dependence*, The Astrophysical Journal, 895(3), 2020. [[journal](https://doi.org/10.3847/1538-4357/ab89ac)]
 3. R. Trangucci, D. Hansen, **Y. Chen**, *Contributed discussion for "on a class of
 objective priors from scoring rules (with discussion)"*, Bayesian Analysis, 15(4), 1345-1423, 2020. [[journal](https://doi.org/10.1214/19-BA1187)]
 4. K. Choi, **Y. Chen**, D. A. Skelly, G. A. Churchill, *Bayesian model selection reveals biological origins of zero inflation in single-cell transcriptomics*, Genome Biology 21, 2020. [[journal](https://doi.org/10.1186/s13059-020-02103-2)]
 5. J. Ren, J. Lu, S. Zou, N. Giertych, **Y. Chen**, R. H. Varney, *Statistical study of ion upflow and downflow observed by the Poker Flat Incoherent Scatter Radar (PFISR)*, Journal of Geophysical Research: Space Physics,  125(10), 2020. [[journal](https://doi.org/10.1029/2020JA028179)]
-6. A. Farahi, D. Nagai, and Y. Chen. *PoPE: A Population-based Approach to
+6. A. Farahi, D. Nagai, and **Y. Chen.** *PoPE: A Population-based Approach to
 Model the Spatial Structure of Astronomical Systems*, The Astronomical Journal
 161(1), 2020. [[journal](https://doi.org/10.3847/1538-3881/abc630)]
 
