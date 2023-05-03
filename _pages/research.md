@@ -36,7 +36,7 @@ Field Data for Improved Solar Flare Prediction*, Frontiers in Astronomy and Spac
 5. S. Kasapis, L. Zhao, **Y. Chen**, X. Wang, M. Bobra, T. I. Gombosi. *Interpretable
 machine learning to forecast SEP events for Solar Cycle 23*, Space Weather, 20.2, 2022. [[journal](https://doi.org/10.1029/2021SW002842)].
 6. D. Iong, **Y. Chen**, G. Toth, S. Zou, T. Pulkkinen, J. Ren, E. Camporeale, T. Gombosi, New Findings From Explainable SYM‐H Forecasting Using Gradient Boosting Machines, Space Weather, 20(8), p.e2021SW002928, 2022. [[journal](https://doi.org/10.1029/2021SW002928)].
-7. D. E. Jones, R. N. Trangucci, **Yang Chen\***. *Quantifying observed prior impact*, Beyesian Analysis, 17(3), 737-764, 2022. [[journal](https://doi.org/10.1214/21-BA1217)]
+7. D. E. Jones, R. N. Trangucci, **Yang Chen\***. *Quantifying observed prior impact*, Bayesian Analysis, 17(3), 737-764, 2022. [[journal](https://doi.org/10.1214/21-BA1217)]
  
 ### 2021
  
