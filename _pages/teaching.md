@@ -23,7 +23,7 @@ author_profile: true
 
 ### Department of Biostatistics, University of Michigan
 
-* 2023 Big Data Summer Institute: Missing Data.
+* [2023 Big Data Summer Institute](https://sph.umich.edu/bdsi/): Missing Data.
 * 2019 Big Data Summer Institute: Bayesian Computation.
 * 2018 Big Data Summer Institute; Bayesian Models.
 
