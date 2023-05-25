@@ -49,8 +49,8 @@ author_profile: true
 ### Ph.D. Alumni
 
 * Wyane (Yu) Wang (joint with [Alfred O. Hero](https://hero.engin.umich.edu/)), 2018-2022.  
-  Dissertation title: *Interpretable and Scalable Graphical Models for Complex Spatio-temporal Processes.*  
-  First position after graduation: Researcher at Google.
+   - Dissertation title: *Interpretable and Scalable Graphical Models for Complex Spatio-temporal Processes.*  
+   - First position after graduation: Researcher at Google.
 * [Robert N. Trangucci](https://rtrangucci.github.io/) (joint with [Jon Zelner](https://sph.umich.edu/faculty-profiles/zelner-jon.html)), 2017-2023.
   Dissertation title: *Bayesian Methods for Mitigating Sample Selection Bias in Epidemiology.*
   First position after graduation: assistant professor of statistics at Oregon State University.
