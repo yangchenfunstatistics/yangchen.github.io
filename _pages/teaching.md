@@ -30,4 +30,4 @@ author_profile: true
 ### Michigan Institute for Data Sciences (MIDAS), University of Michigan
 
 * [Applied Statistics for Environmental Scientists](https://midas.umich.edu/midas-training-program-for-environmental-scientists/), August, 2023.
-* Applied Statistics for Environmental Scientists, November, 2022.
+* [Applied Statistics for Environmental Scientists](https://midas.umich.edu/workshops/environmental-academy-2023/), November, 2022.
