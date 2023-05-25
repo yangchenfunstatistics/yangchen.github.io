@@ -9,7 +9,8 @@ author_profile: true
 
 ### Postdoctoral Fellow
 
-* [Yiluan Song](https://scholar.google.com/citations?user=QToyeIAAAAAJ&hl=en), 2023-now.
+* [Yiluan Song](https://scholar.google.com/citations?user=QToyeIAAAAAJ&hl=en), 2023-2025.
+* [Jingyang Li](https://scholar.google.com/citations?user=4Q2DaL4AAAAJ&hl=en), 2023-2025
 
 ### Ph.D. Students
 
@@ -17,6 +18,7 @@ author_profile: true
 * Victor Verma, 2022-now, joint with [Stilian Stoev](https://sites.lsa.umich.edu/sstoev/).
 * Yuxuan Ke, 2023-now.
 * Jiuqian Shang, 2023-now.
+* Noah Kochanski, 2023-now.
 
 ### Master Students
 
@@ -54,7 +56,7 @@ author_profile: true
   First position after graduation: assistant professor of statistics at Oregon State University.
 * [Daniel Iong](https://danieliong.github.io/), 2017-2023.
   Dissertation title: *Inference algorithms for probabilistic models with applications in
-epidemiology and space weather forecasting.*
+epidemiology and space weather forecasting.* First position after graduation: researcher at the Institute for Defense Analyses.
 * Bach Viet Do (joint with [Long Nguyen](https://dept.stat.lsa.umich.edu/~xuanlong/)), 2017-2023.
   Dissertation title: *Mixture Modeling: Solar Application and Misspecification Behaviors.*
 
