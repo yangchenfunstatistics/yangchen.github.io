@@ -25,6 +25,7 @@ author_profile: true
 8. **Y. Chen**, C.-D. Fuh, C.-L. Kao, *Determine the Number of States in Hidden Markov Models via Marginal Likelihood*, submitted.
 9. Z. Wang, S. Zou, H. Sun, **Y. Chen**, *Forecast Global Ionospheric TEC: Apply Modified U-Net on VISTA TEC Dataset*, submitted.
 10. D. Iong, Q. Zhao, and **Y. Chen**. *Latent mixture model for effect heterogeneity in mendelian randomization*, submitted. [[arXiv](https://arxiv.org/abs/2007.06476)]
+11. H. Sun, Z. Shang, **Y.Chen\***, *Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data*, submitted. [[arXiv](https://arxiv.org/abs/2305.15671)]
 
 
 ### 2022
