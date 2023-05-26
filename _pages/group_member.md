@@ -59,6 +59,7 @@ author_profile: true
    - First position after graduation: Researcher at the Institute for Defense Analyses.
 * Bach Viet Do (joint with [Long Nguyen](https://dept.stat.lsa.umich.edu/~xuanlong/)), 2017-2023.
    - Dissertation title: *Mixture Modeling: Solar Application and Misspecification Behaviors.*
+   - First position after graduation: Research Data Scientist at Ford Motor. 
 
 
 ### BRIDGE Program Alumni
