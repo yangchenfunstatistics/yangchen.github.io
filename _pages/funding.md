@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Funding"
+permalink: /funding/
+author_profile: true 
+---
+
 08/2023-07/2028, NASA ROSES Heliophysics Space Weather Centers of Excellence Program, Role: Co-I (PI: Thomas Berger), Space Weather Operational Readiness Development (SWORD) Center, total award amount: $3,499,990.
 
 08/2023-07/2028, NASA ROSES Heliophysics Space Weather Centers of Excellence Program, Role: Co-I (PI: Lulu Zhao), CLEAR: Center for All-Clear SEP Forecast, total award amount: $9,290,762.
