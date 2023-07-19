@@ -5,6 +5,8 @@ permalink: /funding/
 author_profile: true 
 ---
 
+## Current
+
 08/2023-07/2028, NASA ROSES Heliophysics Space Weather Centers of Excellence Program, Role: Co-I (PI: Thomas Berger), Space Weather Operational Readiness Development (SWORD) Center, total award amount: $3,499,990.
 
 08/2023-07/2028, NASA ROSES Heliophysics Space Weather Centers of Excellence Program, Role: Co-I (PI: Lulu Zhao), CLEAR: Center for All-Clear SEP Forecast, total award amount: $9,290,762.
@@ -16,6 +18,9 @@ author_profile: true
 7/30/2022 - 7/29/2023, Michigan Institute for Data Science (MIDAS) Propelling Original Data Science (PODS) Award, Role: Co-I (PI: Arun Agrawal & Ines Ibanez), Sustainability outcomes of restrictions on human actions: COVID-19 mobility changes, forest fires and air pollution across land regimes, total award amount $35,000.
 
 07/01/2021 - 06/30/2024, NSF DMS Award 2113397, Role: PI, DMS-EPSRC Collaborative Research: Advancing Statistical Foundations and Frontiers for and from Emerging Astronomical Data Challenges, total award amount $160,000.
+
+
+## Past
 
 06/10/2021 - 06/09/2022, Michigan Institute for Data Science (MIDAS) Propelling Original Data Science (PODS) Award, Role: Co-I (PI: Runzi Wang), Data Science Approach Towards a Socio-ecological Framework for the Investigation of Continental Urban Stream Water Quality Pattern, total award amount: $70,000.
 
