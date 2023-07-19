@@ -17,14 +17,14 @@ author_profile: true
 
 1. **Y. Chen\***, S. Maloney, E. Camporeale, X. Huang, Z. Zhou, *Editorial: Machine Learning and Statistical Methods for Solar Flare Predictions*, Frontiers Astronomy and Space Sciences, Sec. Stellar and Solar Physics, Volume 10 - 2023. [[journal](https://doi.org/10.3389/fspas.2023.1121615)]
 2. H. Sun, **Y. Chen**, S. Zou, J. Ren, Y. Chang, Z. Wang, A. Coster, *Complete Global Total Electron Content (TEC) Map Dataset based on a Video Imputation Algorithm*, Scientific Data - Nature, Number 10:236, 2023. [[journal](https://doi.org/10.1038/s41597-023-02138-7)]
-3. H. Sun, W. Manchester, M. Jin, Y. Liu, **Y. Chen\***, *Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis*, International Conference on Machine Learning (ICML), 2023. [[arXiv](https://arxiv.org/abs/2301.11203)]
+3. H. Sun, W. Manchester, M. Jin, Y. Liu, **Y. Chen\***, *Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis*, Proceedings of the 40th International Conference on Machine Learning, PMLR 202:32913-32935, 2023. [[conference proceeding]([https://arxiv.org/abs/2301.11203](https://proceedings.mlr.press/v202/sun23f.html))]
 4. H. Sun, J. Ren, **Y. Chen**, S. Zou, *VISTA TEC database [Data set]*, University of Michigan - Deep Blue Data, 2023. [[link](https://doi.org/10.7302/vb27-ez24)]
 5. R. Trangucci, **Y. Chen**, J. Zelner, *Modeling rates of disease with missing categorical data*, accepted by Annals of Applied Statistics, 2023. [[arXiv](https://arxiv.org/abs/2206.08161)]
 6. R. Trangucci, **Y. Chen**, J. Zelner, *Identified vaccine efficacy for binary post-infection outcomes under misclassification without monotonicity*, submitted. [[arXiv](https://https://arxiv.org/abs/2211.16502)]
 7. A. Jivani, N. Sachdeva, Z. Huang, **Y. Chen**, B. van der Holst, W. Manchester, D. Iong, H. Chen, S. Zou, X. Huan, G. Toth, *Global Sensitivity Analysis and Uncertainty Quantification for Background Solar Wind using the Alfven Wave Solar Atmosphere Model*, Space Weather 21.1, 2023: e2022SW003262. [[journal](https://doi.org/10.1029/2022SW003262)]
 8. **Y. Chen**, C.-D. Fuh, C.-L. Kao, *Determine the Number of States in Hidden Markov Models via Marginal Likelihood*, submitted.
 9. Z. Wang, S. Zou, H. Sun, **Y. Chen**, *Forecast Global Ionospheric TEC: Apply Modified U-Net on VISTA TEC Dataset*, submitted.
-10. D. Iong, Q. Zhao, and **Y. Chen**. *Latent mixture model for effect heterogeneity in mendelian randomization*, submitted. [[arXiv](https://arxiv.org/abs/2007.06476)]
+10. D. Iong, Q. Zhao, and **Y. Chen**. *Latent mixture model for effect heterogeneity in Mendelian randomization*, submitted. [[arXiv](https://arxiv.org/abs/2007.06476)]
 11. H. Sun, Z. Shang, **Y.Chen\***, *Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data*, submitted. [[arXiv](https://arxiv.org/abs/2305.15671)]
 
 
