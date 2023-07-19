@@ -11,6 +11,9 @@ main:
 
   - title: "CV"
     url: https://drive.google.com/file/d/1NCgR0IXTiUxZ4dGgNoYN0F93fmaYlay2/view
+
+  - title: "Funding"
+    url: /funding/
        
   #- title: "Blog Posts"
     #url: /year-archive/
