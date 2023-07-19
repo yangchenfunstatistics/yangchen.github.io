@@ -19,8 +19,9 @@ My general research interests are in applied and computational statistics includ
 * Bayesian modeling and computation
 * Hidden Markov models and general finite mixture models
 * Applied statistics and machine learning in astronomy and space science
-* Statistical Methods for large scale imaging data
-* Spatial temporal data analysis
+* Statistical methods for large scale imaging data
+* Spatial-temporal data analysis
+* Uncertainty quantification for complex models
 
 ### Education
 
