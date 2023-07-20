@@ -11,8 +11,6 @@ author_profile: true
 
 08/2023-07/2028, NASA ROSES Heliophysics Space Weather Centers of Excellence Program, Role: Co-I (PI: Lulu Zhao), CLEAR: Center for All-Clear SEP Forecast, total award amount: $9,290,762.
 
-10/01/2023 - /09/30/2027, NSF-DMREF Award, Role: Co-PI (PI: Liang Qi), Collaborative Research: DMREF: AI-enabled Automated design of ultrastrong and ultraelastic metallic alloys, total award amount $966,053. 
-
 03/22/2023, Provost Early Tenure Track Faculty Research Support Initiative, total award amount $3,000.
 
 7/30/2022 - 7/29/2023, Michigan Institute for Data Science (MIDAS) Propelling Original Data Science (PODS) Award, Role: Co-I (PI: Arun Agrawal & Ines Ibanez), Sustainability outcomes of restrictions on human actions: COVID-19 mobility changes, forest fires and air pollution across land regimes, total award amount $35,000.
