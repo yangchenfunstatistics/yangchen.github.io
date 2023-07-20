@@ -9,20 +9,21 @@ main:
   - title: "People"
     url: /group_member/    
 
-  - title: "CV"
-    url: https://drive.google.com/file/d/1NCgR0IXTiUxZ4dGgNoYN0F93fmaYlay2/view
-
   - title: "Funding"
     url: /funding/
+  
+  - title: "Presentations"
+    url: /presentation/
+
+  - title: "Professional Service"
+    url: /service/
     
   - title: "Dissertation Committee"
     url: /committee/
     
-  - title: "Professional Service"
-    url: /service/
-  
-  - title: "Presentations"
-    url: /presentation/
+
+  - title: "CV"
+    url: https://drive.google.com/file/d/1NCgR0IXTiUxZ4dGgNoYN0F93fmaYlay2/view
        
   #- title: "Blog Posts"
     #url: /year-archive/
