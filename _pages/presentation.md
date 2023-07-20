@@ -11,23 +11,31 @@ author_profile: true
 2. Model fitting and goodness-of-fit in astrophysics
 * The Joint Statistical Meetings (JSM), Ontario, Canada, August 5-10, 2023.
 * CHASC Weekly Seminar Series, Virtual, June 9, 2023.
+  
 3. Statistical Issues in Instrument Calibrations and ML methods to determine Solar Flare Propensity
 * 64th ISI World Statistics Congress, Ottawa, Canada, July 16-20, 2023.
+
 4. Discussions on Goodness-of-fit and Instrument Calibration in High Energy Physics Observations
 * IACHEC CalStats Working Group, Virtual, April 25, 2023.
+
 5. Statistical Models for Solar Flare Predictions
 * AI in Science and Engineering Symposium, University of Michigan, Ann Arbor, April 3, 2023.
 * Ann Arbor Chapter of American Statistical Association, Virtual, April 4, 2023.
 * Statistical Challenges in Modern Astronomy VIII, Penn State University, State College, PA, June 15, 2023.
 * AOGS (Asia Oceania Geosciences Society) 2023, 20th Annual Meeting, Virtual, July 30-August 4 2023.
+
 6. Explainable Sym-H forecasting with Gradient Boosting Machines
 * Magnetosphere Online Seminar Series, Virtual, March 13, 2023.
+
 7. Data Assimilation for Space Weather Modeling Framework (SWMF)
 * 2023 SWQU Spring Meeting, Cambridge, MA, March 9-10, 2023.
+
 8. Physical Science: AI in Space Weather Forecasting
 * U-M Annual Data Science and AI Summit, Ann Arbor, MI, November 14-15, 2022.
+
 9. Solar Flare Forecasting with Machine Learning and Novel Statistical Models
 * 2022 Triennial Earth-Sun Summit, Seattle, WA, August 8-11, 2022.
+
 10. Goodness-of-fit in Astronphysics
 * CHASC Workshop, Cambridge, MA, August 2-4, 2022.
 11. Data Science Challenges in Space Weather
