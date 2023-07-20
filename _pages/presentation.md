@@ -38,28 +38,38 @@ author_profile: true
 
 10. Goodness-of-fit in Astronphysics
 * CHASC Workshop, Cambridge, MA, August 2-4, 2022.
+
 11. Data Science Challenges in Space Weather
 * The Big Data Summer Institute’s Concluding Symposium, Ann Arbor, Michigan, July 28, 2022.
+
 12. Statistical and machine learning approaches to solar flare forecasting
 * UDP (Universidad Diego Portales, Santiago, Chile) SEMINARIOS DATA SCIENCE YEAR, Virtual, June
 29, 2022.
+
 13. Panelist for “Perspectives on the evolution of statistics within the data science landscape”, 11th annual ASA
 2022 UP-STAT Conference in Statistics, SUNY University at Buffalo, Virtual, May 2-4, 2022.
+
 14. Advancing Space Science with Data Driven Methods
 * Space Weather Workshop 2022, “Collaboration: Advancing the Space Weather Enterprise”, Virtual, April
 26-28, 2022.
+
 15. Video Imputation and Prediction Methods in Space Weather
 * Neyman Statistics Seminar, Department of Statistics, University of California, Berkeley, March 30, 2022.
 * Statistics Seminar, Department of Statistics, University of Washington, Seattle, May 20, 2022.
+
 16. Statistical And Computational Problems In Space Weather Data Challenges
 * INFORMS Annual Meeting, October 27, 2021, Virtual.
+
 17. Matrix Completion Methods for the Total Electron Content Video Reconstruction
 * Statistical Methods for the Physical Sciences (STAMPS) Webinar at the Carnegie Mellon University, Virtual,
 October 8, 2021.
+
 18. Discussant for “Statistical and Machine Learning Efforts on Solar Flare Predictions II - Topic Contributed
 Papers” at the Joint Statistical Meeting, Virtual, August 12, 2021.
+
 19. Strange bedfellows: Statistics, Machine Learning and Space Science, SOLSTICE (Solar Storms and Terrestrial
 Impacts Center) Science Seminar Series, University of Michigan, Ann Arbor, May 13, 2021.
+
 20. Statistical and Computational Problems in Space Weather Data Challenges
 * Statistics Seminar, Department of Mathematical Sciences, New Jersey Institute of Technology, April 8, 2021.
 * Seminar, Institute for Space Sciences, New Jersey Institute of Technology, February 25, 2021.
@@ -107,6 +117,7 @@ MI, December 2017;
 
 23. Topics in Bayesian Inference: Specification of Prior Distributions, Earth, Climate and Coffee, Climate and
 Space Sciences and Engineering, University of Michigan, February 15, 2019.
+
 24. Hidden Markov Model (HMM) Order Selection,
 * International Society for Bayesian Analysis (ISBA) World Meeting 2021, Virtual, June 28, 2021;
 * CFE-CMStatistics 2018, Pisa, Italy, December 15, 2018;
@@ -114,21 +125,30 @@ Space Sciences and Engineering, University of Michigan, February 15, 2019.
 Mexico, November 12, 2018;
 * MIDAS Seminar, University of Michigan, Ann Arbor, MI, October 12, 2018;
 * Advances in Finite Mixture Models, Guilin, China, August 2018.
+
 25. Tutorial on Bayesian Inference and Computation, Massive and heterogeneous data and knowledge (LaHDAK)
 Seminar, laboratoire de Recherche en Informatique, Universite Paris-Sud, France, December 10, 2018.
+
 26. Delineating Protein Transportation Processes: Hierarchical Models for Single-Molecule Data,
 * Institut Curie - Paris, France, December 3, 2018;
 * Collaborative Research Center Seminar, Georg-August-University G ̈ottingen, Germany, November 22, 2018;
 * Statistics Seminar at University of Michigan, University of California, Berkeley, Columbia University, Rut-
 gers University, etc., January 2017;
 * The New England Statistics Symposium, University of Connecticut, Storrs, CT, April 2015.
+
 27. A second look at cstat, CHASC meeting, Harvard University, Cambridge, MA, October 30, 2018.
+
 28. Predictive Models for Molecular Data, Women in Data Science and Mathematics Research Collaboration Work-
 shop (WiSDM), ICERM, Brown University, Providence, RI, July 2017.
+
 29. The Bayesian Statistics behind Calibration Concordance, AAS 230 (230th Meeting of the American Astronomical
 Society): Special Session “Topics in AstroStatistics”, Austin, TX, June 2017.
+
 30. When MCMC goes online, The Joint Statistical Meetings, Seattle, WA, August 2015.
+
 31. Greedy (Griddy) Parallel MCMC Algorithms, ResearchStats, Harvard University, Cambridge, MA, April 2015.
+
 32. Discovering the Universe with Dark Energy Camera, Olin College, Needham, MA, April 2014.
+
 33. Nice Curves: Enhancing Variable Star Astronomy through Data Science, poster, ComputeFest in School of
 Engineering and Applied Sciences, Harvard University, Cambridge, MA, January 2014.
