@@ -9,12 +9,16 @@ author_profile: true
 • Prachi Atmassidha, Ph.D. in Physics, 2023. Dissertation Title: First measurements of the Radiation Amplitude
 Zero effect and of the diboson longitudinal-longitudinal interactions in High pT region using W ±Z production
 with the ATLAS detector. Role: Cognate.
+
 • Matthew-Remy Aguirre, Ph.D. in Industrial and Operations Engineering. Dissertation Title: NA. Role: Cognate.
+
 • Yuqi Zhai, Ph.D. in Biostatistics, 2023. Dissertation Title: Improving estimation efficiency by integrating
 external summary information from heterogeneous populations. Role: Cognate.
+
 • Zeyu Sun, Ph.D. candidate in Electrical Engineering and Computer Sciences.
-• Derek Hanson, Ph.D. in Statistics, 2023. Dissertation Title: Mechanistic and Data-Adaptive Bayesian Methods
-for Scientific Inference. Role: Member.
+
+• Derek Hanson, Ph.D. in Statistics, 2023. Dissertation Title: Mechanistic and Data-Adaptive Bayesian Methods for Scientific Inference. Role: Member.
+
 • Elizabeth Chase, Ph.D. in Biostatistics. Dissertation Title: Two Biostatistical Problems. Role: Cognate.
 • Zebang Li, Ph.D. in Statistics, Rutgers, The State University of New Jersey, 2023. Dissertation Title: Matrix
 and Tensor Autoregressive Models. Role: Member.
