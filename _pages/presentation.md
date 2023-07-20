@@ -55,6 +55,8 @@ Impacts Center) Science Seminar Series, University of Michigan, Ann Arbor, May 1
 • Statistics Seminar, Department of Mathematical Sciences, New Jersey Institute of Technology, April 8, 2021.
 • Seminar, Institute for Space Sciences, New Jersey Institute of Technology, February 25, 2021.
 • Seminar, Department of Statistics, Ohio State University, February 18, 2021.
+
+
 21. Solar Flare Predictions with Machine Learning, invited talks.
 • Special Session “Machine Learning in Space Weather”, the American Geophysical Union (AGU) Fall Meet-
 ing, virtual, December 15, 2020.
@@ -75,6 +77,8 @@ sity, Taiwan, June 26, 2019.
 • ICSA 2019 Applied Statistics Symposium, Raleigh, NC, June 10, 2019.
 • 3rd SWMF (Space Weather Modeling Framework) Users Meeting, University of Michigan, Ann Arbor, MI,
 March 4, 2019.
+
+
 22. Calibration Concordance for Astronomical Instruments, invited talks.
 • Virtual 238th Meeting of the American Astronomical Society (AAS 238), “(Special Session) Unaccounted
 Uncertainties: The Role of Systematics in Astrophysics”, 7 June 2021.
@@ -90,6 +94,8 @@ April 6, 2019;
 • 2017 Data Science Research Forum, Michigan Institute for Data Science, University of Michigan, Ann Arbor,
 MI, December 2017;
 • The Joint Statistical Meetings, Chicago, IL, August 2016.
+
+
 23. Topics in Bayesian Inference: Specification of Prior Distributions, Earth, Climate and Coffee, Climate and
 Space Sciences and Engineering, University of Michigan, February 15, 2019.
 24. Hidden Markov Model (HMM) Order Selection,
