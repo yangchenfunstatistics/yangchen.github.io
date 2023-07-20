@@ -5,6 +5,8 @@ permalink: /presentation/
 author_profile: true
 ---
 
+## 2021-2023
+
 1. Tensor Gaussian Process With Contraction For Multi-channel Imaging Analysis
 * 2023 INFORMS Annual Meeting, Phoenix, Arizona, October 15-18, 2023.
   
@@ -75,6 +77,7 @@ Impacts Center) Science Seminar Series, University of Michigan, Ann Arbor, May 1
 * Seminar, Institute for Space Sciences, New Jersey Institute of Technology, February 25, 2021.
 * Seminar, Department of Statistics, Ohio State University, February 18, 2021.
 
+## 2018-2020
 
 21. Solar Flare Predictions with Machine Learning, invited talks.
 * Special Session “Machine Learning in Space Weather”, the American Geophysical Union (AGU) Fall Meet-
@@ -137,6 +140,8 @@ gers University, etc., January 2017;
 * The New England Statistics Symposium, University of Connecticut, Storrs, CT, April 2015.
 
 27. A second look at cstat, CHASC meeting, Harvard University, Cambridge, MA, October 30, 2018.
+
+## 2014-2017
 
 28. Predictive Models for Molecular Data, Women in Data Science and Mathematics Research Collaboration Work-
 shop (WiSDM), ICERM, Brown University, Providence, RI, July 2017.
