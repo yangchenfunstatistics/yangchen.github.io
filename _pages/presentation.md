@@ -103,7 +103,7 @@ author_profile: true
 
 23. Topics in Bayesian Inference: Specification of Prior Distributions, Earth, Climate and Coffee, Climate and Space Sciences and Engineering, University of Michigan, February 15, 2019.
 
-24. Hidden Markov Model (HMM) Order Selection,
+24. Hidden Markov Model (HMM) Order Selection
 * International Society for Bayesian Analysis (ISBA) World Meeting 2021, Virtual, June 28, 2021;
 * CFE-CMStatistics 2018, Pisa, Italy, December 15, 2018;
 * Computational Statistics and Molecular Simulation: A Practical Cross-Fertilization, CMO-BIRS, Oxaca, Mexico, November 12, 2018;
@@ -112,7 +112,7 @@ author_profile: true
 
 25. Tutorial on Bayesian Inference and Computation, Massive and heterogeneous data and knowledge (LaHDAK) Seminar, laboratoire de Recherche en Informatique, Universite Paris-Sud, France, December 10, 2018.
 
-26. Delineating Protein Transportation Processes: Hierarchical Models for Single-Molecule Data,
+26. Delineating Protein Transportation Processes: Hierarchical Models for Single-Molecule Data
 * Institut Curie - Paris, France, December 3, 2018;
 * Collaborative Research Center Seminar, Georg-August-University G ̈ottingen, Germany, November 22, 2018;
 * Statistics Seminar at University of Michigan, University of California, Berkeley, Columbia University, Rutgers University, etc., January 2017;
