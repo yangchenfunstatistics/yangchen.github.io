@@ -20,7 +20,7 @@ author_profile: true
 4. Discussions on Goodness-of-fit and Instrument Calibration in High Energy Physics Observations
 * IACHEC CalStats Working Group, Virtual, April 25, 2023.
 
-5. Statistical Models for Solar Flare Predictions
+5. Statistical Models for Solar Flare Predictions [[slides](https://drive.google.com/file/d/121DNcluXgKFO92fSBBymohQAf7ktLx41/view?usp=drive_link)]
 * AI in Science and Engineering Symposium, University of Michigan, Ann Arbor, April 3, 2023.
 * Ann Arbor Chapter of American Statistical Association, Virtual, April 4, 2023.
 * Statistical Challenges in Modern Astronomy VIII, Penn State University, State College, PA, June 15, 2023.
