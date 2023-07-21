@@ -49,13 +49,21 @@ author_profile: true
 ## Committee, 2021-now (Department of Statistics at the University of Michigan)
 
 *  Faculty search committee, 2022.
+  
 *  DEI committee, 2021, 2022, 2023.
+  
 *  Applied Statistics Masters' admissions committee, 2023.
+
 *  Undergraduate advising, 2021, 2022, 2023.
+
 *  Masters' Advising, 2021, 2022, 2023.
+  
 *  Seminar committee, 2022 (chair), 2023.
+  
 *  Graduate curriculum committee, 2022.
+  
 *  Undergraduate curriculum committee, 2021.
+  
 *  Ph.D. admissions committee, 2021, 2022.
 
 
