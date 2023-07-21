@@ -49,12 +49,14 @@ author_profile: true
 ## Committee (Department of Statistics)
 
 * Faculty search committee, 2022.
-* DEI committee, 2022.
+* DEI committee, 2021, 2022.
 * Applied Statistics Masters' admissions committee, 2022.
-* Undergraduate and Masters' Advising, 2022.
+* Undergraduate advising, 2021, 2022.
+* Masters' Advising, 2021, 2022.
 * Seminar committee chair, 2022.
 * Graduate curriculum committee, 2022.
-* Ph.D. admissions committee, 2022.
+* Undergraduate curriculum committee, 2021.
+* Ph.D. admissions committee, 2021, 2022.
 
 
 ## Organizing Activities
