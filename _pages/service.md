@@ -25,7 +25,7 @@ author_profile: true
 *Reviewer of internal selection of Ph.D. student fellowship at the University of Michigan, September 2020.
 
 
-## Committee
+## Committee (External to Department of Statistics)
 
 *Scientific Organizing Committee, ML-Helio, 2022-2024.
 
@@ -44,6 +44,17 @@ author_profile: true
 *Program Committee of The 2019 MIDAS Symposium, “Embracing the Challenge: Data Science for the Next Ten Years”, University of Michigan, November 13-15, 2019.
 
 *Secretary, American Statistical Association (ASA) Astrostatistics Interest Group, January 2018 - January 2020.
+
+
+## Committee (Department of Statistics)
+
+* Faculty search committee, 2022.
+* DEI committee, 2022.
+* Applied Statistics Masters' admissions committee, 2022.
+* Undergraduate and Masters' Advising, 2022.
+* Seminar committee chair, 2022.
+* Graduate curriculum committee, 2022.
+* Ph.D. admissions committee, 2022.
 
 
 ## Organizing Activities
