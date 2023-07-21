@@ -24,7 +24,8 @@ author_profile: true
 * AI in Science and Engineering Symposium, University of Michigan, Ann Arbor, April 3, 2023.
 * Ann Arbor Chapter of American Statistical Association, Virtual, April 4, 2023.
 * Statistical Challenges in Modern Astronomy VIII, Penn State University, State College, PA, June 15, 2023.
-* AOGS (Asia Oceania Geosciences Society) 2023, 20th Annual Meeting, Virtual, July 30-August 4 2023.
+* AOGS (Asia Oceania Geosciences Society) 2023, 20th Annual Meeting, Virtual, July 30-August 4, 2023.
+* Workshop on Machine Learning, Data Mining, and Data Assimilation in Geospace (LMAG 2023), JHU/APL, Laurel MD, 21 - 25 August 2023. 
 
 6. Explainable Sym-H forecasting with Gradient Boosting Machines [[slides](https://drive.google.com/file/d/121DNcluXgKFO92fSBBymohQAf7ktLx41/view?usp=drive_link)]
 * Magnetosphere Online Seminar Series, Virtual, March 13, 2023.
@@ -41,18 +42,18 @@ author_profile: true
 10. Goodness-of-fit in Astronphysics
 * CHASC Workshop, Cambridge, MA, August 2-4, 2022.
 
-11. Data Science Challenges in Space Weather
+11. Data Science Challenges in Space Weather [[slides](https://drive.google.com/file/d/1PYlV9scROxBfZdrIpviCS9gaKcyT4U0V/view?usp=drive_link)]
 * The Big Data Summer Institute’s Concluding Symposium, Ann Arbor, Michigan, July 28, 2022.
 
 12. Statistical and machine learning approaches to solar flare forecasting
 * UDP (Universidad Diego Portales, Santiago, Chile) SEMINARIOS DATA SCIENCE YEAR, Virtual, June 29, 2022.
 
-13. Panelist for “Perspectives on the evolution of statistics within the data science landscape”, 11th annual ASA 2022 UP-STAT Conference in Statistics, SUNY University at Buffalo, Virtual, May 2-4, 2022.
+13. Panelist for “Perspectives on the evolution of statistics within the data science landscape”, 11th annual ASA 2022 UP-STAT Conference in Statistics, SUNY University at Buffalo, Virtual, May 2-4, 2022. [[slides](https://drive.google.com/file/d/1tMw_tJZQATo-sRvWfAgCjtp1oJjNpvp_/view?usp=drive_link)]
 
-14. Advancing Space Science with Data Driven Methods
+14. Advancing Space Science with Data-Driven Methods [[slides](https://drive.google.com/file/d/1tMw_tJZQATo-sRvWfAgCjtp1oJjNpvp_/view?usp=drive_link)]
 * Space Weather Workshop 2022, “Collaboration: Advancing the Space Weather Enterprise”, Virtual, April 26-28, 2022.
 
-15. Video Imputation and Prediction Methods in Space Weather
+15. Video Imputation and Prediction Methods in Space Weather [[slides](https://drive.google.com/file/d/1hHwpcbXFtWTrjON0HmFrSJnJTpPBVsVX/view?usp=drive_link)]
 * Neyman Statistics Seminar, Department of Statistics, University of California, Berkeley, March 30, 2022.
 * Statistics Seminar, Department of Statistics, University of Washington, Seattle, May 20, 2022.
 
