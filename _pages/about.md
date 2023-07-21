@@ -14,7 +14,7 @@ I am currently an assistant professor at the [Department of Statistics](https://
 and a research assistant professor at Michigan Institute for Data Science ([MIDAS](https://midas.umich.edu/)).
 For more information, see my [CV](https://drive.google.com/file/d/1NCgR0IXTiUxZ4dGgNoYN0F93fmaYlay2/view).
 
-My general research interests are in applied and computational statistics including
+My general research interests are statistical methodology and computational algorithms motivated by scientific applications. In particular, my past and ongoing projects are focused on the following topics:
 
 * Bayesian modeling and computation
 * Hidden Markov models and general finite mixture models
