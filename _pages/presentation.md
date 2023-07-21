@@ -32,10 +32,10 @@ author_profile: true
 7. Data Assimilation for Space Weather Modeling Framework (SWMF) [[slides](https://drive.google.com/file/d/1TzgIKrOllPyT1R9_vs9kdaRuCcRoBbca/view?usp=drive_link)]
 * 2023 SWQU Spring Meeting, Cambridge, MA, March 9-10, 2023.
 
-8. Physical Science: AI in Space Weather Forecasting
+8. Physical Science: AI in Space Weather Forecasting [[slides](https://drive.google.com/file/d/1aY4HcCuxNfR1AORLgeeltfa3fDF38ZEk/view?usp=drive_link)]
 * U-M Annual Data Science and AI Summit, Ann Arbor, MI, November 14-15, 2022.
 
-9. Solar Flare Forecasting with Machine Learning and Novel Statistical Models
+9. Solar Flare Forecasting with Machine Learning and Novel Statistical Models [[slides](https://drive.google.com/file/d/1DNTxAj_-uTyid0GFbCrHxhkJ1rq7lrvy/view?usp=drive_link)]
 * 2022 Triennial Earth-Sun Summit, Seattle, WA, August 8-11, 2022.
 
 10. Goodness-of-fit in Astronphysics
