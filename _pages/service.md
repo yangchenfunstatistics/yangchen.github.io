@@ -69,17 +69,19 @@ author_profile: true
 
 ## Organizing Activities
 
+* Organizer and co-chair of session "Panel on Careers in Data Science" [[slides](https://drive.google.com/file/d/1apwDEsBkXuWEa1oQgJzegBpcmysL4PGs/view?usp=drive_link)], ICSA Applied Statistics Symposium, Ann Arbor, Michigan, June 12, 2023. 
+
 * Faculty Panel, MIDAS AI in Science Symposium, April 3, 2023.
 
 * Organizer and chair of session “Matrix/Tensor Valued Data Mining Methods and Applications”, INFORMS 2022 Annual Meeting, Indianapolis, Indiana, October 16-19, 2022.
 
-* Instructor and moderator for the “MIDAS Workshop on Data Science for Environmental Scientists”, University of Michigan, March, May & November, 2022.
+* Instructor and moderator for the “MIDAS Workshop on Data Science for Environmental Scientists”, University of Michigan, March, May & November 2022.
 
-* Organizer and chair of topic contributed session “Open Problems in Astrostatistics”, the Joint Statistical Meeting, August 6-11 2022.
+* Organizer and chair of topic contributed session “Open Problems in Astrostatistics”, the Joint Statistical Meeting, August 6-11, 2022.
 
 * Program Chair 2022, the ASA Astrostatistics Interest Group (AIG).
 
-* Organizer and chair of two companion topic-contributed sessions “Statistical and Machine Learning Efforts on Solar Flare Predictions (I & II)”, the Joint Statistical Meeting, August 2021.
+* Organizer and chair of two companion topic-contributed sessions, “Statistical and Machine Learning Efforts on Solar Flare Predictions (I & II)”, the Joint Statistical Meeting, August 2021.
 
 * Moderator, Statistical Challenges in Modern Astronomy (SCMA) VII Special Sessions on “Bayesian modeling and computation”, June 9-10, 2021.
 
