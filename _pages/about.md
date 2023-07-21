@@ -10,7 +10,7 @@ redirect_from:
 
 > "The best thing about being a statistician is that you get to play in everyone’s backyard." --John Tukey
 
-I am currently an assistant professor at the [Department of Statistics](https://lsa.umich.edu/stats) at University of Michigan 
+I am currently an assistant professor at the [Department of Statistics](https://lsa.umich.edu/stats) at the University of Michigan 
 and a research assistant professor at Michigan Institute for Data Science ([MIDAS](https://midas.umich.edu/)).
 For more information, see my [CV](https://drive.google.com/file/d/1NCgR0IXTiUxZ4dGgNoYN0F93fmaYlay2/view).
 
@@ -19,7 +19,7 @@ My general research interests are in applied and computational statistics includ
 * Bayesian modeling and computation
 * Hidden Markov models and general finite mixture models
 * Applied statistics and machine learning in astronomy and space science
-* Statistical methods for large scale imaging data
+* Statistical methods for large-scale imaging data
 * Spatial-temporal data analysis
 * Uncertainty quantification for complex models
 
@@ -32,7 +32,7 @@ My general research interests are in applied and computational statistics includ
 
 ## Opportunities
 
-I am currently recruiting postdocs, Ph. D. students master students to join my research group. If you are interested, please send your CV and transcript to my email. 
+I am recruiting postdocs, Ph.D. students master students to join my research group. If you are interested, please send your CV and transcript to my email. 
 
 ---
 
@@ -44,3 +44,11 @@ Address:
 Ann Arbor, MI 48109, USA
 
 Email: ychenang at umich.edu
+
+## Current students
+
+If you want to schedule a meeting with me, the best way is to go to Google Calendar and send a calendar invite to me at one of my available slots. 
+
+## Past students
+
+Please email me and share your updates on work and life. This is an exciting part of my job!
