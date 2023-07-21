@@ -36,7 +36,7 @@ author_profile: true
 * Yuqi Zhai, Ph.D. in Biostatistics, 2023. Dissertation Title: Improving estimation efficiency by integrating external summary information from heterogeneous populations. Role: Cognate.
 
 
-* Elizabeth Chase, Ph.D. in Biostatistics. Dissertation Title: Two Biostatistical Problems. Role: Cognate.
+* Elizabeth Chase, Ph.D. in Biostatistics, 2023. Dissertation Title: Two Biostatistical Problems. Role: Cognate.
 
 
 * Xianing Zheng, Ph.D. in Human Genetics, dual degree in Statistics, 2022. Dissertation title: Single Cell Transcriptomic Analytics: Methods Development, Benchmarking, and Applications in Biological Research. Role: Cognate.
