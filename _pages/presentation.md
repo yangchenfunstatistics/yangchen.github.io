@@ -14,7 +14,7 @@ author_profile: true
 * The Joint Statistical Meetings (JSM), Ontario, Canada, August 5-10, 2023.
 * CHASC Weekly Seminar Series, Virtual, June 9, 2023.
   
-3. Statistical Issues in Instrument Calibrations and ML methods to determine Solar Flare Propensity
+3. Statistical Issues in Instrument Calibrations and Goodness-of-fit in Astrophysics (slides)
 * 64th ISI World Statistics Congress, Ottawa, Canada, July 16-20, 2023.
 
 4. Discussions on Goodness-of-fit and Instrument Calibration in High Energy Physics Observations
