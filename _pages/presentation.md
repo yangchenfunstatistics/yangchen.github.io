@@ -26,10 +26,10 @@ author_profile: true
 * Statistical Challenges in Modern Astronomy VIII, Penn State University, State College, PA, June 15, 2023.
 * AOGS (Asia Oceania Geosciences Society) 2023, 20th Annual Meeting, Virtual, July 30-August 4 2023.
 
-6. Explainable Sym-H forecasting with Gradient Boosting Machines
+6. Explainable Sym-H forecasting with Gradient Boosting Machines [[slides](https://drive.google.com/file/d/121DNcluXgKFO92fSBBymohQAf7ktLx41/view?usp=drive_link)]
 * Magnetosphere Online Seminar Series, Virtual, March 13, 2023.
 
-7. Data Assimilation for Space Weather Modeling Framework (SWMF)
+7. Data Assimilation for Space Weather Modeling Framework (SWMF) [[slides](https://drive.google.com/file/d/1TzgIKrOllPyT1R9_vs9kdaRuCcRoBbca/view?usp=drive_link)]
 * 2023 SWQU Spring Meeting, Cambridge, MA, March 9-10, 2023.
 
 8. Physical Science: AI in Space Weather Forecasting
