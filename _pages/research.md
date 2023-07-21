@@ -19,8 +19,8 @@ author_profile: true
 2. H. Sun, **Y. Chen**, S. Zou, J. Ren, Y. Chang, Z. Wang, A. Coster, *Complete Global Total Electron Content (TEC) Map Dataset based on a Video Imputation Algorithm*, Scientific Data - Nature, Number 10:236, 2023. [[journal](https://doi.org/10.1038/s41597-023-02138-7)]
 3. H. Sun, W. Manchester, M. Jin, Y. Liu, **Y. Chen\***, *Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis*, Proceedings of the 40th International Conference on Machine Learning, PMLR 202:32913-32935, 2023. [[conference proceeding](https://proceedings.mlr.press/v202/sun23f.html)]
 4. H. Sun, J. Ren, **Y. Chen**, S. Zou, *VISTA TEC database [Data set]*, University of Michigan - Deep Blue Data, 2023. [[link](https://doi.org/10.7302/vb27-ez24)]
-5. R. Trangucci, **Y. Chen**, J. Zelner, *Modeling rates of disease with missing categorical data*, accepted by Annals of Applied Statistics, 2023. [[arXiv](https://arxiv.org/abs/2206.08161)]
-6. R. Trangucci, **Y. Chen**, J. Zelner, *Identified vaccine efficacy for binary post-infection outcomes under misclassification without monotonicity*, submitted. [[arXiv](https://https://arxiv.org/abs/2211.16502)]
+5. R. Trangucci, **Y. Chen**, J. Zelner, *Modeling Rates of Disease with Missing Categorical Data*, accepted by Annals of Applied Statistics, 2023. [[arXiv](https://arxiv.org/abs/2206.08161)]
+6. R. Trangucci, **Y. Chen**, J. Zelner, *Identified Vaccine Efficacy for Binary Post-infection Outcomes under Misclassification without monotonicity*, submitted. [[arXiv](https://https://arxiv.org/abs/2211.16502)]
 7. A. Jivani, N. Sachdeva, Z. Huang, **Y. Chen**, B. van der Holst, W. Manchester, D. Iong, H. Chen, S. Zou, X. Huan, G. Toth, *Global Sensitivity Analysis and Uncertainty Quantification for Background Solar Wind using the Alfven Wave Solar Atmosphere Model*, Space Weather 21.1, 2023: e2022SW003262. [[journal](https://doi.org/10.1029/2022SW003262)]
 8. **Y. Chen**, C.-D. Fuh, C.-L. Kao, *Determine the Number of States in Hidden Markov Models via Marginal Likelihood*, submitted.
 9. Z. Wang, S. Zou, H. Sun, **Y. Chen**, *Forecast Global Ionospheric TEC: Apply Modified U-Net on VISTA TEC Dataset*, submitted.
@@ -30,8 +30,8 @@ author_profile: true
 
 ### 2022
 1. K. Whitman et al. *Review of Solar Energetic Particle Models*, Advances in Space Research, 2022. [[journal](https://doi.org/10.1016/j.asr.2022.08.006)]
-2. H. Sun, Z. Hua, J. Ren, S. Zou, Y. Sun and **Y. Chen\***. *Matrix completion methods for the total electron video reconstruction*, Annals of Applied Statistics 16(3), 1333-1358, 2022. [[journal](http://dx.doi.org/10.1214/21-AOAS1541)]
-3. Z. Sun, M. Bobra, X. Wang, Y. Wang, H. Sun, T. Gombosi, **Y. Chen**, A. Hero. *Predicting solar flares using CNN and LSTM on two solar cycles of active region data*, The Astrophysical Journal, 931(2), 2022. [[journal](https://doi.org/10.1002/essoar.10508256.1)]
+2. H. Sun, Z. Hua, J. Ren, S. Zou, Y. Sun and **Y. Chen\***. *Matrix Completion Methods for the Total Electron Video Reconstruction*, Annals of Applied Statistics 16(3), 1333-1358, 2022. [[journal](http://dx.doi.org/10.1214/21-AOAS1541)]
+3. Z. Sun, M. Bobra, X. Wang, Y. Wang, H. Sun, T. Gombosi, **Y. Chen**, A. Hero. *Predicting Solar Flares Using CNN and LSTM on Two Solar Cycles of Active Region Data*, The Astrophysical Journal, 931(2), 2022. [[journal](https://doi.org/10.1002/essoar.10508256.1)]
 4. M. Aktukmak, Z. Sun, M. Bobra, T. I. Gombosi, W. Manchester, **Y. Chen**, A. O. Hero. *Incorporating Polar
 Field Data for Improved Solar Flare Prediction*, Frontiers in Astronomy and Space Sciences, 21 December 2022, Sec. Stellar and Solar Physics, Volume 9 - 2022. [[journal](https://doi.org/10.3389/fspas.2022.1040107)]
 5. S. Kasapis, L. Zhao, **Y. Chen**, X. Wang, M. Bobra, T. I. Gombosi. *Interpretable
