@@ -79,7 +79,7 @@ author_profile: true
     * Seminar, Department of Statistics, Ohio State University, February 18, 2021.
 
 
-## 2018-2020
+## 2020
 
 21. Solar Flare Predictions with Machine Learning, invited talks.
     * Special Session “Machine Learning in Space Weather”, the American Geophysical Union (AGU) Fall Meeting, virtual, December 15, 2020.
@@ -88,6 +88,10 @@ author_profile: true
     * Space Weather Applications of Machine Intelligence (SWAMI) Seminar Series, University of Colorado, Boulder, virtual, September 10, 2020.
     * SDO/STEREO ML Science Meeting, virtual, August 5, 2020.
     * Keynote speaker, Michigan Student Symposium for Interdisciplinary Statistical Sciences, Ann Arbor, MI, February 27, 2020.
+
+
+## 2019
+
     * American Geophysical Union (AGU) Fall Meeting, San Francisco, CA, December 11, 2019.
     * Symposium on Big Data, Human Health, and Statistics, University of Michigan, Ann Arbor, MI, July 25, 2019.
     * 2019 ICSA China Conference, Tianjin, China, July 2, 2019.
@@ -95,8 +99,7 @@ author_profile: true
     * ICSA 2019 Applied Statistics Symposium, Raleigh, NC, June 10, 2019.
     * 3rd SWMF (Space Weather Modeling Framework) Users Meeting, University of Michigan, Ann Arbor, MI, March 4, 2019.
 
-
-22. Calibration Concordance for Astronomical Instruments, invited talks.
+21. Calibration Concordance for Astronomical Instruments, invited talks.
     * Virtual 238th Meeting of the American Astronomical Society (AAS 238), “(Special Session) Unaccounted Uncertainties: The Role of Systematics in Astrophysics”, 7 June 2021.
     * International CHASC AstroStatistics Centre, Topics in Astrostatistics, Harvard University, September 8, 2020.
     * School of Statistics Seminar, University of Minnesota, October 24, 2019;
@@ -107,8 +110,10 @@ author_profile: true
     * 2017 Data Science Research Forum, Michigan Institute for Data Science, University of Michigan, Ann Arbor, MI, December 2017;
     * The Joint Statistical Meetings, Chicago, IL, August 2016.
 
+22. Topics in Bayesian Inference: Specification of Prior Distributions, Earth, Climate and Coffee, Climate and Space Sciences and Engineering, University of Michigan, February 15, 2019.
 
-23. Topics in Bayesian Inference: Specification of Prior Distributions, Earth, Climate and Coffee, Climate and Space Sciences and Engineering, University of Michigan, February 15, 2019.
+
+## 2018
 
 24. Hidden Markov Model (HMM) Order Selection
     * International Society for Bayesian Analysis (ISBA) World Meeting 2021, Virtual, June 28, 2021;
