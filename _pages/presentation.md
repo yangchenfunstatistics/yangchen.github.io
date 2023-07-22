@@ -5,7 +5,7 @@ permalink: /presentation/
 author_profile: true
 ---
 
-## 2021-2023
+## 2023
 
 1. Tensor Gaussian Process With Contraction For Multi-channel Imaging Analysis
 * 2023 INFORMS Annual Meeting, Phoenix, Arizona, October 15-18, 2023.
@@ -33,6 +33,9 @@ author_profile: true
 7. Data Assimilation for Space Weather Modeling Framework (SWMF) [[slides](https://drive.google.com/file/d/1TzgIKrOllPyT1R9_vs9kdaRuCcRoBbca/view?usp=drive_link)]
 * 2023 SWQU Spring Meeting, Cambridge, MA, March 9-10, 2023.
 
+
+## 2022
+
 8. Physical Science: AI in Space Weather Forecasting [[slides](https://drive.google.com/file/d/1aY4HcCuxNfR1AORLgeeltfa3fDF38ZEk/view?usp=drive_link)]
 * U-M Annual Data Science and AI Summit, Ann Arbor, MI, November 14-15, 2022.
 
@@ -57,6 +60,9 @@ author_profile: true
 * Neyman Statistics Seminar, Department of Statistics, University of California, Berkeley, March 30, 2022.
 * Statistics Seminar, Department of Statistics, University of Washington, Seattle, May 20, 2022.
 
+
+## 2021
+
 16. Statistical And Computational Problems In Space Weather Data Challenges
 * INFORMS Annual Meeting, October 27, 2021, Virtual.
 
@@ -71,6 +77,7 @@ author_profile: true
 * Statistics Seminar, Department of Mathematical Sciences, New Jersey Institute of Technology, April 8, 2021.
 * Seminar, Institute for Space Sciences, New Jersey Institute of Technology, February 25, 2021.
 * Seminar, Department of Statistics, Ohio State University, February 18, 2021.
+
 
 ## 2018-2020
 
@@ -119,6 +126,7 @@ author_profile: true
 * The New England Statistics Symposium, University of Connecticut, Storrs, CT, April 2015.
 
 27. A second look at cstat, CHASC meeting, Harvard University, Cambridge, MA, October 30, 2018.
+
 
 ## 2014-2017
 
