@@ -148,3 +148,4 @@ author_profile: true
 33. Discovering the Universe with Dark Energy Camera, Olin College, Needham, MA, April 2014.
 
 34. Nice Curves: Enhancing Variable Star Astronomy through Data Science, poster, ComputeFest in School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, January 2014.
+
