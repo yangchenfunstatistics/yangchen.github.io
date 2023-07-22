@@ -8,12 +8,12 @@ author_profile: true
 ## Current
 
 | Dates | Award Number | Role | Title | Total Award Amount | My Award Amount
-| -- | ---- | - | ----------------------- | --- | --- |
+| -- | ---- | ---- | ----------------------- | --- | --- |
 | 07/01/2021 - 06/30/2024| NSF DMS Award 2113397 | PI | DMS-EPSRC Collaborative Research: Advancing Statistical Foundations and Frontiers for and from Emerging Astronomical Data Challenges |  |  $160,000 |
 |7/30/2022 - 7/29/2023 | Michigan Institute for Data Science (MIDAS) Propelling Original Data Science (PODS) Award | Co-I (PI: Arun Agrawal & Ines Ibanez) | Sustainability outcomes of restrictions on human actions: COVID-19 mobility changes, forest fires and air pollution across land regimes | $35,000 | |
-|03/22/2023 | Provost Early Tenure Track Faculty Research Support Initiative | PI | $3,000 |
-|08/2023-07/2028 | NASA ROSES Heliophysics Space Weather Centers of Excellence Program | Co-I (PI: Thomas Berger) | Space Weather Operational Readiness Development (SWORD) Center | $3,499,990| |
-|08/2023-07/2028 | NASA ROSES Heliophysics Space Weather Centers of Excellence Program | Co-I (PI: Lulu Zhao) | CLEAR: Center for All-Clear SEP Forecast | $9,290,762 | |
+|03/22/2023 | Provost Early Tenure Track Faculty Research Support Initiative | | PI | $3,000 | |
+|08/2023-07/2028 | NASA ROSES Heliophysics Space Weather Centers of Excellence Program | Co-I (PI: Thomas Berger) | Space Weather Operational Readiness Development (SWORD) Center | $3,499,990| $128,062 |
+|08/2023-07/2028 | NASA ROSES Heliophysics Space Weather Centers of Excellence Program | Co-I (PI: Lulu Zhao) | CLEAR: Center for All-Clear SEP Forecast | $9,290,762 | $645,898 |
 
 ## Past
 
