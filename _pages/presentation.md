@@ -9,7 +9,6 @@ author_profile: true
 
 1. Tensor Gaussian Process With Contraction For Multi-channel Imaging Analysis
     * 2023 INFORMS Annual Meeting, Phoenix, Arizona, October 15-18, 2023.
-1.
   
 2. Model fitting and goodness-of-fit in astrophysics
     * The Joint Statistical Meetings (JSM), Ontario, Canada, August 5-10, 2023.
