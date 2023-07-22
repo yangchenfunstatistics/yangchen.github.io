@@ -18,7 +18,7 @@ author_profile: true
 07/01/2021 - 06/30/2024, NSF DMS Award 2113397, Role: PI, DMS-EPSRC Collaborative Research: Advancing Statistical Foundations and Frontiers for and from Emerging Astronomical Data Challenges, total award amount $160,000.
 
 | Dates | Role | Program | Title | Total Award Amount | My Award Amount
-|----------------------------|
+| -- | -- | ------ | ----------------------- | --- | --- |
 | 07/01/2021 - 06/30/2024| NSF DMS Award 2113397 | Role: PI | DMS-EPSRC Collaborative Research: Advancing Statistical Foundations and Frontiers for and from Emerging Astronomical Data Challenges | $160,000.
 
 ## Past
