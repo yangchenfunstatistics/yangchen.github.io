@@ -88,16 +88,15 @@ author_profile: true
     * Space Weather Applications of Machine Intelligence (SWAMI) Seminar Series, University of Colorado, Boulder, virtual, September 10, 2020.
     * SDO/STEREO ML Science Meeting, virtual, August 5, 2020.
     * Keynote speaker, Michigan Student Symposium for Interdisciplinary Statistical Sciences, Ann Arbor, MI, February 27, 2020.
-
-
-## 2019
-
     * American Geophysical Union (AGU) Fall Meeting, San Francisco, CA, December 11, 2019.
     * Symposium on Big Data, Human Health, and Statistics, University of Michigan, Ann Arbor, MI, July 25, 2019.
     * 2019 ICSA China Conference, Tianjin, China, July 2, 2019.
     * 3rd International Conference on Econometrics and Statistics (EcoSta 2019), National Chung Hsing University, Taiwan, June 26, 2019.
     * ICSA 2019 Applied Statistics Symposium, Raleigh, NC, June 10, 2019.
     * 3rd SWMF (Space Weather Modeling Framework) Users Meeting, University of Michigan, Ann Arbor, MI, March 4, 2019.
+
+
+## 2019
 
 21. Calibration Concordance for Astronomical Instruments, invited talks.
     * Virtual 238th Meeting of the American Astronomical Society (AAS 238), “(Special Session) Unaccounted Uncertainties: The Role of Systematics in Astrophysics”, 7 June 2021.
@@ -133,16 +132,19 @@ author_profile: true
 27. A second look at cstat, CHASC meeting, Harvard University, Cambridge, MA, October 30, 2018.
 
 
-## 2014-2017
+## 2017
 
 28. Predictive Models for Molecular Data, Women in Data Science and Mathematics Research Collaboration Workshop (WiSDM), ICERM, Brown University, Providence, RI, July 2017.
 
 29. The Bayesian Statistics behind Calibration Concordance, AAS 230 (230th Meeting of the American Astronomical Society): Special Session “Topics in AstroStatistics”, Austin, TX, June 2017.
 
-30. When MCMC goes online, The Joint Statistical Meetings, Seattle, WA, August 2015.
 
-31. Greedy (Griddy) Parallel MCMC Algorithms, ResearchStats, Harvard University, Cambridge, MA, April 2015.
+# 2014-2015
 
-32. Discovering the Universe with Dark Energy Camera, Olin College, Needham, MA, April 2014.
+31. When MCMC goes online, The Joint Statistical Meetings, Seattle, WA, August 2015.
 
-33. Nice Curves: Enhancing Variable Star Astronomy through Data Science, poster, ComputeFest in School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, January 2014.
+32. Greedy (Griddy) Parallel MCMC Algorithms, ResearchStats, Harvard University, Cambridge, MA, April 2015.
+
+33. Discovering the Universe with Dark Energy Camera, Olin College, Needham, MA, April 2014.
+
+34. Nice Curves: Enhancing Variable Star Astronomy through Data Science, poster, ComputeFest in School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, January 2014.
