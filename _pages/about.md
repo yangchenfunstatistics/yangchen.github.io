@@ -42,11 +42,11 @@ David Jones, Robert Trangucci, and Yang Chen. "Quantifying Observed Prior Impact
 
 Hu Sun, Zhijun Hua, Jiaen Ren, Shasha Zou, Yuekai Sun, and Yang Chen. "Matrix Completion Methods for the Total Electron Content Video Reconstruction." The Annals of Applied Statistics 16, no. 3 (2022): 1333-1358. [[link](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/Matrix-completion-methods-for-the-total-electron-content-video-reconstruction/10.1214/21-AOAS1541.full)]
 
-Hu Sun, Yang Chen, Shasha Zou, Jiaen Ren, Yurui Chang, Zihan Wang, and Anthea Coster. Complete Global Total Electron Content Map Dataset based on a Video Imputation Algorithm VISTA. Sci Data 10, 236 (2023). [[link](https://doi.org/10.1038/s41597-023-02138-7)]
+Hu Sun, Yang Chen, Shasha Zou, Jiaen Ren, Yurui Chang, Zihan Wang, and Anthea Coster. Complete Global Total Electron Content Map Dataset based on a Video Imputation Algorithm VISTA. Nature - Scientific Data 10, 236 (2023). [[link](https://doi.org/10.1038/s41597-023-02138-7)]
 
 #### Matrix Autoregressive Models with Exogeneous Vector Time Series Predictors
 
-Hu Sun, Zuofeng Shang, and Yang Chen. "Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data.", 2023. [[arXiv preprint](https://arxiv.org/abs/2305.15671)]
+Hu Sun, Zuofeng Shang, and Yang Chen. "Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data." (2023). [[arXiv preprint](https://arxiv.org/abs/2305.15671)]
 
 ### Applied Statistical Methods in Physical Sciences
 
@@ -60,13 +60,13 @@ Marshall, Herman L., Yang Chen, Jeremy J. Drake, Matteo Guainazzi, Vinay L. Kash
 
 Yang Chen, Ward B. Manchester, Alfred O. Hero, Gabor Toth, Benoit DuFumier, Tian Zhou, Xiantong Wang, Haonan Zhu, Zeyu Sun, and Tamas I. Gombosi. "Identifying Solar Flare Precursors Using Time Series of SDO/HMI Images and SHARP Parameters." Space Weather 17, no. 10 (2019): 1404-1426. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019SW002214)]
 
-Hu Sun, Ward Manchester, Meng Jin, Yang Liu, Yang Chen. "Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis." Proceedings of the 40th International Conference on Machine Learning, PMLR 202:32913-32935, 2023. [[link](https://proceedings.mlr.press/v202/sun23f.html)]
+Hu Sun, Ward Manchester, Meng Jin, Yang Liu, Yang Chen. "Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis." Proceedings of the 40th International Conference on Machine Learning, PMLR 202:32913-32935 (2023). [[link](https://proceedings.mlr.press/v202/sun23f.html)]
 
 ### Applied Statistical Theory and Methods in Epidemiology
 
-Robert Trangucci, Yang Chen, and Jon Zelner. "Modeling Rates of Disease with Missing Categorical Data.", accepted by The Annals of Applied Statistics, 2023. [[arXiv preprint](https://arxiv.org/abs/2206.08161)]
+Robert Trangucci, Yang Chen, and Jon Zelner. "Modeling Rates of Disease with Missing Categorical Data.", accepted by The Annals of Applied Statistics (2023). [[arXiv preprint](https://arxiv.org/abs/2206.08161)]
 
-Robert Trangucci, Yang Chen, and Jon Zelner. "Identified Vaccine Efficacy for Binary Post-infection Outcomes under Misclassification without Monotonicity.", 2023. [[arXiv preprint](https://arxiv.org/abs/2211.16502)]
+Robert Trangucci, Yang Chen, and Jon Zelner. "Identified Vaccine Efficacy for Binary Post-infection Outcomes under Misclassification without Monotonicity." (2023). [[arXiv preprint](https://arxiv.org/abs/2211.16502)]
 
 ---
 
