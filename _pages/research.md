@@ -22,17 +22,21 @@ author_profile: true
 
 2. Data Assimilation and Uncertainty Quantification: Jivani et al. (2023 SW).
 
-### Bayesian Methodology
+### Statistical Methodology
 
-1. Prior Influence: Jones et al. (2022 BA).
+1. Prior Influence in Bayesian Inference: Jones et al. (2022 BA).
 
-2. Finite Mixture Models -- Order Selection and Misspecification: Chen et al. (2023+).
+2. Matrix Autoregressive Model with Global Exogeneous Predictors: Sun et al. (2023+).
+
+3. Finite Mixture Models -- Order Selection and Misspecification: Chen et al. (2023+).
 
 ### Applied Statistics in Biological Sciences and Epidemiology
 
 1. Biological Sciences: Chen et al. (2016 JASA).
 
-2. Epidemiology: Trangucci et al. (2023 AOAS), Trangucci et al. (2023+). 
+2. Epidemiology: Trangucci et al. (2023 AOAS), Trangucci et al. (2023+), Iong et al. (2023+).
+
+
 
 ## Publications
 
