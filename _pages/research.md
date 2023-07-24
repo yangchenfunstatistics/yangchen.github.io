@@ -6,6 +6,33 @@ permalink: /research/
 author_profile: true
 ---
 
+## Research Topics
+
+### Astrostatistics
+
+1. Instrument Calibration
+
+2. Goodness-of-fit Assessment
+
+3. Solar Flare Forecasting
+
+### Data-Driven Approaches for Space Weather
+
+1. Predictions for Solar Energetic Particles, Geomagnetic Indices and Maps
+
+2. Data Assimilation and Uncertainty Quantification
+
+### Bayesian Methodology
+
+1. Prior Influence
+
+2. Finite Mixture Models: Order Selection and Misspecification
+
+### Applied Statistics in Biological Sciences and Epidemiology
+
+1. Biological Sciences
+
+2. Epidemiology
 
 ## Publications
 
