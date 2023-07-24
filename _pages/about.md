@@ -10,11 +10,18 @@ redirect_from:
 
 > "The best thing about being a statistician is that you get to play in everyone’s backyard." --John Tukey
 
-I am currently an assistant professor at the [Department of Statistics](https://lsa.umich.edu/stats) at the University of Michigan 
+I am currently an assistant professor at the [Department of Statistics](https://lsa.umich.edu/stats/people/faculty/YangChen.html) at the University of Michigan 
 and a research assistant professor at Michigan Institute for Data Science ([MIDAS](https://midas.umich.edu/)).
 For more information, see my [CV](https://drive.google.com/file/d/1NCgR0IXTiUxZ4dGgNoYN0F93fmaYlay2/view).
 
-My research interests are statistical methodology and computational algorithms motivated by scientific applications. In particular, my past and ongoing projects are focused on the following topics:
+
+### Education
+
+* Ph. D. in Statistics, Harvard University, May 2017.
+* B. Sc. in Mathematics, University of Science and Technology of China, July 2011.
+
+  
+My research interests are statistical methodology and computational algorithms motivated by scientific applications. My past and ongoing projects are focused on the following topics:
 
 * Bayesian modeling and computation
 * Hidden Markov models and general finite mixture models
@@ -23,10 +30,43 @@ My research interests are statistical methodology and computational algorithms m
 * Spatial-temporal data analysis
 * Uncertainty quantification for complex models
 
-### Education
+## Selected Recent Publications
 
-* Ph. D. in Statistics, Harvard University, May 2017.
-* B. Sc. in Mathematics, University of Science and Technology of China, July 2011.
+### Statistical Theory and Methodology
+
+#### Quantifying Observed Prior Impact in Bayesian Inference
+
+David Jones, Robert Trangucci, and Yang Chen. "Quantifying Observed Prior Impact." Bayesian Anal. 17 (3) 737 - 764, September 2022. [[link](https://doi.org/10.1214/21-BA1271)]
+
+#### Video Imputation with Spatial and Temporal Smoothness
+
+Hu Sun, Zhijun Hua, Jiaen Ren, Shasha Zou, Yuekai Sun, and Yang Chen. "Matrix completion methods for the total electron content video reconstruction." The Annals of Applied Statistics 16, no. 3 (2022): 1333-1358. [[link](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/Matrix-completion-methods-for-the-total-electron-content-video-reconstruction/10.1214/21-AOAS1541.full)]
+
+Hu Sun, Yang Chen, Shasha Zou, Jiaen Ren, Yurui Chang, Zihan Wang, and Anthea Coster. Complete Global Total Electron Content Map Dataset based on a Video Imputation Algorithm VISTA. Sci Data 10, 236 (2023). [[link](https://doi.org/10.1038/s41597-023-02138-7)]
+
+#### Matrix Autoregressive Models with Exogeneous Vector Time Series Predictors
+
+Hu Sun, Zuofeng Shang, and Yang Chen. "Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data.", 2023. [[arXiv preprint](https://arxiv.org/abs/2305.15671)]
+
+### Applied Statistical Methods in Physical Sciences
+
+#### Calibration Concordance for Astronomical Instruments via Multiplicative Shrinkage
+
+Yang Chen, Xiao-Li Meng, Xufei Wang, David A. van Dyk, Herman L. Marshall, and Vinay L. Kashyap. "Calibration concordance for astronomical instruments via multiplicative shrinkage." Journal of the American Statistical Association 114, no. 527 (2019): 1018-1037. [[link](https://www.tandfonline.com/doi/full/10.1080/01621459.2018.1528978)]
+
+Marshall, Herman L., Yang Chen, Jeremy J. Drake, Matteo Guainazzi, Vinay L. Kashyap, Xiao-Li Meng, Paul P. Plucinsky, Peter Ratzlaff, David A. van Dyk, and Xufei Wang. "Concordance: In-flight Calibration of X-Ray Telescopes without Absolute References." The Astronomical Journal 162, no. 6 (2021): 254. [[link](https://iopscience.iop.org/article/10.3847/1538-3881/ac230a/meta)]
+
+#### Solar Flare Forecasting
+
+Yang Chen, Ward B. Manchester, Alfred O. Hero, Gabor Toth, Benoit DuFumier, Tian Zhou, Xiantong Wang, Haonan Zhu, Zeyu Sun, and Tamas I. Gombosi. "Identifying solar flare precursors using time series of SDO/HMI images and SHARP parameters." Space weather 17, no. 10 (2019): 1404-1426. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019SW002214)]
+
+Hu Sun, Ward Manchester, Meng Jin, Yang Liu, Yang Chen Proceedings of the 40th International Conference on Machine Learning, PMLR 202:32913-32935, 2023. [[link](https://proceedings.mlr.press/v202/sun23f.html)]
+
+### Applied Statistical Theory and Methods in Epidemiology
+
+Robert Trangucci, Yang Chen, and Jon Zelner. "Modeling rates of disease with missing categorical data.", accepted by The Annals of Applied Statistics, 2023. [[arXiv preprint](https://arxiv.org/abs/2206.08161)]
+
+Robert Trangucci, Yang Chen, and Jon Zelner. "Identified vaccine efficacy for binary post-infection outcomes under misclassification without monotonicity.", 2023. [[arXiv preprint](https://arxiv.org/abs/2211.16502)]
 
 ---
 
