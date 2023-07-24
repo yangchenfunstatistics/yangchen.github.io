@@ -18,7 +18,7 @@ author_profile: true
 
 ### Data-Driven Approaches for Space Weather
 
-1. Predictions for Solar Energetic Particles, Geomagnetic Indices and Maps: Sun et al. (2022 AOAS), Sun et al. (2023 SD), Kasapis et al. (2022 SW), Iong et al. (2022 SW), Whitman et al. (2022 ASR).
+1. Predictions for Solar Energetic Particles, Geomagnetic Indices and Maps: Sun et al. (2022 AOAS), [Sun et al. (2023 SD)](https://doi.org/10.1038/s41597-023-02138-7), Kasapis et al. (2022 SW), Iong et al. (2022 SW), Whitman et al. (2022 ASR).
 
 2. Data Assimilation and Uncertainty Quantification: Jivani et al. (2023 SW).
 
