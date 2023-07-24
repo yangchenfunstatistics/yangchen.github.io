@@ -10,11 +10,11 @@ author_profile: true
 
 ### Astrostatistics
 
-1. Instrument Calibration: Chen et al. (2019 JASA), Marshall et al. (2021 AJ).
+1. Instrument Calibration: [Chen et al. (2019 JASA)](https://doi.org/10.1080/01621459.2018.1528978), [Marshall et al. (2021 AJ)](https://doi.org/10.3847/1538-3881/ac230a).
 
-2. Goodness-of-fit Assessment: Li et al. (2023).
+2. Goodness-of-fit Assessment: Li et al. (2023+).
 
-3. Solar Flare Forecasting: Chen et al. (2019 SW), Jiao et al. (2020 SW), Wang et al. (2020 ApJ), Sun et al. (2021 SW), Sun et al. (2022 ApJ), Aktukmak et al. (2022 FASS), Sun et al. (2023 ICML). 
+3. Solar Flare Forecasting: [Chen et al. (2019 SW)](https://doi.org/10.1029/2019SW002214), [Jiao et al. (2020 SW)](https://doi.org/10.1029/2020SW002440), [Wang et al. (2020 ApJ)](https://doi.org/10.3847/1538-4357/ab89ac), [Sun et al. (2021 SW)](https://doi.org/10.1002/essoar.10507540.1), [Sun et al. (2022 ApJ)](https://doi.org/10.1002/essoar.10508256.1), [Aktukmak et al. (2022 FASS)](https://doi.org/10.3389/fspas.2022.1040107), [Sun et al. (2023 ICML)](https://proceedings.mlr.press/v202/sun23f.html). 
 
 ### Data-Driven Approaches for Space Weather
 
