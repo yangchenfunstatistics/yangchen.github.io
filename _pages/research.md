@@ -14,7 +14,7 @@ author_profile: true
 
 2. Goodness-of-fit Assessment: Li et al. (2023).
 
-3. Solar Flare Forecasting: Chen et al. (2019 SW), Jiao et al. (2020 SW), Wang et al. (2020 ApJ), Sun et al. (2021 SW), Sun et al. (2023 ICML). 
+3. Solar Flare Forecasting: Chen et al. (2019 SW), Jiao et al. (2020 SW), Wang et al. (2020 ApJ), Sun et al. (2021 SW), Sun et al. (2022 ApJ), Aktukmak et al. (2022 FASS), Sun et al. (2023 ICML). 
 
 ### Data-Driven Approaches for Space Weather
 
