@@ -10,29 +10,29 @@ author_profile: true
 
 ### Astrostatistics
 
-1. Instrument Calibration
+1. Instrument Calibration: Chen et al. (2019 JASA), Marshall et al. (2021 AJ).
 
-2. Goodness-of-fit Assessment
+2. Goodness-of-fit Assessment: Li et al. (2023).
 
-3. Solar Flare Forecasting
+3. Solar Flare Forecasting: Chen et al. (2019 SW), Jiao et al. (2020 SW), Wang et al. (2020 ApJ), Sun et al. (2021 SW), Sun et al. (2023 ICML). 
 
 ### Data-Driven Approaches for Space Weather
 
-1. Predictions for Solar Energetic Particles, Geomagnetic Indices and Maps
+1. Predictions for Solar Energetic Particles, Geomagnetic Indices and Maps: Sun et al. (2022 AOAS), Sun et al. (2023 SD), Kasapis et al. (2022 SW), Iong et al. (2022 SW), Whitman et al. (2022 ASR).
 
-2. Data Assimilation and Uncertainty Quantification
+2. Data Assimilation and Uncertainty Quantification: Jivani et al. (2023 SW).
 
 ### Bayesian Methodology
 
-1. Prior Influence
+1. Prior Influence: Jones et al. (2022 BA).
 
-2. Finite Mixture Models: Order Selection and Misspecification
+2. Finite Mixture Models -- Order Selection and Misspecification: Chen et al. (2023+).
 
 ### Applied Statistics in Biological Sciences and Epidemiology
 
-1. Biological Sciences
+1. Biological Sciences: Chen et al. (2016 JASA).
 
-2. Epidemiology
+2. Epidemiology: Trangucci et al. (2023 AOAS), Trangucci et al. (2023+). 
 
 ## Publications
 
