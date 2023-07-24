@@ -34,33 +34,33 @@ My research interests are statistical methodology and computational algorithms m
 
 ### Statistical Theory and Methodology
 
-#### Quantifying Observed Prior Impact in Bayesian Inference
+** Quantifying Observed Prior Impact in Bayesian Inference **
 
-David Jones, Robert Trangucci, and Yang Chen. "Quantifying Observed Prior Impact." Bayesian Analysis, 17 (3) 737 - 764, September 2022. [[link](https://doi.org/10.1214/21-BA1271)]
+- David Jones, Robert Trangucci, and Yang Chen. "Quantifying Observed Prior Impact." Bayesian Analysis, 17 (3) 737 - 764, September 2022. [[link](https://doi.org/10.1214/21-BA1271)]
 
-#### Video Imputation with Spatial and Temporal Smoothness
+** Video Imputation with Spatial and Temporal Smoothness **
 
-Hu Sun, Zhijun Hua, Jiaen Ren, Shasha Zou, Yuekai Sun, and Yang Chen. "Matrix Completion Methods for the Total Electron Content Video Reconstruction." The Annals of Applied Statistics 16, no. 3 (2022): 1333-1358. [[link](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/Matrix-completion-methods-for-the-total-electron-content-video-reconstruction/10.1214/21-AOAS1541.full)]
+- Hu Sun, Zhijun Hua, Jiaen Ren, Shasha Zou, Yuekai Sun, and Yang Chen. "Matrix Completion Methods for the Total Electron Content Video Reconstruction." The Annals of Applied Statistics 16, no. 3 (2022): 1333-1358. [[link](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/Matrix-completion-methods-for-the-total-electron-content-video-reconstruction/10.1214/21-AOAS1541.full)]
 
-Hu Sun, Yang Chen, Shasha Zou, Jiaen Ren, Yurui Chang, Zihan Wang, and Anthea Coster. Complete Global Total Electron Content Map Dataset based on a Video Imputation Algorithm VISTA. Nature - Scientific Data 10, 236 (2023). [[link](https://doi.org/10.1038/s41597-023-02138-7)]
+- Hu Sun, Yang Chen, Shasha Zou, Jiaen Ren, Yurui Chang, Zihan Wang, and Anthea Coster. Complete Global Total Electron Content Map Dataset based on a Video Imputation Algorithm VISTA. Nature - Scientific Data 10, 236 (2023). [[link](https://doi.org/10.1038/s41597-023-02138-7)]
 
-#### Matrix Autoregressive Models with Exogeneous Vector Time Series Predictors
+** Matrix Autoregressive Models with Exogeneous Vector Time Series Predictors **
 
-Hu Sun, Zuofeng Shang, and Yang Chen. "Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data." (2023). [[arXiv preprint](https://arxiv.org/abs/2305.15671)]
+- Hu Sun, Zuofeng Shang, and Yang Chen. "Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data." (2023). [[arXiv preprint](https://arxiv.org/abs/2305.15671)]
 
 ### Applied Statistical Methods in Physical Sciences
 
-#### Calibration Concordance for Astronomical Instruments via Multiplicative Shrinkage
+** Calibration Concordance for Astronomical Instruments via Multiplicative Shrinkage **
 
-Yang Chen, Xiao-Li Meng, Xufei Wang, David A. van Dyk, Herman L. Marshall, and Vinay L. Kashyap. "Calibration Concordance for Astronomical Instruments via Multiplicative Shrinkage." Journal of the American Statistical Association 114, no. 527 (2019): 1018-1037. [[link](https://www.tandfonline.com/doi/full/10.1080/01621459.2018.1528978)]
+- Yang Chen, Xiao-Li Meng, Xufei Wang, David A. van Dyk, Herman L. Marshall, and Vinay L. Kashyap. "Calibration Concordance for Astronomical Instruments via Multiplicative Shrinkage." Journal of the American Statistical Association 114, no. 527 (2019): 1018-1037. [[link](https://www.tandfonline.com/doi/full/10.1080/01621459.2018.1528978)]
 
-Marshall, Herman L., Yang Chen, Jeremy J. Drake, Matteo Guainazzi, Vinay L. Kashyap, Xiao-Li Meng, Paul P. Plucinsky, Peter Ratzlaff, David A. van Dyk, and Xufei Wang. "Concordance: In-flight Calibration of X-Ray Telescopes without Absolute References." The Astronomical Journal 162, no. 6 (2021): 254. [[link](https://iopscience.iop.org/article/10.3847/1538-3881/ac230a/meta)]
+- Marshall, Herman L., Yang Chen, Jeremy J. Drake, Matteo Guainazzi, Vinay L. Kashyap, Xiao-Li Meng, Paul P. Plucinsky, Peter Ratzlaff, David A. van Dyk, and Xufei Wang. "Concordance: In-flight Calibration of X-Ray Telescopes without Absolute References." The Astronomical Journal 162, no. 6 (2021): 254. [[link](https://iopscience.iop.org/article/10.3847/1538-3881/ac230a/meta)]
 
-#### Solar Flare Forecasting
+** Solar Flare Forecasting **
 
-Yang Chen, Ward B. Manchester, Alfred O. Hero, Gabor Toth, Benoit DuFumier, Tian Zhou, Xiantong Wang, Haonan Zhu, Zeyu Sun, and Tamas I. Gombosi. "Identifying Solar Flare Precursors Using Time Series of SDO/HMI Images and SHARP Parameters." Space Weather 17, no. 10 (2019): 1404-1426. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019SW002214)]
+- Yang Chen, Ward B. Manchester, Alfred O. Hero, Gabor Toth, Benoit DuFumier, Tian Zhou, Xiantong Wang, Haonan Zhu, Zeyu Sun, and Tamas I. Gombosi. "Identifying Solar Flare Precursors Using Time Series of SDO/HMI Images and SHARP Parameters." Space Weather 17, no. 10 (2019): 1404-1426. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019SW002214)]
 
-Hu Sun, Ward Manchester, Meng Jin, Yang Liu, Yang Chen. "Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis." Proceedings of the 40th International Conference on Machine Learning, PMLR 202:32913-32935 (2023). [[link](https://proceedings.mlr.press/v202/sun23f.html)]
+- Hu Sun, Ward Manchester, Meng Jin, Yang Liu, Yang Chen. "Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis." Proceedings of the 40th International Conference on Machine Learning, PMLR 202:32913-32935 (2023). [[link](https://proceedings.mlr.press/v202/sun23f.html)]
 
 ### Applied Statistical Theory and Methods in Epidemiology
 
