@@ -34,6 +34,7 @@ My research interests are statistical methodology and computational algorithms m
 
 ### Statistical Theory and Methodology
 
+
 *Quantifying Observed Prior Impact in Bayesian Inference*
 
 - David Jones, Robert Trangucci, and Yang Chen. "Quantifying Observed Prior Impact." Bayesian Analysis, 17 (3) 737 - 764, September 2022. [[link](https://doi.org/10.1214/21-BA1271)]
@@ -50,6 +51,7 @@ My research interests are statistical methodology and computational algorithms m
 
 ### Applied Statistical Methods in Physical Sciences
 
+
 *Calibration Concordance for Astronomical Instruments via Multiplicative Shrinkage*
 
 - Yang Chen, Xiao-Li Meng, Xufei Wang, David A. van Dyk, Herman L. Marshall, and Vinay L. Kashyap. "Calibration Concordance for Astronomical Instruments via Multiplicative Shrinkage." Journal of the American Statistical Association 114, no. 527 (2019): 1018-1037. [[link](https://www.tandfonline.com/doi/full/10.1080/01621459.2018.1528978)]
@@ -63,6 +65,7 @@ My research interests are statistical methodology and computational algorithms m
 - Hu Sun, Ward Manchester, Meng Jin, Yang Liu, Yang Chen. "Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis." Proceedings of the 40th International Conference on Machine Learning, PMLR 202:32913-32935 (2023). [[link](https://proceedings.mlr.press/v202/sun23f.html)]
 
 ### Applied Statistical Theory and Methods in Epidemiology
+
 
 Robert Trangucci, Yang Chen, and Jon Zelner. "Modeling Rates of Disease with Missing Categorical Data.", accepted by The Annals of Applied Statistics (2023). [[arXiv preprint](https://arxiv.org/abs/2206.08161)]
 
