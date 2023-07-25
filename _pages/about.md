@@ -92,13 +92,13 @@ Ann Arbor, MI 48109, USA
 
 Email: ychenang at umich.edu
 
-## Current students
+### Current students
 
 If you want to schedule a meeting with me, the best way is to go to Google Calendar and send a calendar invite to me at one of my available slots. 
 
-## Past students
+### Past students
 
 Please email me and share your updates on work and life. This is an exciting part of my job!
 
 
-* This webpage is updated every two weeks. 
+> This webpage is updated every two weeks. 
