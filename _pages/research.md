@@ -18,23 +18,23 @@ author_profile: true
 
 ### Data-Driven Approaches for Space Weather
 
-1. Predictions for Solar Energetic Particles, Geomagnetic Indices and Maps: Sun et al. (2022 AOAS), [Sun et al. (2023 SD)](https://doi.org/10.1038/s41597-023-02138-7), Kasapis et al. (2022 SW), Iong et al. (2022 SW), Whitman et al. (2022 ASR).
+1. Predictions for Solar Energetic Particles, Geomagnetic Indices and Maps: [Sun et al. (2022 AOAS)](http://dx.doi.org/10.1214/21-AOAS1541), [Sun et al. (2023 SD)](https://doi.org/10.1038/s41597-023-02138-7), [Kasapis et al. (2022 SW)](https://doi.org/10.1029/2021SW002842), [Iong et al. (2022 SW)](https://doi.org/10.1029/2021SW002928), [Whitman et al. (2022 ASR)](https://doi.org/10.1016/j.asr.2022.08.006).
 
-2. Data Assimilation and Uncertainty Quantification: Jivani et al. (2023 SW).
+2. Data Assimilation and Uncertainty Quantification: [Jivani et al. (2023 SW)](https://doi.org/10.1029/2022SW003262).
 
 ### Statistical Methodology
 
-1. Prior Influence in Bayesian Inference: Jones et al. (2022 BA).
+1. Prior Influence in Bayesian Inference: [Jones et al. (2022 BA)](https://doi.org/10.1214/21-BA1217).
 
-2. Matrix Autoregressive Model with Global Exogeneous Predictors: Sun et al. (2023+).
+2. Matrix Autoregressive Model with Global Exogeneous Predictors: [Sun et al. (2023+)](https://arxiv.org/abs/2305.15671).
 
 3. Finite Mixture Models -- Order Selection and Misspecification: Chen et al. (2023+).
 
 ### Applied Statistics in Biological Sciences and Epidemiology
 
-1. Biological Sciences: Chen et al. (2016 JASA).
+1. Biological Sciences: [Chen et al. (2016 JASA)](https://doi.org/10.1080/01621459.2016.1140050), [Choi et al. (2020 GB)](https://doi.org/10.1186/s13059-020-02103-2).
 
-2. Epidemiology: Trangucci et al. (2023 AOAS), Trangucci et al. (2023+), Iong et al. (2023+).
+2. Epidemiology: [Zhao et al. (2019 IJE)](https://doi.org/10.1093/ije/dyz142), Trangucci et al. (2023 AOAS), Trangucci et al. (2023+), Iong et al. (2023+).
 
 
 
