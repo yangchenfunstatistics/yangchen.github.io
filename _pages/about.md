@@ -14,7 +14,7 @@ I am currently an assistant professor at the [Department of Statistics](https://
 and a research assistant professor at Michigan Institute for Data Science ([MIDAS](https://midas.umich.edu/)).
 
 
-Besides, I hold *two full-time jobs* as a mother of two lovely "monsters" :) 
+Besides, I hold *"two full-time jobs"* as a mother of two lovely "monsters" :) 
 
 > For me, being a mother made me a better professional, because coming home every night to my girls reminded me what I was working for. And being a professional made me a better mother, because by pursuing my dreams, I was modeling for my girls how to pursue their dreams. --Michelle Obama
 
