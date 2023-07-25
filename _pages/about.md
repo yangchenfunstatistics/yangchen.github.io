@@ -12,7 +12,11 @@ redirect_from:
 
 I am currently an assistant professor at the [Department of Statistics](https://lsa.umich.edu/stats/people/faculty/YangChen.html) at the University of Michigan 
 and a research assistant professor at Michigan Institute for Data Science ([MIDAS](https://midas.umich.edu/)).
-For more information, see my [CV](https://drive.google.com/file/d/1NCgR0IXTiUxZ4dGgNoYN0F93fmaYlay2/view).
+
+
+Besides, I hold *two full-time jobs* as a mother of two lovely "monsters" :) 
+
+> For me, being a mother made me a better professional, because coming home every night to my girls reminded me what I was working for. And being a professional made me a better mother, because by pursuing my dreams, I was modeling for my girls how to pursue their dreams. --Michelle Obama
 
 
 ### Education
