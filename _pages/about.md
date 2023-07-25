@@ -24,6 +24,8 @@ Besides, I hold *"two full-time jobs"* as a mother of two.
 * Ph. D. in Statistics, Harvard University, May 2017.
 * B. Sc. in Mathematics, University of Science and Technology of China, July 2011.
 
+
+### Research Interests
   
 My research interests are statistical methodology and computational algorithms motivated by scientific applications. My past and ongoing projects are focused on the following topics:
 
@@ -33,6 +35,7 @@ My research interests are statistical methodology and computational algorithms m
 * Statistical methods for large-scale imaging data
 * Spatial-temporal data analysis
 * Uncertainty quantification for complex models
+
 
 ## Selected Recent Publications
 
