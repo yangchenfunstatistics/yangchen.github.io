@@ -41,7 +41,7 @@ author_profile: true
 
 ## Full List of Publications by Year
 
-Also available at: [Google Scholar](https://scholar.google.com/citations?user=ycbIaucAAAAJ&hl=en) and [Research Gate](https://www.researchgate.net/profile/Yang-Chen-202)
+Also available at: my [Google Scholar](https://scholar.google.com/citations?user=ycbIaucAAAAJ&hl=en) and [Research Gate](https://www.researchgate.net/profile/Yang-Chen-202) pages.
 
 \* corresponding author
 
