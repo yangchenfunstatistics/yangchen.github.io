@@ -6,7 +6,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research Topics
+## Publications by Research Topics
 
 ### Astrostatistics
 
