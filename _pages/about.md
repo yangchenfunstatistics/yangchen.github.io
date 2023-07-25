@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-> "The best thing about being a statistician is that you get to play in everyone’s backyard." --John Tukey
+> "The best thing about being a statistician is that you get to play in everyone’s backyard." -- John Tukey
 
 I am currently an assistant professor at the [Department of Statistics](https://lsa.umich.edu/stats/people/faculty/YangChen.html) at the University of Michigan 
 and a research assistant professor at Michigan Institute for Data Science ([MIDAS](https://midas.umich.edu/)).
@@ -16,7 +16,7 @@ and a research assistant professor at Michigan Institute for Data Science ([MIDA
 
 Besides, I hold *"two full-time jobs"* as a mother of two.
 
-> For me, being a mother made me a better professional, because coming home every night to my girls reminded me what I was working for. And being a professional made me a better mother, because by pursuing my dreams, I was modeling for my girls how to pursue their dreams. --Michelle Obama
+> For me, being a mother made me a better professional, because coming home every night to my girls reminded me what I was working for. And being a professional made me a better mother, because by pursuing my dreams, I was modeling for my girls how to pursue their dreams. -- Michelle Obama
 
 
 ### Education
