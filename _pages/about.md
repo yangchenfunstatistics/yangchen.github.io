@@ -82,7 +82,7 @@ Robert Trangucci, Yang Chen, and Jon Zelner. "Identified Vaccine Efficacy for Bi
 
 ## Opportunities
 
-I am recruiting postdocs, Ph.D. students master students to join my research group. If you are interested, please send your CV and transcript to my email. 
+I am recruiting postdocs, Ph.D., master's, and undergraduate students to join my research group. If you are interested, please send your CV and transcript to my email. 
 
 ---
 
@@ -102,6 +102,8 @@ If you want to schedule a meeting with me, the best way is to go to Google Calen
 ### Past students
 
 Please email me and share your updates on work and life. This is an exciting part of my job!
+
+
 
 
 > This webpage is updated every two weeks. 
