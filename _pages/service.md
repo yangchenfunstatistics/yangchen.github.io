@@ -62,7 +62,7 @@ author_profile: true
   
 *  Graduate curriculum committee, 2022.
   
-*  Undergraduate curriculum committee, 2021.
+*  Undergraduate curriculum committee, 2021, 2023.
   
 *  Ph.D. admissions committee, 2021, 2022.
 
