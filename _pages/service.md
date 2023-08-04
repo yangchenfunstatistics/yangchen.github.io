@@ -141,10 +141,10 @@ author_profile: true
 
 ### Enginnering Fields
 
-* Matthew-Remy Aguirre, Ph.D. in Industrial and Operations Engineering. Dissertation Title: NA. Role: Cognate.
+* Matthew-Remy Aguirre, Ph.D. in Industrial and Operations Engineering. Dissertation Title: Data Analytics of Human Behaviors with Applications. Role: Cognate.
 
 
-* Zeyu Sun, Ph.D. candidate in Electrical Engineering and Computer Sciences.
+* Zeyu Sun, a Ph.D. candidate in Electrical Engineering and Computer Sciences.
 
 
 * Spiridon Kasapis, Ph.D. in Naval Architecture and Marine Engineering, 2023. Dissertation title: Processing Image Data from Unstructured Environments. Role: Cognate.
