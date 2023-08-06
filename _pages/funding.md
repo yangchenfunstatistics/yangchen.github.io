@@ -10,8 +10,6 @@ author_profile: true
 | Dates | Award Number | Role | Title | Total Award Amount | My Award Amount
 | -- | ---- | ---- | ----------------------- | --- | --- |
 07/01/2021 - 06/30/2024| NSF DMS Award 2113397 | PI | DMS-EPSRC Collaborative Research: Advancing Statistical Foundations and Frontiers for and from Emerging Astronomical Data Challenges |  |  $160,000 |
-|7/30/2022 - 7/29/2023 | Michigan Institute for Data Science (MIDAS) Propelling Original Data Science (PODS) Award | Co-I (PI: Arun Agrawal & Ines Ibanez) | Sustainability outcomes of restrictions on human actions: COVID-19 mobility changes, forest fires and air pollution across land regimes | $35,000 | |
-|03/22/2023 | Provost Early Tenure Track Faculty Research Support Initiative | PI | || $3,000 |
 |08/2023-07/2028 | NASA ROSES Heliophysics Space Weather Centers of Excellence Program | Co-I (PI: Thomas Berger) | Space Weather Operational Readiness Development (SWORD) Center | $3,499,990| $128,062 |
 |08/2023-07/2028 | NASA ROSES Heliophysics Space Weather Centers of Excellence Program | Co-I (PI: Lulu Zhao) | CLEAR: Center for All-Clear SEP Forecast | $9,290,762 | $645,898 |
 
@@ -21,6 +19,8 @@ author_profile: true
 | Dates | Award Number | Role | Title | Total Award Amount | My Award Amount
 | -- | ---- | ---- | ----------------------- | --- | --- |
 |09/01/2020 - 8/31/2023 | NSF PHY Award 2027555 | Co-PI, lead on data assimilation (PI: Gabor Toth) | SWQU: NextGen Space Weather Modeling Framework Using Data, Physics and Uncertainty Quantification | $2,860,000 | $333,451 |
+|7/30/2022 - 7/29/2023 | Michigan Institute for Data Science (MIDAS) Propelling Original Data Science (PODS) Award | Co-I (PI: Arun Agrawal & Ines Ibanez) | Sustainability outcomes of restrictions on human actions: COVID-19 mobility changes, forest fires and air pollution across land regimes | $35,000 | |
+|03/22/2023 | Provost Early Tenure Track Faculty Research Support Initiative | PI | || $3,000 |
 |12/20/2019 - 12/19/2021 | NASA ROSES18 DRIVE Science Center Phase 1 Award, 80NSSC20K0600 | Co-PI, lead on machine learning (PI: Tamas Gombosi) | Solar Storms and Terrestrial Impacts Center (SOLSTICE) | $1,200,000 | $203,247 |
 |03/25/2019 - 03/24/2020 | Google Cloud Platform research credits | PI | | | $6,000 |
 |07/15/2018 - 06/30/2021 | NSF DMS Award 1811083 | PI | Collaborative Research: Highly Principled Data Science for Multi-Domain Astronomical Measurements and Analysis|| $79,996|
