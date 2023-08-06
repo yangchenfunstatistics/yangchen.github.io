@@ -7,30 +7,37 @@ author_profile: true
 
 ## 2023
 
-1. Tensor Gaussian Process With Contraction For Multi-channel Imaging Analysis
+1. Data-Driven Approaches to Space Weather Prediction Problems
+    * Physics and Astronomy Seminar at University of Alabama, Huntsville, October 17, 2023.
+
+2. Video Imputation and Prediction Methods with Applications in Space Weather
+    * Statistics Colloquium at Michigan State Univeristy, East Lansing, Michigan, September 7, 2023.
+    * Statistics Colloquium at Auburn University, Virtual, September 6, 2023.
+
+3. Tensor Gaussian Process With Contraction For Multi-channel Imaging Analysis
     * 2023 INFORMS Annual Meeting, Phoenix, Arizona, October 15-18, 2023.
   
-2. Model fitting and goodness-of-fit in astrophysics [[slides](https://drive.google.com/file/d/1EW6mvsukdSDqZ1dLLIuHs5gZszFzKNBd/view?usp=drive_link)]
+4. Model fitting and goodness-of-fit in astrophysics [[slides](https://drive.google.com/file/d/1EW6mvsukdSDqZ1dLLIuHs5gZszFzKNBd/view?usp=drive_link)]
     * The Joint Statistical Meetings (JSM), Ontario, Canada, August 5-10, 2023.
     * CHASC Weekly Seminar Series, Virtual, June 9, 2023.
   
-3. Statistical Issues in Instrument Calibrations and Goodness-of-fit in Astrophysics [[slides](https://drive.google.com/file/d/13zMl-YW8bpZZo-A5QeZXff5hpi6L9_EW/view?usp=drive_link)]
+5. Statistical Issues in Instrument Calibrations and Goodness-of-fit in Astrophysics [[slides](https://drive.google.com/file/d/13zMl-YW8bpZZo-A5QeZXff5hpi6L9_EW/view?usp=drive_link)]
     * 64th ISI World Statistics Congress, Ottawa, Canada, July 16-20, 2023.
 
-4. Discussions on Goodness-of-fit and Instrument Calibration in High Energy Physics Observations
+6. Discussions on Goodness-of-fit and Instrument Calibration in High Energy Physics Observations
     * IACHEC CalStats Working Group, Virtual, April 25, 2023.
 
-5. Statistical Models for Solar Flare Predictions [[slides](https://drive.google.com/file/d/121DNcluXgKFO92fSBBymohQAf7ktLx41/view?usp=drive_link)]
+7. Statistical Models for Solar Flare Predictions [[slides](https://drive.google.com/file/d/121DNcluXgKFO92fSBBymohQAf7ktLx41/view?usp=drive_link)]
     * AI in Science and Engineering Symposium, University of Michigan, Ann Arbor, April 3, 2023.
     * Ann Arbor Chapter of American Statistical Association, Virtual, April 4, 2023.
     * Statistical Challenges in Modern Astronomy VIII, Penn State University, State College, PA, June 15, 2023.
     * AOGS (Asia Oceania Geosciences Society) 2023, 20th Annual Meeting, Virtual, July 30-August 4, 2023.
     * Workshop on Machine Learning, Data Mining, and Data Assimilation in Geospace (LMAG 2023), JHU/APL, Laurel MD, 21 - 25 August 2023. 
 
-6. Explainable Sym-H forecasting with Gradient Boosting Machines [[slides](https://drive.google.com/file/d/121DNcluXgKFO92fSBBymohQAf7ktLx41/view?usp=drive_link)]
+8. Explainable Sym-H forecasting with Gradient Boosting Machines [[slides](https://drive.google.com/file/d/121DNcluXgKFO92fSBBymohQAf7ktLx41/view?usp=drive_link)]
     * Magnetosphere Online Seminar Series, Virtual, March 13, 2023.
 
-7. Data Assimilation for Space Weather Modeling Framework (SWMF) [[slides](https://drive.google.com/file/d/1TzgIKrOllPyT1R9_vs9kdaRuCcRoBbca/view?usp=drive_link)]
+9. Data Assimilation for Space Weather Modeling Framework (SWMF) [[slides](https://drive.google.com/file/d/1TzgIKrOllPyT1R9_vs9kdaRuCcRoBbca/view?usp=drive_link)]
     * 2023 SWQU Spring Meeting, Cambridge, MA, March 9-10, 2023.
 
 
