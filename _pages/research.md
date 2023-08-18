@@ -18,7 +18,7 @@ author_profile: true
 
 ### Data-Driven Approaches for Space Weather
 
-1. Predictions for Solar Energetic Particles, Geomagnetic Indices and Maps: [Sun et al. (2022 AOAS)](http://dx.doi.org/10.1214/21-AOAS1541), [Sun et al. (2023 SD)](https://doi.org/10.1038/s41597-023-02138-7), [Kasapis et al. (2022 SW)](https://doi.org/10.1029/2021SW002842), [Iong et al. (2022 SW)](https://doi.org/10.1029/2021SW002928), [Whitman et al. (2022 ASR)](https://doi.org/10.1016/j.asr.2022.08.006).
+1. Predictions for Solar Energetic Particles, Geomagnetic Indices and Maps: [Sun et al. (2022 AOAS)](http://dx.doi.org/10.1214/21-AOAS1541), [Sun et al. (2023 SD)](https://doi.org/10.1038/s41597-023-02138-7), [Kasapis et al. (2022 SW)](https://doi.org/10.1029/2021SW002842), [Iong et al. (2022 SW)](https://doi.org/10.1029/2021SW002928), [Whitman et al. (2022 ASR)](https://doi.org/10.1016/j.asr.2022.08.006), [Wang et al. (2023 SW)](https://doi.org/10.1029/2023SW003494).
 
 2. Data Assimilation and Uncertainty Quantification: [Jivani et al. (2023 SW)](https://doi.org/10.1029/2022SW003262).
 
@@ -54,8 +54,8 @@ Also available at: my [Google Scholar](https://scholar.google.com/citations?user
 5. R. Trangucci, **Y. Chen**, J. Zelner, *Modeling Rates of Disease with Missing Categorical Data*, accepted by Annals of Applied Statistics, 2023. [[arXiv](https://arxiv.org/abs/2206.08161)]
 6. R. Trangucci, **Y. Chen**, J. Zelner, *Identified Vaccine Efficacy for Binary Post-infection Outcomes under Misclassification without monotonicity*, submitted. [[arXiv](https://https://arxiv.org/abs/2211.16502)]
 7. A. Jivani, N. Sachdeva, Z. Huang, **Y. Chen**, B. van der Holst, W. Manchester, D. Iong, H. Chen, S. Zou, X. Huan, G. Toth, *Global Sensitivity Analysis and Uncertainty Quantification for Background Solar Wind using the Alfven Wave Solar Atmosphere Model*, Space Weather 21.1, 2023: e2022SW003262. [[journal](https://doi.org/10.1029/2022SW003262)]
-8. **Y. Chen**, C.-D. Fuh, C.-L. Kao, *Determine the Number of States in Hidden Markov Models via Marginal Likelihood*, submitted.
-9. Z. Wang, S. Zou, H. Sun, **Y. Chen**, *Forecast Global Ionospheric TEC: Apply Modified U-Net on VISTA TEC Dataset*, submitted.
+8. **Y. Chen**, C.-D. Fuh, C.-L. Kao, *Determine the Number of States in Hidden Markov Models via Marginal Likelihoods*, submitted.
+9. Z. Wang, S. Zou, H. Sun, **Y. Chen**, *Forecast Global Ionospheric TEC: Apply Modified U-Net on VISTA TEC Dataset*, Space Weather 21, no. 8 (2023): e2023SW003494. [[journal](https://doi.org/10.1029/2023SW003494)]
 10. D. Iong, Q. Zhao, and **Y. Chen**. *Latent Mixture Model for Effect Heterogeneity in Mendelian Randomization*, submitted. [[arXiv](https://arxiv.org/abs/2007.06476)]
 11. H. Sun, Z. Shang, **Y.Chen\***, *Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data*, submitted. [[arXiv](https://arxiv.org/abs/2305.15671)]
 
