@@ -32,7 +32,7 @@ author_profile: true
     * Ann Arbor Chapter of American Statistical Association, Virtual, April 4, 2023.
     * Statistical Challenges in Modern Astronomy VIII, Penn State University, State College, PA, June 15, 2023. [[slides](https://drive.google.com/file/d/121DNcluXgKFO92fSBBymohQAf7ktLx41/view?usp=drive_link)]
     * AOGS (Asia Oceania Geosciences Society) 2023, 20th Annual Meeting, Virtual, July 30-August 4, 2023.
-    * Workshop on Machine Learning, Data Mining, and Data Assimilation in Geospace (LMAG 2023), JHU/APL, Laurel MD, 21 - 25 August 2023. [[slides](https://drive.google.com/file/d/1fY8arPgMf0Ew6bjlQCSZzsXNNTg_r6TQ/view?usp=drive_link)]
+    * Workshop on Machine Learning, Data Mining, and Data Assimilation in Geospace (LMAG 2023), JHU/APL, Laurel MD, August 21 - 24, 2023. [[slides](https://drive.google.com/file/d/1fY8arPgMf0Ew6bjlQCSZzsXNNTg_r6TQ/view?usp=drive_link)]
 
 8. Explainable Sym-H forecasting with Gradient Boosting Machines [[slides](https://drive.google.com/file/d/121DNcluXgKFO92fSBBymohQAf7ktLx41/view?usp=drive_link)]
     * Magnetosphere Online Seminar Series, Virtual, March 13, 2023.
