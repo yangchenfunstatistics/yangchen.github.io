@@ -56,7 +56,7 @@ Also available at: my [Google Scholar](https://scholar.google.com/citations?user
 7. A. Jivani, N. Sachdeva, Z. Huang, **Y. Chen**, B. van der Holst, W. Manchester, D. Iong, H. Chen, S. Zou, X. Huan, G. Toth, *Global Sensitivity Analysis and Uncertainty Quantification for Background Solar Wind using the Alfven Wave Solar Atmosphere Model*, Space Weather 21.1, 2023: e2022SW003262. [[journal](https://doi.org/10.1029/2022SW003262)]
 8. **Y. Chen**, C.-D. Fuh, C.-L. Kao, *Determine the Number of States in Hidden Markov Models via Marginal Likelihoods*, submitted.
 9. Z. Wang, S. Zou, H. Sun, **Y. Chen**, *Forecast Global Ionospheric TEC: Apply Modified U-Net on VISTA TEC Dataset*, Space Weather 21, no. 8 (2023): e2023SW003494. [[journal](https://doi.org/10.1029/2023SW003494)]
-10. D. Iong, Q. Zhao, and **Y. Chen**. *Latent Mixture Model for Effect Heterogeneity in Mendelian Randomization*, submitted. [[arXiv](https://arxiv.org/abs/2007.06476)]
+10. D. Iong, Q. Zhao, and **Y. Chen**. *Latent Mixture Model for Effect Heterogeneity in Mendelian Randomization*, accepted by Annals of Applied Statistics. [[arXiv](https://arxiv.org/abs/2007.06476)]
 11. H. Sun, Z. Shang, **Y.Chen\***, *Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data*, submitted. [[arXiv](https://arxiv.org/abs/2305.15671)]
 
 
