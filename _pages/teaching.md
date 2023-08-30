@@ -5,9 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Future Teaching
+## Current Teaching
 
-* 2023 Fall, STATS 605: Advanced Topics in Modeling and Data Analysis.
+* 2023 Fall, STATS 605: Advanced Topics in Modeling and Data Analysis. [[Syllabus](https://docs.google.com/document/d/1Ecl2rO4t6KF3ROW1t3qqWOeOQ4jB9xHwM5J34hZO9wo/edit)]
 
 ## Past Teaching
 
