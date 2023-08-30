@@ -77,8 +77,6 @@ author_profile: true
 
 * Organizer and chair of topic contributed session “Open Problems in Astrostatistics”, the Joint Statistical Meeting, August 6-11, 2022.
 
-* Program Chair 2022, the ASA Astrostatistics Interest Group (AIG).
-
 * Organizer and chair of two companion topic-contributed sessions, “Statistical and Machine Learning Efforts on Solar Flare Predictions (I & II)”, the Joint Statistical Meeting, August 2021.
 
 * Moderator, Statistical Challenges in Modern Astronomy (SCMA) VII Special Sessions on “Bayesian modeling and computation”, June 9-10, 2021.
