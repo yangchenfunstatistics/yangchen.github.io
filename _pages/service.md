@@ -35,7 +35,7 @@ author_profile: true
 
 * Local organizing committee, ICSA 2023 Applied Statistics Symposium, Ann Arbor, MI, June 11 - 14, 2023.
 
-* Program Chair-Elect 2021, the ASA Astrostatistics Interest Group (AIG).
+* Program Chair-Elect 2021 and program chair 2022, the ASA Astrostatistics Interest Group (AIG).
 
 * Committee of student paper competition at Statistical Learning and Data Science/Nonparametric Statistics (SLDS) 2020, March 2020.
 
