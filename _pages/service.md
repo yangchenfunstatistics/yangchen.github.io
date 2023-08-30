@@ -31,8 +31,6 @@ author_profile: true
 
 * Committee member for the Committee on Women in Statistics (CoWiS) of the American Statistical Association (ASA), 2022-2024.
 
-* Organizer and moderator of session “Panel on Careers in Data Science”, ICSA 2023 Applied Statistics Symposium, Ann Arbor, MI, June 12, 2023.
-
 * Local organizing committee, ICSA 2023 Applied Statistics Symposium, Ann Arbor, MI, June 11 - 14, 2023.
 
 * Program Chair-Elect 2021 and program chair 2022, the ASA Astrostatistics Interest Group (AIG).
