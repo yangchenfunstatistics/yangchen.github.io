@@ -10,9 +10,9 @@ author_profile: true
 1. Data-Driven Approaches to Space Weather Prediction Problems
     * Physics and Astronomy Seminar at University of Alabama, Huntsville, October 17, 2023.
 
-2. Video Imputation and Prediction Methods with Applications in Space Weather
-    * Statistics Colloquium at Michigan State Univeristy, East Lansing, Michigan, September 7, 2023.
-    * Statistics Colloquium at Auburn University, Virtual, September 6, 2023.
+2. Video Imputation and Prediction Methods with Applications in Space Weather [[slides](https://drive.google.com/file/d/1suFV7Zl_YcWRjtrQk_GvVeK5xbPnC8on/view?usp=drive_link)]
+    * Statistics Colloquium at Michigan State University, East Lansing, Michigan, September 7, 2023.
+    * Statistics Colloquium at Auburn University, Virtual, September 13, 2023.
 
 3. Tensor Gaussian Process With Contraction For Multi-channel Imaging Analysis
     * 2023 INFORMS Annual Meeting, Phoenix, Arizona, October 15-18, 2023.
