@@ -5,13 +5,14 @@ permalink: /funding/
 author_profile: true 
 ---
 
-## Current
+## Current and Future
 
 | Dates | Award Number | Role | Title | Total Award Amount | My Award Amount
 | -- | ---- | ---- | ----------------------- | --- | --- |
 07/01/2021 - 06/30/2024| NSF DMS Award 2113397 | PI | DMS-EPSRC Collaborative Research: Advancing Statistical Foundations and Frontiers for and from Emerging Astronomical Data Challenges |  |  $160,000 |
-|08/2023-07/2028 | NASA ROSES Heliophysics Space Weather Centers of Excellence Program | Co-I (PI: Thomas Berger) | Space Weather Operational Readiness Development (SWORD) Center | $3,499,990| $128,062 |
-|08/2023-07/2028 | NASA ROSES Heliophysics Space Weather Centers of Excellence Program | Co-I (PI: Lulu Zhao) | CLEAR: Center for All-Clear SEP Forecast | $9,290,762 | $645,898 |
+|01/2024-12/2028 | NASA ROSES Heliophysics Space Weather Centers of Excellence Program | Co-I (PI: Thomas Berger) | Space Weather Operational Readiness Development (SWORD) Center | $3,499,990| $128,062 |
+|01/2024-12/2028 | NASA ROSES Heliophysics Space Weather Centers of Excellence Program | Co-I (PI: Lulu Zhao) | CLEAR: Center for All-Clear SEP Forecast | $9,290,762 | $645,898 |
+|10/01/2023 - 09/30/2027 | NSF DMR Award 2323765 | Co-PI | Collaborative Research: DMREF: AI-enabled Automated Design of Ultrastrong and Ultraelastic Metallic Alloys | $966,053 | $116,568 |
 
 ## Past
 
