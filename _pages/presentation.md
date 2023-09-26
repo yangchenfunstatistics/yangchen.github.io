@@ -15,7 +15,7 @@ author_profile: true
 
 1. Data-Driven Approaches to Space Weather Prediction Problems
     * Physics and Astronomy Seminar at University of Alabama, Huntsville, October 17, 2023.
-    * Data, Analysis, and Software in Heliophysics (DASH) Conference, JHU APL, Laurel, MD, October 9-11, 2023.
+    * Data, Analysis, and Software in Heliophysics (DASH) Conference, JHU/APL, Laurel, MD, October 9-11, 2023.
 
 2. Video Imputation and Prediction Methods with Applications in Space Weather [[slides](https://drive.google.com/file/d/1suFV7Zl_YcWRjtrQk_GvVeK5xbPnC8on/view?usp=drive_link)]
     * Statistics Colloquium at Michigan State University, East Lansing, Michigan, September 7, 2023.
@@ -39,8 +39,9 @@ author_profile: true
     * Ann Arbor Chapter of American Statistical Association, Virtual, April 4, 2023.
     * Statistical Challenges in Modern Astronomy VIII, Penn State University, State College, PA, June 15, 2023. [[slides](https://drive.google.com/file/d/121DNcluXgKFO92fSBBymohQAf7ktLx41/view?usp=drive_link)]
     * AOGS (Asia Oceania Geosciences Society) 2023, 20th Annual Meeting, Virtual, July 30-August 4, 2023.
-    * Workshop on Machine Learning, Data Mining, and Data Assimilation in Geospace (LMAG 2023), JHU/APL, Laurel MD, August 21 - 24, 2023. [[slides](https://drive.google.com/file/d/1fY8arPgMf0Ew6bjlQCSZzsXNNTg_r6TQ/view?usp=drive_link)]
+    * Workshop on Machine Learning, Data Mining, and Data Assimilation in Geospace (LMAG 2023), JHU/APL, Laurel, MD, August 21 - 24, 2023. [[slides](https://drive.google.com/file/d/1fY8arPgMf0Ew6bjlQCSZzsXNNTg_r6TQ/view?usp=drive_link)]
     * NASA's Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, October 3, 2023.
+    * “Astrostatistics in Canada & Beyond” BIRS workshop, Banff Centre, Banff, AB, Canada, October 30 - November 3, 2023.
 
 8. Explainable Sym-H forecasting with Gradient Boosting Machines [[slides](https://drive.google.com/file/d/121DNcluXgKFO92fSBBymohQAf7ktLx41/view?usp=drive_link)]
     * Magnetosphere Online Seminar Series, Virtual, March 13, 2023.
