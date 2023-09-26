@@ -5,6 +5,12 @@ permalink: /presentation/
 author_profile: true
 ---
 
+
+## 2024
+
+1. Multi-instrument Cross-Calibration in Astronomy with Multiplicative Shrinkage
+    * "Bayesian methods for astrophysics discovery based on big data," 2024 World Meeting of the International Society for Bayesian Analysis (ISBA), Venice, Italy, July 1-7, 2024.
+
 ## 2023
 
 1. Data-Driven Approaches to Space Weather Prediction Problems
@@ -33,6 +39,7 @@ author_profile: true
     * Statistical Challenges in Modern Astronomy VIII, Penn State University, State College, PA, June 15, 2023. [[slides](https://drive.google.com/file/d/121DNcluXgKFO92fSBBymohQAf7ktLx41/view?usp=drive_link)]
     * AOGS (Asia Oceania Geosciences Society) 2023, 20th Annual Meeting, Virtual, July 30-August 4, 2023.
     * Workshop on Machine Learning, Data Mining, and Data Assimilation in Geospace (LMAG 2023), JHU/APL, Laurel MD, August 21 - 24, 2023. [[slides](https://drive.google.com/file/d/1fY8arPgMf0Ew6bjlQCSZzsXNNTg_r6TQ/view?usp=drive_link)]
+    * NASA's Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, October 3, 2023.
 
 8. Explainable Sym-H forecasting with Gradient Boosting Machines [[slides](https://drive.google.com/file/d/121DNcluXgKFO92fSBBymohQAf7ktLx41/view?usp=drive_link)]
     * Magnetosphere Online Seminar Series, Virtual, March 13, 2023.
