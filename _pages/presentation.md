@@ -10,11 +10,11 @@ author_profile: true
 
 1. Multi-instrument Cross-Calibration in Astronomy with Multiplicative Shrinkage
     * "Bayesian methods for astrophysics discovery based on big data," 2024 World Meeting of the International Society for Bayesian Analysis (ISBA), Venice, Italy, July 1-7, 2024.
+    * Physics and Astronomy Seminar at University of Alabama, Huntsville, October 17, 2023.
 
 ## 2023
 
 1. Data-Driven Approaches to Space Weather Prediction Problems
-    * Physics and Astronomy Seminar at University of Alabama, Huntsville, October 17, 2023.
     * Data, Analysis, and Software in Heliophysics (DASH) Conference, JHU/APL, Laurel, MD, October 9-11, 2023.
 
 2. Video Imputation and Prediction Methods with Applications in Space Weather [[slides](https://drive.google.com/file/d/1suFV7Zl_YcWRjtrQk_GvVeK5xbPnC8on/view?usp=drive_link)]
