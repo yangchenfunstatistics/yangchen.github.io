@@ -8,17 +8,19 @@ author_profile: true
 
 ## Editorial Board and Reviews
 
+* Associate Editor, The American Statistician, 2023-2026. 
+
 * Associate Editor, Statistical Science, 2023-2025.
 
 * Associate Editor, Journal of the American Statistical Association (JASA) Review, 2023-2025.
 
-* Associate Editor for the Engineering Sciences Section, NEJSDS: The New England Journal of Statistics in Data Science, November, 2021-now.
+* Associate Editor for the Engineering Sciences Section, NEJSDS: The New England Journal of Statistics in Data Science, 2021-now.
 
 * NSF Reviewer, 2023, 2021, 2020, 2019.
 
 * NASA Reviewer, 2022.
 
-* Guest editor, Frontiers in Astronomy And Space Sciences, 2022-2023.
+* Guest Editor, Frontiers in Astronomy And Space Sciences, 2022-2023.
 
 * Reviewer for journals: Annals of Applied Statistics, Journal of the American Statistical Association (Theory & Methods, Case Studies), Journal of Statistical Theory and Practice, PLOS ONE, Statistical Analysis and Data Mining, Frontiers Astronomy, Journal of Machine Learning Research, Earth, Planets and Space, Astronomy and Computing, Space Weather, Frontiers in Genetics, Front. Astron. Space Sci. - Astrostatistics.
 
