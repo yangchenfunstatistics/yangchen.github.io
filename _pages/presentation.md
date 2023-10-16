@@ -21,7 +21,7 @@ author_profile: true
     * Statistics Colloquium at Michigan State University, East Lansing, Michigan, September 7, 2023.
     * Statistics Colloquium at Auburn University, Virtual, September 13, 2023.
 
-3. Tensor Gaussian Process With Contraction For Multi-channel Imaging Analysis
+3. Tensor Gaussian Process With Contraction For Multi-channel Imaging Analysis [[slides](https://drive.google.com/file/d/1Jp9dwYLNWyaT1xUb93xZKA_6z_n7_nZu/view?usp=drive_link)]
     * 2023 INFORMS Annual Meeting, Phoenix, Arizona, October 15-18, 2023.
   
 4. Model fitting and goodness-of-fit in astrophysics [[slides](https://drive.google.com/file/d/1EW6mvsukdSDqZ1dLLIuHs5gZszFzKNBd/view?usp=drive_link)]
