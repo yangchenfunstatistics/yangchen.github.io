@@ -8,7 +8,7 @@ author_profile: true
 
 ## 2024
 
-1. Multi-instrument Cross-Calibration in Astronomy with Multiplicative Shrinkage
+1. Multi-instrument Cross-Calibration in Astronomy with Multiplicative Shrinkage [[slides](https://drive.google.com/file/d/1XIRe4Wa1XhyS74lXi6hoHTdYhg4QEmyF/view?usp=drive_link)]
     * "Bayesian methods for astrophysics discovery based on big data," 2024 World Meeting of the International Society for Bayesian Analysis (ISBA), Venice, Italy, July 1-7, 2024.
     * Physics and Astronomy Seminar at University of Alabama, Huntsville, October 17, 2023.
 
