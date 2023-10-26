@@ -43,7 +43,7 @@ author_profile: true
     * AOGS (Asia Oceania Geosciences Society) 2023, 20th Annual Meeting, Virtual, July 30-August 4, 2023.
     * Workshop on Machine Learning, Data Mining, and Data Assimilation in Geospace (LMAG 2023), JHU/APL, Laurel, MD, August 21 - 24, 2023. [[slides](https://drive.google.com/file/d/1fY8arPgMf0Ew6bjlQCSZzsXNNTg_r6TQ/view?usp=drive_link)]
     * NASA's Jet Propulsion Laboratory, California Institute of Technology, Pasadena, CA, October 24, 2023. [[slides](https://drive.google.com/file/d/1PrysIdcBw9ccC_hmMaRhAG8qXS_GGlHE/view?usp=drive_link)]
-    * “Astrostatistics in Canada & Beyond” BIRS workshop, Banff Centre, Banff, AB, Canada, October 30 - November 3, 2023.
+    * “Astrostatistics in Canada & Beyond” BIRS workshop, Banff Centre, Banff, AB, Canada, October 30 - November 3, 2023. [[slides](https://drive.google.com/file/d/1g5unwCGaDb93TA15IKmKDPM9d56fVMq_/view?usp=drive_link)]
 
 8. Explainable Sym-H forecasting with Gradient Boosting Machines [[slides](https://drive.google.com/file/d/121DNcluXgKFO92fSBBymohQAf7ktLx41/view?usp=drive_link)]
     * Magnetosphere Online Seminar Series, Virtual, March 13, 2023.
