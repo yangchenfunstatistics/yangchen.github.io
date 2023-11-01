@@ -34,7 +34,7 @@ author_profile: true
 
 1. Biological Sciences: [Chen et al. (2016 JASA)](https://doi.org/10.1080/01621459.2016.1140050), [Choi et al. (2020 GB)](https://doi.org/10.1186/s13059-020-02103-2).
 
-2. Epidemiology: [Zhao et al. (2019 IJE)](https://doi.org/10.1093/ije/dyz142), [Trangucci et al. (2023 AOAS)](https://arxiv.org/abs/2206.08161), [Trangucci et al. (2023+)](https://https://arxiv.org/abs/2211.16502), [Iong et al. (2023+)](https://arxiv.org/abs/2007.06476).
+2. Epidemiology: [Zhao et al. (2019 IJE)](https://doi.org/10.1093/ije/dyz142), [Trangucci et al. (2023 AOAS)](http://dx.doi.org/10.1214/22-AOAS1711), [Trangucci et al. (2023+)](https://https://arxiv.org/abs/2211.16502), [Iong et al. (2023+)](https://arxiv.org/abs/2007.06476).
 
 
 
@@ -51,7 +51,7 @@ Also available at: my [Google Scholar](https://scholar.google.com/citations?user
 2. H. Sun, **Y. Chen**, S. Zou, J. Ren, Y. Chang, Z. Wang, A. Coster, *Complete Global Total Electron Content (TEC) Map Dataset based on a Video Imputation Algorithm*, Scientific Data - Nature, Number 10:236, 2023. [[journal](https://doi.org/10.1038/s41597-023-02138-7)]
 3. H. Sun, W. Manchester, M. Jin, Y. Liu, **Y. Chen\***, *Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis*, Proceedings of the 40th International Conference on Machine Learning, PMLR 202:32913-32935, 2023. [[conference proceeding](https://proceedings.mlr.press/v202/sun23f.html)]
 4. H. Sun, J. Ren, **Y. Chen**, S. Zou, *VISTA TEC database [Data set]*, University of Michigan - Deep Blue Data, 2023. [[data](https://doi.org/10.7302/vb27-ez24)]
-5. R. Trangucci, **Y. Chen**, J. Zelner, *Modeling Rates of Disease with Missing Categorical Data*, accepted by Annals of Applied Statistics, 2023. [[arXiv](https://arxiv.org/abs/2206.08161)]
+5. R. Trangucci, **Y. Chen**, J. Zelner, *Modeling Rates of Disease with Missing Categorical Data*, Annals of Applied Statistics, Vol. 17, No. 4, 2723-2758, 2023. [[journal](http://dx.doi.org/10.1214/22-AOAS1711)]
 6. R. Trangucci, **Y. Chen**, J. Zelner, *Identified Vaccine Efficacy for Binary Post-infection Outcomes under Misclassification without monotonicity*, submitted. [[arXiv](https://https://arxiv.org/abs/2211.16502)]
 7. A. Jivani, N. Sachdeva, Z. Huang, **Y. Chen**, B. van der Holst, W. Manchester, D. Iong, H. Chen, S. Zou, X. Huan, G. Toth, *Global Sensitivity Analysis and Uncertainty Quantification for Background Solar Wind using the Alfven Wave Solar Atmosphere Model*, Space Weather 21.1, 2023: e2022SW003262. [[journal](https://doi.org/10.1029/2022SW003262)]
 8. **Y. Chen**, C.-D. Fuh, C.-L. Kao, *Determine the Number of States in Hidden Markov Models via Marginal Likelihoods*, submitted.
