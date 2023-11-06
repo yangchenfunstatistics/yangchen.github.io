@@ -12,6 +12,10 @@ author_profile: true
     * "Bayesian methods for astrophysics discovery based on big data," 2024 World Meeting of the International Society for Bayesian Analysis (ISBA), Venice, Italy, July 1-7, 2024.
     * Physics and Astronomy Seminar at University of Alabama, Huntsville, October 17, 2023.
 
+2. Video Imputation and Prediction Methods with Applications in Space Weather
+   * Statistics Seminar, University of Waterloo, Canada, March 5, 2024.
+   * The Joint Statistical Meetings (JSM), Portland, Oregon, August 3-8, 2024.
+
 ## 2023
 
 1. Data-Driven Approaches to Space Weather Prediction Problems
@@ -21,7 +25,6 @@ author_profile: true
     * Statistics Colloquium at Michigan State University, East Lansing, Michigan, September 7, 2023.
     * Statistics Colloquium at Auburn University, Virtual, September 13, 2023.
     * Statistics Colloquium at Simon Fraser University, Vancouver, Canada, November 17, 2023.
-    * The Joint Statistical Meetings (JSM), Portland, Oregon, August 3-8, 2024.
 
 3. Tensor Gaussian Process With Contraction For Multi-channel Imaging Analysis [[slides](https://drive.google.com/file/d/1Jp9dwYLNWyaT1xUb93xZKA_6z_n7_nZu/view?usp=drive_link)]
     * 2023 INFORMS Annual Meeting, Phoenix, Arizona, October 15-18, 2023.
