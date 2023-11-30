@@ -21,7 +21,7 @@ author_profile: true
 1. Data-Driven Approaches to Space Weather Prediction Problems
     * Data, Analysis, and Software in Heliophysics (DASH) Conference, JHU/APL, Laurel, MD, October 9-11, 2023.
 
-2. Video Imputation and Prediction Methods with Applications in Space Weather [[slides](https://drive.google.com/file/d/1suFV7Zl_YcWRjtrQk_GvVeK5xbPnC8on/view?usp=drive_link)]
+2. Video Imputation and Prediction Methods with Applications in Space Weather [[slides](https://drive.google.com/file/d/1mvl2pWkFEgB_MQ3EKrAMwQ3CeklbZmhA/view?usp=drive_link)]
     * Statistics Colloquium at Michigan State University, East Lansing, Michigan, September 7, 2023.
     * Statistics Colloquium at Auburn University, Virtual, September 13, 2023.
     * Statistics Colloquium at Simon Fraser University, Vancouver, Canada, November 17, 2023.
