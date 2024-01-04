@@ -30,6 +30,8 @@ author_profile: true
 ## Committee (External to Department of Statistics at the University of Michigan)
 
 * Scientific Organizing Committee, ML-Helio, 2022-2024.
+  
+* Gertrude M. Cox Scholarship Committee, 2024.
 
 * Committee member for the Committee on Women in Statistics (CoWiS) of the American Statistical Association (ASA), 2022-2024.
 
