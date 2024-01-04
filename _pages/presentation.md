@@ -16,6 +16,9 @@ author_profile: true
    * Statistics Seminar, University of Waterloo, Canada, March 5, 2024.
    * The Joint Statistical Meetings (JSM), Portland, Oregon, August 3-8, 2024.
 
+3. Comparison of Goodness–of–fit Assessment Methods with C Statistics in Astronomy
+   * International CHASC Astro-Statistics Collaboration Seminar Series, Harvard University, Cambridge, MA, February 28, 2024.
+
 ## 2023
 
 1. Data-Driven Approaches to Space Weather Prediction Problems
@@ -25,6 +28,7 @@ author_profile: true
     * Statistics Colloquium at Michigan State University, East Lansing, Michigan, September 7, 2023.
     * Statistics Colloquium at Auburn University, Virtual, September 13, 2023.
     * Statistics Colloquium at Simon Fraser University, Vancouver, Canada, November 17, 2023.
+    * Statistics Seminar at University of Washington, Seattle, Virtual, December 8, 2023.
 
 3. Tensor Gaussian Process With Contraction For Multi-channel Imaging Analysis [[slides](https://drive.google.com/file/d/1Jp9dwYLNWyaT1xUb93xZKA_6z_n7_nZu/view?usp=drive_link)]
     * 2023 INFORMS Annual Meeting, Phoenix, Arizona, October 15-18, 2023.
