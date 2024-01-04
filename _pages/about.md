@@ -54,7 +54,7 @@ My research interests are statistical methodology and computational algorithms m
 
 *Matrix Autoregressive Models with Exogeneous Vector Time Series Predictors*
 
-- Hu Sun, Zuofeng Shang, and Yang Chen. "Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data." (2023). [[arXiv preprint](https://arxiv.org/abs/2305.15671)]
+- Hu Sun, Zuofeng Shang, and Yang Chen. "Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data." (2024). [[arXiv preprint](https://arxiv.org/abs/2305.15671)]
 
 ### Applied Statistical Methods in Physical Sciences
 
@@ -74,7 +74,7 @@ My research interests are statistical methodology and computational algorithms m
 ### Applied Statistical Theory and Methods in Epidemiology
 
 
-Robert Trangucci, Yang Chen, and Jon Zelner. "Modeling Rates of Disease with Missing Categorical Data.", accepted by The Annals of Applied Statistics (2023). [[arXiv preprint](https://arxiv.org/abs/2206.08161)]
+Robert Trangucci, Yang Chen, and Jon Zelner. "Modeling Rates of Disease with Missing Categorical Data.", Annals of Applied Statistics (2023). [[link](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-4/Modeling-racial-ethnic-differences-in-COVID-19-incidence-with-covariates/10.1214/22-AOAS1711.full)]
 
 Robert Trangucci, Yang Chen, and Jon Zelner. "Identified Vaccine Efficacy for Binary Post-infection Outcomes under Misclassification without Monotonicity." (2023). [[arXiv preprint](https://arxiv.org/abs/2211.16502)]
 
