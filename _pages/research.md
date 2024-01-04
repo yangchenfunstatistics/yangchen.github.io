@@ -41,23 +41,29 @@ author_profile: true
 
 ## Full List of Publications by Year
 
-Also available at: my [Google Scholar](https://scholar.google.com/citations?user=ycbIaucAAAAJ&hl=en) and [Research Gate](https://www.researchgate.net/profile/Yang-Chen-202) pages.
+Also available at my [Google Scholar](https://scholar.google.com/citations?user=ycbIaucAAAAJ&hl=en) and [Research Gate](https://www.researchgate.net/profile/Yang-Chen-202) pages.
 
 \* corresponding author
 
-### 2023+
+### 2024+
+1. R. Trangucci, **Y. Chen**, J. Zelner, *Identified Vaccine Efficacy for Binary Post-infection Outcomes under Misclassification without monotonicity*, submitted. [[arXiv](https://https://arxiv.org/abs/2211.16502)]
+2. **Y. Chen**, C.-D. Fuh, C.-L. Kao, *Determine the Number of States in Hidden Markov Models via Marginal Likelihoods*, submitted.
+3. H. Sun, Z. Shang, **Y. Chen\***, *Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data*, submitted. [[arXiv](https://arxiv.org/abs/2305.15671)]
+4. W. Liu, I. Ibenaz, **Y. Chen**, A. Agrawal, *Transitory Sustainability Effects of Behavioral Changes: Short-Term Benefits of COVID-19 Lockdowns Reversed Over Time, Resulting in More Wildfires in the Amazon*, submitted. [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438234)]
+5. M. Aguirre, W. Sun, **Y. Chen**, J. Jin, *Automatic Identification of Driving Maneuver Patterns Using a Robust Hidden Semi-Markov Model*, submitted. [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4410473)]
+6. B. Viet Do, **Y. Chen\***, L. Nguyen, W. Manchester, *Uncovering Heterogeneity of Solar Flare Mechanism with Mixture Models*, submitted.
+
+
+### 2023
 
 1. **Y. Chen\***, S. Maloney, E. Camporeale, X. Huang, Z. Zhou, *Editorial: Machine Learning and Statistical Methods for Solar Flare Predictions*, Frontiers Astronomy and Space Sciences, Sec. Stellar and Solar Physics, Volume 10 - 2023. [[journal](https://doi.org/10.3389/fspas.2023.1121615)]
 2. H. Sun, **Y. Chen**, S. Zou, J. Ren, Y. Chang, Z. Wang, A. Coster, *Complete Global Total Electron Content (TEC) Map Dataset based on a Video Imputation Algorithm*, Scientific Data - Nature, Number 10:236, 2023. [[journal](https://doi.org/10.1038/s41597-023-02138-7)]
 3. H. Sun, W. Manchester, M. Jin, Y. Liu, **Y. Chen\***, *Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis*, Proceedings of the 40th International Conference on Machine Learning, PMLR 202:32913-32935, 2023. [[conference proceeding](https://proceedings.mlr.press/v202/sun23f.html)]
 4. H. Sun, J. Ren, **Y. Chen**, S. Zou, *VISTA TEC database [Data set]*, University of Michigan - Deep Blue Data, 2023. [[data](https://doi.org/10.7302/vb27-ez24)]
 5. R. Trangucci, **Y. Chen**, J. Zelner, *Modeling Rates of Disease with Missing Categorical Data*, Annals of Applied Statistics, Vol. 17, No. 4, 2723-2758, 2023. [[journal](http://dx.doi.org/10.1214/22-AOAS1711)]
-6. R. Trangucci, **Y. Chen**, J. Zelner, *Identified Vaccine Efficacy for Binary Post-infection Outcomes under Misclassification without monotonicity*, submitted. [[arXiv](https://https://arxiv.org/abs/2211.16502)]
-7. A. Jivani, N. Sachdeva, Z. Huang, **Y. Chen**, B. van der Holst, W. Manchester, D. Iong, H. Chen, S. Zou, X. Huan, G. Toth, *Global Sensitivity Analysis and Uncertainty Quantification for Background Solar Wind using the Alfven Wave Solar Atmosphere Model*, Space Weather 21.1, 2023: e2022SW003262. [[journal](https://doi.org/10.1029/2022SW003262)]
-8. **Y. Chen**, C.-D. Fuh, C.-L. Kao, *Determine the Number of States in Hidden Markov Models via Marginal Likelihoods*, submitted.
-9. Z. Wang, S. Zou, H. Sun, **Y. Chen**, *Forecast Global Ionospheric TEC: Apply Modified U-Net on VISTA TEC Dataset*, Space Weather 21, no. 8 (2023): e2023SW003494. [[journal](https://doi.org/10.1029/2023SW003494)]
-10. D. Iong, Q. Zhao, and **Y. Chen**. *Latent Mixture Model for Effect Heterogeneity in Mendelian Randomization*, accepted by Annals of Applied Statistics. [[arXiv](https://arxiv.org/abs/2007.06476)]
-11. H. Sun, Z. Shang, **Y.Chen\***, *Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data*, submitted. [[arXiv](https://arxiv.org/abs/2305.15671)]
+6. A. Jivani, N. Sachdeva, Z. Huang, **Y. Chen**, B. van der Holst, W. Manchester, D. Iong, H. Chen, S. Zou, X. Huan, G. Toth, *Global Sensitivity Analysis and Uncertainty Quantification for Background Solar Wind using the Alfven Wave Solar Atmosphere Model*, Space Weather 21.1, 2023: e2022SW003262. [[journal](https://doi.org/10.1029/2022SW003262)]
+7. Z. Wang, S. Zou, H. Sun, **Y. Chen**, *Forecast Global Ionospheric TEC: Apply Modified U-Net on VISTA TEC Dataset*, Space Weather 21, no. 8 (2023): e2023SW003494. [[journal](https://doi.org/10.1029/2023SW003494)]
+8. D. Iong, Q. Zhao, and **Y. Chen**. *Latent Mixture Model for Effect Heterogeneity in Mendelian Randomization*, accepted by Annals of Applied Statistics. [[arXiv](https://arxiv.org/abs/2007.06476)]
 
 
 ### 2022
