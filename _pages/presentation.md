@@ -15,6 +15,7 @@ author_profile: true
 2. Video Imputation and Prediction Methods with Applications in Space Weather
    * Statistics Seminar, University of Waterloo, Canada, March 5, 2024.
    * The Joint Statistical Meetings (JSM), Portland, Oregon, August 3-8, 2024.
+   * Electrical and Computer Engineering (ECE) Communications and Signal Processing (CSP) Seminar Series, University of Michigan, Ann Arbor, April 18, 2024.
 
 3. Comparison of Goodness–of–fit Assessment Methods with C Statistics in Astronomy
    * International CHASC Astro-Statistics Collaboration Seminar Series, Harvard University, Cambridge, MA, February 28, 2024.
