@@ -7,12 +7,13 @@ author_profile: true
 
 ## Current Teaching
 
-* 2023 Fall, STATS 605: Advanced Topics in Modeling and Data Analysis.  
+* 2024 WINTER, STATS/DATASCI 451: Bayesian Data Analysis.  
 
 ## Past Teaching
 
 ### Department of Statistics, University of Michigan
 
+* 2023 Fall, STATS 605: Advanced Topics in Modeling and Data Analysis.  
 * 2023 Winter, STATS/DATASCI 451: Bayesian Models.
 * 2020 Winter, STATS 551: Bayesian Modeling and Computation.
 * 2019 Fall, STATS 451: Bayesian Models.
