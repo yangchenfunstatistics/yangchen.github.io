@@ -20,6 +20,13 @@ author_profile: true
 3. Comparison of Goodness–of–fit Assessment Methods with C Statistics in Astronomy
    * International CHASC Astro-Statistics Collaboration Seminar Series, Harvard University, Cambridge, MA, February 28, 2024.
 
+4. Current Status of Data-Driven Solar Eruption Forecasting Methods
+   * NASA CLEAR Center Kick-off Meeting, University of Michigan, Ann Arbor, MI, January 25-26, 2024.
+
+5. Tensor Gaussian Process With Contraction For Multi-channel Imaging Analysis
+   * 2024 WNAR/IMS/Graybill Annual Meeting, Fort Collins, CO, June 9-12, 2024.
+
+
 ## 2023
 
 1. Data-Driven Approaches to Space Weather Prediction Problems
