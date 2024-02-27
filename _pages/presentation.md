@@ -17,7 +17,7 @@ author_profile: true
    * The Joint Statistical Meetings (JSM), Portland, Oregon, August 3-8, 2024.
    * Electrical and Computer Engineering (ECE) Communications and Signal Processing (CSP) Seminar Series, University of Michigan, Ann Arbor, April 18, 2024.
 
-3. Comparison of Goodness–of–fit Assessment Methods with C Statistics in Astronomy
+3. Comparison of Goodness–of–fit Assessment Methods with C Statistics in Astronomy [[slides](https://drive.google.com/file/d/1tivAr-yonRCsycYhlefvBgQaNG3BUpm0/view?usp=drive_link)]
    * International CHASC Astro-Statistics Collaboration Seminar Series, Harvard University, Cambridge, MA, February 28, 2024.
 
 4. Current Status of Data-Driven Solar Eruption Forecasting Methods [[slides](https://drive.google.com/file/d/14YMM6YOxT-yg9qDIAiY2fFo89qs3rCPh/view?usp=drive_link)]
