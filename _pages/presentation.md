@@ -26,6 +26,9 @@ author_profile: true
 5. Tensor Gaussian Process With Contraction For Multi-channel Imaging Analysis
    * 2024 WNAR/IMS/Graybill Annual Meeting, Fort Collins, CO, June 9-12, 2024.
 
+6. Summary of Our Past Work on Data-Driven Approaches for Space Weather  [[slides](https://drive.google.com/file/d/1xLuLnDMxL1HnJC1u-0ByA64jHC6hJoKM/view?usp=drive_link)]
+   * NASA SWORD Center Kick-off Meeting, University of Colorado Boulder, February 28, 2024.
+
 
 ## 2023
 
