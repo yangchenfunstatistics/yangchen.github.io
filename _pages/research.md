@@ -10,21 +10,30 @@ author_profile: true
 
 ### Astrostatistics
 
-1. Instrument Calibration: statistics method - [Chen et al. (2019 JASA)](https://doi.org/10.1080/01621459.2018.1528978), astronomy extensions - [Marshall et al. (2021 AJ)](https://doi.org/10.3847/1538-3881/ac230a).
+1. Instrument Calibration:
+   * statistics method - [Chen et al. (2019 JASA)](https://doi.org/10.1080/01621459.2018.1528978)
+   * astronomy extensions - [Marshall et al. (2021 AJ)](https://doi.org/10.3847/1538-3881/ac230a)
 
-2. Goodness-of-fit Assessment with High-order Asymptotics: Li et al. (2024+).
+3. Goodness-of-fit Assessment with High-order Asymptotics: Li et al. (2024+).
 
-3. Solar Flare Forecasting: [Chen et al. (2019 SW)](https://doi.org/10.1029/2019SW002214), [Jiao et al. (2020 SW)](https://doi.org/10.1029/2020SW002440), [Wang et al. (2020 ApJ)](https://doi.org/10.3847/1538-4357/ab89ac), [Sun et al. (2021 SW)](https://doi.org/10.1002/essoar.10507540.1), [Sun et al. (2022 ApJ)](https://doi.org/10.1002/essoar.10508256.1), [Aktukmak et al. (2022 FASS)](https://doi.org/10.3389/fspas.2022.1040107), [Sun et al. (2023 ICML)](https://proceedings.mlr.press/v202/sun23f.html). 
+4. Solar Flare Forecasting: [Chen et al. (2019 SW)](https://doi.org/10.1029/2019SW002214), [Jiao et al. (2020 SW)](https://doi.org/10.1029/2020SW002440), [Wang et al. (2020 ApJ)](https://doi.org/10.3847/1538-4357/ab89ac), [Sun et al. (2021 SW)](https://doi.org/10.1002/essoar.10507540.1), [Sun et al. (2022 ApJ)](https://doi.org/10.1002/essoar.10508256.1), [Aktukmak et al. (2022 FASS)](https://doi.org/10.3389/fspas.2022.1040107), [Sun et al. (2023 ICML)](https://proceedings.mlr.press/v202/sun23f.html). 
 
 ### Data-Driven Approaches for Space Weather
 
-1. Prediction Modelss for Solar Energetic Particles: SEP Prediction with SMARP [Kasapis et al. (2022 SW)](https://doi.org/10.1029/2021SW002842), SEP review - [Whitman et al. (2022 ASR)](https://doi.org/10.1016/j.asr.2022.08.006).
+1. Prediction Modelss for Solar Energetic Particles:
+   * SEP Prediction with SMARP - [Kasapis et al. (2022 SW)](https://doi.org/10.1029/2021SW002842)
+   * SEP review - [Whitman et al. (2022 ASR)](https://doi.org/10.1016/j.asr.2022.08.006)
    
-3. Prediction Models for Geomagnetic Indices: SymH - [Iong et al. (2022 SW)](https://doi.org/10.1029/2021SW002928), Delta-B: [Iong et al. (2024)](https://arxiv.org/abs/2402.17570).
+3. Prediction Models for Geomagnetic Indices:
+   * SymH - [Iong et al. (2022 SW)](https://doi.org/10.1029/2021SW002928)
+   * Delta-B - [Iong et al. (2024)](https://arxiv.org/abs/2402.17570)
    
-5. Imputation and Prediction for TEC Maps: [Sun et al. (2022 AOAS)](http://dx.doi.org/10.1214/21-AOAS1541), [Sun et al. (2023 SD)](https://doi.org/10.1038/s41597-023-02138-7), [Wang et al. (2023 SW)](https://doi.org/10.1029/2023SW003494).
+5. Imputation and Prediction for TEC Maps:
+   * Video Imputation - [Sun et al. (2022 AOAS)](http://dx.doi.org/10.1214/21-AOAS1541)
+   * Database - [Sun et al. (2023 SD)](https://doi.org/10.1038/s41597-023-02138-7)
+   * Prediction - [Wang et al. (2023 SW)](https://doi.org/10.1029/2023SW003494).
 
-6. Data Assimilation and Uncertainty Quantification: [Jivani et al. (2023 SW)](https://doi.org/10.1029/2022SW003262).
+7. Data Assimilation and Uncertainty Quantification: [Jivani et al. (2023 SW)](https://doi.org/10.1029/2022SW003262).
 
 ### Statistical Methodology
 
