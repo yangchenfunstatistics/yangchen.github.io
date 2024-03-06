@@ -17,7 +17,7 @@ author_profile: true
 3. Goodness-of-fit Assessment with High-order Asymptotics: Li et al. (2024+).
 
 4. Solar Flare Forecasting:
-   * machine learning prediction - [Chen et al. (2019 SW)](https://doi.org/10.1029/2019SW002214), [Wang et al. (2020 ApJ)](https://doi.org/10.3847/1538-4357/ab89ac), [Sun et al. (2022 ApJ)](https://doi.org/10.1002/essoar.10508256.1), [Aktukmak et al. (2022 FASS)](https://doi.org/10.3389/fspas.2022.1040107)
+   * machine learning prediction - [Chen et al. (2019 SW)](https://doi.org/10.1029/2019SW002214), [Wang et al. (2020 ApJ)](https://doi.org/10.3847/1538-4357/ab89ac), [Sun et al. (2022 ApJ)](https://doi.org/10.1002/essoar.10508256.1), [Aktukmak et al. (2022 FASS)](https://doi.org/10.3389/fspas.2022.1040107), [Chen eta la. (2023, Editorial Note)](https://doi.org/10.3389/fspas.2023.1121615)
    * mixed LSTM for flare indicator and intensity - [Jiao et al. (2020 SW)](https://doi.org/10.1029/2020SW002440)
    * statistical feature construction - [Sun et al. (2021 SW)](https://doi.org/10.1002/essoar.10507540.1)
    * tensor contraction with GP - [Sun et al. (2023 ICML)](https://proceedings.mlr.press/v202/sun23f.html)
