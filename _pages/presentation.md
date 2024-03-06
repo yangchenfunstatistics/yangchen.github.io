@@ -13,9 +13,10 @@ author_profile: true
     * Physics and Astronomy Seminar at University of Alabama, Huntsville, October 17, 2023.
 
 2. Video Imputation and Prediction Methods with Applications in Space Weather
-   * Seminar, Rice University, February 14, 2024.
-   * Seminar, University of California, Berkeley, February 22, 2024.
-   * Seminar, Cornell University, Ithaca, March 13, 2024.
+   * Statistics Seminar, Duke University, January 11, 2024.
+   * Statistics Seminar, Rice University, February 14, 2024.
+   * Statistics Seminar, University of California, Berkeley, February 22, 2024.
+   * Statistics Seminar, Cornell University, Ithaca, March 13, 2024.
    * Statistics Seminar, University of Waterloo, Canada, March 26, 2024.
    * Electrical and Computer Engineering (ECE) Communications and Signal Processing (CSP) Seminar Series, University of Michigan, Ann Arbor, April 18, 2024.
    * The Joint Statistical Meetings (JSM), Portland, Oregon, August 3-8, 2024.
@@ -82,44 +83,44 @@ author_profile: true
 
 ## 2022
 
-8. Physical Science: AI in Space Weather Forecasting [[slides](https://drive.google.com/file/d/1aY4HcCuxNfR1AORLgeeltfa3fDF38ZEk/view?usp=drive_link)]
+1. Physical Science: AI in Space Weather Forecasting [[slides](https://drive.google.com/file/d/1aY4HcCuxNfR1AORLgeeltfa3fDF38ZEk/view?usp=drive_link)]
     * U-M Annual Data Science and AI Summit, Ann Arbor, MI, November 14-15, 2022.
 
-9. Solar Flare Forecasting with Machine Learning and Novel Statistical Models [[slides](https://drive.google.com/file/d/1DNTxAj_-uTyid0GFbCrHxhkJ1rq7lrvy/view?usp=drive_link)]
+2. Solar Flare Forecasting with Machine Learning and Novel Statistical Models [[slides](https://drive.google.com/file/d/1DNTxAj_-uTyid0GFbCrHxhkJ1rq7lrvy/view?usp=drive_link)]
     * 2022 Triennial Earth-Sun Summit, Seattle, WA, August 8-11, 2022.
 
-10. Goodness-of-fit in Astronphysics
+3. Goodness-of-fit in Astronphysics
     * CHASC Workshop, Cambridge, MA, August 2-4, 2022.
 
-11. Data Science Challenges in Space Weather [[slides](https://drive.google.com/file/d/1PYlV9scROxBfZdrIpviCS9gaKcyT4U0V/view?usp=drive_link)]
+4. Data Science Challenges in Space Weather [[slides](https://drive.google.com/file/d/1PYlV9scROxBfZdrIpviCS9gaKcyT4U0V/view?usp=drive_link)]
     * The Big Data Summer Institute’s Concluding Symposium, Ann Arbor, Michigan, July 28, 2022.
 
-12. Statistical and machine learning approaches to solar flare forecasting
+5. Statistical and machine learning approaches to solar flare forecasting
     * UDP (Universidad Diego Portales, Santiago, Chile) SEMINARIOS DATA SCIENCE YEAR, Virtual, June 29, 2022.
 
-13. Panelist for “Perspectives on the evolution of statistics within the data science landscape”, 11th annual ASA 2022 UP-STAT Conference in Statistics, SUNY University at Buffalo, Virtual, May 2-4, 2022. [[slides](https://drive.google.com/file/d/1tMw_tJZQATo-sRvWfAgCjtp1oJjNpvp_/view?usp=drive_link)]
+6. Panelist for “Perspectives on the evolution of statistics within the data science landscape”, 11th annual ASA 2022 UP-STAT Conference in Statistics, SUNY University at Buffalo, Virtual, May 2-4, 2022. [[slides](https://drive.google.com/file/d/1tMw_tJZQATo-sRvWfAgCjtp1oJjNpvp_/view?usp=drive_link)]
 
-14. Advancing Space Science with Data-Driven Methods [[slides](https://drive.google.com/file/d/1tMw_tJZQATo-sRvWfAgCjtp1oJjNpvp_/view?usp=drive_link)]
+7. Advancing Space Science with Data-Driven Methods [[slides](https://drive.google.com/file/d/1tMw_tJZQATo-sRvWfAgCjtp1oJjNpvp_/view?usp=drive_link)]
     * Space Weather Workshop 2022, “Collaboration: Advancing the Space Weather Enterprise”, Virtual, April 26-28, 2022.
 
-15. Video Imputation and Prediction Methods in Space Weather [[slides](https://drive.google.com/file/d/1hHwpcbXFtWTrjON0HmFrSJnJTpPBVsVX/view?usp=drive_link)]
+8. Video Imputation and Prediction Methods in Space Weather [[slides](https://drive.google.com/file/d/1hHwpcbXFtWTrjON0HmFrSJnJTpPBVsVX/view?usp=drive_link)]
     * Neyman Statistics Seminar, Department of Statistics, University of California, Berkeley, March 30, 2022.
     * Statistics Seminar, Department of Statistics, University of Washington, Seattle, May 20, 2022.
 
 
 ## 2021
 
-16. Statistical And Computational Problems In Space Weather Data Challenges
+1. Statistical And Computational Problems In Space Weather Data Challenges
     * INFORMS Annual Meeting, October 27, 2021, Virtual.
 
-17. Matrix Completion Methods for the Total Electron Content Video Reconstruction
+2. Matrix Completion Methods for the Total Electron Content Video Reconstruction
     * Statistical Methods for the Physical Sciences (STAMPS) Webinar at Carnegie Mellon University, Virtual, October 8, 2021.
 
-18. Discussant for “Statistical and Machine Learning Efforts on Solar Flare Predictions II - Topic Contributed Papers” at the Joint Statistical Meeting, Virtual, August 12, 2021.
+3. Discussant for “Statistical and Machine Learning Efforts on Solar Flare Predictions II - Topic Contributed Papers” at the Joint Statistical Meeting, Virtual, August 12, 2021.
 
-19. Strange bedfellows: Statistics, Machine Learning and Space Science, SOLSTICE (Solar Storms and Terrestrial Impacts Center) Science Seminar Series, University of Michigan, Ann Arbor, May 13, 2021.
+4. Strange bedfellows: Statistics, Machine Learning and Space Science, SOLSTICE (Solar Storms and Terrestrial Impacts Center) Science Seminar Series, University of Michigan, Ann Arbor, May 13, 2021.
 
-20. Statistical and Computational Problems in Space Weather Data Challenges
+5. Statistical and Computational Problems in Space Weather Data Challenges
     * Statistics Seminar, Department of Mathematical Sciences, New Jersey Institute of Technology, April 8, 2021.
     * Seminar, Institute for Space Sciences, New Jersey Institute of Technology, February 25, 2021.
     * Seminar, Department of Statistics, Ohio State University, February 18, 2021.
@@ -127,7 +128,7 @@ author_profile: true
 
 ## 2020
 
-21. Solar Flare Predictions with Machine Learning, invited talks.
+1. Solar Flare Predictions with Machine Learning, invited talks.
     * Special Session “Machine Learning in Space Weather”, the American Geophysical Union (AGU) Fall Meeting, virtual, December 15, 2020.
     * 4th SWMF Users Meeting, virtual, November 6, 2020.
     * Workshop on machine Learning, data Mining and data Assimilation in Geospace (LMAG2020), virtual, September 22, 2020.
@@ -144,7 +145,7 @@ author_profile: true
 
 ## 2019
 
-21. Calibration Concordance for Astronomical Instruments, invited talks.
+1. Calibration Concordance for Astronomical Instruments, invited talks.
     * Virtual 238th Meeting of the American Astronomical Society (AAS 238), “(Special Session) Unaccounted Uncertainties: The Role of Systematics in Astrophysics”, 7 June 2021.
     * International CHASC AstroStatistics Centre, Topics in Astrostatistics, Harvard University, September 8, 2020.
     * School of Statistics Seminar, University of Minnesota, October 24, 2019;
@@ -155,43 +156,43 @@ author_profile: true
     * 2017 Data Science Research Forum, Michigan Institute for Data Science, University of Michigan, Ann Arbor, MI, December 2017;
     * The Joint Statistical Meetings, Chicago, IL, August 2016.
 
-22. Topics in Bayesian Inference: Specification of Prior Distributions, Earth, Climate and Coffee, Climate and Space Sciences and Engineering, University of Michigan, February 15, 2019.
+2. Topics in Bayesian Inference: Specification of Prior Distributions, Earth, Climate and Coffee, Climate and Space Sciences and Engineering, University of Michigan, February 15, 2019.
 
 
 ## 2018
 
-24. Hidden Markov Model (HMM) Order Selection
+1. Hidden Markov Model (HMM) Order Selection
     * International Society for Bayesian Analysis (ISBA) World Meeting 2021, Virtual, June 28, 2021;
     * CFE-CMStatistics 2018, Pisa, Italy, December 15, 2018;
     * Computational Statistics and Molecular Simulation: A Practical Cross-Fertilization, CMO-BIRS, Oxaca, Mexico, November 12, 2018;
     * MIDAS Seminar, University of Michigan, Ann Arbor, MI, October 12, 2018;
     * Advances in Finite Mixture Models, Guilin, China, August 2018.
 
-25. Tutorial on Bayesian Inference and Computation, Massive and heterogeneous data and knowledge (LaHDAK) Seminar, laboratoire de Recherche en Informatique, Universite Paris-Sud, France, December 10, 2018.
+2. Tutorial on Bayesian Inference and Computation, Massive and heterogeneous data and knowledge (LaHDAK) Seminar, laboratoire de Recherche en Informatique, Universite Paris-Sud, France, December 10, 2018.
 
-26. Delineating Protein Transportation Processes: Hierarchical Models for Single-Molecule Data
+3. Delineating Protein Transportation Processes: Hierarchical Models for Single-Molecule Data
     * Institut Curie - Paris, France, December 3, 2018;
     * Collaborative Research Center Seminar, Georg-August-University G ̈ottingen, Germany, November 22, 2018;
     * Statistics Seminar at University of Michigan, University of California, Berkeley, Columbia University, Rutgers University, etc., January 2017;
     * The New England Statistics Symposium, University of Connecticut, Storrs, CT, April 2015.
 
-27. A second look at cstat, CHASC meeting, Harvard University, Cambridge, MA, October 30, 2018.
+4. A second look at cstat, CHASC meeting, Harvard University, Cambridge, MA, October 30, 2018.
 
 
 ## 2017
 
-28. Predictive Models for Molecular Data, Women in Data Science and Mathematics Research Collaboration Workshop (WiSDM), ICERM, Brown University, Providence, RI, July 2017.
+1. Predictive Models for Molecular Data, Women in Data Science and Mathematics Research Collaboration Workshop (WiSDM), ICERM, Brown University, Providence, RI, July 2017.
 
-29. The Bayesian Statistics behind Calibration Concordance, AAS 230 (230th Meeting of the American Astronomical Society): Special Session “Topics in AstroStatistics”, Austin, TX, June 2017.
+2. The Bayesian Statistics behind Calibration Concordance, AAS 230 (230th Meeting of the American Astronomical Society): Special Session “Topics in AstroStatistics”, Austin, TX, June 2017.
 
 
 # 2014-2015
 
-31. When MCMC goes online, The Joint Statistical Meetings, Seattle, WA, August 2015.
+1. When MCMC goes online, The Joint Statistical Meetings, Seattle, WA, August 2015.
 
-32. Greedy (Griddy) Parallel MCMC Algorithms, ResearchStats, Harvard University, Cambridge, MA, April 2015.
+2. Greedy (Griddy) Parallel MCMC Algorithms, ResearchStats, Harvard University, Cambridge, MA, April 2015.
 
-33. Discovering the Universe with Dark Energy Camera, Olin College, Needham, MA, April 2014.
+3. Discovering the Universe with Dark Energy Camera, Olin College, Needham, MA, April 2014.
 
-34. Nice Curves: Enhancing Variable Star Astronomy through Data Science, poster, ComputeFest in School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, January 2014.
+4. Nice Curves: Enhancing Variable Star Astronomy through Data Science, poster, ComputeFest in School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, January 2014.
 
