@@ -18,11 +18,11 @@ author_profile: true
 
 ### Data-Driven Approaches for Space Weather
 
-1. Prediction Modelss for Solar Energetic Particles: SEP Prediction with SMARP [Kasapis et al. (2022 SW)](https://doi.org/10.1029/2021SW002842), SEP review - [Whitman et al. (2022 ASR)].
+1. Prediction Modelss for Solar Energetic Particles: SEP Prediction with SMARP [Kasapis et al. (2022 SW)](https://doi.org/10.1029/2021SW002842), SEP review - [Whitman et al. (2022 ASR)](https://doi.org/10.1016/j.asr.2022.08.006).
    
 3. Prediction Models for Geomagnetic Indices: SymH - [Iong et al. (2022 SW)](https://doi.org/10.1029/2021SW002928), Delta-B: [Iong et al. (2024)](https://arxiv.org/abs/2402.17570).
    
-5. Imputation and Prediction for TEC Maps: [Sun et al. (2022 AOAS)](http://dx.doi.org/10.1214/21-AOAS1541), [Sun et al. (2023 SD)](https://doi.org/10.1038/s41597-023-02138-7), (https://doi.org/10.1016/j.asr.2022.08.006), [Wang et al. (2023 SW)](https://doi.org/10.1029/2023SW003494).
+5. Imputation and Prediction for TEC Maps: [Sun et al. (2022 AOAS)](http://dx.doi.org/10.1214/21-AOAS1541), [Sun et al. (2023 SD)](https://doi.org/10.1038/s41597-023-02138-7), [Wang et al. (2023 SW)](https://doi.org/10.1029/2023SW003494).
 
 6. Data Assimilation and Uncertainty Quantification: [Jivani et al. (2023 SW)](https://doi.org/10.1029/2022SW003262).
 
