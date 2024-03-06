@@ -33,6 +33,7 @@ author_profile: true
    * NASA SWORD Center Kick-off Meeting, University of Colorado Boulder, February 28, 2024.
 
 7. Statistical Models for Solar Flare Predictions
+   * Seminar, National Solar Observatory (NSO), Boulder, CO, June 11, 2024.
    * AOGS (Asia Oceania Geosciences Society) 2024, 21st Annual Meeting, Gangwon-do, Korea, June 23-28, 2024.
 
 
