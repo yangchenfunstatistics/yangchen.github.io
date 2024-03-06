@@ -13,9 +13,12 @@ author_profile: true
     * Physics and Astronomy Seminar at University of Alabama, Huntsville, October 17, 2023.
 
 2. Video Imputation and Prediction Methods with Applications in Space Weather
-   * Statistics Seminar, University of Waterloo, Canada, March 5, 2024.
-   * The Joint Statistical Meetings (JSM), Portland, Oregon, August 3-8, 2024.
+   * Seminar, Rice University, February 14, 2024.
+   * Seminar, University of California, Berkeley, February 22, 2024.
+   * Seminar, Cornell University, Ithaca, March 13, 2024.
+   * Statistics Seminar, University of Waterloo, Canada, March 26, 2024.
    * Electrical and Computer Engineering (ECE) Communications and Signal Processing (CSP) Seminar Series, University of Michigan, Ann Arbor, April 18, 2024.
+   * The Joint Statistical Meetings (JSM), Portland, Oregon, August 3-8, 2024.
 
 3. Comparison of Goodness–of–fit Assessment Methods with C Statistics in Astronomy [[slides](https://drive.google.com/file/d/1tivAr-yonRCsycYhlefvBgQaNG3BUpm0/view?usp=drive_link)]
    * International CHASC Astro-Statistics Collaboration Seminar Series, Harvard University, Cambridge, MA, February 28, 2024.
@@ -28,6 +31,9 @@ author_profile: true
 
 6. Summary of Our Past Work on Data-Driven Approaches for Space Weather  [[slides](https://drive.google.com/file/d/1xLuLnDMxL1HnJC1u-0ByA64jHC6hJoKM/view?usp=drive_link)]
    * NASA SWORD Center Kick-off Meeting, University of Colorado Boulder, February 28, 2024.
+
+7. Statistical Models for Solar Flare Predictions
+   * AOGS (Asia Oceania Geosciences Society) 2024, 21st Annual Meeting, Gangwon-do, Korea, June 23-28, 2024.
 
 
 ## 2023
