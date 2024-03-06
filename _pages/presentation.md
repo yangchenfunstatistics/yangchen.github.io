@@ -36,6 +36,9 @@ author_profile: true
    * Seminar, National Solar Observatory (NSO), Boulder, CO, June 11, 2024.
    * AOGS (Asia Oceania Geosciences Society) 2024, 21st Annual Meeting, Gangwon-do, Korea, June 23-28, 2024.
 
+8. Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data
+   * 26th International Conference on Computational Statistics (COMPSTAT 2024), University of Giessen, 27-30 August 2024.
+
 
 ## 2023
 
