@@ -43,7 +43,7 @@ author_profile: true
 
 1. Prior Influence in Bayesian Inference: [Jones et al. (2022 BA)](https://doi.org/10.1214/21-BA1217).
 
-2. Matrix Autoregressive Model with Global Exogeneous Predictors: [Sun et al. (2023+)](https://arxiv.org/abs/2305.15671).
+2. Matrix Autoregressive Model with Global Exogeneous Predictors: [Sun et al. (2024+)](https://arxiv.org/abs/2305.15671).
 
 3. Finite Mixture Models -- Order Selection and Misspecification: Chen et al. (2023+).
 
