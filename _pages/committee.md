@@ -7,6 +7,15 @@ author_profile: true
 
 ## Statistics
 
+* Vincenzo Loffredo, Ph.D. candidate in Statistics. Role: Member.
+
+
+* Yash Patel, Ph.D. candidate in Statistics. Role: Member.
+
+
+* Yiling Huang, Ph.D. candidate in Statistics. Role: Member.
+  
+
 * Derek Hanson, Ph.D. in Statistics, 2023. Dissertation Title: Mechanistic and Data-Adaptive Bayesian Methods for Scientific Inference. Role: Member.
 
 
