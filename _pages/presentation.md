@@ -28,16 +28,17 @@ author_profile: true
    * NASA CLEAR Center Kick-off Meeting, University of Michigan, Ann Arbor, MI, January 25-26, 2024.
 
 5. Tensor Gaussian Process With Contraction For Multi-channel Imaging Analysis
+   * Midwest Machine Learning Symposium (MMLS 2024), Minneapolis, MN, May 20-21, 2024.
    * 2024 WNAR/IMS/Graybill Annual Meeting, Fort Collins, CO, June 9-12, 2024.
 
-6. Summary of Our Past Work on Data-Driven Approaches for Space Weather  [[slides](https://drive.google.com/file/d/1xLuLnDMxL1HnJC1u-0ByA64jHC6hJoKM/view?usp=drive_link)]
+7. Summary of Our Past Work on Data-Driven Approaches for Space Weather  [[slides](https://drive.google.com/file/d/1xLuLnDMxL1HnJC1u-0ByA64jHC6hJoKM/view?usp=drive_link)]
    * NASA SWORD Center Kick-off Meeting, University of Colorado Boulder, February 28, 2024.
 
-7. Statistical Models for Solar Flare Predictions
+8. Statistical Models for Solar Flare Predictions
    * Seminar, National Solar Observatory (NSO), Boulder, CO, June 11, 2024.
    * AOGS (Asia Oceania Geosciences Society) 2024, 21st Annual Meeting, Gangwon-do, Korea, June 23-28, 2024.
 
-8. Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data
+9. Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data
    * 26th International Conference on Computational Statistics (COMPSTAT 2024), University of Giessen, 27-30 August 2024.
 
 
