@@ -30,6 +30,7 @@ author_profile: true
 
 ### Michigan Institute for Data Sciences (MIDAS), University of Michigan
 
+* Introduction to Data Science and AI [Summer Academy 2024](https://midas.umich.edu/workshops/intro-ds-summer-academy-24/), June 3–7, 2024.
 * Tutorial on Bayesian Statistics ([slides](https://drive.google.com/file/d/1NW-qLSknaJVlttj7s0sf482C2a4TkWAe/view?usp=drive_link)), Schmidt AI in Science Bootcamp, September, 2023.
 * [Applied Statistics for Environmental Scientists](https://midas.umich.edu/midas-training-program-for-environmental-scientists/), August, 2023.
 * [Applied Statistics for Environmental Scientists](https://midas.umich.edu/workshops/environmental-academy-2023/), November, 2022.
