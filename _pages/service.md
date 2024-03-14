@@ -154,8 +154,11 @@ author_profile: true
 * Tian Gu, Ph.D. in Biostatistics, 2021. Dissertation title: Statistical Methods to Incorporate External Summary-level Information into a Current Study. Role: Cognate.
 
 
-### Enginnering Fields
+### Physics and Enginnering Fields
 
+* Weihao Liu, Ph.D. student in Climate and Space Sciences and Engineering. Role: Cognate.
+
+  
 * Matthew-Remy Aguirre, Ph.D. in Industrial and Operations Engineering. Dissertation Title: Data Analytics of Human Behaviors with Applications. Role: Cognate.
 
 
@@ -164,8 +167,6 @@ author_profile: true
 
 * Spiridon Kasapis, Ph.D. in Naval Architecture and Marine Engineering, 2023. Dissertation title: Processing Image Data from Unstructured Environments. Role: Cognate.
 
-
-### Physics Fields
 
 * Prachi Atmassidha, Ph.D. in Physics, 2023. Dissertation Title: First measurements of the Radiation Amplitude Zero effect and of the diboson longitudinal-longitudinal interactions in High pT region using W ±Z production with the ATLAS detector. Role: Cognate.
 
