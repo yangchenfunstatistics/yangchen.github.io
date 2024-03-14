@@ -133,6 +133,12 @@ author_profile: true
 
 ### Biostatistics
 
+* Zikai Lin, Ph.D. candidate in Biostatistics. Role: Cognate.
+
+
+* Yijun Li, Ph.D. candidate in Biostatistics. Role: Cognate.
+
+
 * Yuqi Zhai, Ph.D. in Biostatistics, 2023. Dissertation Title: Improving estimation efficiency by integrating external summary information from heterogeneous populations. Role: Cognate.
 
 
