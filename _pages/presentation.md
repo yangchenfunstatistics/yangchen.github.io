@@ -18,7 +18,6 @@ author_profile: true
    * Statistics Seminar, University of California, Berkeley, February 22, 2024.
    * Statistics Seminar, Cornell University, Ithaca, March 13, 2024.
    * Statistics Seminar, University of Waterloo, Canada, March 26, 2024.
-   * Electrical and Computer Engineering (ECE) Communications and Signal Processing (CSP) Seminar Series, University of Michigan, Ann Arbor, April 18, 2024.
    * The Joint Statistical Meetings (JSM), Portland, Oregon, August 3-8, 2024.
 
 3. Comparison of Goodness–of–fit Assessment Methods with C Statistics in Astronomy [[slides](https://drive.google.com/file/d/1tivAr-yonRCsycYhlefvBgQaNG3BUpm0/view?usp=drive_link)]
@@ -40,6 +39,9 @@ author_profile: true
 
 9. Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data
    * 26th International Conference on Computational Statistics (COMPSTAT 2024), University of Giessen, 27-30 August 2024.
+
+10. Data-Analytic Opportunities and Challenges in Solar Eruption Forecasting    
+   * Electrical and Computer Engineering (ECE) Communications and Signal Processing (CSP) Seminar Series, University of Michigan, Ann Arbor, April 18, 2024.
 
 
 ## 2023
