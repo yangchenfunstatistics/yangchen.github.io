@@ -5,6 +5,7 @@ permalink: /presentation/
 author_profile: true
 ---
 
+Abstracts of recent talks are available [here](https://docs.google.com/document/d/1xSn__mPnUKKt2SOtQnGurk04u2QvP6RkCsEQa0sLJWo/edit?usp=sharing).
 
 ## 2024
 
