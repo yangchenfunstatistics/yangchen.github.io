@@ -40,7 +40,7 @@ author_profile: true
 9. Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data
    * 26th International Conference on Computational Statistics (COMPSTAT 2024), University of Giessen, 27-30 August 2024.
 
-10. Data-Analytic Opportunities and Challenges in Solar Eruption Forecasting    
+11. Data-Analytic Opportunities and Challenges in Solar Eruption Forecasting
    * Electrical and Computer Engineering (ECE) Communications and Signal Processing (CSP) Seminar Series, University of Michigan, Ann Arbor, April 18, 2024.
 
 
