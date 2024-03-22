@@ -41,7 +41,7 @@ author_profile: true
    * 26th International Conference on Computational Statistics (COMPSTAT 2024), University of Giessen, 27-30 August 2024.
 
 11. Data-Analytic Opportunities and Challenges in Solar Eruption Forecasting
-   * Electrical and Computer Engineering (ECE) Communications and Signal Processing (CSP) Seminar Series, University of Michigan, Ann Arbor, April 18, 2024.
+    * Electrical and Computer Engineering (ECE) Communications and Signal Processing (CSP) Seminar Series, University of Michigan, Ann Arbor, April 18, 2024.
 
 
 ## 2023
