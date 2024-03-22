@@ -62,7 +62,7 @@ Also available at my [Google Scholar](https://scholar.google.com/citations?user=
 
 \* corresponding author
 
-### 2024+
+### 2024
 1. R. Trangucci, **Y. Chen**, J. Zelner, *Identified Vaccine Efficacy for Binary Post-infection Outcomes under Misclassification without monotonicity*, submitted. [[arXiv](https://https://arxiv.org/abs/2211.16502)]
 2. **Y. Chen**, C.-D. Fuh, C.-L. Kao, *Determine the Number of States in Hidden Markov Models via Marginal Likelihoods*, submitted.
 3. H. Sun, Z. Shang, **Y. Chen\***, *Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data*, submitted. [[arXiv](https://arxiv.org/abs/2305.15671)]
@@ -70,7 +70,10 @@ Also available at my [Google Scholar](https://scholar.google.com/citations?user=
 5. M. Aguirre, W. Sun, **Y. Chen**, J. Jin, *Automatic Identification of Driving Maneuver Patterns Using a Robust Hidden Semi-Markov Model*, submitted. [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4410473)]
 6. B. Viet Do, **Y. Chen\***, L. Nguyen, W. Manchester, *Uncovering Heterogeneity of Solar Flare Mechanism with Mixture Models*, Frontiers in Astronomy and Space Sciences 11 (2024): 1229092. [[arXiv](https://arxiv.org/abs/2401.14345)].
 7. D. Iong, M. McAnear, Y. Qu, S. Zou, G. Toth, **Y. Chen\***, *Sparse Variational Contaminated Noise Gaussian Process Regression for Forecasting Geomagnetic Perturbations.* arXiv preprint arXiv:2402.17570 (2024).
-
+8. R. Trangucci, J. Contreras, J. Zelner, Y. Chen, *Bayesian Methods for Cumulative Exposure to Extensive Environmental Health Hazards: A Bayesian Inverse Perspective*, submitted.
+9. X. Li, **Y. Chen\***, X. Meng, V. Kashyap, M. Bonamente (2024), *Comparison of Goodness–of–fit Assessment Methods with C statistics in Astronomy*, in preparation.
+10. H. Sun, **Y. Chen\*** (2024), *Conformalized Tensor Completion with Riemannian Optimization*, in preparation.
+11. **Y. Chen\***, Ward Manchester, Meng Jin, Alexei Pevtsov (2024), *A Statistician's Perspective on Solar Imaging Data Analytic Challenges*, in preparation. 
 
 ### 2023
 
