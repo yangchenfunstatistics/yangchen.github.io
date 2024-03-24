@@ -35,7 +35,6 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
    * NASA SWORD Center Kick-off Meeting, University of Colorado Boulder, February 28, 2024.
 
 8. Statistical Models for Solar Flare Predictions
-   * Seminar, National Solar Observatory (NSO), Boulder, CO, June 11, 2024.
    * AOGS (Asia Oceania Geosciences Society) 2024, 21st Annual Meeting, Gangwon-do, Korea, June 23-28, 2024.
 
 9. Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data
@@ -43,6 +42,7 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
 
 11. Data-Analytic Opportunities and Challenges in Solar Eruption Forecasting
     * Electrical and Computer Engineering (ECE) Communications and Signal Processing (CSP) Seminar Series, University of Michigan, Ann Arbor, April 18, 2024.
+    * Seminar, National Solar Observatory (NSO), Boulder, CO, June 11, 2024.
 
 
 ## 2023
