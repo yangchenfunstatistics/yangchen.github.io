@@ -45,7 +45,7 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
     * Seminar, National Solar Observatory (NSO), Boulder, CO, June 11, 2024.
     * 2024 INFORMS Annual Meeting in Seattle, WA, October 20-23, 2024.
 
-12. Discussion of "Poisson-FOCuS: An Efficient Online Method for Detecting Count Bursts with Application to Gamma Ray Burst Detection"
+12. Discussion of "Poisson-FOCuS: An Efficient Online Method for Detecting Count Bursts with Application to Gamma Ray Burst Detection" by Kes Ward, Giuseppe Dilillo, Idris Eckley & Paul Fearnhead (2023)
     * JASA Applications & Case Studies Discussion Session, Joint Statistical Meeting, Portland, OR, August 3-8, 2024.
 
 
