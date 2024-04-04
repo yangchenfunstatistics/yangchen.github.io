@@ -19,7 +19,7 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
    * Statistics Seminar, University of California, Berkeley, February 22, 2024.
    * Statistics Seminar, Cornell University, Ithaca, March 13, 2024.
    * Statistics Seminar, University of Waterloo, Canada, March 26, 2024.
-   * The Joint Statistical Meetings (JSM), Portland, Oregon, August 3-8, 2024.
+   * The Joint Statistical Meetings (JSM), Portland, OR, August 3-8, 2024.
 
 3. Comparison of Goodness–of–fit Assessment Methods with C Statistics in Astronomy [[slides](https://drive.google.com/file/d/1tivAr-yonRCsycYhlefvBgQaNG3BUpm0/view?usp=drive_link)]
    * International CHASC Astro-Statistics Collaboration Seminar Series, Harvard University, Cambridge, MA, February 28, 2024.
@@ -43,6 +43,10 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
 11. Data-Analytic Opportunities and Challenges in Solar Eruption Forecasting
     * Electrical and Computer Engineering (ECE) Communications and Signal Processing (CSP) Seminar Series, University of Michigan, Ann Arbor, April 18, 2024.
     * Seminar, National Solar Observatory (NSO), Boulder, CO, June 11, 2024.
+    * 2024 INFORMS Annual Meeting in Seattle, WA, October 20-23, 2024.
+
+12. Discussion of "Poisson-FOCuS: An Efficient Online Method for Detecting Count Bursts with Application to Gamma Ray Burst Detection"
+    * JASA Applications & Case Studies Discussion Session, Joint Statistical Meeting, Portland, OR, August 3-8, 2024.
 
 
 ## 2023
