@@ -73,7 +73,8 @@ Also available at my [Google Scholar](https://scholar.google.com/citations?user=
 8. R. Trangucci, J. Contreras, J. Zelner, Y. Chen, *Bayesian Methods for Cumulative Exposure to Extensive Environmental Health Hazards: A Bayesian Inverse Perspective*, submitted.
 9. X. Li, **Y. Chen\***, X. Meng, V. Kashyap, M. Bonamente (2024), *Comparison of Goodness–of–fit Assessment Methods with C statistics in Astronomy*, in preparation.
 10. H. Sun, **Y. Chen\*** (2024), *Conformalized Tensor Completion with Riemannian Optimization*, in preparation.
-11. **Y. Chen\***, Ward Manchester, Meng Jin, Alexei Pevtsov (2024), *A Statistician's Perspective on Solar Imaging Data Analytic Challenges*, in preparation. 
+11. **Y. Chen\***, Ward Manchester, Meng Jin, Alexei Pevtsov (2024), *A Statistician's Perspective on Solar Imaging Data Analytic Challenges*, in preparation.
+12. D. Iong, Q. Zhao, and **Y. Chen** (2024). *A Latent Mixture Model for Heterogeneous Causal Mechanisms in Mendelian Randomization*, Annals of Applied Statistics, Vol. 18, No. 2, 966-990. [[journal](http://dx.doi.org/10.1214/23-AOAS1816)]
 
 ### 2023
 
@@ -84,7 +85,6 @@ Also available at my [Google Scholar](https://scholar.google.com/citations?user=
 5. R. Trangucci, **Y. Chen**, J. Zelner, *Modeling Rates of Disease with Missing Categorical Data*, Annals of Applied Statistics, Vol. 17, No. 4, 2723-2758, 2023. [[journal](http://dx.doi.org/10.1214/22-AOAS1711)]
 6. A. Jivani, N. Sachdeva, Z. Huang, **Y. Chen**, B. van der Holst, W. Manchester, D. Iong, H. Chen, S. Zou, X. Huan, G. Toth, *Global Sensitivity Analysis and Uncertainty Quantification for Background Solar Wind using the Alfven Wave Solar Atmosphere Model*, Space Weather 21.1, 2023: e2022SW003262. [[journal](https://doi.org/10.1029/2022SW003262)]
 7. Z. Wang, S. Zou, H. Sun, **Y. Chen**, *Forecast Global Ionospheric TEC: Apply Modified U-Net on VISTA TEC Dataset*, Space Weather 21, no. 8 (2023): e2023SW003494. [[journal](https://doi.org/10.1029/2023SW003494)]
-8. D. Iong, Q. Zhao, and **Y. Chen**. *Latent Mixture Model for Effect Heterogeneity in Mendelian Randomization*, accepted by Annals of Applied Statistics. [[arXiv](https://arxiv.org/abs/2007.06476)]
 
 
 ### 2022
