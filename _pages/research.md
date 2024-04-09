@@ -51,7 +51,7 @@ author_profile: true
 
 1. Biological Sciences: [Chen et al. (2016 JASA)](https://doi.org/10.1080/01621459.2016.1140050), [Choi et al. (2020 GB)](https://doi.org/10.1186/s13059-020-02103-2).
 
-2. Epidemiology: [Zhao et al. (2019 IJE)](https://doi.org/10.1093/ije/dyz142), [Trangucci et al. (2023 AOAS)](http://dx.doi.org/10.1214/22-AOAS1711), [Trangucci et al. (2023+)](https://https://arxiv.org/abs/2211.16502), [Iong et al. (2023 AOAS)](https://arxiv.org/abs/2007.06476), [Trangucci et al. (2024+)(https://arxiv.org/pdf/2404.04398.pdf)].
+2. Epidemiology: [Zhao et al. (2019 IJE)](https://doi.org/10.1093/ije/dyz142), [Trangucci et al. (2023 AOAS)](http://dx.doi.org/10.1214/22-AOAS1711), [Trangucci et al. (2023+)](https://https://arxiv.org/abs/2211.16502), [Iong et al. (2023 AOAS)](https://arxiv.org/abs/2007.06476), [Trangucci et al. (2024+)](https://arxiv.org/pdf/2404.04398.pdf).
 
 
 
