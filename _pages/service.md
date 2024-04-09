@@ -98,6 +98,9 @@ author_profile: true
 
 ### Statistics
 
+* Yilei Zhang, Ph.D. student in Statistics. Role: Member.
+
+
 * Vincenzo Loffredo, Ph.D. candidate in Statistics. Role: Member.
 
 
