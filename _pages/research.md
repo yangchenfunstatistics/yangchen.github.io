@@ -51,7 +51,7 @@ author_profile: true
 
 1. Biological Sciences: [Chen et al. (2016 JASA)](https://doi.org/10.1080/01621459.2016.1140050), [Choi et al. (2020 GB)](https://doi.org/10.1186/s13059-020-02103-2).
 
-2. Epidemiology: [Zhao et al. (2019 IJE)](https://doi.org/10.1093/ije/dyz142), [Trangucci et al. (2023 AOAS)](http://dx.doi.org/10.1214/22-AOAS1711), [Trangucci et al. (2023+)](https://https://arxiv.org/abs/2211.16502), [Iong et al. (2023 AOAS)](https://arxiv.org/abs/2007.06476).
+2. Epidemiology: [Zhao et al. (2019 IJE)](https://doi.org/10.1093/ije/dyz142), [Trangucci et al. (2023 AOAS)](http://dx.doi.org/10.1214/22-AOAS1711), [Trangucci et al. (2023+)](https://https://arxiv.org/abs/2211.16502), [Iong et al. (2023 AOAS)](https://arxiv.org/abs/2007.06476), [Trangucci et al. (2024+)(https://arxiv.org/pdf/2404.04398.pdf)].
 
 
 
@@ -70,7 +70,7 @@ Also available at my [Google Scholar](https://scholar.google.com/citations?user=
 5. M. Aguirre, W. Sun, **Y. Chen**, J. Jin, *Automatic Identification of Driving Maneuver Patterns Using a Robust Hidden Semi-Markov Model*, submitted. [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4410473)]
 6. B. Viet Do, **Y. Chen\***, L. Nguyen, W. Manchester, *Uncovering Heterogeneity of Solar Flare Mechanism with Mixture Models*, Frontiers in Astronomy and Space Sciences 11 (2024): 1229092. [[arXiv](https://arxiv.org/abs/2401.14345)].
 7. D. Iong, M. McAnear, Y. Qu, S. Zou, G. Toth, **Y. Chen\***, *Sparse Variational Contaminated Noise Gaussian Process Regression for Forecasting Geomagnetic Perturbations.* arXiv preprint arXiv:2402.17570 (2024).
-8. R. Trangucci, J. Contreras, J. Zelner, Y. Chen, *Bayesian Methods for Cumulative Exposure to Extensive Environmental Health Hazards: A Bayesian Inverse Perspective*, submitted.
+8. R. Trangucci, J. Contreras, J. Zelner, Y. Chen (2024), *Bayesian Methods for Cumulative Exposure to Extensive Environmental Health Hazards: A Bayesian Inverse Perspective*. [[arXiv](https://arxiv.org/pdf/2404.04398.pdf)]
 9. X. Li, **Y. Chen\***, X. Meng, V. Kashyap, M. Bonamente (2024), *Comparison of Goodness–of–fit Assessment Methods with C statistics in Astronomy*, in preparation.
 10. H. Sun, **Y. Chen\*** (2024), *Conformalized Tensor Completion with Riemannian Optimization*, in preparation.
 11. **Y. Chen\***, Ward Manchester, Meng Jin, Alexei Pevtsov (2024), *A Statistician's Perspective on Solar Imaging Data Analytic Challenges*, in preparation.
