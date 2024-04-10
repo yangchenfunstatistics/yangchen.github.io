@@ -49,6 +49,8 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
 Statistical Association, DOI: 10.1080/01621459.2023.2235059.
     * JASA Applications & Case Studies Discussion Session, Joint Statistical Meeting, Portland, OR, August 3-8, 2024.
 
+13. TBD
+    * Statistics Seminar at Oregon State University, Corvallis, OR, 2024. 
 
 ## 2023
 
