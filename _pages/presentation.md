@@ -40,7 +40,7 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
 9. Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data
    * 26th International Conference on Computational Statistics (COMPSTAT 2024), University of Giessen, 27-30 August 2024.
 
-11. Data-Analytic Opportunities and Challenges in Solar Eruption Forecasting
+11. Data-Analytic Opportunities and Challenges in Solar Eruption Forecasting [[slides](https://drive.google.com/file/d/1U4S_iGrBpcTMWpKn9-iJOhrACK_nhxI9/view?usp=sharing)]
     * Electrical and Computer Engineering (ECE) Communications and Signal Processing (CSP) Seminar Series, University of Michigan, Ann Arbor, April 18, 2024.
     * Seminar, National Solar Observatory (NSO), Boulder, CO, June 11, 2024.
     * 2024 INFORMS Annual Meeting in Seattle, WA, October 20-23, 2024.
