@@ -5,14 +5,16 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Current Teaching
+## Upcoming Teaching
 
-* 2024 Winter, STATS/DATASCI 451: Bayesian Data Analysis.  
+* 2024 Fall, DATASCI 451: Bayesian Data Analysis.  
+* 2025 Winter, DATASCI 451: Bayesian Data Analysis.  
 
 ## Past Teaching
 
 ### Department of Statistics, University of Michigan
 
+* 2024 Winter, STATS/DATASCI 451: Bayesian Data Analysis.  
 * 2023 Fall, STATS 605: Advanced Topics in Modeling and Data Analysis.  
 * 2023 Winter, STATS/DATASCI 451: Bayesian Data Analysis.
 * 2020 Winter, STATS 551: Bayesian Modeling and Computation.
