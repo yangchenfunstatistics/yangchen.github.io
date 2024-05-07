@@ -69,10 +69,10 @@ Also available at my [Google Scholar](https://scholar.google.com/citations?user=
 4. W. Liu, I. Ibenaz, **Y. Chen**, A. Agrawal, *Transitory Sustainability Effects of Behavioral Changes: Short-Term Benefits of COVID-19 Lockdowns Reversed Over Time, Resulting in More Wildfires in the Amazon*, submitted. [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438234)]
 5. M. Aguirre, W. Sun, **Y. Chen**, J. Jin, *Automatic Identification of Driving Maneuver Patterns Using a Robust Hidden Semi-Markov Model*, submitted. [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4410473)]
 6. B. Viet Do, **Y. Chen\***, L. Nguyen, W. Manchester, *Uncovering Heterogeneity of Solar Flare Mechanism with Mixture Models*, Frontiers in Astronomy and Space Sciences 11 (2024): 1229092. [[arXiv](https://arxiv.org/abs/2401.14345)].
-7. D. Iong, M. McAnear, Y. Qu, S. Zou, G. Toth, **Y. Chen\***, *Sparse Variational Contaminated Noise Gaussian Process Regression for Forecasting Geomagnetic Perturbations.* arXiv preprint arXiv:2402.17570 (2024).
+7. D. Iong, M. McAnear, Y. Qu, S. Zou, G. Toth, **Y. Chen\*** (2024), *Sparse Variational Contaminated Noise Gaussian Process Regression for Forecasting Geomagnetic Perturbations.* [[arXiv](https://arxiv.org/abs/2402.17570)].
 8. R. Trangucci, J. Contreras, J. Zelner, Y. Chen (2024), *Bayesian Methods for Cumulative Exposure to Extensive Environmental Health Hazards: A Bayesian Inverse Perspective*. [[arXiv](https://arxiv.org/pdf/2404.04398.pdf)]
 9. X. Li, **Y. Chen\***, X. Meng, V. Kashyap, M. Bonamente (2024), *Comparison of Goodness–of–fit Assessment Methods with C statistics in Astronomy*, in preparation.
-10. H. Sun, **Y. Chen\*** (2024), *Conformalized Tensor Completion with Riemannian Optimization*, in preparation.
+10. H. Sun, **Y. Chen\*** (2024), *Conformalized Tensor Completion with Riemannian Optimization*, [[arXiv](https://arxiv.org/abs/2405.00581)].
 11. **Y. Chen\***, Ward Manchester, Meng Jin, Alexei Pevtsov (2024), *A Statistician's Perspective on Solar Imaging Data Analytic Challenges*, in preparation.
 12. D. Iong, Q. Zhao, and **Y. Chen** (2024). *A Latent Mixture Model for Heterogeneous Causal Mechanisms in Mendelian Randomization*, Annals of Applied Statistics, Vol. 18, No. 2, 966-990. [[journal](http://dx.doi.org/10.1214/23-AOAS1816)]
 
