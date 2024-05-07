@@ -7,6 +7,11 @@ author_profile: true
 
 Abstracts of recent talks are available [here](https://docs.google.com/document/d/1xSn__mPnUKKt2SOtQnGurk04u2QvP6RkCsEQa0sLJWo/edit?usp=sharing).
 
+## 2025 
+
+1. TBD
+    * Statistics Seminar at Oregon State University, Corvallis, OR, March 3rd, 2025. 
+
 ## 2024
 
 1. Multi-instrument Cross-Calibration in Astronomy with Multiplicative Shrinkage [[slides](https://drive.google.com/file/d/1XIRe4Wa1XhyS74lXi6hoHTdYhg4QEmyF/view?usp=drive_link)]
@@ -48,9 +53,6 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
 12. Discussion of "Poisson-FOCuS: An Efficient Online Method for Detecting Count Bursts with Application to Gamma Ray Burst Detection" by Kes Ward, Giuseppe Dilillo, Idris Eckley & Paul Fearnhead (2023), Journal of the American
 Statistical Association, DOI: 10.1080/01621459.2023.2235059.
     * JASA Applications & Case Studies Discussion Session, Joint Statistical Meeting, Portland, OR, August 3-8, 2024.
-
-13. TBD
-    * Statistics Seminar at Oregon State University, Corvallis, OR, 2024. 
 
 ## 2023
 
