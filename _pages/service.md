@@ -22,7 +22,7 @@ author_profile: true
 
 * Guest Editor, Frontiers in Astronomy And Space Sciences, 2022-2023.
 
-* Reviewer for journals: Annals of Applied Statistics, Journal of the American Statistical Association (Theory & Methods, Case Studies), Journal of Statistical Theory and Practice, PLOS ONE, Statistical Analysis and Data Mining, Frontiers Astronomy, Journal of Machine Learning Research, Earth, Planets and Space, Astronomy and Computing, Space Weather, Frontiers in Genetics, Front. Astron. Space Sci. - Astrostatistics.
+* Reviewer for journals: Annals of Applied Statistics, Journal of the American Statistical Association (Theory & Methods, Case Studies), Journal of Statistical Theory and Practice, PLOS ONE, Statistical Analysis and Data Mining, Frontiers Astronomy, Journal of Machine Learning Research, Earth, Planets and Space, Astronomy and Computing, Space Weather, Frontiers in Genetics, Front. Astron. Space Sci. - Astrostatistics, Scientific Data - Nature, The American Statistician, Journal of Geophysical Research - Machine Learning, Journal of Geophysical Research - Space Physics.
 
 * Reviewer of internal selection of Ph.D. student fellowship at the University of Michigan, September 2020.
 
