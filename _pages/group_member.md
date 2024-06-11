@@ -10,32 +10,28 @@ author_profile: true
 ### Postdoctoral Fellow
 
 * [Yiluan Song](https://scholar.google.com/citations?user=QToyeIAAAAAJ&hl=en), 2023-2025.
-* [Jingyang Li](https://scholar.google.com/citations?user=4Q2DaL4AAAAJ&hl=en), 2023-2025
+  Schmidt AI in Science Postdoc, Joint with [Kai Zhu](https://seas.umich.edu/research/faculty/kai-zhu).
+* [Jingyang Li](https://scholar.google.com/citations?user=4Q2DaL4AAAAJ&hl=en), 2023-2025.
+* [Tsige Atilaw](https://scholar.google.com/citations?user=AfjHc8EAAAAJ&hl=en), 2024-2026.
+  Schmidt AI in Science Postdoc, Joint with [Mojtaba Akhavan-Tafti](https://clasp.engin.umich.edu/people/akhavan-tafti-mojtaba/).
 
 ### Ph.D. Students
 
-* [Hu Sun](https://husun0822.github.io/), 2020-now.
 * Victor Verma, 2022-now, joint with [Stilian Stoev](https://sites.lsa.umich.edu/sstoev/).
 * Yuxuan Ke, 2023-now.
 * Jiuqian Shang, 2023-now.
 * Noah Kochanski, 2023-now.
+* Ashlan Simpson, 2024-now.
+* Soham Das, 2024-now.
+* Kevin Jin, 2024-now.
 
 ### Master Students
 
-* Jiayin Ye, 2023 Winter-now, joint with [Yi Hong](https://ciglr.seas.umich.edu/opportunities/postdoctoral-fellowships/yi-hong/).
-* Xinyu Liang, 2023 summer.
-* Yizhou Zhang, 2023 summer.
-* Matthew McAnear, 2023 summer.
-
-### Undergraduate Students 
-* Yuezhou Qu, 2023 Winter.
-* Ruipu Li, joint with [Joyce Penner](https://clasp.engin.umich.edu/people/penner-joyce-e/) and [Xianglei Huang](https://clasp.engin.umich.edu/people/huang-xianglei/), 2022 summer -2023 summer.
-* Nicolas Harder, joint with [Joyce Penner](https://clasp.engin.umich.edu/people/penner-joyce-e/) and [Xianglei Huang](https://clasp.engin.umich.edu/people/huang-xianglei/), 2022 summer -2023 summer.
-* Brandon Li, 2023 Winter-now, joint with [Yi Hong](https://ciglr.seas.umich.edu/opportunities/postdoctoral-fellowships/yi-hong/).
-* Jiuqian Shang, 2022 summer - 2023 Winter.
-* Xiaoli Li, 2023 Winter - now.
-* Xiaofan Xia, 2023 Summer.
-
+* Matthew McAnear, 2023-now.
+* Ke Hu, 2024-now.
+* Chia-Yun Li, 2024-now.
+* Jiaxing Xu, 2024-now.
+* Longhao Pang, 2024-now.
 
 ---
 
@@ -59,31 +55,50 @@ author_profile: true
    - First position after graduation: Researcher at the Institute for Defense Analyses.
 * Bach Viet Do (joint with [Long Nguyen](https://dept.stat.lsa.umich.edu/~xuanlong/)), 2017-2023.
    - Dissertation title: *Mixture Modeling: Solar Application and Misspecification Behaviors.*
-   - First position after graduation: Research Data Scientist at Ford Motor. 
+   - First position after graduation: Research Data Scientist at Ford Motors. 
+* [Hu Sun](https://husun0822.github.io/), 2020-2024.
+  - Dissertation title: *Statistical Methods for Spatio-Temporal Tensor Data and Their Applications to Space Weather Monitoring.*
+  - First position after graduation: IMC Trading.
 
 
 ### BRIDGE Program Alumni
 
-* Dylan Glover, 2021-2022.
-* Noah Kochanski, 2022-2023.
-* Mallory Wang, 2023 Winter.
+(name, years, first position)
+
+* Dylan Glover, 2021-2022, Research Statistician at Maxar Technologies.
+* Noah Kochanski, 2022-2023, Ph.D. student at University of Michigan.
+* Mallory Wang, 2023 Winter, Ph.D. student at University of California, Santa Babara.
 
 ### Master Alumni (incomplete list)
 
-* Tian Zhou, Machine Learning Engineer at Snap.
-* Naomi Giertych, Ph.D. student at North Carolina State University.
-* Zhenbang Jiao, Ph.D. student at The Ohio State University.
-* Hu Sun, Ph.D. student at the University of Michigan, Ann Arbor.
-* Zhijun Hua, Ph.D. student at Cornell University.
-* Xianlin Sun, Ph.D. student at University of Hong Kong.
-* Hongfan Chen, Ph.D. student at the University of Michigan, Ann Arbor.
-* Wei Zhao, Ph.D. student at North Carolina State University.
-* Yurui Chang, Ph.D. student at Penn State University.
-* Zeyuan Li
-* Qikai Hu, Ph.D. student at the University of Michigan, Ann Arbor.
-* Ruoyang Liu
+(name, years, first position)
+
+* Tian Zhou, 2018-2019, Machine Learning Engineer at Snap.
+* Naomi Giertych, 2018-2019, Ph.D. student at North Carolina State University.
+* Zhenbang Jiao, 2018-2020, Ph.D. student at The Ohio State University.
+* Hu Sun, 2018-2020, Ph.D. student at the University of Michigan, Ann Arbor.
+* Zhijun Hua, 2020-2021, Ph.D. student at Cornell University.
+* Xianlin Sun, 2021-2022, Ph.D. student at University of Hong Kong.
+* Hongfan Chen, 2021-2022, Ph.D. student at the University of Michigan, Ann Arbor.
+* Wei Zhao, 2021-2022, Ph.D. student at North Carolina State University.
+* Yurui Chang, 2022-2023, Ph.D. student at Penn State University.
+* Zeyuan Li, 2023.
+* Qikai Hu, 2022-2023, Ph.D. student at the University of Michigan, Ann Arbor.
+* Ruoyang Liu, 2022-2023.
+* Jiayin Ye, 2023-2024, joint with [Yi Hong](https://ciglr.seas.umich.edu/opportunities/postdoctoral-fellowships/yi-hong/), Ph.D. student at University of Maryland.
+* Xinyu Liang, 2023-2024, joint with [Wenman Liu](https://www.researchgate.net/profile/Wenman-Liu-2).
+* Yizhou Zhang, 2023 summer-2024, Ph.D. student at Purdue University.
 
 ### Undergraduate Alumni
 
-* [Miaoshiqi Liu](https://shiqi.writingspace.cc/), 2018 summer.
-* [Song Wei](https://sites.google.com/view/songwei-gt/home), 2018 summer.
+(name, years, first position)
+
+* [Miaoshiqi Liu](https://shiqi.writingspace.cc/), 2018 summer, Ph.D. student at University of Toronto.
+* [Song Wei](https://sites.google.com/view/songwei-gt/home), 2018 summer, Ph.D. student at Georgia Institute of Technology.
+* Yuezhou Qu, 2023 Winter - 2024.
+* Ruipu Li, 2022-2024, joint with [Joyce Penner](https://clasp.engin.umich.edu/people/penner-joyce-e/) and [Xianglei Huang](https://clasp.engin.umich.edu/people/huang-xianglei/), 2022 summer -2024, Ph.D. student at the University of Michigan.
+* Nicolas Harder, 2022-2024, joint with [Joyce Penner](https://clasp.engin.umich.edu/people/penner-joyce-e/) and [Xianglei Huang](https://clasp.engin.umich.edu/people/huang-xianglei/), 2022 summer -2024.
+* Brandon Li, 2023 Winter-2024, joint with [Yi Hong](https://ciglr.seas.umich.edu/opportunities/postdoctoral-fellowships/yi-hong/).
+* Jiuqian Shang, 2022 summer - 2023 Winter, Ph.D. student at University of Michigan.
+* Xiaoli Li, 2023 Winter - 2024, Ph.D. student at University of Chicago.
+* Xiaofan Xia, 2023 Summer, Ph.D. student at University of Toronto.
