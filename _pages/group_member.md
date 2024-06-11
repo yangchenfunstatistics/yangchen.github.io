@@ -61,7 +61,7 @@ author_profile: true
   - First position after graduation: IMC Trading.
 
 
-### BRIDGE Program Alumni
+### Bridge Program Alumni
 
 (name, years, first position)
 
@@ -69,7 +69,7 @@ author_profile: true
 * Noah Kochanski, 2022-2023, Ph.D. student at University of Michigan.
 * Mallory Wang, 2023 Winter, Ph.D. student at University of California, Santa Babara.
 
-### Master Alumni (incomplete list)
+### Masters' Program Alumni (incomplete list)
 
 (name, years, first position)
 
