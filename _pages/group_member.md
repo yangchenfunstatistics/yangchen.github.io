@@ -7,7 +7,7 @@ author_profile: true
 
 ## Current Members
 
-### Postdoctoral Fellow
+### Postdoctoral Fellows
 
 * [Yiluan Song](https://scholar.google.com/citations?user=QToyeIAAAAAJ&hl=en), 2023-2025.
   Schmidt AI in Science Postdoc, Joint with [Kai Zhu](https://seas.umich.edu/research/faculty/kai-zhu).
