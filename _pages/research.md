@@ -45,7 +45,7 @@ author_profile: true
 
 2. Matrix Autoregressive Model with Global Exogeneous Predictors: [Sun et al. (2024+)](https://arxiv.org/abs/2305.15671).
 
-3. Finite Mixture Models -- Order Selection and Misspecification: Chen et al. (2023+).
+3. Finite Mixture Models -- Order Selection and Misspecification: [Chen et al. (2024+)](https://arxiv.org/abs/2405.12343).
 
 ### Applied Statistics in Biological Sciences and Epidemiology
 
@@ -64,7 +64,7 @@ Also available at my [Google Scholar](https://scholar.google.com/citations?user=
 
 ### 2024
 1. R. Trangucci, **Y. Chen**, J. Zelner, *Identified Vaccine Efficacy for Binary Post-infection Outcomes under Misclassification without monotonicity*, submitted. [[arXiv](https://https://arxiv.org/abs/2211.16502)]
-2. **Y. Chen**, C.-D. Fuh, C.-L. Kao, *Determine the Number of States in Hidden Markov Models via Marginal Likelihoods*, submitted.
+2. **Y. Chen**, C.-D. Fuh, C.-L. Kao, *Determine the Number of States in Hidden Markov Models via Marginal Likelihoods*, [[arXiv](https://arxiv.org/abs/2405.12343)].
 3. H. Sun, Z. Shang, **Y. Chen\***, *Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data*, submitted. [[arXiv](https://arxiv.org/abs/2305.15671)]
 4. W. Liu, I. Ibenaz, **Y. Chen**, A. Agrawal, *Transitory Sustainability Effects of Behavioral Changes: Short-Term Benefits of COVID-19 Lockdowns Reversed Over Time, Resulting in More Wildfires in the Amazon*, submitted. [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438234)]
 5. M. Aguirre, W. Sun, **Y. Chen**, J. Jin, *Automatic Identification of Driving Maneuver Patterns Using a Robust Hidden Semi-Markov Model*, submitted. [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4410473)]
@@ -73,7 +73,7 @@ Also available at my [Google Scholar](https://scholar.google.com/citations?user=
 8. R. Trangucci, J. Contreras, J. Zelner, Y. Chen (2024), *Bayesian Methods for Cumulative Exposure to Extensive Environmental Health Hazards: A Bayesian Inverse Perspective*. [[arXiv](https://arxiv.org/pdf/2404.04398.pdf)]
 9. X. Li, **Y. Chen\***, X. Meng, V. Kashyap, M. Bonamente (2024), *Comparison of Goodness–of–fit Assessment Methods with C statistics in Astronomy*, in preparation.
 10. H. Sun, **Y. Chen\*** (2024), *Conformalized Tensor Completion with Riemannian Optimization*, [[arXiv](https://arxiv.org/abs/2405.00581)].
-11. **Y. Chen\***, Ward Manchester, Meng Jin, Alexei Pevtsov (2024), *A Statistician's Perspective on Solar Imaging Data Analytic Challenges*, in preparation.
+11. **Y. Chen\***, Ward Manchester, Meng Jin, Alexei Pevtsov (2024), *An Introduction on Solar Imaging Data Analytic Challenges and Opportunities for Statisticians*, [[arXiv](https://arxiv.org/abs/2405.12331)].
 12. D. Iong, Q. Zhao, and **Y. Chen** (2024). *A Latent Mixture Model for Heterogeneous Causal Mechanisms in Mendelian Randomization*, Annals of Applied Statistics, Vol. 18, No. 2, 966-990. [[journal](http://dx.doi.org/10.1214/23-AOAS1816)]
 
 ### 2023
