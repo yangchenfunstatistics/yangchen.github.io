@@ -10,7 +10,8 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
 ## 2025 
 
 1. TBD
-    * Statistics Seminar at Oregon State University, Corvallis, OR, March 3rd, 2025. 
+    * Statistics Seminar at Oregon State University, Corvallis, OR, March 3rd, 2025.
+    * Statistics Seminar at Purdue University, West Lafayette, IN, April 4th, 2025.
 
 ## 2024
 
