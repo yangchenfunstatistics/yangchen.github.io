@@ -57,7 +57,7 @@ author_profile: true
    - Dissertation title: *Mixture Modeling: Solar Application and Misspecification Behaviors.*
    - First position after graduation: Research Data Scientist at Ford Motors. 
 * [Hu Sun](https://husun0822.github.io/), 2020-2024.
-  - Dissertation title: *Statistical Methods for Spatio-Temporal Tensor Data and Their Applications to Space Weather Monitoring.*
+  - Dissertation title: *Statistical Methods for Spatio-Temporal Tensor Data.*
   - First position after graduation: IMC Trading.
 
 
