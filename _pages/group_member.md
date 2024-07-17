@@ -35,6 +35,12 @@ author_profile: true
 
 ---
 
+## Photos
+
+![Group gathering after Hu Sun's Defense](.../assets/IMG_4615.HEIC)
+
+---
+
 ## Alumni
 
 ### Postdoc Alumni
