@@ -37,7 +37,7 @@ author_profile: true
 
 ## Photos
 
-![Group gathering after Hu Sun's Defense](yangchen.github.io/assets/IMG_4615.HEIC)
+![Group gathering after Hu Sun's Defense](/assets/IMG_4615.HEIC)
 
 ---
 
