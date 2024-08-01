@@ -37,7 +37,7 @@ author_profile: true
 
 ## Photos
 
-![Group gathering after Hu Sun's Defense](IMG_4615.HEIC)
+![Group gathering after Hu Sun's Defense](../images/IMG_4615.jpg)
 
 ---
 
