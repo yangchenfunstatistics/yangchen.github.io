@@ -42,6 +42,7 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
 
 8. Statistical Models for Solar Flare Predictions
    * AOGS (Asia Oceania Geosciences Society) 2024, 21st Annual Meeting, Gangwon-do, Korea, June 23-28, 2024.
+   * European Space Weather Weak 2024 (ESWW2024), Coimbra, Portugal, 4-8 November.
 
 9. Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data
    * 26th International Conference on Computational Statistics (COMPSTAT 2024), University of Giessen, 27-30 August 2024.
