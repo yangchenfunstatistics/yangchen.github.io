@@ -76,7 +76,7 @@ Also available at my [Google Scholar](https://scholar.google.com/citations?user=
 10. H. Sun, **Y. Chen\*** (2024), *Conformalized Tensor Completion with Riemannian Optimization*, [[arXiv](https://arxiv.org/abs/2405.00581)].
 11. **Y. Chen\***, Ward Manchester, Meng Jin, Alexei Pevtsov (2024), *Solar Imaging Data Analytics: A Selective Overview of Challenges and Opportunities*, [[arXiv](https://arxiv.org/abs/2405.12331)].
 12. D. Iong, Q. Zhao, and **Y. Chen** (2024). *A Latent Mixture Model for Heterogeneous Causal Mechanisms in Mendelian Randomization*, Annals of Applied Statistics, Vol. 18, No. 2, 966-990. [[journal](http://dx.doi.org/10.1214/23-AOAS1816)].
-13. **Y. Chen**, W. Manchester, M. Jin, A. Pevtsov, *Solar Imaging Data Analytics: A Selective Overview of Challenges and Opportunities*, Statistics and Data Science in Imaging (2024). [[arXiv]{https://arxiv.org/abs/2405.12331}], [[journal][https://doi.org/10.1080/29979676.2024.2391688].
+13. **Y. Chen**, W. Manchester, M. Jin, A. Pevtsov, *Solar Imaging Data Analytics: A Selective Overview of Challenges and Opportunities*, Statistics and Data Science in Imaging (2024). [[arXiv](https://arxiv.org/abs/2405.12331)], [[journal](https://doi.org/10.1080/29979676.2024.2391688)].
 
 ### 2023
 
