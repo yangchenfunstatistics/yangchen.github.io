@@ -14,7 +14,7 @@ author_profile: true
    * Statistics Method - [Chen et al. (2019 JASA)](https://doi.org/10.1080/01621459.2018.1528978).
    * Astronomy Extensions - [Marshall et al. (2021 AJ)](https://doi.org/10.3847/1538-3881/ac230a).
 
-3. Goodness-of-fit Assessment with High-order Asymptotics: Chen et al. (2024+), Bonamente et al. (2024 ApJ).
+3. Goodness-of-fit Assessment with High-order Asymptotics: Chen et al. (2024+), [Bonamente et al. (2024 ApJ)](https://arxiv.org/abs/2407.12132).
 
 4. Solar Flare Forecasting:
    * Machine Learning Prediction - [Chen et al. (2019 SW)](https://doi.org/10.1029/2019SW002214), [Wang et al. (2020 ApJ)](https://doi.org/10.3847/1538-4357/ab89ac), [Sun et al. (2022 ApJ)](https://doi.org/10.1002/essoar.10508256.1), [Aktukmak et al. (2022 FASS)](https://doi.org/10.3389/fspas.2022.1040107), [Chen et al. (2023, Editorial Note)](https://doi.org/10.3389/fspas.2023.1121615), [Chen et al. (2024 Review Paper)](https://arxiv.org/abs/2405.12331).
@@ -75,8 +75,10 @@ Also available at my [Google Scholar](https://scholar.google.com/citations?user=
 9. **Y. Chen\***, X. Li, X. Meng, D. van Dyk, V. Kashyap, M. Bonamente (2024), *Comparison of Goodness–of–fit Assessment Methods with C statistics in Astronomy*, in preparation.
 10. H. Sun, **Y. Chen\*** (2024), *Conformalized Tensor Completion with Riemannian Optimization*, [[arXiv](https://arxiv.org/abs/2405.00581)].
 11. **Y. Chen\***, Ward Manchester, Meng Jin, Alexei Pevtsov (2024), *Solar Imaging Data Analytics: A Selective Overview of Challenges and Opportunities*, [[arXiv](https://arxiv.org/abs/2405.12331)].
-12. D. Iong, Q. Zhao, and **Y. Chen** (2024). *A Latent Mixture Model for Heterogeneous Causal Mechanisms in Mendelian Randomization*, Annals of Applied Statistics, Vol. 18, No. 2, 966-990. [[journal](http://dx.doi.org/10.1214/23-AOAS1816)].
+12. D. Iong, Q. Zhao, and **Y. Chen** (2024), *A Latent Mixture Model for Heterogeneous Causal Mechanisms in Mendelian Randomization*, Annals of Applied Statistics, Vol. 18, No. 2, 966-990. [[journal](http://dx.doi.org/10.1214/23-AOAS1816)].
 13. **Y. Chen**, W. Manchester, M. Jin, A. Pevtsov, *Solar Imaging Data Analytics: A Selective Overview of Challenges and Opportunities*, Statistics and Data Science in Imaging (2024). [[arXiv](https://arxiv.org/abs/2405.12331)], [[journal](https://doi.org/10.1080/29979676.2024.2391688)].
+14. H. Tak, **Y. Chen**, V. Kashyap, K. Mandel, X.-L. Meng, A. Siemiginowska, D. van Dyk, *Statistical Maxims for Sound Astronomical Data Analysis*, under revision, The Astrophysical Journal Supplement Series.
+15. M. Bonamente, **Y. Chen**, D.  Zimmerman, *Maximum–likelihood Regression with Systematic Errors for Astronomy and the Physical Sciences: I. Methodology and Goodness–of–fit Statistic of Poisson Data*, accepted by The Astrophysical Journal, [[arXiv](https://arxiv.org/abs/2407.12132)].
 
 ### 2023
 
