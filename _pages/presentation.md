@@ -60,6 +60,9 @@ Statistical Association, DOI: 10.1080/01621459.2023.2235059.
 13. Statistical Approaches to Geomagnetic Index Prediction [[slides](https://drive.google.com/file/d/1_l2g8cp4lSFagHyv9CRN-K3jBcz2ag5W/view?usp=drive_link)]
     * 1st Annual Science Understanding through Data Science Conference (SUDS), California Institute of Technology, Pasadena, CA, August 21-23, 2024.
 
+14. A Statistician's Fun and Challenges Playing in Physicists' Backyard
+    * IDWSDS (International Day of Women in Statistics and Data Science) Career Journey Talk, Virtual, October 8, 2024. 
+
 ## 2023
 
 1. Data-Driven Approaches to Space Weather Prediction Problems
