@@ -36,3 +36,5 @@ author_profile: true
 * Tutorial on Bayesian Statistics ([slides](https://drive.google.com/file/d/1NW-qLSknaJVlttj7s0sf482C2a4TkWAe/view?usp=drive_link)), Schmidt AI in Science Bootcamp, September, 2023.
 * [Applied Statistics for Environmental Scientists](https://midas.umich.edu/midas-training-program-for-environmental-scientists/), August, 2023.
 * [Applied Statistics for Environmental Scientists](https://midas.umich.edu/workshops/environmental-academy-2023/), November, 2022.
+
+### My teaching statement (2024) is [here](https://drive.google.com/file/d/11ZrQq9ymmlF2a9nNIoM6HfOmNXkm6t6O/view?usp=drive_link).
