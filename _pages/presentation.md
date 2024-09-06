@@ -19,13 +19,14 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
     * "Bayesian methods for astrophysics discovery based on big data," 2024 World Meeting of the International Society for Bayesian Analysis (ISBA), Venice, Italy, July 1-7, 2024.
     * Physics and Astronomy Seminar at University of Alabama, Huntsville, October 17, 2023.
 
-2. Video Imputation and Prediction Methods with Applications in Space Weather
+2. Video Imputation and Prediction Methods with Applications in Space Weather [[slides](https://drive.google.com/file/d/16MSn9jbFAFRp12J3mF5agOSfCUN-2FSN/view?usp=drive_link)]
    * Statistics Seminar, Duke University, January 11, 2024.
    * Statistics Seminar, Rice University, February 14, 2024.
    * Statistics Seminar, University of California, Berkeley, February 22, 2024.
    * Statistics Seminar, Cornell University, Ithaca, March 13, 2024.
    * Statistics Seminar, University of Waterloo, Canada, March 26, 2024.
    * The Joint Statistical Meetings (JSM), Portland, OR, August 3-8, 2024.
+   * Statistics Seminar, University of Michigan, Ann Arbor, September 6, 2024.
 
 3. Comparison of Goodness–of–fit Assessment Methods with C Statistics in Astronomy [[slides](https://drive.google.com/file/d/1tivAr-yonRCsycYhlefvBgQaNG3BUpm0/view?usp=drive_link)]
    * International CHASC Astro-Statistics Collaboration Seminar Series, Harvard University, Cambridge, MA, February 28, 2024.
