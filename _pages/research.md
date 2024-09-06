@@ -55,7 +55,7 @@ author_profile: true
 2. Epidemiology: [Zhao et al. (2019 IJE)](https://doi.org/10.1093/ije/dyz142), [Trangucci et al. (2023 AOAS)](http://dx.doi.org/10.1214/22-AOAS1711), [Trangucci et al. (2023+)](https://https://arxiv.org/abs/2211.16502), [Iong et al. (2023 AOAS)](https://arxiv.org/abs/2007.06476), [Trangucci et al. (2024+)](https://arxiv.org/pdf/2404.04398.pdf).
 
 
-# My research statement in 2024 is [here](https://drive.google.com/file/d/11NPVF0y14iWjwgNJia41TBS0tEKpG9XA/view?usp=drive_link).
+### My research statement in 2024 is [here](https://drive.google.com/file/d/11NPVF0y14iWjwgNJia41TBS0tEKpG9XA/view?usp=drive_link).
 
 ## Full List of Publications by Year
 
