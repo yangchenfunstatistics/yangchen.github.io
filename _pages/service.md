@@ -16,9 +16,9 @@ author_profile: true
 
 * Associate Editor for the Engineering Sciences Section, NEJSDS: The New England Journal of Statistics in Data Science, 2021-now.
 
-* NSF Reviewer, 2023, 2021, 2020, 2019.
+* NSF Reviewer, 2024, 2023, 2021, 2020, 2019.
 
-* NASA Reviewer, 2022.
+* NASA Reviewer, 2024, 2022.
 
 * Guest Editor, Frontiers in Astronomy And Space Sciences, 2022-2023.
 
@@ -28,6 +28,14 @@ author_profile: true
 
 
 ## Committee (External to Department of Statistics at the University of Michigan)
+
+* Chair-Elect, ASA Astrostatistics Interest Group (AIG), 2025.
+
+* Co-organizer, Online Monte Carlo Seminar, 2024-.
+
+* NJIT ISWS External Advisory Board and NASA MIRO Center External Advisory Committee, 2024.
+
+* CWS (Caucus for Women in Statistics and Data Science) Flash Mentoring, Mentor, 2024.
 
 * Scientific Organizing Committee, ML-Helio, 2022-2024.
   
