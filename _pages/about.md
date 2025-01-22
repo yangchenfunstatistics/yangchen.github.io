@@ -78,11 +78,6 @@ Robert Trangucci, Yang Chen, and Jon Zelner. "Modeling Rates of Disease with Mis
 
 Robert Trangucci, Yang Chen, and Jon Zelner. "Identified Vaccine Efficacy for Binary Post-infection Outcomes under Misclassification without Monotonicity." (2023). [[arXiv preprint](https://arxiv.org/abs/2211.16502)]
 
----
-
-## Opportunities
-
-I am recruiting postdocs, Ph.D., master's, and undergraduate students to join my research group. If you are interested, please send your CV and transcript to my email. 
 
 ---
 
