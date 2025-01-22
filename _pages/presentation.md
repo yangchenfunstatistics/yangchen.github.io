@@ -12,6 +12,10 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
 1. TBD
     * Statistics Seminar at Oregon State University, Corvallis, OR, March 3rd, 2025.
     * Statistics Seminar at Purdue University, West Lafayette, IN, April 4th, 2025.
+2. TBD
+    * sys2025: Systematic and Measurement Errors across the Sciences - AstroStatistics and Data Science, Gulf Shores, AL, March 28-31, 2025.
+3. Comparison of Goodness-of-fit Assessment Methods with C-statistics in Astronomy
+    * 65th ISI World Statistics Congress, The Hague, October 5-9, 2025.
 
 ## 2024
 
