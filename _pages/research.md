@@ -65,7 +65,7 @@ Also available at my [Google Scholar](https://scholar.google.com/citations?user=
 
 ### 2025
 
-1. V. Verma, S. Stoev, **Y. Chen**, *On the optimal prediction of extreme events in heavy-tailed time series with applications to solar flare forecasting*, [[arXiv](https://arxiv.org/abs/2407.11887)].
+1. V. Verma, S. Stoev, **Y. Chen**, *On the optimal prediction of extreme events in heavy-tailed time series with applications to solar flare forecasting*, Journal of Time Series Analysis, [[arXiv](https://arxiv.org/abs/2407.11887)].
 
 ### 2024
 1. R. Trangucci, **Y. Chen**, J. Zelner, *Identified Vaccine Efficacy for Binary Post-infection Outcomes under Misclassification without monotonicity*, submitted. [[arXiv](https://https://arxiv.org/abs/2211.16502)]
