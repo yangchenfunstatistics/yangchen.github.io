@@ -79,6 +79,10 @@ author_profile: true
 
 ## Organizing Activities
 
+* Organizer of lightning talk session “Data-driven Approaches as a Revolution for Space Weather Forecasting”, 2024 ADSA Annual Meeting, Ann Arbor, Michigan, October 29-31, 2024.
+
+* Chair of session “The Promises and Perils of Long Time: Recent advances in astronomical time series”, the Joint Statistical Meetings, Portland, OR, August 3-9, 2024
+
 * Organizer and co-chair of session "Panel on Careers in Data Science" [[slides](https://drive.google.com/file/d/1apwDEsBkXuWEa1oQgJzegBpcmysL4PGs/view?usp=drive_link)], ICSA Applied Statistics Symposium, Ann Arbor, Michigan, June 12, 2023. 
 
 * Faculty Panel, MIDAS AI in Science Symposium, April 3, 2023.
