@@ -63,22 +63,27 @@ Also available at my [Google Scholar](https://scholar.google.com/citations?user=
 
 \* corresponding author
 
+### 2025
+
+1. V. Verma, S. Stoev, **Y. Chen**, *On the optimal prediction of extreme events in heavy-tailed time series with applications to solar flare forecasting*, [[arXiv](https://arxiv.org/abs/2407.11887)].
+
 ### 2024
 1. R. Trangucci, **Y. Chen**, J. Zelner, *Identified Vaccine Efficacy for Binary Post-infection Outcomes under Misclassification without monotonicity*, submitted. [[arXiv](https://https://arxiv.org/abs/2211.16502)]
 2. **Y. Chen**, C.-D. Fuh, C.-L. Kao, *Determine the Number of States in Hidden Markov Models via Marginal Likelihoods*, [[arXiv](https://arxiv.org/abs/2405.12343)].
 3. H. Sun, Z. Shang, **Y. Chen\***, *Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data*, submitted. [[arXiv](https://arxiv.org/abs/2305.15671)]
 4. W. Liu, I. Ibenaz, **Y. Chen**, A. Agrawal, *Transitory Sustainability Effects of Behavioral Changes: Short-Term Benefits of COVID-19 Lockdowns Reversed Over Time, Resulting in More Wildfires in the Amazon*, submitted. [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438234)]
 5. M. Aguirre, W. Sun, **Y. Chen**, J. Jin, *Automatic Identification of Driving Maneuver Patterns Using a Robust Hidden Semi-Markov Model*, submitted. [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4410473)]
-6. B. Viet Do, **Y. Chen\***, L. Nguyen, W. Manchester, *Uncovering Heterogeneity of Solar Flare Mechanism with Mixture Models*, Frontiers in Astronomy and Space Sciences 11 (2024): 1229092. [[arXiv](https://arxiv.org/abs/2401.14345)].
+6. B. Viet Do, **Y. Chen\***, L. Nguyen, W. Manchester, *Uncovering Heterogeneity of Solar Flare Mechanism with Mixture Models*, Frontiers in Astronomy and Space Sciences 11 (2024): 1229092. [[arXiv](https://arxiv.org/abs/2401.14345)], [[journal](https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2024.1229092/full)].
 7. D. Iong, M. McAnear, Y. Qu, S. Zou, G. Toth, **Y. Chen\*** (2024), *Sparse Variational Contaminated Noise Gaussian Process Regression with Applications in Geomagnetic Perturbations Forecasting*, Data Science in Science, Volume 3 Issue 1. [[arXiv](https://arxiv.org/abs/2402.17570)], [[journal](https://www.tandfonline.com/doi/full/10.1080/26941899.2024.2383281)].
 8. R. Trangucci, J. Contreras, J. Zelner, Y. Chen (2024), *Bayesian Methods for Cumulative Exposure to Extensive Environmental Health Hazards: A Bayesian Inverse Perspective*. [[arXiv](https://arxiv.org/pdf/2404.04398.pdf)]
 9. **Y. Chen\***, X. Li, X. Meng, D. van Dyk, V. Kashyap, M. Bonamente (2024), *Comparison of Goodness–of–fit Assessment Methods with C statistics in Astronomy*, in preparation.
 10. H. Sun, **Y. Chen\*** (2024), *Conformalized Tensor Completion with Riemannian Optimization*, [[arXiv](https://arxiv.org/abs/2405.00581)].
-11. **Y. Chen\***, Ward Manchester, Meng Jin, Alexei Pevtsov (2024), *Solar Imaging Data Analytics: A Selective Overview of Challenges and Opportunities*, [[arXiv](https://arxiv.org/abs/2405.12331)].
+11. J. Li, J. Cai, **Y. Chen**, D. Xia, Online Tensor Learning: Computational and Statistical Trade-offs, Adaptivity
+and Optimal Regret. [[arXiv](https://arxiv.org/abs/2306.03372)]
 12. D. Iong, Q. Zhao, and **Y. Chen** (2024), *A Latent Mixture Model for Heterogeneous Causal Mechanisms in Mendelian Randomization*, Annals of Applied Statistics, Vol. 18, No. 2, 966-990. [[journal](http://dx.doi.org/10.1214/23-AOAS1816)].
 13. **Y. Chen**, W. Manchester, M. Jin, A. Pevtsov, *Solar Imaging Data Analytics: A Selective Overview of Challenges and Opportunities*, Statistics and Data Science in Imaging (2024). [[arXiv](https://arxiv.org/abs/2405.12331)], [[journal](https://doi.org/10.1080/29979676.2024.2391688)].
-14. H. Tak, **Y. Chen**, V. Kashyap, K. Mandel, X.-L. Meng, A. Siemiginowska, D. van Dyk, *Statistical Maxims for Sound Astronomical Data Analysis*, under revision, The Astrophysical Journal Supplement Series.
-15. M. Bonamente, **Y. Chen**, D.  Zimmerman, *Maximum–likelihood Regression with Systematic Errors for Astronomy and the Physical Sciences: I. Methodology and Goodness–of–fit Statistic of Poisson Data*, accepted by The Astrophysical Journal, [[arXiv](https://arxiv.org/abs/2407.12132)].
+14. H. Tak, **Y. Chen**, V. Kashyap, K. Mandel, X.-L. Meng, A. Siemiginowska, D. van Dyk, *Statistical Maxims for Sound Astronomical Data Analysis*, The Astrophysical Journal Supplement Series, 275(2), 30. [[journal](https://iopscience.iop.org/article/10.3847/1538-4365/ad8440/meta)]
+15. M. Bonamente, **Y. Chen**, D.  Zimmerman, *Maximum–likelihood Regression with Systematic Errors for Astronomy and the Physical Sciences: I. Methodology and Goodness–of–fit Statistic of Poisson Data*, The Astrophysical Journal, [[arXiv](https://arxiv.org/abs/2407.12132)].
 
 ### 2023
 
