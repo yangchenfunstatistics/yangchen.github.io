@@ -114,16 +114,22 @@ author_profile: true
 
 ### Statistics
 
-* Yilei Zhang, Ph.D. student in Statistics. Role: Member.
+* Yilei Zhang, Ph.D. candidate in Statistics. Role: Member.
 
 
-* Vincenzo Loffredo, Ph.D. candidate in Statistics. Role: Member.
+* Kevin Liang, Ph.D. candidate in Statistics. Role: Member.
+
+
+* Katherine Ahn, Ph.D. candidate in Statistics. Role: Member.
 
 
 * Yash Patel, Ph.D. candidate in Statistics. Role: Member.
 
 
 * Yiling Huang, Ph.D. candidate in Statistics. Role: Member.
+
+  
+* Vincenzo Loffredo, Ph.D. in Statistics, 2024. Dissertation Title: Bayesian Perspectives on LongROAD Study: Analyzing Driving Decline and Latent Traits. Role: Member.
 
   
 * Derek Hanson, Ph.D. in Statistics, 2023. Dissertation Title: Mechanistic and Data-Adaptive Bayesian Methods for Scientific Inference. Role: Member.
