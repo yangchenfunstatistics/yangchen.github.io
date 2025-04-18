@@ -32,12 +32,14 @@ author_profile: true
 * Chair-Elect, ASA Astrostatistics Interest Group (AIG), 2025.
 
 * Co-organizer, Online Monte Carlo Seminar, 2024-.
+  
+* Gertrude M. Cox Scholarship Committee Chair, 2025.
 
 * NJIT ISWS External Advisory Board and NASA MIRO Center External Advisory Committee, 2024.
 
 * CWS (Caucus for Women in Statistics and Data Science) Flash Mentoring, Mentor, 2024.
 
-* Scientific Organizing Committee, ML-Helio, 2022-2024.
+* Scientific Organizing Committee, ML-Helio, 2022-2025.
   
 * Gertrude M. Cox Scholarship Committee, 2024.
 
@@ -79,6 +81,8 @@ author_profile: true
 
 ## Organizing Activities
 
+* Organizing committee for “SABID 2025: Workshop on Solar & Stellar Astronomy Big Data” at ICDM (The 25th IEEE International Conference on Data Mining) 2025, November 12, 2025.
+  
 * Organizer of lightning talk session “Data-driven Approaches as a Revolution for Space Weather Forecasting”, 2024 ADSA Annual Meeting, Ann Arbor, Michigan, October 29-31, 2024.
 
 * Chair of session “The Promises and Perils of Long Time: Recent advances in astronomical time series”, the Joint Statistical Meetings, Portland, OR, August 3-9, 2024
