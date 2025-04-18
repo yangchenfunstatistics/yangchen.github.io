@@ -84,6 +84,7 @@ ing using Deep Gaussian Process*, [[journal](https://essopenarchive.org/users/54
 10. R. Trangucci, J. Contreras, J. Zelner, Y. Chen (2024), *Bayesian Methods for Cumulative Exposure to Extensive Environmental Health Hazards: A Bayesian Inverse Perspective*. [[arXiv](https://arxiv.org/pdf/2404.04398.pdf)]
 11. H. Sun, **Y. Chen\*** (2024), *Conformalized Tensor Completion with Riemannian Optimization*, [[arXiv](https://arxiv.org/abs/2405.00581)].
 12. J. Li, J. Cai, **Y. Chen**, D. Xia, Online Tensor Learning: Computational and Statistical Trade-offs, Adaptivity and Optimal Regret, [[arXiv](https://arxiv.org/abs/2306.03372)].
+13. **Y. Chen** (2025), Discussion on “Poisson-FOCuS: An Efficient Online Method for Detecting Count Bursts with Application to Gamma Ray Burst Detection” by Ward, Dilillo, Eckley, and Fearnhead, Journal of the American Statistical Association, 120(549), 2630. [[Journal](https://doi.org/10.1080/01621459.2024.2402961)].
 
    
 ### 2024
