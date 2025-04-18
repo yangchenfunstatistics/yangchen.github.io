@@ -244,6 +244,10 @@ detector. Role: Cognate.
 Cognate.
 
 
+* Hui Yu, Ph.D. student in the College of Pharmacy. Role: Cognate.
+
+
+
 ## Others
 
 * Mentor for WISTEM (Women in Science, Technology, Engineering, and Mathematics), Harvard University, Cambridge, MA, 2016 - 2017.
