@@ -14,7 +14,7 @@ author_profile: true
 * [Jingyang Li](https://scholar.google.com/citations?user=4Q2DaL4AAAAJ&hl=en), 2023-2025.
 * [Tsige Atilaw](https://scholar.google.com/citations?user=AfjHc8EAAAAJ&hl=en), 2024-2026.
   Schmidt AI in Science Postdoc, Joint with [Mojtaba Akhavan-Tafti](https://clasp.engin.umich.edu/people/akhavan-tafti-mojtaba/).
-* [Yian Yu], 2025-2027.
+* [Yian Yu](), 2025-2027.
 
 ### Ph.D. Students
 
