@@ -21,6 +21,8 @@ author_profile: true
    * Mixed LSTM for Flare Indicator and Intensity - [Jiao et al. (2020 SW)](https://doi.org/10.1029/2020SW002440).
    * Statistical Feature Construction - [Sun et al. (2021 SW)](https://doi.org/10.1002/essoar.10507540.1).
    * Tensor Contraction with Gaussian Process - [Sun et al. (2023 ICML)](https://proceedings.mlr.press/v202/sun23f.html).
+   * Optimal Prediction of Extreme Events [Verma et al. (2025 JTSA)](https://onlinelibrary.
+wiley.com/doi/10.1111/jtsa.12820).
 
 ### Data-Driven Approaches for Space Weather
 
@@ -31,6 +33,7 @@ author_profile: true
 3. Prediction Models for Geomagnetic Indices:
    * SymH - [Iong et al. (2022 SW)](https://doi.org/10.1029/2021SW002928).
    * Delta-B - [Iong et al. (2024 DSS)](https://www.tandfonline.com/doi/full/10.1080/26941899.2024.2383281).
+   * Global Probabilistic Geomagnetic Perturbation Forecast - [Chen et al. (2025 SW)](https://essopenarchive.org/users/542794/articles/1251681-geodgp-one-hour-ahead-global-probabilistic-geomagnetic-perturbation-forecasting-using-deep-gaussian-process).
    
 5. Imputation and Prediction for TEC Maps:
    * Video Imputation - [Sun et al. (2022 AOAS)](http://dx.doi.org/10.1214/21-AOAS1541).
@@ -38,7 +41,9 @@ author_profile: true
    * Database - [Sun et al. (2023 SD)](https://doi.org/10.1038/s41597-023-02138-7).
    * Prediction - [Wang et al. (2023 SW)](https://doi.org/10.1029/2023SW003494).
 
-7. Data Assimilation and Uncertainty Quantification: [Jivani et al. (2023 SW)](https://doi.org/10.1029/2022SW003262).
+7. Data Assimilation and Uncertainty Quantification:
+   * [Jivani et al. (2023 SW)](https://doi.org/10.1029/2022SW003262).
+   * [Chen et al. (2025 SW)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024SW004165).
 
 ### Statistical Methodology
 
@@ -46,7 +51,7 @@ author_profile: true
 
 2. Matrix Autoregressive Model with Global Exogeneous Predictors: [Sun et al. (2024+)](https://arxiv.org/abs/2305.15671).
 
-3. Finite Mixture Models -- Order Selection and Misspecification: [Chen et al. (2024+)](https://arxiv.org/abs/2405.12343).
+3. Finite Mixture Models -- Order Selection and Misspecification: [Chen et al. (2025 JMLR)](https://jmlr.org/papers/v26/23-0343.html).
 
 ### Applied Statistics in Biological Sciences and Epidemiology
 
