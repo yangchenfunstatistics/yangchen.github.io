@@ -95,6 +95,10 @@ author_profile: true
 * Jiayin Ye, 2023-2024, joint with [Yi Hong](https://ciglr.seas.umich.edu/opportunities/postdoctoral-fellowships/yi-hong/), Ph.D. student at University of Maryland.
 * Xinyu Liang, 2023-2024, joint with [Wenman Liu](https://www.researchgate.net/profile/Wenman-Liu-2).
 * Yizhou Zhang, 2023 summer-2024, Ph.D. student at Purdue University.
+* Matthew McAnear, 2023-2025, Ph.D. student at the University of Michigan.
+* Ke Hu, 2024-2025, Ph.D. student at University of Illinois Urbana-Champaign.
+* Chia-Yun Li, 2024-2025.
+* Jiaxing Xu, 2024-2025.
 
 ### Undergraduate Alumni
 
@@ -107,5 +111,9 @@ author_profile: true
 * Nicolas Harder, 2022-2024, joint with [Joyce Penner](https://clasp.engin.umich.edu/people/penner-joyce-e/) and [Xianglei Huang](https://clasp.engin.umich.edu/people/huang-xianglei/), 2022 summer -2024.
 * Brandon Li, 2023 Winter-2024, joint with [Yi Hong](https://ciglr.seas.umich.edu/opportunities/postdoctoral-fellowships/yi-hong/).
 * Jiuqian Shang, 2022 summer - 2023 Winter, Ph.D. student at University of Michigan.
-* Xiaoli Li, 2023 Winter - 2024, Ph.D. student at University of Chicago.
-* Xiaofan Xia, 2023 Summer, Ph.D. student at University of Toronto.
+* Xiaoli Li, 2023 Winter - 2024, Ph.D. student at the University of Chicago.
+* Xiaofan Xia, 2023 Summer, Ph.D. student at the University of Toronto.
+* Qikai Shen, 2025 Winter (URPS program, with Ph.D. student Jiuqian Shang), Master's student at the University of Chicago.
+* Qinkai Li, 2025 Winter (URPS program, with Ph.D. student Jiuqian Shang).
+* Benjamin Tward, 2025 Winter (URPS program, with Ph.D. student Ashlan Simpson).
+* Meghan Kunkle, 2025 Winter (URPS program, with Ph.D. student Ashlan Simpson).
