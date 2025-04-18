@@ -84,10 +84,25 @@ author_profile: true
 
 
 * Weihao Liu, Ph.D. student in Climate and Space Sciences and Engineering. Role: Cognate.
+
+
+* Jiacheng Liu, Ph.D. candidate in Industrial and Operations Engineering (IOE), dual degree in statistics. Role: Cognate.
+
+
+* Jieru Zhang, Ph.D. student in Material Science & Engineering (MSE). Role: Cognate.
+
+
+* Eddie Aljamal, Ph.D. candidate in Astronomy. Role: Cognate.
+
+
+* Nicholas Kyriacou, Ph.D. in Physics, 2025. Dissertation Title: A Higgs Physics Trilogy: Studying the Production of Multiple Higgs Bosons. Role: Cognate.
+
+
+* Zeyu Sun, Ph.D. in Electrical Engineering and Computer Sciences, 2024. Dissertation Title: Towards Calibrated, Sharp, and Interpretable Probabilistic Prediction. Role: Cognate.
+
+
+* Zhichen Wang, Ph.D. in Physics, 2024. Dissertation Title: Observation of W ±W ∓Z, W ±ZZ and ZZZ Production and Search for Quantum Entanglement in H → ZZ? Decays with √s = 13 TeV pp Collisions with the ATLAS Detector. Role: Cognate.
   
-
-* Zeyu Sun, Ph.D. in Electrical Engineering and Computer Sciences, 2024. Dissertation Title: Towards Calibrated, Sharp, and Interpretable Probabilistic Prediction. 
-
 
 * Matthew-Remy Aguirre, Ph.D. in Industrial and Operations Engineering, 2023. Dissertation Title: Data Analytics of Human Behaviors with Applications. Role: Cognate.
 
@@ -116,13 +131,18 @@ detector. Role: Cognate.
 
 ## Social Science Fields
 
+
 * Yang Zhang, Ph.D. in Sociology, dual degree in Statistics, 2021. Dissertation title: Three Essays on the Determinants and Consequences of Union Experiences. Role: Cognate.
 
 
 * Shannon Ang, Ph.D. in Sociology, dual degree in Statistics, 2020. Dissertation title: Three Papers on Social Participation over the Life Course. Role: Cognate.
 
 
+* Jie He, Ph.D. student in Environmental Health Sciences (EHS).
+  
+
 ## Others
 
-* Dan Li, Ph.D. in Pharmaceutical Sciences, dual degree in Statistics, 2018. Dissertation title: Optimization and Application of Synthetic High-Density Lipoprotein (sHDL) System in Atherosclerosis and Glioma Therapy. Role:
-Cognate.
+* Dan Li, Ph.D. in Pharmaceutical Sciences, dual degree in Statistics, 2018. Dissertation title: Optimization and Application of Synthetic High-Density Lipoprotein (sHDL) System in Atherosclerosis and Glioma Therapy. Role: Cognate.
+
+* Hui Yu, Ph.D. student in the College of Pharmacy. Role: Cognate.
