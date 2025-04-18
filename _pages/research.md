@@ -69,23 +69,25 @@ Also available at my [Google Scholar](https://scholar.google.com/citations?user=
 
 \* corresponding author
 
+### 2025+
+
+1. H. Chen, G. Toth, **Y. Chen**, S. Zou, X. Huan, *GeoDGP: Global Probabilistic Geomagnetic Perturbation Forecast-
+ing using Deep Gaussian Process*, [[journal](https://essopenarchive.org/users/542794/articles/1251681-geodgp-one-hour-ahead-global-probabilistic-geomagnetic-perturbation-forecasting-using-deep-gaussian-process)].
+2. **Y. Chen\***, X. Li, X. Meng, D. van Dyk, V. Kashyap, M. Bonamente (2024), *Comparison of Goodness–of–fit Assessment Methods with C statistics in Astronomy*, in preparation.
+3. R. Trangucci, **Y. Chen**, J. Zelner, *Identified Vaccine Efficacy for Binary Post-infection Outcomes under Misclassification without monotonicity*, submitted. [[arXiv](https://https://arxiv.org/abs/2211.16502)].
+4. H. Sun, Z. Shang, **Y. Chen\***, *Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data*, submitted. [[arXiv](https://arxiv.org/abs/2305.15671)]
+5. W. Liu, I. Ibenaz, **Y. Chen**, A. Agrawal, *Transitory Sustainability Effects of Behavioral Changes: Short-Term Benefits of COVID-19 Lockdowns Reversed Over Time, Resulting in More Wildfires in the Amazon*, submitted. [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438234)]
+6. R. Trangucci, J. Contreras, J. Zelner, Y. Chen (2024), *Bayesian Methods for Cumulative Exposure to Extensive Environmental Health Hazards: A Bayesian Inverse Perspective*. [[arXiv](https://arxiv.org/pdf/2404.04398.pdf)]
+7. H. Sun, **Y. Chen\*** (2024), *Conformalized Tensor Completion with Riemannian Optimization*, [[arXiv](https://arxiv.org/abs/2405.00581)].
+8. J. Li, J. Cai, **Y. Chen**, D. Xia, Online Tensor Learning: Computational and Statistical Trade-offs, Adaptivity and Optimal Regret, [[arXiv](https://arxiv.org/abs/2306.03372)].
+   
 ### 2025
 
 1. V. Verma, S. Stoev, **Y. Chen**, *On the optimal prediction of extreme events in heavy-tailed time series with applications to solar flare forecasting*, Journal of Time Series Analysis, [[Journal](https://onlinelibrary.wiley.com/doi/10.1111/jtsa.12820?af=R)], [[arXiv](https://arxiv.org/abs/2407.11887)].
-2. H. Chen, N. Sachdeva, Z. Huang, B. van der Holst, W. Manchester IV, A. Jivani, S. Zou, **Y. Chen**, X. Huan, G. Toth, *Decent Estimate of CME Arrival time from a Data-assimilated Ensemble in the Alfvén Wave Solar atmosphere Model (DECADE-AWSoM)*, Space Weather, [[journal](https://essopenarchive.org/users/542794/articles/1225698-decent-estimate-of-cme-arrival-time-from-a-data-assimilated-ensemble-in-the-alfv%C3%A9n-wave-solar-atmosphere-model-decade-awsom)].
-3. H. Chen, G. Toth, **Y. Chen**, S. Zou, X. Huan, *GeoDGP: Global Probabilistic Geomagnetic Perturbation Forecast-
-ing using Deep Gaussian Process*, [[journal](https://essopenarchive.org/users/542794/articles/1251681-geodgp-one-hour-ahead-global-probabilistic-geomagnetic-perturbation-forecasting-using-deep-gaussian-process)].
-4. **Y. Chen\***, X. Li, X. Meng, D. van Dyk, V. Kashyap, M. Bonamente (2024), *Comparison of Goodness–of–fit Assessment Methods with C statistics in Astronomy*, in preparation.
-5. R. Trangucci, **Y. Chen**, J. Zelner, *Identified Vaccine Efficacy for Binary Post-infection Outcomes under Misclassification without monotonicity*, submitted. [[arXiv](https://https://arxiv.org/abs/2211.16502)].
-6. **Y. Chen**, C.-D. Fuh, C.-L. Kao, *Determine the Number of States in Hidden Markov Models via Marginal Likelihoods*, Journal of Machine Learning Research, 26(58):1−59, 2025. [[Journal](https://jmlr.org/papers/v26/23-0343.html)], [[arXiv](https://arxiv.org/abs/2405.12343)].
-7. H. Sun, Z. Shang, **Y. Chen\***, *Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data*, submitted. [[arXiv](https://arxiv.org/abs/2305.15671)]
-8. W. Liu, I. Ibenaz, **Y. Chen**, A. Agrawal, *Transitory Sustainability Effects of Behavioral Changes: Short-Term Benefits of COVID-19 Lockdowns Reversed Over Time, Resulting in More Wildfires in the Amazon*, submitted. [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438234)]
-9. M. Aguirre, W. Sun, **Y. Chen**, J. Jin, *Automatic Identification of Driving Maneuver Patterns Using a Robust Hidden Semi-Markov Model*, [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4410473)]
-10. R. Trangucci, J. Contreras, J. Zelner, Y. Chen (2024), *Bayesian Methods for Cumulative Exposure to Extensive Environmental Health Hazards: A Bayesian Inverse Perspective*. [[arXiv](https://arxiv.org/pdf/2404.04398.pdf)]
-11. H. Sun, **Y. Chen\*** (2024), *Conformalized Tensor Completion with Riemannian Optimization*, [[arXiv](https://arxiv.org/abs/2405.00581)].
-12. J. Li, J. Cai, **Y. Chen**, D. Xia, Online Tensor Learning: Computational and Statistical Trade-offs, Adaptivity and Optimal Regret, [[arXiv](https://arxiv.org/abs/2306.03372)].
-13. **Y. Chen** (2025), Discussion on “Poisson-FOCuS: An Efficient Online Method for Detecting Count Bursts with Application to Gamma Ray Burst Detection” by Ward, Dilillo, Eckley, and Fearnhead, Journal of the American Statistical Association, 120(549), 2630. [[Journal](https://doi.org/10.1080/01621459.2024.2402961)].
-14. M. Bonamente, **Y. Chen**, D.  Zimmerman, *Maximum–likelihood Regression with Systematic Errors for Astronomy and the Physical Sciences: I. Methodology and Goodness–of–fit Statistic of Poisson Data*, The Astrophysical Journal, 980, no. 1 (2025): 139. [[Journal](https://iopscience.iop.org/article/10.3847/1538-4357/ad9b1e/meta)], [[arXiv](https://arxiv.org/abs/2407.12132)].
+2. H. Chen, N. Sachdeva, Z. Huang, B. van der Holst, W. Manchester IV, A. Jivani, S. Zou, **Y. Chen**, X. Huan, G. Toth, *Decent Estimate of CME Arrival time from a Data-assimilated Ensemble in the Alfvén Wave Solar atmosphere Model (DECADE-AWSoM)*, Space Weather, 23.1 (2025): e2024SW004165. [[journal](https://essopenarchive.org/users/542794/articles/1225698-decent-estimate-of-cme-arrival-time-from-a-data-assimilated-ensemble-in-the-alfv%C3%A9n-wave-solar-atmosphere-model-decade-awsom)].
+3. **Y. Chen**, C.-D. Fuh, C.-L. Kao, *Determine the Number of States in Hidden Markov Models via Marginal Likelihoods*, Journal of Machine Learning Research, 26(58):1−59, 2025. [[Journal](https://jmlr.org/papers/v26/23-0343.html)], [[arXiv](https://arxiv.org/abs/2405.12343)].
+4. **Y. Chen** (2025), Discussion on “Poisson-FOCuS: An Efficient Online Method for Detecting Count Bursts with Application to Gamma Ray Burst Detection” by Ward, Dilillo, Eckley, and Fearnhead, Journal of the American Statistical Association, 120(549), 2630. [[Journal](https://doi.org/10.1080/01621459.2024.2402961)].
+5. M. Bonamente, **Y. Chen**, D.  Zimmerman, *Maximum–likelihood Regression with Systematic Errors for Astronomy and the Physical Sciences: I. Methodology and Goodness–of–fit Statistic of Poisson Data*, The Astrophysical Journal, 980, no. 1 (2025): 139. [[Journal](https://iopscience.iop.org/article/10.3847/1538-4357/ad9b1e/meta)], [[arXiv](https://arxiv.org/abs/2407.12132)].
 
    
 ### 2024
@@ -95,7 +97,7 @@ ing using Deep Gaussian Process*, [[journal](https://essopenarchive.org/users/54
 3. D. Iong, Q. Zhao, and **Y. Chen** (2024), *A Latent Mixture Model for Heterogeneous Causal Mechanisms in Mendelian Randomization*, Annals of Applied Statistics, Vol. 18, No. 2, 966-990. [[journal](http://dx.doi.org/10.1214/23-AOAS1816)].
 4. **Y. Chen**, W. Manchester, M. Jin, A. Pevtsov, *Solar Imaging Data Analytics: A Selective Overview of Challenges and Opportunities*, Statistics and Data Science in Imaging (2024). [[arXiv](https://arxiv.org/abs/2405.12331)], [[journal](https://doi.org/10.1080/29979676.2024.2391688)].
 5. H. Tak, **Y. Chen**, V. Kashyap, K. Mandel, X.-L. Meng, A. Siemiginowska, D. van Dyk, *Statistical Maxims for Sound Astronomical Data Analysis*, The Astrophysical Journal Supplement Series, 275(2), 30. [[journal](https://iopscience.iop.org/article/10.3847/1538-4365/ad8440/meta)]
-
+6. M. Aguirre, W. Sun, **Y. Chen**, J. Jin, *Automatic Identification of Driving Maneuver Patterns Using a Robust Hidden Semi-Markov Model*, [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4410473)]
 
 ### 2023
 
