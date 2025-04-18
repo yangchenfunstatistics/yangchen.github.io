@@ -183,11 +183,26 @@ author_profile: true
 
 * Weihao Liu, Ph.D. student in Climate and Space Sciences and Engineering. Role: Cognate.
 
+
+* Jiacheng Liu, Ph.D. candidate in Industrial and Operations Engineering (IOE), dual degree in statistics. Role: Cognate.
+
+
+* Jieru Zhang, Ph.D. student in Material Science & Engineering (MSE). Role: Cognate.
+
+
+* Eddie Aljamal, Ph.D. candidate in Astronomy. Role: Cognate.
+
+
+* Nicholas Kyriacou, Ph.D. in Physics, 2025. Dissertation Title: A Higgs Physics Trilogy: Studying the Production of Multiple Higgs Bosons. Role: Cognate.
+
+
+* Zeyu Sun, Ph.D. in Electrical Engineering and Computer Sciences, 2024. Dissertation Title: Towards Calibrated, Sharp, and Interpretable Probabilistic Prediction. Role: Cognate.
+
+
+* Zhichen Wang, Ph.D. in Physics, 2024. Dissertation Title: Observation of W ±W ∓Z, W ±ZZ and ZZZ Production and Search for Quantum Entanglement in H → ZZ? Decays with √s = 13 TeV pp Collisions with the ATLAS Detector. Role: Cognate.
   
-* Matthew-Remy Aguirre, Ph.D. in Industrial and Operations Engineering. Dissertation Title: Data Analytics of Human Behaviors with Applications. Role: Cognate.
 
-
-* Zeyu Sun, a Ph.D. candidate in Electrical Engineering and Computer Sciences.
+* Matthew-Remy Aguirre, Ph.D. in Industrial and Operations Engineering, 2023. Dissertation Title: Data Analytics of Human Behaviors with Applications. Role: Cognate.
 
 
 * Spiridon Kasapis, Ph.D. in Naval Architecture and Marine Engineering, 2023. Dissertation title: Processing Image Data from Unstructured Environments. Role: Cognate.
