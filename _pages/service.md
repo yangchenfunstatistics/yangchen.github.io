@@ -235,6 +235,9 @@ detector. Role: Cognate.
 * Shannon Ang, Ph.D. in Sociology, dual degree in Statistics, 2020. Dissertation title: Three Papers on Social Participation over the Life Course. Role: Cognate.
 
 
+* Jie He, Ph.D. student in Environmental Health Sciences (EHS).
+
+
 ### Others
 
 * Dan Li, Ph.D. in Pharmaceutical Sciences, dual degree in Statistics, 2018. Dissertation title: Optimization and Application of Synthetic High-Density Lipoprotein (sHDL) System in Atherosclerosis and Glioma Therapy. Role:
