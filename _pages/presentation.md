@@ -9,13 +9,20 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
 
 ## 2025 
 
-1. TBD
+1. Statistical Machine Learning Enabled Scientific Discovery – Case Studies in Space Weather Forecasting
     * Statistics Seminar at Oregon State University, Corvallis, OR, March 3rd, 2025.
     * Statistics Seminar at Purdue University, West Lafayette, IN, April 4th, 2025.
+    * Joint Statistical Meeting, Nashville, TN, August 5th, 2025.
 2. TBD
     * sys2025: Systematic and Measurement Errors across the Sciences - AstroStatistics and Data Science, Gulf Shores, AL, March 28-31, 2025.
 3. Comparison of Goodness-of-fit Assessment Methods with C-statistics in Astronomy
     * 65th ISI World Statistics Congress, The Hague, October 5-9, 2025.
+4. Statistical Methods for Solar Flare Forecasting
+    * AI/ML in Heliophysics, National Solar Observatory (NSO), April 11, 2025.
+5. TBD
+    * Fast and Curious II: MCMC in Action, Toronto, Canada, September 2025.
+6. TBD
+    * 65th ISI World Statistics Congress 2025, The Hague, October 2025.
 
 ## 2024
 
