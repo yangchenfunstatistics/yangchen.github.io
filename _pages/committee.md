@@ -7,14 +7,24 @@ author_profile: true
 
 ## Statistics
 
-* Vincenzo Loffredo, Ph.D. candidate in Statistics. Role: Member.
+
+* Yilei Zhang, Ph.D. candidate in Statistics. Role: Member.
+
+
+* Kevin Liang, Ph.D. candidate in Statistics. Role: Member.
+
+
+* Katherine Ahn, Ph.D. candidate in Statistics. Role: Member.
 
 
 * Yash Patel, Ph.D. candidate in Statistics. Role: Member.
 
 
 * Yiling Huang, Ph.D. candidate in Statistics. Role: Member.
+
   
+* Vincenzo Loffredo, Ph.D. in Statistics, 2024. Dissertation Title: Bayesian Perspectives on LongROAD Study: Analyzing Driving Decline and Latent Traits. Role: Member.
+
 
 * Derek Hanson, Ph.D. in Statistics, 2023. Dissertation Title: Mechanistic and Data-Adaptive Bayesian Methods for Scientific Inference. Role: Member.
 
@@ -40,12 +50,19 @@ author_profile: true
 * Julie Deeke, Ph.D. in Statistics, 2019. Dissertation title: Approaches for Identifying Biases in Single-Cell RNA-Sequencing Data. Role: Member.
 
 
+## Mathematics
+
+
+* Zenan Fu, Ph.D. candidate in Mathematics. Role: Cognate.
+
+
 ## Biostatistics
+
 
 * Zikai Lin, Ph.D. candidate in Biostatistics. Role: Cognate.
 
 
-* Yijun Li, Ph.D. candidate in Biostatistics. Role: Cognate.
+* Yijun Li, Ph.D. in Biostatistics, 2024. Dissertation Title: Computational Analysis and Statistical Methods in Spatial Transcriptomics and Neuroimaging. Role: Cognate.
 
 
 * Yuqi Zhai, Ph.D. in Biostatistics, 2023. Dissertation Title: Improving estimation efficiency by integrating external summary information from heterogeneous populations. Role: Cognate.
@@ -65,16 +82,18 @@ author_profile: true
 
 ## Physics and Enginnering Fields
 
+
 * Weihao Liu, Ph.D. student in Climate and Space Sciences and Engineering. Role: Cognate.
   
 
-* Matthew-Remy Aguirre, Ph.D. in Industrial and Operations Engineering. Dissertation Title: NA. Role: Cognate.
+* Zeyu Sun, Ph.D. in Electrical Engineering and Computer Sciences, 2024. Dissertation Title: Towards Calibrated, Sharp, and Interpretable Probabilistic Prediction. 
 
 
-* Zeyu Sun, Ph.D. candidate in Electrical Engineering and Computer Sciences.
+* Matthew-Remy Aguirre, Ph.D. in Industrial and Operations Engineering, 2023. Dissertation Title: Data Analytics of Human Behaviors with Applications. Role: Cognate.
 
 
 * Spiridon Kasapis, Ph.D. in Naval Architecture and Marine Engineering, 2023. Dissertation title: Processing Image Data from Unstructured Environments. Role: Cognate.
+
 
 * Prachi Atmassidha, Ph.D. in Physics, 2023. Dissertation Title: First measurements of the Radiation Amplitude Zero effect and of the diboson longitudinal-longitudinal interactions in High pT region using W ±Z production with the ATLAS detector. Role: Cognate.
 
