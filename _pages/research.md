@@ -21,8 +21,6 @@ author_profile: true
    * Mixed LSTM for Flare Indicator and Intensity - [Jiao et al. (2020 SW)](https://doi.org/10.1029/2020SW002440).
    * Statistical Feature Construction - [Sun et al. (2021 SW)](https://doi.org/10.1002/essoar.10507540.1).
    * Tensor Contraction with Gaussian Process - [Sun et al. (2023 ICML)](https://proceedings.mlr.press/v202/sun23f.html).
-   * Optimal Prediction of Extreme Events [Verma et al. (2025 JTSA)](https://onlinelibrary.
-wiley.com/doi/10.1111/jtsa.12820).
 
 ### Data-Driven Approaches for Space Weather
 
@@ -52,6 +50,9 @@ wiley.com/doi/10.1111/jtsa.12820).
 2. Matrix Autoregressive Model with Global Exogeneous Predictors: [Sun et al. (2024+)](https://arxiv.org/abs/2305.15671).
 
 3. Finite Mixture Models -- Order Selection and Misspecification: [Chen et al. (2025 JMLR)](https://jmlr.org/papers/v26/23-0343.html).
+   
+5. Optimal Prediction of Extreme Events [Verma et al. (2025 JTSA)](https://onlinelibrary.wiley.com/doi/10.1111/jtsa.12820).
+
 
 ### Applied Statistics in Biological Sciences and Epidemiology
 
