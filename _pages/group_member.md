@@ -26,14 +26,6 @@ author_profile: true
 * Soham Das, 2024-now.
 * Kevin Jin, 2024-now.
 
-### Master Students
-
-* Matthew McAnear, 2023-now.
-* Ke Hu, 2024-now.
-* Chia-Yun Li, 2024-now.
-* Jiaxing Xu, 2024-now.
-* Longhao Pang, 2024-now.
-
 ---
 
 ## Photos
