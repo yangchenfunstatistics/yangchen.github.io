@@ -13,14 +13,16 @@ author_profile: true
 1. Instrument Calibration:
    * Statistics Method - [Chen et al. (2019 JASA)](https://doi.org/10.1080/01621459.2018.1528978).
    * Astronomy Extensions - [Marshall et al. (2021 AJ)](https://doi.org/10.3847/1538-3881/ac230a).
+   * Incorporating multiple bandpasses - Das et al. (2025+).
 
-3. Goodness-of-fit Assessment with High-order Asymptotics: Chen et al. (2024+), [Bonamente et al. (2024 ApJ)](https://arxiv.org/abs/2407.12132).
+3. Goodness-of-fit Assessment with High-order Asymptotics: Chen et al. (2025+), [Bonamente et al. (2024 ApJ)](https://arxiv.org/abs/2407.12132).
 
 4. Solar Flare Forecasting:
-   * Machine Learning Prediction - [Chen et al. (2019 SW)](https://doi.org/10.1029/2019SW002214), [Wang et al. (2020 ApJ)](https://doi.org/10.3847/1538-4357/ab89ac), [Sun et al. (2022 ApJ)](https://doi.org/10.1002/essoar.10508256.1), [Aktukmak et al. (2022 FASS)](https://doi.org/10.3389/fspas.2022.1040107), [Chen et al. (2023, Editorial Note)](https://doi.org/10.3389/fspas.2023.1121615), [Chen et al. (2024 Review Paper)](https://arxiv.org/abs/2405.12331).
+   * Machine Learning Prediction - [Chen et al. (2019 SW)](https://doi.org/10.1029/2019SW002214), [Wang et al. (2020 ApJ)](https://doi.org/10.3847/1538-4357/ab89ac), [Sun et al. (2022 ApJ)](https://doi.org/10.1002/essoar.10508256.1), [Aktukmak et al. (2022 FASS)](https://doi.org/10.3389/fspas.2022.1040107), [Chen et al. (2023, Editorial Note)](https://doi.org/10.3389/fspas.2023.1121615), [Chen et al. (2024 Review Paper)](https://doi.org/10.1080/29979676.2024.2391688).
    * Mixed LSTM for Flare Indicator and Intensity - [Jiao et al. (2020 SW)](https://doi.org/10.1029/2020SW002440).
    * Statistical Feature Construction - [Sun et al. (2021 SW)](https://doi.org/10.1002/essoar.10507540.1).
    * Tensor Contraction with Gaussian Process - [Sun et al. (2023 ICML)](https://proceedings.mlr.press/v202/sun23f.html).
+   * Optimal Prediction of Extreme Events - [Verma et al. (2025 JTSA)](https://doi.org/10.1111/jtsa.12820).
 
 ### Data-Driven Approaches for Space Weather
 
@@ -31,7 +33,7 @@ author_profile: true
 3. Prediction Models for Geomagnetic Indices:
    * SymH - [Iong et al. (2022 SW)](https://doi.org/10.1029/2021SW002928).
    * Delta-B - [Iong et al. (2024 DSS)](https://www.tandfonline.com/doi/full/10.1080/26941899.2024.2383281).
-   * Global Probabilistic Geomagnetic Perturbation Forecast - [Chen et al. (2025 SW)](https://essopenarchive.org/users/542794/articles/1251681-geodgp-one-hour-ahead-global-probabilistic-geomagnetic-perturbation-forecasting-using-deep-gaussian-process).
+   * Global Probabilistic Geomagnetic Perturbation Forecast - [Chen et al. (2025 SW)](https://doi.org/10.1029/2024SW004301).
    
 5. Imputation and Prediction for TEC Maps:
    * Video Imputation - [Sun et al. (2022 AOAS)](http://dx.doi.org/10.1214/21-AOAS1541).
@@ -47,11 +49,15 @@ author_profile: true
 
 1. Prior Influence in Bayesian Inference: [Jones et al. (2022 BA)](https://doi.org/10.1214/21-BA1217).
 
-2. Matrix Autoregressive Model with Global Exogeneous Predictors: [Sun et al. (2024+)](https://arxiv.org/abs/2305.15671).
+2. Matrix Autoregressive Model with Global Exogenous Predictors: [Sun et al. (2025+)](https://arxiv.org/abs/2305.15671).
 
 3. Finite Mixture Models -- Order Selection and Misspecification: [Chen et al. (2025 JMLR)](https://jmlr.org/papers/v26/23-0343.html).
    
-5. Optimal Prediction of Extreme Events [Verma et al. (2025 JTSA)](https://onlinelibrary.wiley.com/doi/10.1111/jtsa.12820).
+5. Optimal Prediction of Extreme Events [Verma et al. (2025 JTSA)](https://doi.org/10.1111/jtsa.12820).
+   
+7. Efficient Tensor Completion [Li et al. (2025)](https://doi.org/10.48550/arXiv.2505.11261).
+   
+9. Conformal Tensor Completion [Sun et al. (2025)](https://doi.org/10.48550/arXiv.2405.00581).
 
 
 ### Applied Statistics in Biological Sciences and Epidemiology
