@@ -9,20 +9,29 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
 
 ## 2025 
 
-1. Statistical Machine Learning Enabled Scientific Discovery – Case Studies in Space Weather Forecasting
+1. Statistical Machine Learning Enabled Scientific Discovery – Case Studies in Space Weather Forecasting [[slides](https://drive.google.com/file/d/1Ll4n9Yn4x_HVoDU1m0kpZ-tiBaeV7TsK/view?usp=drive_link)]
     * Statistics Seminar at Oregon State University, Corvallis, OR, March 3rd, 2025.
     * Statistics Seminar at Purdue University, West Lafayette, IN, April 4th, 2025.
     * Joint Statistical Meeting, Nashville, TN, August 5th, 2025.
-2. TBD
-    * sys2025: Systematic and Measurement Errors across the Sciences - AstroStatistics and Data Science, Gulf Shores, AL, March 28-31, 2025.
-3. Comparison of Goodness-of-fit Assessment Methods with C-statistics in Astronomy
+      
+2. Comparison of Goodness-of-fit Assessment Methods with C-statistics in Astronomy
     * 65th ISI World Statistics Congress, The Hague, October 5-9, 2025.
-4. Statistical Methods for Solar Flare Forecasting
+      
+3. Statistical Methods for Solar Flare Forecasting
     * AI/ML in Heliophysics, National Solar Observatory (NSO), April 11, 2025.
-5. TBD
-    * Fast and Curious II: MCMC in Action, Toronto, Canada, September 2025.
-6. TBD
-    * 65th ISI World Statistics Congress 2025, The Hague, October 2025.
+      
+4. Data-Driven Solar Eruption Forecasting: From Research to Operation [[slides](https://drive.google.com/file/d/1fVCvo2YMDqr0C-yXUKZ6MLOcQOiL4pJn/view?usp=drive_link)]
+    * NASA SEP ML Collaboration Meeting, Virtual, August 6, 2025.
+      
+5. Data-Analytic Opportunities and Challenges in Solar Eruption Forecasting
+    * The Aerospace Corporation, Virtual, August 13, 2025.
+
+6. Spatial-temporal Tensor Completion Methods with Applications to Space Weather
+    * ISU-NISS Conference on AI and Statistics, Ames, Iowa, September 12-14, 2025.
+   
+8. Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis
+    * Fast and Curious II: MCMC in Action, Toronto, Canada, September 25-17, 2025.
+
 
 ## 2024
 
