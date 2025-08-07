@@ -14,7 +14,9 @@ author_profile: true
 * [Jingyang Li](https://scholar.google.com/citations?user=4Q2DaL4AAAAJ&hl=en), 2023-2025.
 * [Tsige Atilaw](https://scholar.google.com/citations?user=AfjHc8EAAAAJ&hl=en), 2024-2026.
   Schmidt AI in Science Postdoc, Joint with [Mojtaba Akhavan-Tafti](https://clasp.engin.umich.edu/people/akhavan-tafti-mojtaba/).
-* [Yian Yu](), 2025-2027.
+* [Yian Yu](https://yyianyu.github.io/), 2025-2027.
+* [Zhen Qin](https://zhenqin-robin.github.io/), 2025-2027.
+  MICDE Postdoctoral Fellow, Joint with [Qing Qu](https://qingqu.engin.umich.edu/).
 
 ### Ph.D. Students
 
@@ -22,9 +24,9 @@ author_profile: true
 * Yuxuan Ke, 2023-now.
 * Jiuqian Shang, 2023-now.
 * Noah Kochanski, 2023-now.
-* Ashlan Simpson, 2024-now.
 * Soham Das, 2024-now.
 * Kevin Jin, 2024-now.
+* Surtai Han, 2025-now.
 
 ---
 
@@ -91,6 +93,7 @@ author_profile: true
 * Ke Hu, 2024-2025, Ph.D. student at University of Illinois Urbana-Champaign.
 * Chia-Yun Li, 2024-2025.
 * Jiaxing Xu, 2024-2025.
+* Ashlan Simpson, 2024-2025.
 
 ### Undergraduate Alumni
 
