@@ -13,6 +13,7 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
     * Statistics Seminar at Oregon State University, Corvallis, OR, March 3rd, 2025.
     * Statistics Seminar at Purdue University, West Lafayette, IN, April 4th, 2025.
     * Joint Statistical Meeting, Nashville, TN, August 5th, 2025.
+    * Workshop on Machine Learning, Data Mining and Data Assimilation in Geospace (LMAG) [[slides](https://drive.google.com/file/d/1ej5ASuD5XZF6039l-jtynQZKfmGyncad/view?usp=sharing)]
       
 2. Comparison of Goodness-of-fit Assessment Methods with C-statistics in Astronomy
     * 65th ISI World Statistics Congress, The Hague, October 5-9, 2025.
