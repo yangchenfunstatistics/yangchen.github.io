@@ -27,7 +27,7 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
 5. Data-Analytic Opportunities and Challenges in Solar Eruption Forecasting
     * The Aerospace Corporation, Virtual, August 13, 2025.
 
-6. Spatial-temporal Tensor Completion Methods with Applications to Space Weather
+6. Spatial-temporal Tensor Completion Methods with Applications to Space Weather [[slides](https://drive.google.com/file/d/1htVKunASlJSN2oW1lMNum29amDcGiI10/view?usp=sharing)]
     * ISU-NISS Conference on AI and Statistics, Ames, Iowa, September 12-14, 2025.
    
 8. Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis
