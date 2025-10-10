@@ -30,7 +30,7 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
 6. Spatial-temporal Tensor Completion Methods with Applications to Space Weather [[slides](https://drive.google.com/file/d/1htVKunASlJSN2oW1lMNum29amDcGiI10/view?usp=sharing)]
     * ISU-NISS Conference on AI and Statistics, Ames, Iowa, September 12-14, 2025.
    
-8. Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis
+8. Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis [[slides](https://drive.google.com/file/d/1tRiLggAWf0Yoi1oNMCXtvNg28nhI3ZZg/view?usp=sharing)]
     * Fast and Curious II: MCMC in Action, Toronto, Canada, September 25-17, 2025.
 
 
