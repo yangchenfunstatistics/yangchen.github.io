@@ -24,7 +24,7 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
 4. Data-Driven Solar Eruption Forecasting: From Research to Operation [[slides](https://drive.google.com/file/d/1fVCvo2YMDqr0C-yXUKZ6MLOcQOiL4pJn/view?usp=drive_link)]
     * NASA SEP ML Collaboration Meeting, Virtual, August 6, 2025.
       
-5. Data-Analytic Opportunities and Challenges in Solar Eruption Forecasting
+5. Data-Analytic Opportunities and Challenges in Solar Eruption Forecasting [[slides](https://drive.google.com/file/d/1QYPjm1GYCr4zyN7axReViYFwm9eIp0mX/view?usp=sharing)]
     * The Aerospace Corporation, Virtual, August 13, 2025.
 
 6. Spatial-temporal Tensor Completion Methods with Applications to Space Weather [[slides](https://drive.google.com/file/d/1htVKunASlJSN2oW1lMNum29amDcGiI10/view?usp=sharing)]
