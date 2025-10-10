@@ -15,7 +15,7 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
     * Joint Statistical Meeting, Nashville, TN, August 5th, 2025.
     * Workshop on Machine Learning, Data Mining and Data Assimilation in Geospace (LMAG) [[slides](https://drive.google.com/file/d/1ej5ASuD5XZF6039l-jtynQZKfmGyncad/view?usp=sharing)]
       
-2. Comparison of Goodness-of-fit Assessment Methods with C-statistics in Astronomy
+2. Comparison of Goodness-of-fit Assessment Methods with C-statistics in Astronomy [[slides](https://drive.google.com/file/d/1tivAr-yonRCsycYhlefvBgQaNG3BUpm0/view?usp=sharing)]
     * 65th ISI World Statistics Congress, The Hague, October 5-9, 2025.
       
 3. Statistical Methods for Solar Flare Forecasting
