@@ -102,7 +102,7 @@ author_profile: true
 * [Miaoshiqi Liu](https://shiqi.writingspace.cc/), 2018 summer, Ph.D. student at University of Toronto.
 * [Song Wei](https://sites.google.com/view/songwei-gt/home), 2018 summer, Ph.D. student at Georgia Institute of Technology.
 * Yuezhou Qu, 2023 Winter - 2024.
-* Ruipu Li, 2022-2024, joint with [Joyce Penner](https://clasp.engin.umich.edu/people/penner-joyce-e/) and [Xianglei Huang](https://clasp.engin.umich.edu/people/huang-xianglei/), 2022 summer -2024, Ph.D. student at the University of Michigan.
+* Ruipu Li, 2022-2024, joint with [Joyce Penner](https://clasp.engin.umich.edu/people/penner-joyce-e/), 2022 summer -2024, Ph.D. student at the University of Michigan.
 * Nicolas Harder, 2022-2024, joint with [Joyce Penner](https://clasp.engin.umich.edu/people/penner-joyce-e/) and [Xianglei Huang](https://clasp.engin.umich.edu/people/huang-xianglei/), 2022 summer -2024.
 * Brandon Li, 2023 Winter-2024, joint with [Yi Hong](https://ciglr.seas.umich.edu/opportunities/postdoctoral-fellowships/yi-hong/).
 * Jiuqian Shang, 2022 summer - 2023 Winter, Ph.D. student at University of Michigan.
