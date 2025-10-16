@@ -84,6 +84,7 @@ Also available at my [Google Scholar](https://scholar.google.com/citations?user=
 5. W. Liu, I. Ibenaz, **Y. Chen**, A. Agrawal, *Transitory Sustainability Effects of Behavioral Changes: Short-Term Benefits of COVID-19 Lockdowns Reversed Over Time, Resulting in More Wildfires in the Amazon*, submitted. [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438234)]
 6. R. Trangucci, J. Contreras, J. Zelner, Y. Chen (2024), *Bayesian Methods for Cumulative Exposure to Extensive Environmental Health Hazards: A Bayesian Inverse Perspective*. [[arXiv](https://arxiv.org/pdf/2404.04398.pdf)]
 7. J. Li, J. Cai, **Y. Chen**, D. Xia, Online Tensor Learning: Computational and Statistical Trade-offs, Adaptivity and Optimal Regret, [[arXiv](https://arxiv.org/abs/2306.03372)].
+8. Y. Ke, X. Huang, O. Coddington, **Y. Chen**, *Matrix Factorization-Based Solar Spectral Irradiance Missing Data Imputation with Uncertainty Quantification*, [[arXiv](https://arxiv.org/abs/2508.04074)].
    
 ### 2025
 
