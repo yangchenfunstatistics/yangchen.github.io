@@ -56,7 +56,7 @@ My research interests are statistical methodology and computational algorithms m
 
 *Matrix Autoregressive Models with Exogeneous Vector Time Series Predictors*
 
-- Hu Sun, Zuofeng Shang, and Yang Chen. "Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data." Statistica Sinica (2025). [[arXiv preprint](https://arxiv.org/abs/2305.15671)]
+- Hu Sun, Zuofeng Shang, and Yang Chen. "Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data." Statistica Sinica (2025). [[link](https://arxiv.org/abs/2305.15671)]
 
 ### Applied Statistical Methods in Physical Sciences
 
