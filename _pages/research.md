@@ -37,7 +37,7 @@ author_profile: true
    
 5. Imputation and Prediction for TEC Maps:
    * Video Imputation - [Sun et al. (2022 AOAS)](http://dx.doi.org/10.1214/21-AOAS1541).
-   * Uncertainty Quantification - [Sun and Chen (2025)](https://arxiv.org/abs/2405.00581).
+   * Uncertainty Quantification - [Sun and Chen (2025 JCGS)](https://arxiv.org/abs/2405.00581).
    * Database - [Sun et al. (2023 SD)](https://doi.org/10.1038/s41597-023-02138-7).
    * Prediction - [Wang et al. (2023 SW)](https://doi.org/10.1029/2023SW003494).
 
@@ -57,7 +57,7 @@ author_profile: true
    
 7. Efficient Tensor Completion [Li et al. (2025)](https://doi.org/10.48550/arXiv.2505.11261).
    
-9. Conformal Tensor Completion [Sun et al. (2025 JCGS)](https://doi.org/10.48550/arXiv.2405.00581).
+9. Conformal Tensor Completion [Sun and Chen (2025 JCGS)](https://doi.org/10.48550/arXiv.2405.00581).
 
 
 ### Applied Statistics in Biological Sciences and Epidemiology
