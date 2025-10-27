@@ -52,9 +52,11 @@ My research interests are statistical methodology and computational algorithms m
 
 - Hu Sun, Yang Chen, Shasha Zou, Jiaen Ren, Yurui Chang, Zihan Wang, and Anthea Coster. Complete Global Total Electron Content Map Dataset based on a Video Imputation Algorithm VISTA. Nature - Scientific Data 10, 236 (2023). [[link](https://doi.org/10.1038/s41597-023-02138-7)]
 
+- Hu Sun, Yang Chen. "Conformalized Tensor Completion with Riemannian Optimization", Journal of Computational and Graphical Statistics (2025). [[link](https://doi.org/10.1080/10618600.2025.2554671)] 
+
 *Matrix Autoregressive Models with Exogeneous Vector Time Series Predictors*
 
-- Hu Sun, Zuofeng Shang, and Yang Chen. "Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data." (2024). [[arXiv preprint](https://arxiv.org/abs/2305.15671)]
+- Hu Sun, Zuofeng Shang, and Yang Chen. "Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data." Statistica Sinica (2025). [[arXiv preprint](https://arxiv.org/abs/2305.15671)]
 
 ### Applied Statistical Methods in Physical Sciences
 
@@ -70,6 +72,8 @@ My research interests are statistical methodology and computational algorithms m
 - Yang Chen, Ward B. Manchester, Alfred O. Hero, Gabor Toth, Benoit DuFumier, Tian Zhou, Xiantong Wang, Haonan Zhu, Zeyu Sun, and Tamas I. Gombosi. "Identifying Solar Flare Precursors Using Time Series of SDO/HMI Images and SHARP Parameters." Space Weather 17, no. 10 (2019): 1404-1426. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019SW002214)]
 
 - Hu Sun, Ward Manchester, Meng Jin, Yang Liu, Yang Chen. "Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis." Proceedings of the 40th International Conference on Machine Learning, PMLR 202:32913-32935 (2023). [[link](https://proceedings.mlr.press/v202/sun23f.html)]
+
+- Yang Chen, Ward Manchester, Meng Jin, Alexei Pevtsov (2024). "Solar Imaging Data Analytics: A Selective Overview of Challenges and Opportunities", Statistics and Data Science in Imaging, Volume 1, Issue 1. [[link](https://doi.org/10.1080/29979676.2024.2391688)]
 
 ### Applied Statistical Theory and Methods in Epidemiology
 
