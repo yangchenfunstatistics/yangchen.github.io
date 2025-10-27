@@ -49,7 +49,7 @@ author_profile: true
 
 1. Prior Influence in Bayesian Inference: [Jones et al. (2022 BA)](https://doi.org/10.1214/21-BA1217).
 
-2. Matrix Autoregressive Model with Global Exogenous Predictors: [Sun et al. (2025+)](https://arxiv.org/abs/2305.15671).
+2. Matrix Autoregressive Model with Global Exogenous Predictors: [Sun et al. (2025 SS)](https://arxiv.org/abs/2305.15671).
 
 3. Finite Mixture Models -- Order Selection and Misspecification: [Chen et al. (2025 JMLR)](https://jmlr.org/papers/v26/23-0343.html).
    
@@ -57,7 +57,7 @@ author_profile: true
    
 7. Efficient Tensor Completion [Li et al. (2025)](https://doi.org/10.48550/arXiv.2505.11261).
    
-9. Conformal Tensor Completion [Sun et al. (2025)](https://doi.org/10.48550/arXiv.2405.00581).
+9. Conformal Tensor Completion [Sun et al. (2025 JCGS)](https://doi.org/10.48550/arXiv.2405.00581).
 
 
 ### Applied Statistics in Biological Sciences and Epidemiology
@@ -80,11 +80,9 @@ Also available at my [Google Scholar](https://scholar.google.com/citations?user=
 1. J. Li, J. Shang, and **Y. Chen**, *Fourier Low-rank and Sparse Tensor for Efficient Tensor Completion*,  [[arXiv](https://arxiv.org/abs/2505.11261)].
 2. X. Li, **Y. Chen\***, X. Meng, D. van Dyk, V. Kashyap, M. Bonamente (2025), *Making high-order asymptotics practical: correcting goodness-of-fit test for astronomical count data*, [[arXiv](https://arxiv.org/abs/2510.03466)].
 3. R. Trangucci, **Y. Chen**, J. Zelner, *Identified Vaccine Efficacy for Binary Post-infection Outcomes under Misclassification without monotonicity*, submitted. [[arXiv](https://https://arxiv.org/abs/2211.16502)].
-4. H. Sun, Z. Shang, **Y. Chen\***, *Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data*, under revision. [[arXiv](https://arxiv.org/abs/2305.15671)]
-5. W. Liu, I. Ibenaz, **Y. Chen**, A. Agrawal, *Transitory Sustainability Effects of Behavioral Changes: Short-Term Benefits of COVID-19 Lockdowns Reversed Over Time, Resulting in More Wildfires in the Amazon*, submitted. [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438234)]
-6. R. Trangucci, J. Contreras, J. Zelner, Y. Chen (2024), *Bayesian Methods for Cumulative Exposure to Extensive Environmental Health Hazards: A Bayesian Inverse Perspective*. [[arXiv](https://arxiv.org/pdf/2404.04398.pdf)]
-7. J. Li, J. Cai, **Y. Chen**, D. Xia, Online Tensor Learning: Computational and Statistical Trade-offs, Adaptivity and Optimal Regret, [[arXiv](https://arxiv.org/abs/2306.03372)].
-8. Y. Ke, X. Huang, O. Coddington, **Y. Chen**, *Matrix Factorization-Based Solar Spectral Irradiance Missing Data Imputation with Uncertainty Quantification*, [[arXiv](https://arxiv.org/abs/2508.04074)].
+4. W. Liu, I. Ibenaz, **Y. Chen**, A. Agrawal, *Transitory Sustainability Effects of Behavioral Changes: Short-Term Benefits of COVID-19 Lockdowns Reversed Over Time, Resulting in More Wildfires in the Amazon*, submitted. [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438234)]
+5. R. Trangucci, J. Contreras, J. Zelner, Y. Chen (2024), *Bayesian Methods for Cumulative Exposure to Extensive Environmental Health Hazards: A Bayesian Inverse Perspective*. [[arXiv](https://arxiv.org/pdf/2404.04398.pdf)]
+6. Y. Ke, X. Huang, O. Coddington, **Y. Chen**, *Matrix Factorization-Based Solar Spectral Irradiance Missing Data Imputation with Uncertainty Quantification*, [[arXiv](https://arxiv.org/abs/2508.04074)].
    
 ### 2025
 
@@ -95,6 +93,8 @@ Also available at my [Google Scholar](https://scholar.google.com/citations?user=
 5. M. Bonamente, **Y. Chen**, D.  Zimmerman, *Maximum–likelihood Regression with Systematic Errors for Astronomy and the Physical Sciences: I. Methodology and Goodness–of–fit Statistic of Poisson Data*, The Astrophysical Journal, 980, no. 1 (2025): 139. [[Journal](https://iopscience.iop.org/article/10.3847/1538-4357/ad9b1e/meta)], [[arXiv](https://arxiv.org/abs/2407.12132)].
 6. H. Sun, **Y. Chen\*** (2025), *Conformalized Tensor Completion with Riemannian Optimization*, Journal of Computational and Graphical Statistics. [[Journal](https://doi.org/10.1080/10618600.2025.2554671)], [[arXiv](https://arxiv.org/abs/2405.00581)].
 7. H. Chen, G. Toth, **Y. Chen**, S. Zou, X. Huan, *GeoDGP: Global Probabilistic Geomagnetic Perturbation Forecasting using Deep Gaussian Process*, Space Weather 23, no. 6 (2025): e2024SW004301. [[journal](https://doi.org/10.1029/2024SW004301)].
+8. H. Sun, Z. Shang, **Y. Chen\***, *Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data*, Statistica Sinica. [[arXiv](https://arxiv.org/abs/2305.15671)]
+9. J. Li, J. Cai, **Y. Chen**, D. Xia, Online Tensor Learning: Computational and Statistical Trade-offs, Adaptivity and Optimal Regret, Annals of Statistics, [[arXiv](https://arxiv.org/abs/2306.03372)].
 
 
    
