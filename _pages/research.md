@@ -93,7 +93,7 @@ Also available at my [Google Scholar](https://scholar.google.com/citations?user=
 5. M. Bonamente, **Y. Chen**, D.  Zimmerman, *Maximum–likelihood Regression with Systematic Errors for Astronomy and the Physical Sciences: I. Methodology and Goodness–of–fit Statistic of Poisson Data*, The Astrophysical Journal, 980, no. 1 (2025): 139. [[Journal](https://iopscience.iop.org/article/10.3847/1538-4357/ad9b1e/meta)], [[arXiv](https://arxiv.org/abs/2407.12132)].
 6. H. Sun, **Y. Chen\*** (2025), *Conformalized Tensor Completion with Riemannian Optimization*, Journal of Computational and Graphical Statistics. [[Journal](https://doi.org/10.1080/10618600.2025.2554671)], [[arXiv](https://arxiv.org/abs/2405.00581)].
 7. H. Chen, G. Toth, **Y. Chen**, S. Zou, X. Huan, *GeoDGP: Global Probabilistic Geomagnetic Perturbation Forecasting using Deep Gaussian Process*, Space Weather 23, no. 6 (2025): e2024SW004301. [[journal](https://doi.org/10.1029/2024SW004301)].
-8. H. Sun, Z. Shang, **Y. Chen\***, *Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data*, Statistica Sinica. [[arXiv](https://arxiv.org/abs/2305.15671)]
+8. H. Sun, Z. Shang, **Y. Chen\***, *Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data*, Statistica Sinica. [[Journal](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0029_na.pdf)][[arXiv](https://arxiv.org/abs/2305.15671)]
 9. J. Li, J. Cai, **Y. Chen**, D. Xia, Online Tensor Learning: Computational and Statistical Trade-offs, Adaptivity and Optimal Regret, Annals of Statistics, [[arXiv](https://arxiv.org/abs/2306.03372)].
 
 
