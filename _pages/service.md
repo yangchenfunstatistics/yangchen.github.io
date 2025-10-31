@@ -170,29 +170,30 @@ author_profile: true
 
 ### Biostatistics
 
-* Zikai Lin, Ph.D. candidate in Biostatistics. Role: Cognate.
-
 
 * Yuan Zhong, Ph.D. in Biostatistics, 2025. Dissertation Title: Integrating Deep Learning and Bayesian Inference
 in Neuroimaging Analysis. Chair: Jian Kang (Biostatistics).
 
 
-* Yijun Li, Ph.D. in Biostatistics, 2024. Dissertation Title: Computational Analysis and Statistical Methods in Spatial Transcriptomics and Neuroimaging. Role: Cognate.
+*  Zikai Lin, Ph.D. in Biostatistics, 2024. Dissertation Title: Statistical Adjustment of Population Heterogeneity and Generalizability in Neuroscience. Chair: Jian Kang (Biostatistics) and Yajuan Si (ISR). 
 
 
-* Yuqi Zhai, Ph.D. in Biostatistics, 2023. Dissertation Title: Improving estimation efficiency by integrating external summary information from heterogeneous populations. Role: Cognate.
+* Yijun Li, Ph.D. in Biostatistics, 2024. Dissertation Title: Computational Analysis and Statistical Methods in Spatial Transcriptomics and Neuroimaging. Chair: Jian Kang (Biostatistics) and Lana Garmire (DCMB).
 
 
-* Elizabeth Chase, Ph.D. in Biostatistics, 2023. Dissertation Title: Two Biostatistical Problems. Role: Cognate.
+* Yuqi Zhai, Ph.D. in Biostatistics, 2023. Dissertation Title: Improving estimation efficiency by integrating external summary information from heterogeneous populations. Chair: Peisong Han (Biostatistics).
+  
+
+* Elizabeth Chase, Ph.D. in Biostatistics, 2023. Dissertation Title: Two Biostatistical Problems. Chair: Jeremy Taylor (Biostatistics).
 
 
-* Xianing Zheng, Ph.D. in Human Genetics, dual degree in Statistics, 2022. Dissertation title: Single Cell Transcriptomic Analytics: Methods Development, Benchmarking, and Applications in Biological Research. Role: Cognate.
+* Xianing Zheng, Ph.D. in Human Genetics, dual degree in Statistics, 2022. Dissertation title: Single Cell Transcriptomic Analytics: Methods Development, Benchmarking, and Applications in Biological Research. Chair: Jun Li (Human Genetics).
 
 
-* Allison Furgal, Ph.D. in Biostatistics, 2021. Dissertation title: Bayesian Models for Joint Longitudinal and Multi-State Survival Data. Role: Cognate.
+* Allison Furgal, Ph.D. in Biostatistics, 2021. Dissertation title: Bayesian Models for Joint Longitudinal and Multi-State Survival Data. Chair: Ananda Sen and Jeremy Taylor (Biostatistics).
 
 
-* Tian Gu, Ph.D. in Biostatistics, 2021. Dissertation title: Statistical Methods to Incorporate External Summary-level Information into a Current Study. Role: Cognate.
+* Tian Gu, Ph.D. in Biostatistics, 2021. Dissertation title: Statistical Methods to Incorporate External Summary-level Information into a Current Study. Chair: Bhramar Mukerjee and Jeremy Taylor (Biostatistics).
 
 
 ### Physics and Enginnering Fields
