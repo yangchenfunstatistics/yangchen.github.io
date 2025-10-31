@@ -9,9 +9,6 @@ author_profile: true
 
 ### Postdoctoral Fellows
 
-* [Yiluan Song](https://scholar.google.com/citations?user=QToyeIAAAAAJ&hl=en), 2023-2025.
-  Schmidt AI in Science Postdoc, Joint with [Kai Zhu](https://seas.umich.edu/research/faculty/kai-zhu).
-* [Jingyang Li](https://scholar.google.com/citations?user=4Q2DaL4AAAAJ&hl=en), 2023-2025.
 * [Tsige Atilaw](https://scholar.google.com/citations?user=AfjHc8EAAAAJ&hl=en), 2024-2026.
   Schmidt AI in Science Postdoc, Joint with [Mojtaba Akhavan-Tafti](https://clasp.engin.umich.edu/people/akhavan-tafti-mojtaba/).
 * [Yian Yu](https://yyianyu.github.io/), 2025-2027.
@@ -40,8 +37,13 @@ author_profile: true
 
 ### Postdoc Alumni
 
+* [Yiluan Song](https://scholar.google.com/citations?user=QToyeIAAAAAJ&hl=en), 2023-2025.
+  Schmidt AI in Science Postdoc, Joint with [Kai Zhu](https://seas.umich.edu/research/faculty/kai-zhu).
+  First position: Assistant Professor at the University of Pittsburgh.
+* [Jingyang Li](https://scholar.google.com/citations?user=4Q2DaL4AAAAJ&hl=en), 2023-2025.
+  First position: Assistant Professor at Fudan University.
 * [Arya Farahi](https://afarahi.github.io/) (MIDAS data science fellow), 2019-2021.  
-  First position: Assistant Professor at the University of Texas at Austin
+  First position: Assistant Professor at the University of Texas at Austin.
   
 ### Ph.D. Alumni
 
