@@ -8,13 +8,15 @@ author_profile: true
 
 ## Editorial Board and Reviews
 
-* Associate Editor, The American Statistician, 2023-2026. 
+* Associate Editor, ASA Discoveries, 2026-2028.
+
+* Associate Editor, The American Statistician, 2023-2025. 
 
 * Associate Editor, Statistical Science, 2023-2025.
 
-* Associate Editor, Journal of the American Statistical Association (JASA) Review, 2023-2025.
+* Associate Editor, Journal of the American Statistical Association (JASA) Review, 2023-2025, 2026-2028.
 
-* Associate Editor for the Engineering Sciences Section, NEJSDS: The New England Journal of Statistics in Data Science, 2021-now.
+* Associate Editor for the Engineering Sciences Section, NEJSDS: The New England Journal of Statistics in Data Science, 2021-2023.
 
 * NSF Reviewer, 2024, 2023, 2021, 2020, 2019.
 
@@ -31,7 +33,7 @@ author_profile: true
 
 * Chair-Elect, ASA Astrostatistics Interest Group (AIG), 2025.
 
-* Co-organizer, Online Monte Carlo Seminar, 2024-.
+* Co-organizer, Online Monte Carlo Seminar, 2024-2025.
   
 * Gertrude M. Cox Scholarship Committee Chair, 2025.
 
@@ -62,7 +64,7 @@ author_profile: true
 
 *  Faculty search committee, 2022.
   
-*  DEI committee, 2021, 2022, 2023.
+*  DEI committee, 2021, 2022, 2023, 2024.
   
 *  Applied Statistics Masters' admissions committee, 2023.
 
@@ -72,16 +74,23 @@ author_profile: true
   
 *  Seminar committee, 2022 (chair), 2023.
   
-*  Graduate curriculum committee, 2022.
+*  Graduate curriculum committee, 2022, 2024, 2025.
   
-*  Undergraduate curriculum committee, 2021, 2023.
+*  Undergraduate curriculum committee, 2021, 2023, 2024, 2025.
   
-*  Ph.D. admissions committee, 2021, 2022.
+*  Ph.D. admissions committee, 2021, 2022, 2024, 2025.
+  
+*  Department culture committee, 2025.
 
 
 ## Organizing Activities
 
+* Co-Organizer for invited paper session “Deep Space: Deep Learning in Astronomy”, the Joint Statistical Meeting
+(JSM), Boston, MA, August 1-6, 2026.
+
 * Organizing committee for “SABID 2025: Workshop on Solar & Stellar Astronomy Big Data” at ICDM (The 25th IEEE International Conference on Data Mining) 2025, November 12, 2025.
+  
+* Organizing committee for “Machine Learning in Heliophysics”, Madrid, Spain, September 22-26, 2025.
   
 * Organizer of lightning talk session “Data-driven Approaches as a Revolution for Space Weather Forecasting”, 2024 ADSA Annual Meeting, Ann Arbor, Michigan, October 29-31, 2024.
 
