@@ -13,13 +13,13 @@ author_profile: true
 |01/2024-12/2028 | NASA ROSES Heliophysics Space Weather Centers of Excellence Program | Co-I (PI: Lulu Zhao) | CLEAR: Center for All-Clear SEP Forecast | $9,290,762 | $645,898 |
 |08/01/2024-07/31/2027 | NSF AGS Award 2419187| Co-I (PI: Zihan Wang) | Collaborative Research: Evolution of the Global Total Electron Contents (TEC) during Solar Flares | $258,009| NA |
 |10/01/2023 - 09/30/2027 | NSF DMR Award 2323765 | Co-PI (PI: Liang Qi) | Collaborative Research: DMREF: AI-enabled Automated Design of Ultrastrong and Ultraelastic Metallic Alloys | $966,053 | $116,568 |
-|10/21/2024-9/28/2025| Strategic University Research Partnerships Program (SURP) |  Co-I (PI: Qing Yue) | Maximize spatial and vertical information in joint sounder and imager observations using ensemble machine-learning approach for Planetary Boundary Layer (PBL) and Extreme Events| $39,400 | NA |
 
 ## Past
 
 
 | Dates | Award Number | Role | Title | Total Award Amount | My Award Amount
 | -- | ---- | ---- | ----------------------- | --- | --- |
+|10/21/2024-9/28/2025| Strategic University Research Partnerships Program (SURP) |  Co-I (PI: Qing Yue) | Maximize spatial and vertical information in joint sounder and imager observations using ensemble machine-learning approach for Planetary Boundary Layer (PBL) and Extreme Events| $39,400 | NA |
 |07/01/2021 - 06/30/2024| NSF DMS Award 2113397 | PI | DMS-EPSRC Collaborative Research: Advancing Statistical Foundations and Frontiers for and from Emerging Astronomical Data Challenges | NA |  $160,000 |
 |09/01/2020 - 8/31/2024 | NSF PHY Award 2027555 | Co-PI, lead on data assimilation (PI: Gabor Toth) | SWQU: NextGen Space Weather Modeling Framework Using Data, Physics and Uncertainty Quantification | $2,860,000 | $333,451 |
 |7/30/2022 - 7/29/2023 | Michigan Institute for Data Science (MIDAS) Propelling Original Data Science (PODS) Award | Co-I (PI: Arun Agrawal & Ines Ibanez) | Sustainability outcomes of restrictions on human actions: COVID-19 mobility changes, forest fires and air pollution across land regimes | $35,000 | 0|
