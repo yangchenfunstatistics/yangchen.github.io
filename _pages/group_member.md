@@ -37,9 +37,7 @@ author_profile: true
 
 ### Postdoc Alumni
 
-* [Yiluan Song](https://scholar.google.com/citations?user=QToyeIAAAAAJ&hl=en), 2023-2025.
-  
-  Schmidt AI in Science Postdoc, Joint with [Kai Zhu](https://seas.umich.edu/research/faculty/kai-zhu).
+* [Yiluan Song](https://scholar.google.com/citations?user=QToyeIAAAAAJ&hl=en), 2023-2025, Schmidt AI in Science Postdoc, Joint with [Kai Zhu](https://seas.umich.edu/research/faculty/kai-zhu).
 
   First position: Assistant Professor at the University of Pittsburgh (2026).
   
