@@ -7,6 +7,19 @@ author_profile: true
 
 Abstracts of recent talks are available [here](https://docs.google.com/document/d/1xSn__mPnUKKt2SOtQnGurk04u2QvP6RkCsEQa0sLJWo/edit?usp=sharing).
 
+## 2026
+
+1. TBD
+   * Statistics Colloquium at Michigan State University, East Lansing, Michigan, January 22, 2026.
+2. TBD
+   * Invited paper session "Data Science in Science", Joint Statistical Meetings (JSM), Boston, MA, August 2026.
+3. TBD
+   * Discussant of invited paper session "Deep Space: Deep Learning in Astronomy", Joint Statistical Meetings (JSM), Boston, MA, August 2026.
+4. TBD
+   * 2026 NSF ECLIPSE (Ecosystem for Collaborative Leadership and Inclusive Innovation Plasma Science and
+Engineering) Meeting, Ann Arbor, MI, May 2026.
+
+
 ## 2025 
 
 1. Statistical Machine Learning Enabled Scientific Discovery – Case Studies in Space Weather Forecasting [[slides](https://drive.google.com/file/d/1Ll4n9Yn4x_HVoDU1m0kpZ-tiBaeV7TsK/view?usp=drive_link)]
