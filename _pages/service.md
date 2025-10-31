@@ -123,6 +123,9 @@ author_profile: true
 
 ### Statistics
 
+* Sahana Rayan, Ph.D. student in Statistics. Chair: Ambuj Tewari (Statistics).
+
+
 * Yilei Zhang, Ph.D. candidate in Statistics. Role: Member.
 
 
@@ -170,6 +173,10 @@ author_profile: true
 * Zikai Lin, Ph.D. candidate in Biostatistics. Role: Cognate.
 
 
+* Yuan Zhong, Ph.D. in Biostatistics, 2025. Dissertation Title: Integrating Deep Learning and Bayesian Inference
+in Neuroimaging Analysis. Chair: Jian Kang (Biostatistics).
+
+
 * Yijun Li, Ph.D. in Biostatistics, 2024. Dissertation Title: Computational Analysis and Statistical Methods in Spatial Transcriptomics and Neuroimaging. Role: Cognate.
 
 
@@ -190,16 +197,28 @@ author_profile: true
 
 ### Physics and Enginnering Fields
 
+* Vivian Cribb, Ph.D. candidate in Climate and Space Sciences and Engineering. Chair: Tuija Pulkkinen (CLaSP).
+
+
+* Hongfan Chen, Ph.D. candidate in Mechanical Engineering. Chair: Xun Huan (ME).
+
+
+* Aniket Jivani, Ph.D. candidate in Mechanical Engineering. Chair: Xun Huan (ME).
+
+
+* Jiayuan Dong, Ph.D. candidate in Mechanical Engineering. Chair: Xun Huan (ME). 
+
+
 * Weihao Liu, Ph.D. student in Climate and Space Sciences and Engineering. Role: Cognate.
-
-
-* Jiacheng Liu, Ph.D. candidate in Industrial and Operations Engineering (IOE), dual degree in statistics. Role: Cognate.
 
 
 * Jieru Zhang, Ph.D. student in Material Science & Engineering (MSE). Role: Cognate.
 
 
 * Eddie Aljamal, Ph.D. candidate in Astronomy. Role: Cognate.
+
+
+* Jiacheng Liu, Ph.D. in Industrial and Operations Engineering (IOE), dual degree in statistics, 2025. Dissertation Title: Bayesian Optimization for Personalized Vehicle Safety Design. Chair: Judy Jin (IOE).
 
 
 * Nicholas Kyriacou, Ph.D. in Physics, 2025. Dissertation Title: A Higgs Physics Trilogy: Studying the Production of Multiple Higgs Bosons. Role: Cognate.
