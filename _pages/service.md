@@ -210,50 +210,50 @@ in Neuroimaging Analysis. Chair: Jian Kang (Biostatistics).
 * Jiayuan Dong, Ph.D. candidate in Mechanical Engineering. Chair: Xun Huan (ME). 
 
 
-* Weihao Liu, Ph.D. student in Climate and Space Sciences and Engineering. Role: Cognate.
+* Weihao Liu, Ph.D. student in Climate and Space Sciences and Engineering. Chair: Lulu Zhao and Tamas Gombosi (CLaSP).
 
 
-* Jieru Zhang, Ph.D. student in Material Science & Engineering (MSE). Role: Cognate.
+* Jieru Zhang, Ph.D. student in Material Science & Engineering (MSE). Chair: Liang Qi (MSE).
 
 
-* Eddie Aljamal, Ph.D. candidate in Astronomy. Role: Cognate.
+* Eddie Aljamal, Ph.D. candidate in Astronomy. Chair: August Evrard (Astronomy).
 
 
 * Jiacheng Liu, Ph.D. in Industrial and Operations Engineering (IOE), dual degree in statistics, 2025. Dissertation Title: Bayesian Optimization for Personalized Vehicle Safety Design. Chair: Judy Jin (IOE).
 
 
-* Nicholas Kyriacou, Ph.D. in Physics, 2025. Dissertation Title: A Higgs Physics Trilogy: Studying the Production of Multiple Higgs Bosons. Role: Cognate.
-
-
-* Zeyu Sun, Ph.D. in Electrical Engineering and Computer Sciences, 2024. Dissertation Title: Towards Calibrated, Sharp, and Interpretable Probabilistic Prediction. Role: Cognate.
-
-
-* Zhichen Wang, Ph.D. in Physics, 2024. Dissertation Title: Observation of W ±W ∓Z, W ±ZZ and ZZZ Production and Search for Quantum Entanglement in H → ZZ? Decays with √s = 13 TeV pp Collisions with the ATLAS Detector. Role: Cognate.
+* Nicholas Kyriacou, Ph.D. in Physics, 2025. Dissertation Title: A Higgs Physics Trilogy: Studying the Production of Multiple Higgs Bosons. Chair: Jianmin Qian (Physics).
   
 
-* Matthew-Remy Aguirre, Ph.D. in Industrial and Operations Engineering, 2023. Dissertation Title: Data Analytics of Human Behaviors with Applications. Role: Cognate.
+* Zeyu Sun, Ph.D. in Electrical Engineering and Computer Sciences, 2024. Dissertation Title: Towards Calibrated, Sharp, and Interpretable Probabilistic Prediction. Chair: Alfred Hero (EECS).
 
 
-* Spiridon Kasapis, Ph.D. in Naval Architecture and Marine Engineering, 2023. Dissertation title: Processing Image Data from Unstructured Environments. Role: Cognate.
+* Zhichen Wang, Ph.D. in Physics, 2024. Dissertation Title: Observation of W ±W ∓Z, W ±ZZ and ZZZ Production and Search for Quantum Entanglement in H → ZZ? Decays with √s = 13 TeV pp Collisions with the ATLAS Detector. Chair: Junjie Zhu (Physics).
+  
+
+* Matthew-Remy Aguirre, Ph.D. in Industrial and Operations Engineering, 2023. Dissertation Title: Data Analytics of Human Behaviors with Applications. Chair: Judy Jin (IOE).
 
 
-* Prachi Atmassidha, Ph.D. in Physics, 2023. Dissertation Title: First measurements of the Radiation Amplitude Zero effect and of the diboson longitudinal-longitudinal interactions in High pT region using W ±Z production with the ATLAS detector. Role: Cognate.
+* Spiridon Kasapis, Ph.D. in Naval Architecture and Marine Engineering, 2023. Dissertation title: Processing Image Data from Unstructured Environments. Chair: Nickolas Vlahopoulos (NAME).
 
 
-* Brian Swiger, Ph.D. in Climate and Space Sciences, 2022. Dissertation title: Patterns of Electron Flux in the Near-Earth Plasma Sheet: Statistical Learning. Role: Cognate.
+* Prachi Atmassidha, Ph.D. in Physics, 2023. Dissertation Title: First measurements of the Radiation Amplitude Zero effect and of the diboson longitudinal-longitudinal interactions in High pT region using W ±Z production with the ATLAS detector. Chair: Junjie Zhu (Physics).
 
 
-* Jiaen Ren, Ph.D. in Climate and Space Sciences, 2021. Dissertation title: Characteristics and Generation Mechanism of Polar Cap Patch: Multi-instrument Observations. Role: Cognate.
+* Brian Swiger, Ph.D. in Climate and Space Sciences, 2022. Dissertation title: Patterns of Electron Flux in the Near-Earth Plasma Sheet: Statistical Learning. Chair: Michael W. Liemohn (CLaSP).
 
 
-* Abigail Azari, Ph.D. in Climate and Space Sciences, 2020. Dissertation title: A Data-Driven Understanding of Plasma Transport in Saturn’s Magnetic Environment. Role: Cognate.
+* Jiaen Ren, Ph.D. in Climate and Space Sciences, 2021. Dissertation title: Characteristics and Generation Mechanism of Polar Cap Patch: Multi-instrument Observations. Chair: Shasha Zou (CLaSP).
 
 
-* Ryan Dewey, Ph.D. in Climate and Space Sciences, 2020. Dissertation title: Dipolarizations in Mercurys Magnetotail: Characteristics and Consequences in a Miniature Magnetosphere. Role: Cognate.
+* Abigail Azari, Ph.D. in Climate and Space Sciences, 2020. Dissertation title: A Data-Driven Understanding of Plasma Transport in Saturn’s Magnetic Environment. hair: Michael Liemohn (CLaSP).
+
+
+* Ryan Dewey, Ph.D. in Climate and Space Sciences, 2020. Dissertation title: Dipolarizations in Mercurys Magnetotail: Characteristics and Consequences in a Miniature Magnetosphere. Chair: James A. Slavin and Jim M. Raines (CLaSP).
 
 
 * Hao Liu, Ph.D. in Physics, 2018. Dissertation title: Searches for resonant and non-resonant Higgs boson pair-production in the bbτ +τ − decay channel with 36.1 fb−1 pp collision data at √s = 13 TeV with the ATLAS
-detector. Role: Cognate.
+detector. Chair: Bing Zhou (Physics).
 
 
 ### Social Science Fields
