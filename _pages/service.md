@@ -279,6 +279,8 @@ Cognate.
 
 ## Others
 
+* CWS (Caucus for Women in Statistics and Data Science) Flash Mentoring, Mentor, 2024.
+  
 * Mentor for WISTEM (Women in Science, Technology, Engineering, and Mathematics), Harvard University, Cambridge, MA, 2016 - 2017.
 
 * Ask-a-statistician session, 224th Meeting of the American Astronomical Society, Boston, MA, June 2014.
