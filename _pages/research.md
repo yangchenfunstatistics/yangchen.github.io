@@ -13,9 +13,9 @@ author_profile: true
 1. Instrument Calibration:
    * Statistics Method - [Chen et al. (2019 JASA)](https://doi.org/10.1080/01621459.2018.1528978).
    * Astronomy Extensions - [Marshall et al. (2021 AJ)](https://doi.org/10.3847/1538-3881/ac230a).
-   * Incorporating multiple bandpasses - Das et al. (2025+).
+   * Incorporating multiple bandpasses - [Das et al. (2025+)].
 
-3. Goodness-of-fit Assessment with High-order Asymptotics: Chen et al. (2025+), [Bonamente et al. (2024 ApJ)](https://arxiv.org/abs/2407.12132).
+3. Goodness-of-fit Assessment with High-order Asymptotics: [Li et al. (2025+)], [Bonamente et al. (2024 ApJ)](https://arxiv.org/abs/2407.12132).
 
 4. Solar Flare Forecasting:
    * Machine Learning Prediction - [Chen et al. (2019 SW)](https://doi.org/10.1029/2019SW002214), [Wang et al. (2020 ApJ)](https://doi.org/10.3847/1538-4357/ab89ac), [Sun et al. (2022 ApJ)](https://doi.org/10.1002/essoar.10508256.1), [Aktukmak et al. (2022 FASS)](https://doi.org/10.3389/fspas.2022.1040107), [Chen et al. (2023, Editorial Note)](https://doi.org/10.3389/fspas.2023.1121615), [Chen et al. (2024 Review Paper)](https://doi.org/10.1080/29979676.2024.2391688).
@@ -33,13 +33,13 @@ author_profile: true
 3. Prediction Models for Geomagnetic Indices:
    * SymH - [Iong et al. (2022 SW)](https://doi.org/10.1029/2021SW002928).
    * Delta-B - [Iong et al. (2024 DSS)](https://www.tandfonline.com/doi/full/10.1080/26941899.2024.2383281).
-   * Global Probabilistic Geomagnetic Perturbation Forecast - [Chen et al. (2025 SW)](https://doi.org/10.1029/2024SW004301).
+   * Global Probabilistic Geomagnetic Perturbation Forecast - [Chen et al. (2025 SW)](https://doi.org/10.1029/2024SW004301), [Chen eta al. (2025+)].
    
 5. Imputation and Prediction for TEC Maps:
    * Video Imputation - [Sun et al. (2022 AOAS)](http://dx.doi.org/10.1214/21-AOAS1541).
    * Uncertainty Quantification - [Sun and Chen (2025 JCGS)](https://arxiv.org/abs/2405.00581).
    * Database - [Sun et al. (2023 SD)](https://doi.org/10.1038/s41597-023-02138-7).
-   * Prediction - [Wang et al. (2023 SW)](https://doi.org/10.1029/2023SW003494).
+   * Prediction - [Wang et al. (2023 SW)](https://doi.org/10.1029/2023SW003494), [Sun et al. (2025 SS)(https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0029_na.pdf)].
 
 7. Data Assimilation and Uncertainty Quantification:
    * [Jivani et al. (2023 SW)](https://doi.org/10.1029/2022SW003262).
