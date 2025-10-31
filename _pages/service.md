@@ -126,47 +126,47 @@ author_profile: true
 * Sahana Rayan, Ph.D. student in Statistics. Chair: Ambuj Tewari (Statistics).
 
 
-* Yilei Zhang, Ph.D. candidate in Statistics. Role: Member.
+* Yilei Zhang, Ph.D. candidate in Statistics. Chair: Long Nguyen (Statistics).
 
 
-* Kevin Liang, Ph.D. candidate in Statistics. Role: Member.
+* Kevin Liang, Ph.D. candidate in Statistics. Chair: Jonathan Terhorst (Statistics).
 
 
-* Katherine Ahn, Ph.D. candidate in Statistics. Role: Member.
+* Katherine Ahn, Ph.D. candidate in Statistics. Chair: Kerby Shedden (Statistics).
 
 
-* Yash Patel, Ph.D. candidate in Statistics. Role: Member.
+* Yash Patel, Ph.D. candidate in Statistics. Chair: Ambuj Tewari (Statistics).
 
 
-* Yiling Huang, Ph.D. candidate in Statistics. Role: Member.
-
-  
-* Vincenzo Loffredo, Ph.D. in Statistics, 2024. Dissertation Title: Bayesian Perspectives on LongROAD Study: Analyzing Driving Decline and Latent Traits. Role: Member.
+* Yiling Huang, Ph.D. candidate in Statistics. Chair: Snigdha Panigrahi (Statistics).
 
   
-* Derek Hanson, Ph.D. in Statistics, 2023. Dissertation Title: Mechanistic and Data-Adaptive Bayesian Methods for Scientific Inference. Role: Member.
+* Vincenzo Loffredo, Ph.D. in Statistics, 2024. Dissertation Title: Bayesian Perspectives on LongROAD Study: Analyzing Driving Decline and Latent Traits. Chair: Long Nguyen (Statistics).
+  
+  
+* Derek Hanson, Ph.D. in Statistics, 2023. Dissertation Title: Mechanistic and Data-Adaptive Bayesian Methods for Scientific Inference. Chair: Jefferey Regier (Statistics).
 
 
-* Zebang Li, Ph.D. in Statistics, Rutgers, The State University of New Jersey, 2023. Dissertation Title: Matrix and Tensor Autoregressive Models. Role: Member.
+* Zebang Li, Ph.D. in Statistics, Rutgers, The State University of New Jersey, 2023. Dissertation Title: Matrix and Tensor Autoregressive Models. Chair: Han Xiao (Rutgers Statistics).
+  
+
+* Rayleigh Lei, Ph.D. in Statistics, 2022. Dissertation title: Modeling Simplex Data. Chair: Long Nguyen (Statistics).
 
 
-* Rayleigh Lei, Ph.D. in Statistics, 2022. Dissertation title: Modeling Simplex Data. Role: Member.
+* Caleb Ki, Ph.D. in Statistics, 2022. Dissertation title: Statistical Methods in Population Genetics and Viral Phylodynamics. Chair: Jonathan Terhorst and Edward Ionides (Statistics).
+  
+
+* April Cho, Ph.D. in Statistics, 2020. Dissertation title: Statistical Analysis of Structured Latent Attribute Models. Chair: Gongjun Xu (Statistics).
 
 
-* Caleb Ki, Ph.D. in Statistics, 2022. Dissertation title: Statistical Methods in Population Genetics and Viral Phylodynamics. Role: Member.
+* Yumu Liu, Ph.D. in Statistics, 2020. Dissertation title: Aspects in Improving Statistical Procedures for Networks with Node Covariates. Chair: Ji Zhu (Statistics).
+  
+
+* Yuan Sun, Ph.D. in Statistics, 2020. Dissertation title: On Rank-Based Inference for Quantile Regression. Chair: Xuming He (Statistics).
 
 
-* April Cho, Ph.D. in Statistics, 2020. Dissertation title: Statistical Analysis of Structured Latent Attribute Models. Role: Member.
-
-
-* Yumu Liu, Ph.D. in Statistics, 2020. Dissertation title: Aspects in Improving Statistical Procedures for Networks with Node Covariates. Role: Member.
-
-
-* Yuan Sun, Ph.D. in Statistics, 2020. Dissertation title: On Rank-Based Inference for Quantile Regression. Role: Member.
-
-
-* Julie Deeke, Ph.D. in Statistics, 2019. Dissertation title: Approaches for Identifying Biases in Single-Cell RNA-Sequencing Data. Role: Member.
-
+* Julie Deeke, Ph.D. in Statistics, 2019. Dissertation title: Approaches for Identifying Biases in Single-Cell RNA-Sequencing Data. Chair: Johann Gagnon Bartsch (Statistics).
+  
 
 ### Biostatistics
 
