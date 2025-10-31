@@ -258,22 +258,21 @@ detector. Chair: Bing Zhou (Physics).
 
 ### Social Science Fields
 
-* Yang Zhang, Ph.D. in Sociology, dual degree in Statistics, 2021. Dissertation title: Three Essays on the Determinants and Consequences of Union Experiences. Role: Cognate.
+* Yang Zhang, Ph.D. in Sociology, dual degree in Statistics, 2021. Dissertation title: Three Essays on the Determinants and Consequences of Union Experiences. Chair: Sarah Burgard (Sociology).
 
 
-* Shannon Ang, Ph.D. in Sociology, dual degree in Statistics, 2020. Dissertation title: Three Papers on Social Participation over the Life Course. Role: Cognate.
+* Shannon Ang, Ph.D. in Sociology, dual degree in Statistics, 2020. Dissertation title: Three Papers on Social Participation over the Life Course. Chair: Sarah Burgard (Sociology).
 
 
-* Jie He, Ph.D. student in Environmental Health Sciences (EHS).
+* Jie He, Ph.D. student in Environmental Health Sciences (EHS). Chair: Richard Neitzel (EHS).
 
 
 ### Others
 
-* Dan Li, Ph.D. in Pharmaceutical Sciences, dual degree in Statistics, 2018. Dissertation title: Optimization and Application of Synthetic High-Density Lipoprotein (sHDL) System in Atherosclerosis and Glioma Therapy. Role:
-Cognate.
+* Dan Li, Ph.D. in Pharmaceutical Sciences, dual degree in Statistics, 2018. Dissertation title: Optimization and Application of Synthetic High-Density Lipoprotein (sHDL) System in Atherosclerosis and Glioma Therapy. Chair: Anna Schwendeman (Pharmarcy).
 
 
-* Hui Yu, Ph.D. student in the College of Pharmacy. Role: Cognate.
+* Hui Yu, Ph.D. student in the College of Pharmacy. Chair: Haojie Zhu (Pharmacy).
 
 
 
