@@ -12,7 +12,7 @@ author_profile: true
 
 * Associate Editor, The American Statistician, 2023-2025. 
 
-* Associate Editor, Statistical Science, 2023-2025.
+* Associate Editor, Statistical Science, 2023-2025, 2026-2028.
 
 * Associate Editor, Journal of the American Statistical Association (JASA) Review, 2023-2025, 2026-2028.
 
