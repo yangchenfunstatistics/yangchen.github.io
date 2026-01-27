@@ -85,8 +85,7 @@ Also available at my [Google Scholar](https://scholar.google.com/citations?user=
 5. R. Trangucci, J. Contreras, J. Zelner, Y. Chen, *Bayesian Methods for Cumulative Exposure to Extensive Environmental Health Hazards: A Bayesian Inverse Perspective*, [[arXiv](https://arxiv.org/pdf/2404.04398.pdf)].
 6. Y. Ke, X. Huang, O. Coddington, **Y. Chen**, *Matrix Factorization-Based Solar Spectral Irradiance Missing Data Imputation with Uncertainty Quantification*, [[arXiv](https://arxiv.org/abs/2508.04074)]. Curated data based on this work: The Synthetic SSI Data Interpolated Based on CMIP6 SSI Data [Data set], University of Michigan - Deep Blue Data, [[Link](https://doi.org/10.7302/38cw-1j08)].
 7. H. Chen, G. Toth, **Y. Chen**, S. Zou, and X. Huan, *Improving Geomagnetic Perturbation Forecasts in the Southern Hemisphere via Kernel-Based Encoding of Mirror Symmetry*, [[Authorea Preprints](https://essopenarchive.org/doi/full/10.22541/essoar.176297322.20727195)].
-8.  J. Li, **Y. Chen**, *Local Interaction Autoregressive Model for High Dimension Time Series Data*, [[arXiv](https://doi.
-org/10.48550/arXiv.2511.09542)].
+8.  J. Li, **Y. Chen**, *Local Interaction Autoregressive Model for High-Dimensional Time Series Data*, [[arXiv](https://doi.org/10.48550/arXiv.2511.09542)].
 9. Y. Song, K. Zhu, **Y. Chen**, A. Stefanski, R. Bermudez, R. A. Montgomery, P. B. Reich, *Warming makes boreal species grow earlier but not always taller*, [[arXiv](https://www.biorxiv.org/content/10.64898/2025.11.30.691420v1)].
 10. K. Hu, K. Jin, V. Verma, W. Liu, W. Manchester, L. Zhao, T. Gombosi, **Y. Chen\***, *Data Quality Issues in Flare Prediction using Machine Learning Models*, [[arXiv](https://arxiv.org/abs/2512.13417)].
 
