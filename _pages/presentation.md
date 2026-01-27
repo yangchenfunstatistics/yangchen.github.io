@@ -9,7 +9,7 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
 
 ## 2026
 
-1. TBD
+1. Statistical Machine Learning Enabled Scientific Discovery [[slides](https://drive.google.com/file/d/18gRtxDS2uCP68ut3gOsiOlOTSkdbP2pY/view?usp=sharing)]
    * Statistics Colloquium at Michigan State University, East Lansing, Michigan, January 22, 2026.
 2. TBD
    * Invited paper session "Data Science in Science", Joint Statistical Meetings (JSM), Boston, MA, August 2026.
@@ -18,6 +18,12 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
 4. TBD
    * 2026 NSF ECLIPSE (Ecosystem for Collaborative Leadership and Inclusive Innovation Plasma Science and
 Engineering) Meeting, Ann Arbor, MI, May 2026.
+5. TBD
+   * Keynote Speaker, MIDAS UQ Incubator workshop, Ann Arbor, MI, June 1-3, 2026.
+6. TBD
+   * The Statistical Methods in Imaging (SMI) Conference, Ann Arbor, MI, June 1-3, 2026.
+7. TBD
+   * STAMPS Workshop on Trustworthy Statistical Inference for the Physical Sciences, Pittsburgh, PA, May 13-15, 2026.
 
 
 ## 2025 
