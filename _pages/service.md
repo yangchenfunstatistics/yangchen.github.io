@@ -68,7 +68,7 @@ author_profile: true
   
 *  DEI committee, 2021, 2022, 2023, 2024.
   
-*  Applied Statistics Masters' admissions committee, 2023.
+*  Applied Statistics Master's admissions committee, 2023.
 
 *  Undergraduate advising, 2021, 2022, 2023.
 
