@@ -76,14 +76,20 @@ Also available at my [Google Scholar](https://scholar.google.com/citations?user=
 
 \* corresponding author
 
-### 2025+
+### 2026
 
 1. J. Li, J. Shang, and **Y. Chen**, *Fourier Low-rank and Sparse Tensor for Efficient Tensor Completion*,  [[arXiv](https://arxiv.org/abs/2505.11261)].
 2. X. Li, **Y. Chen\***, X. Meng, D. van Dyk, V. Kashyap, M. Bonamente (2025), *Making high-order asymptotics practical: correcting goodness-of-fit test for astronomical count data*, [[arXiv](https://arxiv.org/abs/2510.03466)].
 3. R. Trangucci, **Y. Chen**, J. Zelner, *Identified Vaccine Efficacy for Binary Post-infection Outcomes under Misclassification without monotonicity*, submitted. [[arXiv](https://https://arxiv.org/abs/2211.16502)].
 4. W. Liu, I. Ibenaz, **Y. Chen**, A. Agrawal, *Transitory Sustainability Effects of Behavioral Changes: Short-Term Benefits of COVID-19 Lockdowns Reversed Over Time, Resulting in More Wildfires in the Amazon*, submitted. [[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438234)]
-5. R. Trangucci, J. Contreras, J. Zelner, Y. Chen (2024), *Bayesian Methods for Cumulative Exposure to Extensive Environmental Health Hazards: A Bayesian Inverse Perspective*. [[arXiv](https://arxiv.org/pdf/2404.04398.pdf)]
+5. R. Trangucci, J. Contreras, J. Zelner, Y. Chen, *Bayesian Methods for Cumulative Exposure to Extensive Environmental Health Hazards: A Bayesian Inverse Perspective*, [[arXiv](https://arxiv.org/pdf/2404.04398.pdf)].
 6. Y. Ke, X. Huang, O. Coddington, **Y. Chen**, *Matrix Factorization-Based Solar Spectral Irradiance Missing Data Imputation with Uncertainty Quantification*, [[arXiv](https://arxiv.org/abs/2508.04074)].
+7. H. Chen, G. Toth, **Y. Chen**, S. Zou, and X. Huan, *Improving Geomagnetic Perturbation Forecasts in the Southern Hemisphere via Kernel-Based Encoding of Mirror Symmetry*, [[Authorea Preprints](https://essopenarchive.org/doi/full/10.22541/essoar.176297322.20727195)].
+8.  J. Li, **Y. Chen**, *Local Interaction Autoregressive Model for High Dimension Time Series Data*, [[arXiv](https://doi.
+org/10.48550/arXiv.2511.09542)].
+9. Y. Song, K. Zhu, **Y. Chen**, A. Stefanski, R. Bermudez, R. A. Montgomery, P. B. Reich, *Warming makes boreal species grow earlier but not always taller*, [[arXiv](https://www.biorxiv.org/content/10.64898/2025.11.30.691420v1)].
+10. K. Hu, K. Jin, V. Verma, W. Liu, W. Manchester, L. Zhao, T. Gombosi, **Y. Chen\***, *Data Quality Issues in Flare Prediction using Machine Learning Models*, [[arXiv](https://arxiv.org/abs/2512.13417)].
+
    
 ### 2025
 
