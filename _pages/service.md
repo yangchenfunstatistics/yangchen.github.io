@@ -31,6 +31,8 @@ author_profile: true
 
 ## Committee (External to Department of Statistics at the University of Michigan)
 
+* Chair, ASA Astrostatistics Interest Group (AIG), 2026.
+
 * Chair-Elect, ASA Astrostatistics Interest Group (AIG), 2025.
 
 * Co-organizer, Online Monte Carlo Seminar, 2024-2025.
@@ -85,8 +87,9 @@ author_profile: true
 
 ## Organizing Activities
 
-* Co-Organizer for invited paper session “Deep Space: Deep Learning in Astronomy”, the Joint Statistical Meeting
-(JSM), Boston, MA, August 1-6, 2026.
+* Scientific Program Committee for the Statistical Methods in Imaging (SMI) 2026 conference, Ann Arbor, MI, June 1-3, 2026.
+
+* Co-Organizer for invited paper session “Deep Space: Deep Learning in Astronomy”, the Joint Statistical Meeting (JSM), Boston, MA, August 1-6, 2026.
 
 * Organizing committee for “SABID 2025: Workshop on Solar & Stellar Astronomy Big Data” at ICDM (The 25th IEEE International Conference on Data Mining) 2025, November 12, 2025.
   
