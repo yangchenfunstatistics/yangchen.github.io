@@ -62,7 +62,7 @@ author_profile: true
 * Secretary, American Statistical Association (ASA) Astrostatistics Interest Group, January 2018 - January 2020.
 
 
-## Committee, 2021-now (Department of Statistics at the University of Michigan)
+## Committee, 2021-2025 (Department of Statistics at the University of Michigan)
 
 *  Faculty search committee, 2022.
   
@@ -129,6 +129,9 @@ author_profile: true
 * Sahana Rayan, Ph.D. student in Statistics. Chair: Ambuj Tewari (Statistics).
 
 
+* Eduardo Ochoa, Ph.D. candidate in Statistics. Chair: Ambuj Tewari (Statistics).
+
+
 * Yilei Zhang, Ph.D. candidate in Statistics. Chair: Long Nguyen (Statistics).
 
 
@@ -138,10 +141,10 @@ author_profile: true
 * Katherine Ahn, Ph.D. candidate in Statistics. Chair: Kerby Shedden (Statistics).
 
 
-* Yash Patel, Ph.D. candidate in Statistics. Chair: Ambuj Tewari (Statistics).
-
-
 * Yiling Huang, Ph.D. candidate in Statistics. Chair: Snigdha Panigrahi (Statistics).
+
+
+* Yash Patel, Ph.D. in Statistics, 2025. Dissertation Title: Conformally Robust Decision Making. Chair: Ambuj Tewari (Statistics).
 
   
 * Vincenzo Loffredo, Ph.D. in Statistics, 2024. Dissertation Title: Bayesian Perspectives on LongROAD Study: Analyzing Driving Decline and Latent Traits. Chair: Long Nguyen (Statistics).
@@ -199,7 +202,7 @@ in Neuroimaging Analysis. Chair: Jian Kang (Biostatistics).
 * Tian Gu, Ph.D. in Biostatistics, 2021. Dissertation title: Statistical Methods to Incorporate External Summary-level Information into a Current Study. Chair: Bhramar Mukerjee and Jeremy Taylor (Biostatistics).
 
 
-### Physics and Enginnering Fields
+### Physics and Engineering Fields
 
 * Vivian Cribb, Ph.D. candidate in Climate and Space Sciences and Engineering. Chair: Tuija Pulkkinen (CLaSP).
 
@@ -207,19 +210,22 @@ in Neuroimaging Analysis. Chair: Jian Kang (Biostatistics).
 * Hongfan Chen, Ph.D. candidate in Mechanical Engineering. Chair: Xun Huan (ME).
 
 
-* Aniket Jivani, Ph.D. candidate in Mechanical Engineering. Chair: Xun Huan (ME).
+* Weihao Liu, Ph.D. candidate in Climate and Space Sciences and Engineering. Chair: Lulu Zhao and Tamas Gombosi (CLaSP).
 
 
-* Jiayuan Dong, Ph.D. candidate in Mechanical Engineering. Chair: Xun Huan (ME). 
+* Pravendra Patel, Ph.D. candidate in Material Science & Engineering (MSE). Chair: Liang Qi (MSE).
 
-
-* Weihao Liu, Ph.D. student in Climate and Space Sciences and Engineering. Chair: Lulu Zhao and Tamas Gombosi (CLaSP).
-
-
-* Jieru Zhang, Ph.D. student in Material Science & Engineering (MSE). Chair: Liang Qi (MSE).
+  
+* Jieru Zhang, Ph.D. candidate in Material Science & Engineering (MSE). Chair: Liang Qi (MSE).
 
 
 * Eddie Aljamal, Ph.D. candidate in Astronomy. Chair: August Evrard (Astronomy).
+
+
+* Jiayuan Dong, Ph.D. in Mechanical Engineering, 2026. Dissertation Title: Efficient Goal-oriented Sequential Bayesian Experimental Design with Applications to Causal and Physical Systems. Chair: Xun Huan (ME).
+
+
+* Aniket Jivani, Ph.D. in Mechanical Engineering, 2026. Dissertation Title: Active Data Collection and Multi-fidelity Methods for Principled Surrogate Model Construction. Chair: Xun Huan (ME).
 
 
 * Jiacheng Liu, Ph.D. in Industrial and Operations Engineering (IOE), dual degree in statistics, 2025. Dissertation Title: Bayesian Optimization for Personalized Vehicle Safety Design. Chair: Judy Jin (IOE).
@@ -271,6 +277,10 @@ detector. Chair: Bing Zhou (Physics).
 
 
 ### Others
+
+
+* Zenan Fu, Ph.D. in Mathematics, 2025. Dissertation Title: Cluster Structures in Mixed Grassmannians. Chair: Sergey Fomin (Mathematics).
+
 
 * Dan Li, Ph.D. in Pharmaceutical Sciences, dual degree in Statistics, 2018. Dissertation title: Optimization and Application of Synthetic High-Density Lipoprotein (sHDL) System in Atherosclerosis and Glioma Therapy. Chair: Anna Schwendeman (Pharmarcy).
 
