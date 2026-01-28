@@ -62,28 +62,6 @@ author_profile: true
 * Secretary, American Statistical Association (ASA) Astrostatistics Interest Group, January 2018 - January 2020.
 
 
-## Committee, 2021-2025 (Department of Statistics at the University of Michigan)
-
-*  Faculty search committee, 2022.
-  
-*  DEI committee, 2021, 2022, 2023, 2024.
-  
-*  Applied Statistics Master's admissions committee, 2023.
-
-*  Undergraduate advising, 2021, 2022, 2023.
-
-*  Masters' Advising, 2021, 2022, 2023.
-  
-*  Seminar committee, 2022 (chair), 2023.
-  
-*  Graduate curriculum committee, 2022, 2024, 2025.
-  
-*  Undergraduate curriculum committee, 2021, 2023, 2024, 2025.
-  
-*  Ph.D. admissions committee, 2021, 2022, 2024, 2025.
-  
-*  Department culture committee, 2025.
-
 
 ## Organizing Activities
 
@@ -289,13 +267,40 @@ detector. Chair: Bing Zhou (Physics).
 
 
 
-## Others
+## Miscellaneous
 
 * CWS (Caucus for Women in Statistics and Data Science) Flash Mentoring, Mentor, 2024.
   
 * Mentor for WISTEM (Women in Science, Technology, Engineering, and Mathematics), Harvard University, Cambridge, MA, 2016 - 2017.
 
 * Ask-a-statistician session, 224th Meeting of the American Astronomical Society, Boston, MA, June 2014.
+
+
+
+
+
+
+## Committee, 2021-now (Department of Statistics at the University of Michigan)
+
+*  Faculty search committee, 2022.
+  
+*  DEI committee, 2021, 2022, 2023, 2024.
+  
+*  Applied Statistics Master's admissions committee, 2023.
+
+*  Undergraduate advising, 2021, 2022, 2023.
+
+*  Masters' Advising, 2021, 2022, 2023.
+  
+*  Seminar committee, 2022 (chair), 2023.
+  
+*  Graduate curriculum committee, 2022, 2024, 2025.
+  
+*  Undergraduate curriculum committee, 2021, 2023, 2024, 2025, 2026.
+  
+*  Ph.D. admissions committee, 2021, 2022, 2024, 2025, 2026.
+  
+*  Department culture committee, 2025.
 
 
 
