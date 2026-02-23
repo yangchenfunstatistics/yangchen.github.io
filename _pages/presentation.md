@@ -29,6 +29,8 @@ Engineering) Meeting, Ann Arbor, MI, May 2026.
    * Invited session "Data integration under different data types: new methodology developments", 2026 ICSA Applied Statistics Symposium, Arlington, Virginia, June 14-17, 2026.
 9. TBD
    * 2026 EGU (European Geosciences Union) General Assembly, Vienna, Austria, May 3-8, 2026.
+10. Seminar
+   * Institute for Space Weather Sciences (ISWS), New Jersey Institute of Technology, Newark, NJ, April 16, 2026.
 
 
 ## 2025 
