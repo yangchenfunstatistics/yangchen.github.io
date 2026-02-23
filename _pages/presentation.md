@@ -26,7 +26,9 @@ Engineering) Meeting, Ann Arbor, MI, May 2026.
 7. TBD
    * STAMPS Workshop on Trustworthy Statistical Inference for the Physical Sciences, Pittsburgh, PA, May 13-15, 2026.
 8. TBD
-   * Invited session "Data integration under different data types: new methodology developments", 2026 ICSA Applied Statistics Symposium, Arlington, Virginia, June 14-17, 2026. 
+   * Invited session "Data integration under different data types: new methodology developments", 2026 ICSA Applied Statistics Symposium, Arlington, Virginia, June 14-17, 2026.
+9. TBD
+   * 2026 EGU (European Geosciences Union) General Assembly, Vienna, Austria, May 3-8, 2026.
 
 
 ## 2025 
