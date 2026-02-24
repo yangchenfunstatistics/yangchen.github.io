@@ -15,10 +15,10 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
      
 2. Gaussian Process Regression Models for Forecasting Geomagnetic Perturbations
    * The 9th International Workshop in Sequential Methodologies (IWSM), American University, Washington, DC, June 1 – 4, 2026.
-   * Invited paper session "Data Science in Science", Joint Statistical Meetings (JSM), Boston, MA, August 2026.
+   * Invited paper session "Data Science in Science", Joint Statistical Meetings (JSM), Boston, MA, August 1-6, 2026.
      
 3. Discussions on "Deep Space: Deep Learning in Astronomy."
-   * Discussant of invited paper session "Deep Space: Deep Learning in Astronomy", Joint Statistical Meetings (JSM), Boston, MA, August 2026.
+   * Discussant of invited paper session "Deep Space: Deep Learning in Astronomy", Joint Statistical Meetings (JSM), Boston, MA, August 1-6, 2026.
      
 4. Space Weather Forecasting with Machine Learning -- Lessons Learned From Research to Operation
    * Institute for Space Weather Sciences (ISWS), New Jersey Institute of Technology, Newark, NJ, April 16, 2026.
