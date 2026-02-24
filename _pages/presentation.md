@@ -14,7 +14,7 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
    * Ph.D. student seminar, University of Michigan, Ann Arbor, February 19, 2026.
 2. Gaussian Process Regression Models for Forecasting Geomagnetic Perturbations
    * Invited paper session "Data Science in Science", Joint Statistical Meetings (JSM), Boston, MA, August 2026.
-3. Discussions on "Deep Space: Deep Learning in Astronomy"
+3. Discussions on "Deep Space: Deep Learning in Astronomy."
    * Discussant of invited paper session "Deep Space: Deep Learning in Astronomy", Joint Statistical Meetings (JSM), Boston, MA, August 2026.
 4. TBD
    * 2026 NSF ECLIPSE (Ecosystem for Collaborative Leadership and Inclusive Innovation Plasma Science and
@@ -25,6 +25,7 @@ Engineering) Meeting, Ann Arbor, MI, May 2026.
    * The Statistical Methods in Imaging (SMI) Conference, Ann Arbor, MI, June 1-3, 2026.
 7. TBD
    * STAMPS Workshop on Trustworthy Statistical Inference for the Physical Sciences, Pittsburgh, PA, May 13-15, 2026.
+   * The 9th International Workshop in Sequential Methodologies (IWSM), American University, Washington, DC, June 1 – 4, 2026.
 8. TBD
    * Invited session "Data integration under different data types: new methodology developments", 2026 ICSA Applied Statistics Symposium, Arlington, Virginia, June 14-17, 2026.
 9. TBD
