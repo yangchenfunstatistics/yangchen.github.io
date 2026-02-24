@@ -21,7 +21,7 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
    * Discussant of invited paper session "Deep Space: Deep Learning in Astronomy", Joint Statistical Meetings (JSM), Boston, MA, August 1-6, 2026.
      
 4. Space Weather Forecasting with Machine Learning -- Lessons Learned From Research to Operation
-   * Institute for Space Weather Sciences (ISWS), New Jersey Institute of Technology, Newark, NJ, April 16, 2026.
+   * Colloquium, Institute for Space Weather Sciences (ISWS), New Jersey Institute of Technology, Newark, NJ, April 16, 2026.
    * 2026 NSF ECLIPSE (Ecosystem for Collaborative Leadership and Inclusive Innovation Plasma Science and Engineering) Meeting, Ann Arbor, MI, May 2026.
      
 5. SEPNET: a multi-task deep learning framework for SEP forecasting
