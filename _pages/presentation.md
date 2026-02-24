@@ -12,26 +12,28 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
 1. Statistical Machine Learning Enabled Scientific Discovery [[slides](https://drive.google.com/file/d/18gRtxDS2uCP68ut3gOsiOlOTSkdbP2pY/view?usp=sharing)]
    * Statistics Colloquium at Michigan State University, East Lansing, Michigan, January 22, 2026.
    * Ph.D. student seminar, University of Michigan, Ann Arbor, February 19, 2026.
+     
 2. Gaussian Process Regression Models for Forecasting Geomagnetic Perturbations
+   * The 9th International Workshop in Sequential Methodologies (IWSM), American University, Washington, DC, June 1 – 4, 2026.
    * Invited paper session "Data Science in Science", Joint Statistical Meetings (JSM), Boston, MA, August 2026.
+     
 3. Discussions on "Deep Space: Deep Learning in Astronomy."
    * Discussant of invited paper session "Deep Space: Deep Learning in Astronomy", Joint Statistical Meetings (JSM), Boston, MA, August 2026.
-4. TBD
-   * 2026 NSF ECLIPSE (Ecosystem for Collaborative Leadership and Inclusive Innovation Plasma Science and
-Engineering) Meeting, Ann Arbor, MI, May 2026.
-5. Uncertainty quantification to Tensor Completion with Applications to Physical Sciences
+     
+4. Space Weather Forecasting with Machine Learning -- Lessons Learned From Research to Operation
+   * Institute for Space Weather Sciences (ISWS), New Jersey Institute of Technology, Newark, NJ, April 16, 2026.
+   * 2026 NSF ECLIPSE (Ecosystem for Collaborative Leadership and Inclusive Innovation Plasma Science and Engineering) Meeting, Ann Arbor, MI, May 2026.
+     
+5. SEPNET: a multi-task deep learning framework for SEP forecasting
+   * 2026 EGU (European Geosciences Union) General Assembly, Vienna, Austria, May 3-8, 2026.
+     
+6. Uncertainty quantification to Tensor Completion with Applications to Physical Sciences
    * STAMPS Workshop on Trustworthy Statistical Inference for the Physical Sciences, Pittsburgh, PA, May 13-15, 2026.
    * Keynote Speaker, MIDAS UQ Incubator workshop, Ann Arbor, MI, June 1-3, 2026.
+     
 7. Probabilistic Tensor Prediction for High-Dimensional Solar Imaging Data
    * The Statistical Methods in Imaging (SMI) Conference, Ann Arbor, MI, June 1-3, 2026.
-8. TBD
-   * The 9th International Workshop in Sequential Methodologies (IWSM), American University, Washington, DC, June 1 – 4, 2026.
-9. TBD
    * Invited session "Data integration under different data types: new methodology developments", 2026 ICSA Applied Statistics Symposium, Arlington, Virginia, June 14-17, 2026.
-10. TBD
-   * 2026 EGU (European Geosciences Union) General Assembly, Vienna, Austria, May 3-8, 2026.
-11. Seminar
-   * Institute for Space Weather Sciences (ISWS), New Jersey Institute of Technology, Newark, NJ, April 16, 2026.
 
 
 ## 2025 
