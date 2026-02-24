@@ -19,7 +19,7 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
 4. TBD
    * 2026 NSF ECLIPSE (Ecosystem for Collaborative Leadership and Inclusive Innovation Plasma Science and
 Engineering) Meeting, Ann Arbor, MI, May 2026.
-5. TBD
+5. Uncertainty quantification to Tensor Completion with Applications to Physical Sciences
    * Keynote Speaker, MIDAS UQ Incubator workshop, Ann Arbor, MI, June 1-3, 2026.
 6. Probabilistic Tensor Prediction for High-Dimensional Solar Imaging Data
    * The Statistical Methods in Imaging (SMI) Conference, Ann Arbor, MI, June 1-3, 2026.
