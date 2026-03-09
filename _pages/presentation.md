@@ -22,7 +22,8 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
      
 4. Space Weather Forecasting with Machine Learning -- Lessons Learned From Research to Operation
    * Colloquium, Institute for Space Weather Sciences (ISWS), New Jersey Institute of Technology, Newark, NJ, April 16, 2026.
-   * 2026 NSF ECLIPSE (Ecosystem for Collaborative Leadership and Inclusive Innovation Plasma Science and Engineering) Meeting, Ann Arbor, MI, May 2026.
+   * 2026 NSF ECLIPSE (Ecosystem for Collaborative Leadership and Inclusive Innovation Plasma Science and Engineering) Meeting, Ann Arbor, MI, May 18-20, 2026.
+   * NASA Space Weather Centers of Excellence Annual Meeting, Boulder, CO, May 27-28, 2026. 
      
 5. SEPNET: a multi-task deep learning framework for SEP forecasting
    * 2026 EGU (European Geosciences Union) General Assembly, Vienna, Austria, May 3-8, 2026.
