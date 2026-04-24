@@ -25,7 +25,7 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
    * 2026 NSF ECLIPSE (Ecosystem for Collaborative Leadership and Inclusive Innovation Plasma Science and Engineering) Meeting, Ann Arbor, MI, May 18-20, 2026.
    * NASA Space Weather Centers of Excellence Annual Meeting, Boulder, CO, May 27-28, 2026. 
      
-5. SEPNET: a multi-task deep learning framework for SEP forecasting
+5. SEPNET: a multi-task deep learning framework for SEP forecasting [[Poster](https://drive.google.com/file/d/1XEUh-UFuvAu2PVh3wemVVXHAvbjEVDFF/view?usp=sharing)]
    * 2026 EGU (European Geosciences Union) General Assembly, Vienna, Austria, May 3-8, 2026.
      
 6. Uncertainty quantification to Tensor Completion with Applications to Physical Sciences
