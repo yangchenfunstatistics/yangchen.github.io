@@ -12,6 +12,7 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
 1. Statistical Machine Learning Enabled Scientific Discovery [[slides](https://drive.google.com/file/d/18gRtxDS2uCP68ut3gOsiOlOTSkdbP2pY/view?usp=sharing)]
    * Statistics Colloquium at Michigan State University, East Lansing, Michigan, January 22, 2026.
    * Ph.D. student seminar, University of Michigan, Ann Arbor, February 19, 2026.
+   * Michigan Institute for Data and AI in Society (MIDAS) postdoc seminar, University of Michigan, Ann Arbor, June 19, 2026.
      
 2. Gaussian Process Regression Models for Forecasting Geomagnetic Perturbations
    * The 9th International Workshop in Sequential Methodologies (IWSM), American University, Washington, DC, June 1 – 4, 2026.
