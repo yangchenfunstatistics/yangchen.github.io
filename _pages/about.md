@@ -86,7 +86,7 @@ Space Weather Prediction Website: [[MLSW-UM](https://mlsw.engin.umich.edu/)]
   
 - Y. Yu, Y. Chen, L. Zhao, K. Whitman, W. Manchester, T. Gombosi (2026). "Solar Energetic Particle Forecasting with Multi-Task Deep Learning: SEPNet", Journal of Geophysical Research - Machine Learning and Computation. [[link](https://doi.org/10.48550/arXiv.2512.12786)].
 
-* Geomagnetic Index Completion and Forecasting
+*Geomagnetic Index Completion and Forecasting*
 
 - H. Chen, G. Toth, Y. Chen, S. Zou, X. Huan (2025). "GeoDGP: Global Probabilistic Geomagnetic Perturbation Forecasting using Deep Gaussian Process", Space Weather 23, no. 6: e2024SW004301. [[link](https://doi.org/10.1029/2024SW004301)].
   
