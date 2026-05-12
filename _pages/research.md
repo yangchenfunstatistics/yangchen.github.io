@@ -88,6 +88,8 @@ Also available at my [Google Scholar](https://scholar.google.com/citations?user=
 9. Y. Song, K. Zhu, **Y. Chen**, A. Stefanski, R. Bermudez, R. A. Montgomery, P. B. Reich, *Warming makes boreal species grow earlier but not always taller*, [[arXiv](https://www.biorxiv.org/content/10.64898/2025.11.30.691420v1)].
 10. K. Hu, K. Jin, V. Verma, W. Liu, W. Manchester, L. Zhao, T. Gombosi, **Y. Chen\***, *Data Quality Issues in Flare Prediction using Machine Learning Models*, [[arXiv](https://arxiv.org/abs/2512.13417)].
 11. Y. Liu, Y. Song, W. Weaver, K. Shedden, Y. Chen, S. Smith, K. Zhu, Dominance of plasticity in wind-pollinated trees flowering time response to temperature, [[arXiv](https://www.biorxiv.org/content/10.1101/2025.08.26.672405v1)].
+12. Y. Yu, **Y. Chen***, L. Zhao, K. Whitman, W. Manchester, T. Gombosi (2026), *Solar Energetic Particle Forecasting with Multi-Task Deep Learning: SEPNet*, Journal of Geophysical Research - Machine Learning and Computation, [[arXiv]({https://doi.org/10.48550/arXiv.2512.12786)].
+13. J. Shang, J. Li, **Y. Chen***, Uncertainty Quantification for Noisy Low-tubal-rank Tensor Completion, [[arXiv](https://arxiv.org/html/2604.10353v1)].
 
    
 ### 2025
