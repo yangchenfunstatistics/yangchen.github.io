@@ -5,7 +5,7 @@ permalink: /funding/
 author_profile: true 
 ---
 
-## Current and Future
+## Current
 
 | Dates | Award Number | Role | Title | Total Award Amount for UoM | My Award Amount
 | -- | ---- | ---- | ----------------------- | --- | --- |
@@ -13,7 +13,7 @@ author_profile: true
 |01/2024-12/2028 | NASA ROSES Heliophysics Space Weather Centers of Excellence Program | Co-I (PI: Lulu Zhao) | CLEAR: Center for All-Clear SEP Forecast | $9,290,762 | $645,898 |
 |08/01/2024-07/31/2027 | NSF AGS Award 2419187| Co-I (PI: Zihan Wang) | Collaborative Research: Evolution of the Global Total Electron Contents (TEC) during Solar Flares | $258,009| NA |
 |10/01/2023 - 09/30/2027 | NSF DMR Award 2323765 | Co-PI (PI: Liang Qi) | Collaborative Research: DMREF: AI-enabled Automated Design of Ultrastrong and Ultraelastic Metallic Alloys | $966,053 | $116,568 |
-|05/2026-05/2027 | | PI | Investigating GenAI Teaching \& Learning Mini-Grants Program | $1,500 | $1,500|
+|05/2026-05/2027 | Center for Research on Learning and Teaching (CRLT) | PI | Investigating GenAI Teaching \& Learning Mini-Grants Program | $1,500 | $1,500|
 
 ## Past
 
