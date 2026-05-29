@@ -14,8 +14,8 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
    * Ph.D. student seminar, University of Michigan, Ann Arbor, February 19, 2026.
    * Michigan Institute for Data and AI in Society (MIDAS) postdoc seminar, University of Michigan, Ann Arbor, June 19, 2026.
      
-2. Gaussian Process Regression Models for Forecasting Geomagnetic Perturbations
-   * The 9th International Workshop in Sequential Methodologies (IWSM), American University, Washington, DC, June 1 – 4, 2026.
+2. Gaussian Process Regression Models for Forecasting Geomagnetic Perturbations [[slides](https://drive.google.com/file/d/16TpuXXVYzQrxiz0WT-rVhD7meoB0yYRd/view?usp=drive_link)]
+   * The 9th International Workshop in Sequential Methodologies (IWSM), American University, Washington, DC, June 1, 2026.
    * Invited paper session "Data Science in Science", Joint Statistical Meetings (JSM), Boston, MA, August 1-6, 2026.
      
 3. Discussions on "Deep Space: Deep Learning in Astronomy."
