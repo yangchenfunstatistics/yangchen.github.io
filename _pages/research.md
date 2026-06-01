@@ -22,24 +22,25 @@ author_profile: true
    * Mixed LSTM for Flare Indicator and Intensity - [Jiao et al. (2020 SW)](https://doi.org/10.1029/2020SW002440).
    * Statistical Feature Construction - [Sun et al. (2021 SW)](https://doi.org/10.1002/essoar.10507540.1).
    * Tensor Contraction with Gaussian Process - [Sun et al. (2023 ICML)](https://proceedings.mlr.press/v202/sun23f.html).
-   * Optimal Prediction of Extreme Events - [Verma et al. (2025 JTSA)](https://doi.org/10.1111/jtsa.12820).
+   * Optimal Prediction of Extreme Events - [Verma et al. (2026 JTSA)](https://doi.org/10.1111/jtsa.12820).
 
 ### Data-Driven Approaches for Space Weather
 
 1. Prediction Models for Solar Energetic Particles:
    * SEP Prediction with SMARP - [Kasapis et al. (2022 SW)](https://doi.org/10.1029/2021SW002842).
    * SEP review - [Whitman et al. (2022 ASR)](https://doi.org/10.1016/j.asr.2022.08.006).
-   * SEPNET - [Yu et al. (2026)](https://arxiv.org/abs/2512.12786).
+   * SEPNET - [Yu et al. (2026 JGR-MLC)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JH001247).
    
 3. Prediction Models for Geomagnetic Indices:
    * SymH - [Iong et al. (2022 SW)](https://doi.org/10.1029/2021SW002928).
    * Delta-B - [Iong et al. (2024 DSS)](https://www.tandfonline.com/doi/full/10.1080/26941899.2024.2383281).
-   * Global Probabilistic Geomagnetic Perturbation Forecast - [Chen et al. (2025 SW)](https://doi.org/10.1029/2024SW004301), [Chen eta al. (2026)](https://essopenarchive.org/doi/full/10.22541/essoar.176297322.20727195).
+   * Global Probabilistic Geomagnetic Perturbation Forecast - [Chen et al. (2025 SW)](https://doi.org/10.1029/2024SW004301), [Chen eta al. (2026 JGR-MLC)](https://essopenarchive.org/doi/full/10.22541/essoar.176297322.20727195).
    
 5. Imputation and Prediction for TEC Maps:
    * Video Imputation - [Sun et al. (2022 AOAS)](http://dx.doi.org/10.1214/21-AOAS1541).
-   * Uncertainty Quantification - [Sun and Chen (2025 JCGS)](https://arxiv.org/abs/2405.00581).
+   * Uncertainty Quantification - [Sun and Chen (2025 JCGS)](https://arxiv.org/abs/2405.00581), [Shang et al (2026)(https://arxiv.org/abs/2604.10353)].
    * Database - [Sun et al. (2023 SD)](https://doi.org/10.1038/s41597-023-02138-7).
+   * Calibration - [Smirnova et al. (2026 SW)].
    * Prediction - [Wang et al. (2023 SW)](https://doi.org/10.1029/2023SW003494), [Sun et al. (2025 SS)](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0029_na.pdf).
 
 7. Data Assimilation and Uncertainty Quantification:
