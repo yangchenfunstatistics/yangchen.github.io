@@ -29,7 +29,7 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
 5. SEPNET: a multi-task deep learning framework for SEP forecasting [[Poster](https://drive.google.com/file/d/1XEUh-UFuvAu2PVh3wemVVXHAvbjEVDFF/view?usp=sharing)]
    * 2026 EGU (European Geosciences Union) General Assembly, Vienna, Austria, May 3-8, 2026.
      
-6. Uncertainty quantification to Tensor Completion with Applications to Physical Sciences
+6. Uncertainty quantification to Tensor Completion with Applications to Physical Sciences [[Slides](https://drive.google.com/file/d/1VRtgZpVzn0Vv3NhfXZ0zpb5S1o_Vfzwu/view?usp=drive_link)]
    * STAMPS Workshop on Trustworthy Statistical Inference for the Physical Sciences, Pittsburgh, PA, May 13-15, 2026.
    * Keynote Speaker, MIDAS UQ Incubator workshop, Ann Arbor, MI, June 1-3, 2026.
      
