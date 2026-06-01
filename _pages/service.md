@@ -104,13 +104,13 @@ author_profile: true
 
 ### Statistics
 
-* Sahana Rayan, Ph.D. student in Statistics. Chair: Ambuj Tewari (Statistics).
+* Sahana Rayan, Ph.D. candidate in Statistics. Chair: Ambuj Tewari (Statistics).
+
+  
+* Qikai Hu, Ph.D. candidate in CLaSP. Chair: Xianglei Huang (CLaSP).
 
 
 * Eduardo Ochoa, Ph.D. candidate in Statistics. Chair: Ambuj Tewari (Statistics).
-
-
-* Yilei Zhang, Ph.D. candidate in Statistics. Chair: Long Nguyen (Statistics).
 
 
 * Kevin Liang, Ph.D. candidate in Statistics. Chair: Jonathan Terhorst (Statistics).
@@ -120,6 +120,13 @@ author_profile: true
 
 
 * Yiling Huang, Ph.D. candidate in Statistics. Chair: Snigdha Panigrahi (Statistics).
+
+
+* Eduardo Ochoa, Ph.D. in Statistics, 2026. Dissertation Title: Statistical Foundations for Microplastic Identi cation: Efficient Sampling and Distribution-Free Uncertainty Quanti cation. Chair: Ambuj Tewari (Statistics).
+
+  
+* Yilei Zhang, Ph.D. in Statistics, 2026. Dissertation Title: Bayesian generative modeling of latent subpopulations with non-parametric distributions..  Chair: Long Nguyen (Statistics).
+
 
 
 * Yash Patel, Ph.D. in Statistics, 2025. Dissertation Title: Conformally Robust Decision Making. Chair: Ambuj Tewari (Statistics).
