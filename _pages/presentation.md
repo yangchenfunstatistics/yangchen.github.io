@@ -33,7 +33,7 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
    * STAMPS Workshop on Trustworthy Statistical Inference for the Physical Sciences, Pittsburgh, PA, May 13-15, 2026.
    * Keynote Speaker, MIDAS UQ Incubator workshop, Ann Arbor, MI, June 1-3, 2026.
      
-7. Probabilistic Tensor Prediction for High-Dimensional Solar Imaging Data
+7. Probabilistic Tensor Prediction for High-Dimensional Solar Imaging Data [[Slides](https://drive.google.com/file/d/1AG5aD8wUCZrmuJR7VTbHH5U3s1m0JjYs/view?usp=drive_link)]
    * The Statistical Methods in Imaging (SMI) Conference, Ann Arbor, MI, June 1-3, 2026.
    * Invited session "Data integration under different data types: new methodology developments", 2026 ICSA Applied Statistics Symposium, Arlington, Virginia, June 14-17, 2026.
 
