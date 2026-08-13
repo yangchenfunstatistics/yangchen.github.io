@@ -18,7 +18,7 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
    * The 9th International Workshop in Sequential Methodologies (IWSM), American University, Washington, DC, June 1, 2026.
    * Invited paper session "Data Science in Science", Joint Statistical Meetings (JSM), Boston, MA, August 1-6, 2026.
      
-3. Discussions on "Deep Space: Deep Learning in Astronomy."
+3. Discussions on "Deep Space: Deep Learning in Astronomy" [[slides](https://drive.google.com/file/d/1eHb4M_RSCDg5uHtu9Cs5g3NBFj-LDfn1/view?usp=drive_link)]
    * Discussant of invited paper session "Deep Space: Deep Learning in Astronomy", Joint Statistical Meetings (JSM), Boston, MA, August 1-6, 2026.
      
 4. Space Weather Forecasting with Machine Learning -- Lessons Learned From Research to Operation [[slides](https://drive.google.com/file/d/1tt5J2pYHjgwDuVlDegqUtHxTQXve3o1D/view?usp=drive_link)]
