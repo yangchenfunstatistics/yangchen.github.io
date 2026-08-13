@@ -30,6 +30,7 @@ author_profile: true
    * SEP Prediction with SMARP - [Kasapis et al. (2022 SW)](https://doi.org/10.1029/2021SW002842).
    * SEP review - [Whitman et al. (2022 ASR)](https://doi.org/10.1016/j.asr.2022.08.006).
    * SEPNET - [Yu et al. (2026 JGR-MLC)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JH001247).
+   * SEPNET-PRISM Model [Yu et al. (2026 SR)](https://www.nature.com/articles/s41598-026-66110-2).
    
 3. Prediction Models for Geomagnetic Indices:
    * SymH - [Iong et al. (2022 SW)](https://doi.org/10.1029/2021SW002928).
