@@ -32,7 +32,7 @@ author_profile: true
    * SEPNET - [Yu et al. (2026 JGR-MLC)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JH001247).
    * SEPNET-PRISM Model [Yu et al. (2026 SR)](https://www.nature.com/articles/s41598-026-66110-2).
    * SEPNET-PRISM Data [Yu et al. (2026 SD)](https://www.nature.com/articles/s41597-026-08552-x#citeas).
-   * Realtime-forecast: SEPNET-PRISM-R [Yu et al. (2026)](https://arxiv.org/abs/2610.28292) [(Live Forecast)](https://mlsw.engin.umich.edu/apps/sepnet-prism).
+   * Realtime-forecast [(Live Forecast)](https://mlsw.engin.umich.edu/apps/sepnet-prism): SEPNET-PRISM-R [Yu et al. (2026)](https://arxiv.org/abs/2610.28292) .
    
 3. Prediction Models for Geomagnetic Indices:
    * SymH - [Iong et al. (2022 SW)](https://doi.org/10.1029/2021SW002928).
