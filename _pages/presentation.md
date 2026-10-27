@@ -39,7 +39,10 @@ Abstracts of recent talks are available [here](https://docs.google.com/document/
    * SIAM Conference on Mathematics of Data Science, Salt Lake City, Utah, Nov 16-20, 2026.
 
 8. Conformalized Tensor Completion with Applications to Space Weather
-   * INFORMS Annual Meeting, San Francisco, California, November 1-4, 2026. 
+   * INFORMS Annual Meeting, San Francisco, California, November 1-4, 2026.
+
+9. Real-Time 24-hour Ahead Forecasting of Solar Energetic Particle Events with SEPNET-PRISM-R
+   * SEP Seminar, Space Radiation Analysis Group, Johnson Space Center, Virtual, October 2026.
 
 ## 2025 
 
