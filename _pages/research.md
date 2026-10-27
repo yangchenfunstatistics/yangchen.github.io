@@ -60,7 +60,7 @@ author_profile: true
    
 5. Optimal Prediction of Extreme Events [Verma et al. (2025 JTSA)](https://doi.org/10.1111/jtsa.12820).
    
-7. Efficient Tensor Completion [Li et al. (2025)](https://doi.org/10.48550/arXiv.2505.11261).
+7. Efficient Tensor Completion [Li et al. (2026)](https://doi.org/10.48550/arXiv.2505.11261).
    
 9. Conformal Tensor Completion [Sun and Chen (2025 JCGS)](https://doi.org/10.48550/arXiv.2405.00581).
 
