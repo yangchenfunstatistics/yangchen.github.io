@@ -46,7 +46,7 @@ author_profile: true
 
 7. Data Assimilation and Uncertainty Quantification:
    * [Jivani et al. (2023 SW)](https://doi.org/10.1029/2022SW003262).
-   * GeoDGP (Live Forecast)(https://csem.engin.umich.edu/GeoDGP/) [Chen et al. (2025 SW)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024SW004165), [Chen et al. (2026 JGR-MLC)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2026JH001299). 
+   * GeoDGP [(Live Forecast)](https://csem.engin.umich.edu/GeoDGP/) [Chen et al. (2025 SW)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024SW004165), [Chen et al. (2026 JGR-MLC)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2026JH001299). 
 
 ### Statistical Methodology
 
