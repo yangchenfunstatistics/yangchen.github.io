@@ -11,7 +11,7 @@ redirect_from:
 > "The best thing about being a statistician is that you get to play in everyone’s backyard." -- John Tukey
 
 I am currently an associate professor at the [Department of Statistics](https://lsa.umich.edu/stats/people/faculty/YangChen.html) at the University of Michigan 
-and a research associate professor at Michigan Institute for Data Science ([MIDAS](https://midas.umich.edu/)).
+and an affiliate faculty at Michigan Institute for Data Science ([MIDAS](https://midas.umich.edu/)) and Michigan Institute for Computational Discovery and Engineering ([MICDE](https://micde.umich.edu/)).
 
 
 Besides, I hold *"two full-time jobs"* as a mother of two.
