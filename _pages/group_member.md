@@ -14,6 +14,7 @@ author_profile: true
 * [Yian Yu](https://yyianyu.github.io/), 2025-2027.
 * [Zhen Qin](https://zhenqin-robin.github.io/), 2025-2027.
   MICDE Postdoctoral Fellow, Joint with [Qing Qu](https://qingqu.engin.umich.edu/).
+* [Hongfan Chen](https://scholar.google.com/citations?user=Hy9RqDwAAAAJ&hl=en), 2027-2028.
 
 ### Ph.D. Students
 
@@ -66,6 +67,8 @@ author_profile: true
 * [Hu Sun](https://husun0822.github.io/), 2020-2024.
   - Dissertation title: *Statistical Methods for Spatio-Temporal Tensor Data.*
   - First position after graduation: IMC Trading.
+* [Hongfan Chen](https://scholar.google.com/citations?user=Hy9RqDwAAAAJ&hl=en)(joint with [Xun Huan](https://me.engin.umich.edu/people/faculty/xun-ryan-huan/)), 2022-2026.
+  - Dissertation title: *A Physics-Data Hybrid Approach for Probabilistic Sun-to-Earth Space Weather Forecasting in Data-Sparse Settings*.
 
 
 ### Bridge Program Alumni
