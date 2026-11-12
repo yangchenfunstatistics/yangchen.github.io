@@ -91,9 +91,12 @@ Also available at my [Google Scholar](https://scholar.google.com/citations?user=
 8.  J. Li, **Y. Chen**, *Local Interaction Autoregressive Model for High-Dimensional Time Series Data*, [[arXiv](https://doi.org/10.48550/arXiv.2511.09542)].
 9. Y. Song, K. Zhu, **Y. Chen**, A. Stefanski, R. Bermudez, R. A. Montgomery, P. B. Reich, *Warming makes boreal species grow earlier but not always taller*, [[arXiv](https://www.biorxiv.org/content/10.64898/2025.11.30.691420v1)].
 10. K. Hu, K. Jin, V. Verma, W. Liu, W. Manchester, L. Zhao, T. Gombosi, **Y. Chen\***, *Data Quality Issues in Flare Prediction using Machine Learning Models*, [[arXiv](https://arxiv.org/abs/2512.13417)].
-11. Y. Liu, Y. Song, W. Weaver, K. Shedden, Y. Chen, S. Smith, K. Zhu, Dominance of plasticity in wind-pollinated trees flowering time response to temperature, [[arXiv](https://www.biorxiv.org/content/10.1101/2025.08.26.672405v1)].
+11. Y. Liu, Y. Song, W. Weaver, K. Shedden, Y. Chen, S. Smith, K. Zhu, Dominance of plasticity in wind-pollinated trees flowering time response to temperature, Ecology, [[arXiv](https://www.biorxiv.org/content/10.1101/2025.08.26.672405v1)].
 12. Y. Yu, **Y. Chen***, L. Zhao, K. Whitman, W. Manchester, T. Gombosi (2026), *Solar Energetic Particle Forecasting with Multi-Task Deep Learning: SEPNet*, Journal of Geophysical Research - Machine Learning and Computation, [[Journal](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JH001247)].
 13. J. Shang, J. Li, **Y. Chen***, Uncertainty Quantification for Noisy Low-tubal-rank Tensor Completion, [[arXiv](https://arxiv.org/abs/2604.10353)].
+14. Y. Yu, **Y. Chen***, L. Zhao, K. Whitman, W. Manchester, T. Gombosi, *Realtime forecasting of solar energetic particle event and proton flux using multi-source solar observations and multi-task deep learning*, Nature - Scientific Reports, [[Journal](https://www.nature.com/articles/s41598-026-66110-2)].
+15. Y. Yu, **Y. Chen***, L. Zhao, K. Whitman, W. Manchester, T. Gombosi, *A multi-source dataset for solar energetic particle forecasting*, Nature - Scientific Data, [[Journal](https://www.nature.com/articles/s41597-026-08552-x)].
+16. Y. Yu, **Y. Chen***, L. Zhao, K. Whitman, W. Manchester, T. Gombosi, *Real-Time 24-hour Ahead Forecasting of Solar Energetic Particle Events with SEPNET-PRISM-R*, [[arXiv](https://arxiv.org/abs/2610.28292)].
 
    
 ### 2025
