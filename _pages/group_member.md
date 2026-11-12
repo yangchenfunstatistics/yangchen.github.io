@@ -103,6 +103,9 @@ author_profile: true
 * Chia-Yun Li, 2024-2025.
 * Jiaxing Xu, 2024-2025.
 * Ashlan Simpson, 2024-2025.
+* Fangzhou Cao, 2026-2027.
+* Haoze Wu, 2025-2027.
+* Lucas Chiang, 2026-2027.
 
 ### Undergraduate Alumni
 
