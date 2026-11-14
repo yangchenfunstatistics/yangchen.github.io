@@ -36,8 +36,110 @@ My research interests are statistical methodology and computational algorithms m
 * Spatial-temporal data analysis
 * Uncertainty quantification for complex models
 
-Space Weather Prediction Website: [[MLSW-UM](https://mlsw.engin.umich.edu/)]
+<!-- Space weather forecasting callout -->
+<style>
+#mlsw-callout,
+#mlsw-callout:visited {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.25rem;
+  box-sizing: border-box;
+  width: 100%;
+  margin: 1.5rem 0 2rem;
+  padding: 1.25rem 1.5rem;
+  border: 1px solid #dce5ef;
+  border-left: 6px solid #ffcb05;
+  border-radius: 10px;
+  background: #f4f7fb;
+  color: #00274c;
+  font-family: inherit;
+  line-height: 1.5;
+  text-decoration: none;
+  box-shadow: none;
+  transition: background-color 0.2s ease, box-shadow 0.2s ease;
+}
 
+#mlsw-callout:hover {
+  background: #eaf0f7;
+  color: #00274c;
+  text-decoration: none;
+  box-shadow: 0 4px 14px rgba(0, 39, 76, 0.10);
+}
+
+#mlsw-callout:focus-visible {
+  outline: 3px solid #00274c;
+  outline-offset: 4px;
+}
+
+#mlsw-callout .mlsw-copy {
+  display: block;
+  min-width: 0;
+}
+
+#mlsw-callout .mlsw-label {
+  display: block;
+  margin-bottom: 0.3rem;
+  color: #4b6177;
+  font-size: 0.72em;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+#mlsw-callout .mlsw-title {
+  display: block;
+  margin-bottom: 0.35rem;
+  color: #00274c;
+  font-size: 1.2em;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+#mlsw-callout .mlsw-description {
+  display: block;
+  color: #354b62;
+  font-size: 0.9em;
+}
+
+#mlsw-callout .mlsw-button {
+  display: inline-block;
+  flex-shrink: 0;
+  padding: 0.7rem 1rem;
+  border-radius: 6px;
+  background: #ffcb05;
+  color: #00274c;
+  font-size: 0.85em;
+  font-weight: 700;
+  line-height: 1.4;
+  white-space: nowrap;
+}
+
+/* Stack the text and button on smaller screens. */
+@media (max-width: 640px) {
+  #mlsw-callout {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+    padding: 1.1rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #mlsw-callout {
+    transition: none;
+  }
+}
+</style>
+
+<a id="mlsw-callout" href="https://mlsw.engin.umich.edu/">
+  <span class="mlsw-copy">
+    <span class="mlsw-label">MLSW-UM &middot; University of Michigan</span>
+    <span class="mlsw-title">Space Weather Prediction</span>
+    <span class="mlsw-description">Explore our forecasting tools for solar flares, energetic particles, and geomagnetic activity.</span>
+  </span>
+  <span class="mlsw-button">Explore forecasts <span aria-hidden="true">&rarr;</span></span>
+</a>
 
 ## Selected Recent Publications
 
