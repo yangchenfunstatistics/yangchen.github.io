@@ -1,72 +1,134 @@
 ---
 ---
 
-/* Space-weather feature card on the About page. The adjacent paragraphs are
-   generated from the Markdown link and its description in _pages/about.md. */
-.page__content p:has(> a[href="https://mlsw.engin.umich.edu/"]) {
+/*
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+ */
+
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
+
+@import "reset";
+@import "base";
+
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
+
+@import "forms";
+
+@import "page";
+@import "archive";
+@import "sidebar";
+
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+
+/* Space-weather feature card on the About page. */
+#mlsw-callout,
+#mlsw-callout:visited {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.25rem;
   box-sizing: border-box;
-  margin: 1.5rem 0 0;
-  padding: 1.25rem 1.5rem 0.35rem;
+  width: 100%;
+  margin: 1.5rem 0 2rem;
+  padding: 1.25rem 1.5rem;
   border: 1px solid #dce5ef;
-  border-bottom: 0;
   border-left: 6px solid #ffcb05;
-  border-radius: 10px 10px 0 0;
+  border-radius: 10px;
   background: #f4f7fb;
   color: #00274c;
-}
-
-.page__content p:has(> a[href="https://mlsw.engin.umich.edu/"]) > a {
-  display: block;
-  color: #00274c;
-  font-size: 1.2em;
-  font-weight: 700;
-  line-height: 1.3;
+  font-family: inherit;
+  line-height: 1.5;
   text-decoration: none;
+  box-shadow: none;
+  transition: background-color 0.2s ease, box-shadow 0.2s ease;
 }
 
-.page__content p:has(> a[href="https://mlsw.engin.umich.edu/"]) > a::after {
-  display: block;
-  margin-top: 0.8rem;
-  color: #00274c;
-  content: "Explore forecasts →";
-  font-size: 0.72em;
-}
-
-.page__content p:has(> a[href="https://mlsw.engin.umich.edu/"]) + p {
-  box-sizing: border-box;
-  margin: 0 0 2rem;
-  padding: 0.35rem 1.5rem 1.25rem;
-  border: 1px solid #dce5ef;
-  border-top: 0;
-  border-left: 6px solid #ffcb05;
-  border-radius: 0 0 10px 10px;
-  background: #f4f7fb;
-  color: #354b62;
-  font-size: 0.9em;
-}
-
-.page__content p:has(> a[href="https://mlsw.engin.umich.edu/"]):hover,
-.page__content p:has(> a[href="https://mlsw.engin.umich.edu/"]):hover + p {
+#mlsw-callout:hover {
   background: #eaf0f7;
+  color: #00274c;
+  text-decoration: none;
+  box-shadow: 0 4px 14px rgba(0, 39, 76, 0.10);
 }
 
-.page__content p:has(> a[href="https://mlsw.engin.umich.edu/"]) > a:focus-visible {
+#mlsw-callout:focus-visible {
   outline: 3px solid #00274c;
   outline-offset: 4px;
 }
 
-@media (max-width: 640px) {
-  .page__content p:has(> a[href="https://mlsw.engin.umich.edu/"]) {
-    padding: 1.1rem 1.1rem 0.35rem;
-  }
+#mlsw-callout .mlsw-copy {
+  display: block;
+  min-width: 0;
+}
 
-  .page__content p:has(> a[href="https://mlsw.engin.umich.edu/"]) + p {
-    padding: 0.35rem 1.1rem 1.1rem;
+#mlsw-callout .mlsw-label {
+  display: block;
+  margin-bottom: 0.3rem;
+  color: #4b6177;
+  font-size: 0.72em;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+#mlsw-callout .mlsw-title {
+  display: block;
+  margin-bottom: 0.35rem;
+  color: #00274c;
+  font-size: 1.2em;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+#mlsw-callout .mlsw-description {
+  display: block;
+  color: #354b62;
+  font-size: 0.9em;
+}
+
+#mlsw-callout .mlsw-button {
+  display: inline-block;
+  flex-shrink: 0;
+  padding: 0.7rem 1rem;
+  border-radius: 6px;
+  background: #ffcb05;
+  color: #00274c;
+  font-size: 0.85em;
+  font-weight: 700;
+  line-height: 1.4;
+  white-space: nowrap;
+}
+
+@media (max-width: 640px) {
+  #mlsw-callout {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+    padding: 1.1rem;
   }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .page__content p:has(> a[href="https://mlsw.engin.umich.edu/"]) {
+  #mlsw-callout {
     transition: none;
   }
 }
