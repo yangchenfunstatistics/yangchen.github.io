@@ -30,6 +30,7 @@ Current members, incoming researchers, alumni, and undergraduate research mentee
 * Surtai Han, 2025–present.
 * Xiaoyu Qiu, 2026–present, joint with Liyue Shen.
 * Erica Brown, 2026–present.
+* Matthew McAnear, 2026-present.
 
 ### Master's Research Mentees
 
