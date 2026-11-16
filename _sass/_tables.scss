@@ -36,3 +36,20 @@ td {
 tr, td, th {
   vertical-align: middle;
 }
+
+/* Keep wide funding tables within the page on smaller screens. */
+.table-scroll {
+  max-width: 100%;
+  overflow-x: auto;
+  margin-bottom: 1em;
+
+  table {
+    min-width: 42rem;
+    margin-bottom: 0;
+  }
+
+  &:focus-visible {
+    outline: 3px solid #00274c;
+    outline-offset: 3px;
+  }
+}

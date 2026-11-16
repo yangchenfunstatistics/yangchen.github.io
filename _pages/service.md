@@ -2,15 +2,46 @@
 layout: archive
 title: "Professional Service"
 permalink: /service/
-author_profile: true 
+author_profile: true
 ---
 
+Service to the statistics and scientific communities includes professional leadership, editorial work, conference organization, mentoring, and university committees.
 
-## Editorial Board and Reviews
+## Leadership and Professional Committees
+
+* Chair, ASA Astrostatistics Interest Group (AIG), 2026.
+
+* Chair-Elect, ASA Astrostatistics Interest Group (AIG), 2025.
+
+* Co-organizer, Online Monte Carlo Seminar, 2024-2025.
+
+* Gertrude M. Cox Scholarship Committee Chair, 2025.
+
+* NJIT ISWS External Advisory Board and NASA MIRO Center External Advisory Committee, 2024.
+
+* Scientific Organizing Committee, ML-Helio, 2022-2025.
+
+* Gertrude M. Cox Scholarship Committee, 2024.
+
+* Committee member for the Committee on Women in Statistics (CoWiS) of the American Statistical Association (ASA), 2022-2024.
+
+* Local organizing committee, ICSA 2023 Applied Statistics Symposium, Ann Arbor, MI, June 11 - 14, 2023.
+
+* Program Chair-Elect 2021 and program chair 2022, the ASA Astrostatistics Interest Group (AIG).
+
+* Committee of student paper competition at Statistical Learning and Data Science/Nonparametric Statistics (SLDS) 2020, March 2020.
+
+* Seminar Committee of MIDAS, 2020 Winter.
+
+* Program Committee of The 2019 MIDAS Symposium, “Embracing the Challenge: Data Science for the Next Ten Years”, University of Michigan, November 13-15, 2019.
+
+* Secretary, American Statistical Association (ASA) Astrostatistics Interest Group, January 2018 - January 2020.
+
+## Editorial Service and Reviewing
 
 * Associate Editor, ASA Discoveries, 2026-2028.
 
-* Associate Editor, The American Statistician, 2023-2025. 
+* Associate Editor, The American Statistician, 2023-2025.
 
 * Associate Editor, Statistical Science, 2023-2025, 2026-2028.
 
@@ -28,56 +59,21 @@ author_profile: true
 
 * Reviewer of internal selection of Ph.D. student fellowship at the University of Michigan, September 2020.
 
-
-## Committee (External to Department of Statistics at the University of Michigan)
-
-* Chair, ASA Astrostatistics Interest Group (AIG), 2026.
-
-* Chair-Elect, ASA Astrostatistics Interest Group (AIG), 2025.
-
-* Co-organizer, Online Monte Carlo Seminar, 2024-2025.
-  
-* Gertrude M. Cox Scholarship Committee Chair, 2025.
-
-* NJIT ISWS External Advisory Board and NASA MIRO Center External Advisory Committee, 2024.
-
-* CWS (Caucus for Women in Statistics and Data Science) Flash Mentoring, Mentor, 2024.
-
-* Scientific Organizing Committee, ML-Helio, 2022-2025.
-  
-* Gertrude M. Cox Scholarship Committee, 2024.
-
-* Committee member for the Committee on Women in Statistics (CoWiS) of the American Statistical Association (ASA), 2022-2024.
-
-* Local organizing committee, ICSA 2023 Applied Statistics Symposium, Ann Arbor, MI, June 11 - 14, 2023.
-
-* Program Chair-Elect 2021 and program chair 2022, the ASA Astrostatistics Interest Group (AIG).
-
-* Committee of student paper competition at Statistical Learning and Data Science/Nonparametric Statistics (SLDS) 2020, March 2020.
-
-* Seminar Committee of MIDAS, 2020 Winter.
-
-* Program Committee of The 2019 MIDAS Symposium, “Embracing the Challenge: Data Science for the Next Ten Years”, University of Michigan, November 13-15, 2019.
-
-* Secretary, American Statistical Association (ASA) Astrostatistics Interest Group, January 2018 - January 2020.
-
-
-
-## Organizing Activities
+## Conference and Seminar Organization
 
 * Scientific Program Committee for the Statistical Methods in Imaging (SMI) 2026 conference, Ann Arbor, MI, June 1-3, 2026.
 
 * Co-Organizer for invited paper session “Deep Space: Deep Learning in Astronomy”, the Joint Statistical Meeting (JSM), Boston, MA, August 1-6, 2026.
 
 * Organizing committee for “SABID 2025: Workshop on Solar & Stellar Astronomy Big Data” at ICDM (The 25th IEEE International Conference on Data Mining) 2025, November 12, 2025.
-  
+
 * Organizing committee for “Machine Learning in Heliophysics”, Madrid, Spain, September 22-26, 2025.
-  
+
 * Organizer of lightning talk session “Data-driven Approaches as a Revolution for Space Weather Forecasting”, 2024 ADSA Annual Meeting, Ann Arbor, Michigan, October 29-31, 2024.
 
 * Chair of session “The Promises and Perils of Long Time: Recent advances in astronomical time series”, the Joint Statistical Meetings, Portland, OR, August 3-9, 2024
 
-* Organizer and co-chair of session "Panel on Careers in Data Science" [[slides](https://drive.google.com/file/d/1apwDEsBkXuWEa1oQgJzegBpcmysL4PGs/view?usp=drive_link)], ICSA Applied Statistics Symposium, Ann Arbor, Michigan, June 12, 2023. 
+* Organizer and co-chair of session "Panel on Careers in Data Science" [[slides](https://drive.google.com/file/d/1apwDEsBkXuWEa1oQgJzegBpcmysL4PGs/view?usp=drive_link)], ICSA Applied Statistics Symposium, Ann Arbor, Michigan, June 12, 2023.
 
 * Faculty Panel, MIDAS AI in Science Symposium, April 3, 2023.
 
@@ -97,217 +93,148 @@ author_profile: true
 
 * Organizer, Bayes Reading Group, University of Michigan, January - April 2018.
 
+## University Service (2021–present)
 
+*  Faculty search committee, 2022.
 
-## Dissertation Committee
+*  DEI committee, 2021, 2022, 2023, 2024.
 
+*  Applied Statistics Master's admissions committee, 2023.
+
+*  Undergraduate advising, 2021, 2022, 2023.
+
+*  Master's Advising, 2021, 2022, 2023.
+
+*  Seminar committee, 2022 (chair), 2023.
+
+*  Graduate curriculum committee, 2022, 2024, 2025.
+
+*  Undergraduate curriculum committee, 2021, 2023, 2024, 2025, 2026.
+
+*  Ph.D. admissions committee, 2021, 2022, 2024, 2025, 2026.
+
+*  Department culture committee, 2025.
+
+## Mentoring and Outreach
+
+* CWS (Caucus for Women in Statistics and Data Science) Flash Mentoring, Mentor, 2024.
+
+* Mentor for WISTEM (Women in Science, Technology, Engineering, and Mathematics), Harvard University, Cambridge, MA, 2016 - 2017.
+
+* Ask-a-statistician session, 224th Meeting of the American Astronomical Society, Boston, MA, June 2014.
+
+## Dissertation Committees
 
 ### Statistics
 
 * Sahana Rayan, Ph.D. candidate in Statistics. Chair: Ambuj Tewari (Statistics).
 
-  
 * Qikai Hu, Ph.D. candidate in CLaSP. Chair: Xianglei Huang (CLaSP).
-
-
-* Eduardo Ochoa, Ph.D. candidate in Statistics. Chair: Ambuj Tewari (Statistics).
-
 
 * Kevin Liang, Ph.D. candidate in Statistics. Chair: Jonathan Terhorst (Statistics).
 
-
 * Katherine Ahn, Ph.D. candidate in Statistics. Chair: Kerby Shedden (Statistics).
-
 
 * Yiling Huang, Ph.D. candidate in Statistics. Chair: Snigdha Panigrahi (Statistics).
 
+* Eduardo Ochoa, Ph.D. in Statistics, 2026. Dissertation Title: Statistical Foundations for Microplastic Identification: Efficient Sampling and Distribution-Free Uncertainty Quantification. Chair: Ambuj Tewari (Statistics).
 
-* Eduardo Ochoa, Ph.D. in Statistics, 2026. Dissertation Title: Statistical Foundations for Microplastic Identi cation: Efficient Sampling and Distribution-Free Uncertainty Quanti cation. Chair: Ambuj Tewari (Statistics).
-
-  
-* Yilei Zhang, Ph.D. in Statistics, 2026. Dissertation Title: Bayesian generative modeling of latent subpopulations with non-parametric distributions..  Chair: Long Nguyen (Statistics).
-
-
+* Yilei Zhang, Ph.D. in Statistics, 2026. Dissertation Title: Bayesian generative modeling of latent subpopulations with non-parametric distributions.  Chair: Long Nguyen (Statistics).
 
 * Yash Patel, Ph.D. in Statistics, 2025. Dissertation Title: Conformally Robust Decision Making. Chair: Ambuj Tewari (Statistics).
 
-  
 * Vincenzo Loffredo, Ph.D. in Statistics, 2024. Dissertation Title: Bayesian Perspectives on LongROAD Study: Analyzing Driving Decline and Latent Traits. Chair: Long Nguyen (Statistics).
-  
-  
+
 * Derek Hanson, Ph.D. in Statistics, 2023. Dissertation Title: Mechanistic and Data-Adaptive Bayesian Methods for Scientific Inference. Chair: Jefferey Regier (Statistics).
 
-
 * Zebang Li, Ph.D. in Statistics, Rutgers, The State University of New Jersey, 2023. Dissertation Title: Matrix and Tensor Autoregressive Models. Chair: Han Xiao (Rutgers Statistics).
-  
 
 * Rayleigh Lei, Ph.D. in Statistics, 2022. Dissertation title: Modeling Simplex Data. Chair: Long Nguyen (Statistics).
 
-
 * Caleb Ki, Ph.D. in Statistics, 2022. Dissertation title: Statistical Methods in Population Genetics and Viral Phylodynamics. Chair: Jonathan Terhorst and Edward Ionides (Statistics).
-  
 
 * April Cho, Ph.D. in Statistics, 2020. Dissertation title: Statistical Analysis of Structured Latent Attribute Models. Chair: Gongjun Xu (Statistics).
 
-
 * Yumu Liu, Ph.D. in Statistics, 2020. Dissertation title: Aspects in Improving Statistical Procedures for Networks with Node Covariates. Chair: Ji Zhu (Statistics).
-  
 
 * Yuan Sun, Ph.D. in Statistics, 2020. Dissertation title: On Rank-Based Inference for Quantile Regression. Chair: Xuming He (Statistics).
 
-
 * Julie Deeke, Ph.D. in Statistics, 2019. Dissertation title: Approaches for Identifying Biases in Single-Cell RNA-Sequencing Data. Chair: Johann Gagnon Bartsch (Statistics).
-  
 
 ### Biostatistics
-
 
 * Yuan Zhong, Ph.D. in Biostatistics, 2025. Dissertation Title: Integrating Deep Learning and Bayesian Inference
 in Neuroimaging Analysis. Chair: Jian Kang (Biostatistics).
 
-
-*  Zikai Lin, Ph.D. in Biostatistics, 2024. Dissertation Title: Statistical Adjustment of Population Heterogeneity and Generalizability in Neuroscience. Chair: Jian Kang (Biostatistics) and Yajuan Si (ISR). 
-
+*  Zikai Lin, Ph.D. in Biostatistics, 2024. Dissertation Title: Statistical Adjustment of Population Heterogeneity and Generalizability in Neuroscience. Chair: Jian Kang (Biostatistics) and Yajuan Si (ISR).
 
 * Yijun Li, Ph.D. in Biostatistics, 2024. Dissertation Title: Computational Analysis and Statistical Methods in Spatial Transcriptomics and Neuroimaging. Chair: Jian Kang (Biostatistics) and Lana Garmire (DCMB).
 
-
 * Yuqi Zhai, Ph.D. in Biostatistics, 2023. Dissertation Title: Improving estimation efficiency by integrating external summary information from heterogeneous populations. Chair: Peisong Han (Biostatistics).
-  
 
 * Elizabeth Chase, Ph.D. in Biostatistics, 2023. Dissertation Title: Two Biostatistical Problems. Chair: Jeremy Taylor (Biostatistics).
 
-
 * Xianing Zheng, Ph.D. in Human Genetics, dual degree in Statistics, 2022. Dissertation title: Single Cell Transcriptomic Analytics: Methods Development, Benchmarking, and Applications in Biological Research. Chair: Jun Li (Human Genetics).
-
 
 * Allison Furgal, Ph.D. in Biostatistics, 2021. Dissertation title: Bayesian Models for Joint Longitudinal and Multi-State Survival Data. Chair: Ananda Sen and Jeremy Taylor (Biostatistics).
 
-
 * Tian Gu, Ph.D. in Biostatistics, 2021. Dissertation title: Statistical Methods to Incorporate External Summary-level Information into a Current Study. Chair: Bhramar Mukerjee and Jeremy Taylor (Biostatistics).
-
 
 ### Physics and Engineering Fields
 
 * Vivian Cribb, Ph.D. candidate in Climate and Space Sciences and Engineering. Chair: Tuija Pulkkinen (CLaSP).
 
-
 * Hongfan Chen, Ph.D. candidate in Mechanical Engineering. Chair: Xun Huan (ME).
-
 
 * Weihao Liu, Ph.D. candidate in Climate and Space Sciences and Engineering. Chair: Lulu Zhao and Tamas Gombosi (CLaSP).
 
-
 * Pravendra Patel, Ph.D. candidate in Material Science & Engineering (MSE). Chair: Liang Qi (MSE).
 
-  
 * Jieru Zhang, Ph.D. candidate in Material Science & Engineering (MSE). Chair: Liang Qi (MSE).
-
 
 * Eddie Aljamal, Ph.D. candidate in Astronomy. Chair: August Evrard (Astronomy).
 
-
 * Jiayuan Dong, Ph.D. in Mechanical Engineering, 2026. Dissertation Title: Efficient Goal-oriented Sequential Bayesian Experimental Design with Applications to Causal and Physical Systems. Chair: Xun Huan (ME).
-
 
 * Aniket Jivani, Ph.D. in Mechanical Engineering, 2026. Dissertation Title: Active Data Collection and Multi-fidelity Methods for Principled Surrogate Model Construction. Chair: Xun Huan (ME).
 
-
 * Jiacheng Liu, Ph.D. in Industrial and Operations Engineering (IOE), dual degree in statistics, 2025. Dissertation Title: Bayesian Optimization for Personalized Vehicle Safety Design. Chair: Judy Jin (IOE).
 
-
 * Nicholas Kyriacou, Ph.D. in Physics, 2025. Dissertation Title: A Higgs Physics Trilogy: Studying the Production of Multiple Higgs Bosons. Chair: Jianmin Qian (Physics).
-  
 
 * Zeyu Sun, Ph.D. in Electrical Engineering and Computer Sciences, 2024. Dissertation Title: Towards Calibrated, Sharp, and Interpretable Probabilistic Prediction. Chair: Alfred Hero (EECS).
 
-
 * Zhichen Wang, Ph.D. in Physics, 2024. Dissertation Title: Observation of W ±W ∓Z, W ±ZZ and ZZZ Production and Search for Quantum Entanglement in H → ZZ? Decays with √s = 13 TeV pp Collisions with the ATLAS Detector. Chair: Junjie Zhu (Physics).
-  
 
 * Matthew-Remy Aguirre, Ph.D. in Industrial and Operations Engineering, 2023. Dissertation Title: Data Analytics of Human Behaviors with Applications. Chair: Judy Jin (IOE).
 
-
 * Spiridon Kasapis, Ph.D. in Naval Architecture and Marine Engineering, 2023. Dissertation title: Processing Image Data from Unstructured Environments. Chair: Nickolas Vlahopoulos (NAME).
-
 
 * Prachi Atmassidha, Ph.D. in Physics, 2023. Dissertation Title: First measurements of the Radiation Amplitude Zero effect and of the diboson longitudinal-longitudinal interactions in High pT region using W ±Z production with the ATLAS detector. Chair: Junjie Zhu (Physics).
 
-
 * Brian Swiger, Ph.D. in Climate and Space Sciences, 2022. Dissertation title: Patterns of Electron Flux in the Near-Earth Plasma Sheet: Statistical Learning. Chair: Michael W. Liemohn (CLaSP).
-
 
 * Jiaen Ren, Ph.D. in Climate and Space Sciences, 2021. Dissertation title: Characteristics and Generation Mechanism of Polar Cap Patch: Multi-instrument Observations. Chair: Shasha Zou (CLaSP).
 
-
-* Abigail Azari, Ph.D. in Climate and Space Sciences, 2020. Dissertation title: A Data-Driven Understanding of Plasma Transport in Saturn’s Magnetic Environment. hair: Michael Liemohn (CLaSP).
-
+* Abigail Azari, Ph.D. in Climate and Space Sciences, 2020. Dissertation title: A Data-Driven Understanding of Plasma Transport in Saturn’s Magnetic Environment. Chair: Michael Liemohn (CLaSP).
 
 * Ryan Dewey, Ph.D. in Climate and Space Sciences, 2020. Dissertation title: Dipolarizations in Mercurys Magnetotail: Characteristics and Consequences in a Miniature Magnetosphere. Chair: James A. Slavin and Jim M. Raines (CLaSP).
 
-
 * Hao Liu, Ph.D. in Physics, 2018. Dissertation title: Searches for resonant and non-resonant Higgs boson pair-production in the bbτ +τ − decay channel with 36.1 fb−1 pp collision data at √s = 13 TeV with the ATLAS
 detector. Chair: Bing Zhou (Physics).
-
 
 ### Social Science Fields
 
 * Yang Zhang, Ph.D. in Sociology, dual degree in Statistics, 2021. Dissertation title: Three Essays on the Determinants and Consequences of Union Experiences. Chair: Sarah Burgard (Sociology).
 
-
 * Shannon Ang, Ph.D. in Sociology, dual degree in Statistics, 2020. Dissertation title: Three Papers on Social Participation over the Life Course. Chair: Sarah Burgard (Sociology).
-
 
 * Jie He, Ph.D. student in Environmental Health Sciences (EHS). Chair: Richard Neitzel (EHS).
 
-
 ### Others
-
 
 * Zenan Fu, Ph.D. in Mathematics, 2025. Dissertation Title: Cluster Structures in Mixed Grassmannians. Chair: Sergey Fomin (Mathematics).
 
-
-* Dan Li, Ph.D. in Pharmaceutical Sciences, dual degree in Statistics, 2018. Dissertation title: Optimization and Application of Synthetic High-Density Lipoprotein (sHDL) System in Atherosclerosis and Glioma Therapy. Chair: Anna Schwendeman (Pharmarcy).
-
+* Dan Li, Ph.D. in Pharmaceutical Sciences, dual degree in Statistics, 2018. Dissertation title: Optimization and Application of Synthetic High-Density Lipoprotein (sHDL) System in Atherosclerosis and Glioma Therapy. Chair: Anna Schwendeman (Pharmacy).
 
 * Hui Yu, Ph.D. student in the College of Pharmacy. Chair: Haojie Zhu (Pharmacy).
-
-
-
-## Miscellaneous
-
-* CWS (Caucus for Women in Statistics and Data Science) Flash Mentoring, Mentor, 2024.
-  
-* Mentor for WISTEM (Women in Science, Technology, Engineering, and Mathematics), Harvard University, Cambridge, MA, 2016 - 2017.
-
-* Ask-a-statistician session, 224th Meeting of the American Astronomical Society, Boston, MA, June 2014.
-
-
-
-
-
-
-## Committee, 2021-now (Department of Statistics at the University of Michigan)
-
-*  Faculty search committee, 2022.
-  
-*  DEI committee, 2021, 2022, 2023, 2024.
-  
-*  Applied Statistics Master's admissions committee, 2023.
-
-*  Undergraduate advising, 2021, 2022, 2023.
-
-*  Masters' Advising, 2021, 2022, 2023.
-  
-*  Seminar committee, 2022 (chair), 2023.
-  
-*  Graduate curriculum committee, 2022, 2024, 2025.
-  
-*  Undergraduate curriculum committee, 2021, 2023, 2024, 2025, 2026.
-  
-*  Ph.D. admissions committee, 2021, 2022, 2024, 2025, 2026.
-  
-*  Department culture committee, 2025.
-
-
-

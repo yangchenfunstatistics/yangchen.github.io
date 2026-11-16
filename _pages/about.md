@@ -1,144 +1,80 @@
 ---
 permalink: /
-title: "About me"
-excerpt: 
+title: "Statistical learning and uncertainty quantification"
+seo_title: "Yang Chen — Statistics, University of Michigan"
+excerpt: "Statistical methods for high-dimensional scientific data, including tensor and spatiotemporal models, Bayesian inference, and uncertainty quantification."
 author_profile: true
-redirect_from: 
+last_modified_at: 2026-11-15
+redirect_from:
   - /about/
   - /about.html
 ---
 
-> "The best thing about being a statistician is that you get to play in everyone’s backyard." -- John Tukey
+I am an Associate Professor in the [Department of Statistics](https://lsa.umich.edu/stats/people/faculty/YangChen.html) at the University of Michigan. I develop statistical methods and computational algorithms for high-dimensional scientific data, with a focus on tensor and spatiotemporal models, Bayesian inference, and uncertainty quantification.
 
-I am currently an associate professor at the [Department of Statistics](https://lsa.umich.edu/stats/people/faculty/YangChen.html) at the University of Michigan 
-and an affiliate faculty at Michigan Institute for Data Science ([MIDAS](https://midas.umich.edu/)) and Michigan Institute for Computational Discovery and Engineering ([MICDE](https://micde.umich.edu/)).
+My research connects statistical theory and computation with problems in astronomy and space weather. Working with scientific collaborators, I study how to recover incomplete observations, make probabilistic forecasts, and quantify uncertainty in complex scientific systems.
 
+I am also affiliated with the [Michigan Institute for Data and AI in Society (MIDAS)](https://midas.umich.edu/) and the [Michigan Institute for Computational Discovery and Engineering (MICDE)](https://micde.umich.edu/).
 
-Besides, I hold *"two full-time jobs"* as a mother of two.
+<nav class="home-links" aria-label="Explore my work">
+  <a href="{{ '/research/' | relative_url }}">Research and publications</a>
+  <a href="https://drive.google.com/file/d/1l1ujRFaDQY65B1ON3ZVwvlvctWgPo4gE/view?usp=drive_link">CV (PDF)</a>
+  <a href="{{ '/group_member/' | relative_url }}">Research group</a>
+  <a href="#forecasting-tools-and-open-data">Forecasting tools and data</a>
+</nav>
 
-> For me, being a mother made me a better professional, because coming home every night to my girls reminded me what I was working for. And being a professional made me a better mother, because by professional work I mean a job of focused problem solving, and an ability to tackle new problems elegantly and practically.
+## Research themes
 
+<div class="research-themes">
+  <section class="research-theme">
+    <h3>Tensor and spatiotemporal learning</h3>
+    <p>Modeling, reconstructing, and predicting high-dimensional images and evolving spatial data.</p>
+  </section>
+  <section class="research-theme">
+    <h3>Uncertainty and probabilistic prediction</h3>
+    <p>Quantifying uncertainty in recovered observations and scientific forecasts.</p>
+  </section>
+  <section class="research-theme">
+    <h3>Bayesian inference and latent-variable models</h3>
+    <p>Model selection, prior sensitivity, calibration, and computation for complex statistical models.</p>
+  </section>
+</div>
 
-### Education
+## Selected research
 
-* Ph. D. in Statistics, Harvard University, May 2017.
-* B. Sc. in Mathematics, University of Science and Technology of China, July 2011.
+### Tensor completion with uncertainty
 
+Confidence intervals and hypothesis tests for quantities recovered from incomplete tensor data, with applications to ionospheric maps.
 
-### Research Interests
-  
-My research interests are statistical methodology and computational algorithms motivated by scientific applications. My past and ongoing projects are focused on the following topics:
+Jiuqian Shang, Jingyang Li, and Yang Chen. *Uncertainty Quantification for Noisy Low-tubal-rank Tensor Completion*. **Preprint, 2026.** [Preprint](https://arxiv.org/abs/2604.10353)
 
-* Bayesian modeling and computation
-* Hidden Markov models and general finite mixture models
-* Applied statistics and machine learning in astronomy and space science
-* Statistical methods for large-scale imaging data
-* Spatial-temporal data analysis
-* Uncertainty quantification for complex models
+### Choosing the number of hidden states
 
+A consistent marginal-likelihood approach to selecting the number of states in hidden Markov models.
 
-<!-- Space weather forecasting callout -->
-<style>
-#mlsw-callout,
-#mlsw-callout:visited {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1.25rem;
-  box-sizing: border-box;
-  width: 100%;
-  margin: 1.5rem 0 2rem;
-  padding: 1.25rem 1.5rem;
-  border: 1px solid #dce5ef;
-  border-left: 6px solid #ffcb05;
-  border-radius: 10px;
-  background: #f4f7fb;
-  color: #00274c;
-  font-family: inherit;
-  line-height: 1.5;
-  text-decoration: none;
-  box-shadow: none;
-  transition: background-color 0.2s ease, box-shadow 0.2s ease;
-}
+Yang Chen, Cheng-Der Fuh, and Chu-Lan Michael Kao. *Determine the Number of States in Hidden Markov Models via Marginal Likelihood*. **JMLR, 2025.** [Journal](https://jmlr.org/papers/v26/23-0343.html)
 
-#mlsw-callout:hover {
-  background: #eaf0f7;
-  color: #00274c;
-  text-decoration: none;
-  box-shadow: 0 4px 14px rgba(0, 39, 76, 0.10);
-}
+### Probabilistic learning from multichannel images
 
-#mlsw-callout:focus-visible {
-  outline: 3px solid #00274c;
-  outline-offset: 4px;
-}
+Tensor contraction and Gaussian processes for prediction from high-dimensional solar imagery.
 
-#mlsw-callout .mlsw-copy {
-  display: block;
-  min-width: 0;
-}
+Hu Sun, Ward Manchester, Meng Jin, Yang Liu, and Yang Chen. *Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis*. **ICML, 2023.** [Paper](https://proceedings.mlr.press/v202/sun23f.html)
 
-#mlsw-callout .mlsw-label {
-  display: block;
-  margin-bottom: 0.3rem;
-  color: #4b6177;
-  font-size: 0.72em;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
+### SEPNET-PRISM-R: forecasting solar energetic particles
 
-#mlsw-callout .mlsw-title {
-  display: block;
-  margin-bottom: 0.35rem;
-  color: #00274c;
-  font-size: 1.2em;
-  font-weight: 700;
-  line-height: 1.3;
-}
+Hourly probabilistic forecasts of solar energetic particle events 24 hours ahead.
 
-#mlsw-callout .mlsw-description {
-  display: block;
-  color: #354b62;
-  font-size: 0.9em;
-}
+Yian Yu, Yang Chen, Lulu Zhao, Kathryn Whitman, Ward Manchester, and Tamas Gombosi. *Real-Time 24-hour Ahead Forecasting of Solar Energetic Particle Events with SEPNET-PRISM-R*. **Preprint, 2026.** [Preprint](https://arxiv.org/abs/2610.28292) · [Live forecasts](https://mlsw.engin.umich.edu/apps/sepnet-prism)
 
-#mlsw-callout .mlsw-button {
-  display: inline-block;
-  flex-shrink: 0;
-  padding: 0.7rem 1rem;
-  border-radius: 6px;
-  background: #ffcb05;
-  color: #00274c;
-  font-size: 0.85em;
-  font-weight: 700;
-  line-height: 1.4;
-  white-space: nowrap;
-}
+### VISTA: completing global ionospheric maps
 
-/* Keep the text and button side by side on phones, instead of stacking them. */
-@media (max-width: 640px) {
-  #mlsw-callout {
-    flex-direction: row;
-    align-items: center;
-    gap: 0.6rem;
-    padding: 0.85rem;
-  }
+A global total electron content dataset constructed by recovering missing observations while retaining spatial and temporal structure.
 
-  #mlsw-callout .mlsw-copy {
-    flex: 1 1 0;
-  }
+Hu Sun, Yang Chen, Shasha Zou, Jiaen Ren, Yurui Chang, Zihan Wang, and Anthea Coster. *Complete Global Total Electron Content Map Dataset based on a Video Imputation Algorithm VISTA*. **Scientific Data, 2023.** [Journal](https://doi.org/10.1038/s41597-023-02138-7) · [Data](https://doi.org/10.7302/vb27-ez24)
 
-  #mlsw-callout .mlsw-button {
-    flex: 0 0 auto;
-    max-width: 8rem;
-    padding: 0.55rem 0.65rem;
-    font-size: 0.75em;
-    text-align: center;
-    white-space: normal;
-  }
-}
-</style>
+[Explore all research topics and publications →]({{ '/research/' | relative_url }})
+
+## Forecasting tools and open data
 
 <a id="mlsw-callout" href="https://mlsw.engin.umich.edu/">
   <span class="mlsw-copy">
@@ -149,80 +85,47 @@ My research interests are statistical methodology and computational algorithms m
   <span class="mlsw-button">Explore forecasts <span aria-hidden="true">&rarr;</span></span>
 </a>
 
+<div class="research-tools">
+  <section class="research-tool">
+    <h3>SEPNET-PRISM-R</h3>
+    <p>Probabilistic forecasts of solar energetic particle events.</p>
+    <p><a href="https://mlsw.engin.umich.edu/apps/sepnet-prism">Live forecasts</a> &middot; <a href="https://arxiv.org/abs/2610.28292">Preprint</a></p>
+  </section>
+  <section class="research-tool">
+    <h3>GeoDGP</h3>
+    <p>Global probabilistic geomagnetic perturbation forecasts.</p>
+    <p><a href="https://csem.engin.umich.edu/GeoDGP/">Live forecasts</a> &middot; <a href="https://doi.org/10.1029/2024SW004301">Journal</a></p>
+  </section>
+  <section class="research-tool">
+    <h3>VISTA</h3>
+    <p>Global total electron content maps and their reconstruction methodology.</p>
+    <p><a href="https://doi.org/10.7302/vb27-ez24">Dataset</a> &middot; <a href="https://doi.org/10.1038/s41597-023-02138-7">Journal</a></p>
+  </section>
+</div>
 
-## Selected Recent Publications
+## Research group
 
-### Statistical Theory and Methodology
+Meet our [current researchers and alumni]({{ '/group_member/' | relative_url }}) and explore our [funded projects]({{ '/funding/' | relative_url }}). For questions about research collaborations, please [email me](mailto:ychenang@umich.edu).
 
+## About and contact
 
-*Quantifying Observed Prior Impact in Bayesian Inference*
+### Education
 
-- David Jones, Robert Trangucci, and Yang Chen. "Quantifying Observed Prior Impact." Bayesian Analysis, 17 (3) 737 - 764, September 2022. [[link](https://doi.org/10.1214/21-BA1271)]
+* Ph.D. in Statistics, Harvard University, May 2017.
+* B.Sc. in Mathematics, University of Science and Technology of China, July 2011.
 
-*Video Imputation with Spatial and Temporal Smoothness*
+I am also a mother of two.
 
-- Hu Sun, Zhijun Hua, Jiaen Ren, Shasha Zou, Yuekai Sun, and Yang Chen. "Matrix Completion Methods for the Total Electron Content Video Reconstruction." The Annals of Applied Statistics 16, no. 3 (2022). [[link](https://doi.org/10.1214/21-AOAS1580)]
+### Contact
 
-- Hu Sun, Yang Chen, Shasha Zou, Jiaen Ren, Yurui Chang, Zihan Wang, and Anthea Coster. Complete Global Total Electron Content Map Dataset based on a Video Imputation Algorithm VISTA. Nature - Scientific Data (2024). [[link](https://doi.org/10.1038/s41597-024-03479-x)]
-
-- Hu Sun, Yang Chen. "Conformalized Tensor Completion with Riemannian Optimization", Journal of Computational and Graphical Statistics (2025). [[link](https://doi.org/10.1080/10618600.2025.2554671)]
-  
-- Jingyang Li, Jiuqian Shang, Yang Chen. "Fourier Low-rank and Sparse Tensor for Efficient Tensor Completion" (2025), [[link](https://doi.org/10.48550/arXiv.2505.11261)].
-
-- Jiuqian Shang, Jingyang Li, Yang Chen. "Uncertainty Quantification for Noisy Low-tubal-rank Tensor Completion", [[link](https://arxiv.org/html/2604.10353v1)].
-
-*Matrix/Tensor Prediction Models with Exogeneous Vector Time Series Predictors*
-
-- Hu Sun, Zuofeng Shang, and Yang Chen. "Matrix Autoregressive Model with Vector Time Series Covariates for Spatio-Temporal Data." Statistica Sinica (2025). [[link](https://arxiv.org/abs/2305.15671)]
-  
-- Jingyang Li, Yang Chen. "Local Interaction Autoregressive Model for High-Dimensional Time Series Data". [[link](https://doi.org/10.48550/arXiv.2511.09542)].
-
-
-### Applied Statistical Methods in Physical Sciences
-
-
-*Calibration Concordance for Astronomical Instruments via Multiplicative Shrinkage*
-
-- Yang Chen, Xiao-Li Meng, Xufei Wang, David A. van Dyk, Herman L. Marshall, and Vinay L. Kashyap. "Calibration Concordance for Astronomical Instruments via Multiplicative Shrinkage." Journal of the American Statistical Association (2023). [[link](https://doi.org/10.1080/01621459.2023.2199878)]
-
-- Marshall, Herman L., Yang Chen, Jeremy J. Drake, Matteo Guainazzi, Vinay L. Kashyap, Xiao-Li Meng, Paul P. Plucinsky, Peter Ratzlaff, David A. van Dyk, and Xufei Wang. "Concordance: In-flight Calibration of X-ray Reflection Grating Spectrometers." Astrophysical Journal Supplement Series (2022). [[link](https://doi.org/10.3847/1538-4365/ac4d22)]
-
-*Solar Storms Forecasting*
-
-- Yang Chen, Ward B. Manchester, Alfred O. Hero, Gabor Toth, Benoit DuFumier, Tian Zhou, Xiantong Wang, Haonan Zhu, Zeyu Sun, and Tamas I. Gombosi. "Identifying Solar Flare Precursors Using Time Series of Images and Vector Magnetograms." The Astrophysical Journal (2024). [[link](https://arxiv.org/abs/2407.12345)]
-
-- Hu Sun, Ward Manchester, Meng Jin, Yang Liu, Yang Chen. "Tensor Gaussian Process with Contraction for Multi-Channel Imaging Analysis." Proceedings of the 40th International Conference on Machine Learning (2023). [[link](https://example.com/placeholder)]
-
-- Yang Chen, Ward Manchester, Meng Jin, Alexei Pevtsov (2024). "Solar Imaging Data Analytics: A Selective Overview of Challenges and Opportunities", Statistics and Data Science in Imaging, Volume 1, Issue 1. [[link](https://example.com/placeholder)]
-  
-- Y. Yu, Y. Chen, L. Zhao, K. Whitman, W. Manchester, T. Gombosi (2026). "Solar Energetic Particle Forecasting with Multi-Task Deep Learning: SEPNet", Journal of Geophysical Research - Machine Learning and Computation (2026). [[link](https://example.com/placeholder)]
-
-*Geomagnetic Index Completion and Forecasting*
-
-- H. Chen, G. Toth, Y. Chen, S. Zou, X. Huan (2025). "GeoDGP: Global Probabilistic Geomagnetic Perturbation Forecasting using Deep Gaussian Process", Space Weather 23, no. 6: e2024SW004301. [[link](https://doi.org/10.1029/2024SW004301)]
-  
-- H. Chen, G. Toth, Y. Chen, S. Zou, X. Huan. "Improving Geomagnetic Perturbation Forecasts in the Southern Hemisphere via Kernel-Based Encoding of Mirror Symmetry". [[link](https://essopenarchive.org/doi/full/10.22541/essoar.171777815.51152135)]
-
-
----
-
-## Contact
-
-Address: 
-445E West Hall
-1085 S. Univ. Ave.
+445E West Hall<br>
+1085 S. University Avenue<br>
 Ann Arbor, MI 48109, USA
 
-Email: ychenang at umich.edu
+Email: [ychenang@umich.edu](mailto:ychenang@umich.edu)
 
-### Current students
+**Current students:** Please use Google Calendar to send a meeting invitation for an available time. If you cannot view my availability, email me to arrange a meeting.
 
-If you want to schedule a meeting with me, the best way is to go to Google Calendar and send a calendar invite to me at one of my available slots. 
+**Alumni:** Please email me and share your updates on work and life. This is an exciting part of my job!
 
-### Past students
-
-Please email me and share your updates on work and life. This is an exciting part of my job!
-
-
-
-> This webpage is updated every four weeks. 
+<p class="page-updated">Last updated: <time datetime="{{ page.last_modified_at | date: '%Y-%m-%d' }}">{{ page.last_modified_at | date: '%B %-d, %Y' }}</time>.</p>

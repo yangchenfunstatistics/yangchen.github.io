@@ -5,21 +5,28 @@ permalink: /funding/
 author_profile: true 
 ---
 
-## Current
+Research and teaching support is listed below, with project titles, sponsors, award periods, and roles.
 
-| Dates | Award Number | Role | Title | Total Award Amount for UoM | My Award Amount
-| -- | ---- | ---- | ----------------------- | --- | --- |
+## Current Projects
+
+<div class="table-scroll" role="region" aria-label="Current project funding" tabindex="0" markdown="1">
+
+| Dates | Sponsor / Award | Role | Title | Total Award Amount for U-M | My Award Amount |
+| --- | ---- | ---- | ----------------------- | --- | --- |
 |01/2024-12/2028 | NASA ROSES Heliophysics Space Weather Centers of Excellence Program | Co-I (PI: Thomas Berger) | Space Weather Operational Readiness Development (SWORD) Center | $3,499,990| $128,062 |
 |01/2024-12/2028 | NASA ROSES Heliophysics Space Weather Centers of Excellence Program | Co-I (PI: Lulu Zhao) | CLEAR: Center for All-Clear SEP Forecast | $9,290,762 | $645,898 |
 |08/01/2024-07/31/2027 | NSF AGS Award 2419187| Co-I (PI: Zihan Wang) | Collaborative Research: Evolution of the Global Total Electron Contents (TEC) during Solar Flares | $258,009| NA |
 |10/01/2023 - 09/30/2027 | NSF DMR Award 2323765 | Co-PI (PI: Liang Qi) | Collaborative Research: DMREF: AI-enabled Automated Design of Ultrastrong and Ultraelastic Metallic Alloys | $966,053 | $116,568 |
-|05/2026-05/2027 | Center for Research on Learning and Teaching (CRLT) | PI | Investigating GenAI Teaching \& Learning Mini-Grants Program | $1,500 | $1,500|
+|05/2026-05/2027 | Center for Research on Learning and Teaching (CRLT) | PI | Investigating GenAI Teaching & Learning Mini-Grants Program | $1,500 | $1,500|
 
-## Past
+</div>
 
+## Past Support
 
-| Dates | Award Number | Role | Title | Total Award Amount | My Award Amount
-| -- | ---- | ---- | ----------------------- | --- | --- |
+<div class="table-scroll" role="region" aria-label="Past research and teaching support" tabindex="0" markdown="1">
+
+| Dates | Sponsor / Award | Role | Title | Total Award Amount | My Award Amount |
+| --- | ---- | ---- | ----------------------- | --- | --- |
 |12/15/2025-09/27/2026| JPL Award 80NM0018D0004 | Co-I (UM PI: Xianglei Huang) | Maximize spatial and vertical information in joint sounder and imager observations using ensemble machine-learning approach for Planetary Boundary Layer (PBL) and Extreme Events | $40,000 | NA |
 |10/21/2024-9/28/2025| Strategic University Research Partnerships Program (SURP) |  Co-I (PI: Qing Yue) | Maximize spatial and vertical information in joint sounder and imager observations using ensemble machine-learning approach for Planetary Boundary Layer (PBL) and Extreme Events| $39,400 | NA |
 |07/01/2021 - 06/30/2024| NSF DMS Award 2113397 | PI | DMS-EPSRC Collaborative Research: Advancing Statistical Foundations and Frontiers for and from Emerging Astronomical Data Challenges | NA |  $160,000 |
@@ -31,5 +38,7 @@ author_profile: true
 |07/15/2018 - 06/30/2021 | NSF DMS Award 1811083 | PI | Collaborative Research: Highly Principled Data Science for Multi-Domain Astronomical Measurements and Analysis|NA| $79,996|
 |06/10/2021 - 06/09/2022 | Michigan Institute for Data Science (MIDAS) Propelling Original Data Science (PODS) Award | Co-I (PI: Runzi Wang) | Data Science Approach Towards a Socio-ecological Framework for the Investigation of Continental Urban Stream Water Quality Pattern | $70,000 |0 |
 |06/01/2021 - 01/31/2022 | Catalyst Grant Award, Graham Sustainability Institute, University of Michigan | Co-I (PI: Runzi Wang) | Urban water quality management towards a sustainable framework - the investigation of fine-scale urban form effects on stream water quality | $10,000 | 0|
-|07/24/2018 - 07/23/2019 | Jayne Koskinas Ted Giovanis Foundation for Health and Policy, Data Science Innovation Lab: Mathematical Challenges of Single Cell Dynamics | Co-PI (with Eran A. Mukamel, Chongzhi Zang, Max Qian, and K. B. Choi) | Inferring lineage program regulating transcription factors for neuronal cell type identity from multi-modal single cell transcriptome and epigenome data | $6,000| 1/5|
+|07/24/2018 - 07/23/2019 | Jayne Koskinas Ted Giovanis Foundation for Health and Policy, Data Science Innovation Lab: Mathematical Challenges of Single Cell Dynamics | Co-PI (with Eran A. Mukamel, Chongzhi Zang, Max Qian, and K. B. Choi) | Inferring lineage program regulating transcription factors for neuronal cell type identity from multi-modal single cell transcriptome and epigenome data | $6,000| 1/5 share |
 |9/1/2018 - 12/31/2020 | MCubed, University of Michigan | PI (with Zhenke Wu & Gongjun Xu) | Personalized Diagnosis for Disease Etiology Studies and Cognitive Assessment | $60,000 |$20,000|
+
+</div>
