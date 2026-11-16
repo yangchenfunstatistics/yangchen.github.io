@@ -18,7 +18,7 @@ I am also affiliated with the [Michigan Institute for Data and AI in Society (MI
 
 <nav class="home-links" aria-label="Explore my work">
   <a href="{{ '/research/' | relative_url }}">Research and publications</a>
-  <a href="{{ '/files/CV_Yang_Chen.pdf' | relative_url }}">CV (PDF)</a>
+  <a href="https://drive.google.com/file/d/1l1ujRFaDQY65B1ON3ZVwvlvctWgPo4gE/view?usp=drive_link">CV (PDF)</a>
   <a href="{{ '/group_member/' | relative_url }}">Research group</a>
   <a href="#forecasting-tools-and-open-data">Forecasting tools and data</a>
 </nav>
