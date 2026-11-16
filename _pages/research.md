@@ -86,8 +86,6 @@ The topical guide below connects these methods to scientific questions. Full cit
 
 9. Local Interaction Autoregressive Models: [Li and Chen (Statistica Sinica, forthcoming)](https://doi.org/10.5705/ss.202025.0419).
 
-10. Deep Learning for Compression: [Li, Chen, and Kim (2020 IEEE TC)](https://ieeexplore.ieee.org/document/9183947), [Li and Chen (2020 IEEE TC)](https://doi.org/10.1109/TCOMM.2019.2950714).
-
 
 ### Applied Statistics in Biological Sciences and Epidemiology
 
