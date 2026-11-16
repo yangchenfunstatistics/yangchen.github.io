@@ -26,7 +26,7 @@ The topical guide below connects these methods to scientific questions. Full cit
 1. Instrument Calibration:
    * Statistical Methods - [Chen et al. (2019 JASA)](https://doi.org/10.1080/01621459.2018.1528978).
    * Astronomy Extensions - [Marshall et al. (2021 AJ)](https://doi.org/10.3847/1538-3881/ac230a).
-   * Incorporating multiple bandpasses - Das et al. (2026).
+   * Incorporating multiple bandpasses - [Das et al. (2026)](https://arxiv.org/abs/2611.18241).
 
 2. Goodness-of-fit Assessment with High-order Asymptotics: [Li et al. (2025 preprint)](https://arxiv.org/abs/2510.03466), [Bonamente et al. (ApJ)](https://iopscience.iop.org/article/10.3847/1538-4357/ad9b1e/meta).
 
@@ -102,6 +102,8 @@ Preprint dates may differ from the publication year of a later journal article.
 10. Y. Song, K. Zhu, **Y. Chen**, A. Stefanski, R. Bermudez, R. A. Montgomery, P. B. Reich, *Warming makes boreal species grow earlier but not always taller*, [[bioRxiv](https://www.biorxiv.org/content/10.64898/2025.11.30.691420v1)].
 11. K. Hu, K. Jin, V. Verma, W. Liu, W. Manchester, L. Zhao, T. Gombosi, **Y. Chen**\*, *Data Quality Issues in Flare Prediction using Machine Learning Models*, [[arXiv](https://arxiv.org/abs/2512.13417)].
 12. M. Aguirre, W. Sun, **Y. Chen**, J. Jin, *Automatic Identification of Driving Maneuver Patterns Using a Robust Hidden Semi-Markov Model*, [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4410473)]
+13. S. Das, **Y. Chen**, H. Marshall, V. Kashyap, D. van Dyk, *Extended Bayesian Estimation for In-flight Calibration of Space-based Instruments*, [[Preprint]](https://arxiv.org/abs/2611.18241).
+
 
 ## Publications and data by year
 
