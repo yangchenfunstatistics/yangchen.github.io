@@ -9,13 +9,17 @@ Service to the statistics and scientific communities includes professional leade
 
 ## Leadership and Professional Committees
 
+* Council of Sections Representative, ASA Statistics in Imaging Section, 2027–2029 (forthcoming term).
+
+* Science Working Group Member, next generation Ground-based Solar Observing Network (ngGONG), 2026–2028.
+
 * Chair, ASA Astrostatistics Interest Group (AIG), 2026.
 
 * Chair-Elect, ASA Astrostatistics Interest Group (AIG), 2025.
 
 * Co-organizer, Online Monte Carlo Seminar, 2024-2025.
 
-* Gertrude M. Cox Scholarship Committee Chair, 2025.
+* Gertrude M. Cox Scholarship Committee Chair, 2025–2026.
 
 * NJIT ISWS External Advisory Board and NASA MIRO Center External Advisory Committee, 2024.
 
@@ -23,7 +27,7 @@ Service to the statistics and scientific communities includes professional leade
 
 * Gertrude M. Cox Scholarship Committee, 2024.
 
-* Committee member for the Committee on Women in Statistics (CoWiS) of the American Statistical Association (ASA), 2022-2024.
+* Committee member for the Committee on Women in Statistics (CoWiS) of the American Statistical Association (ASA), 2022–2024; 2025–2027.
 
 * Local organizing committee, ICSA 2023 Applied Statistics Symposium, Ann Arbor, MI, June 11 - 14, 2023.
 
@@ -47,23 +51,31 @@ Service to the statistics and scientific communities includes professional leade
 
 * Associate Editor, Journal of the American Statistical Association (JASA) Review, 2023-2025, 2026-2028.
 
-* Associate Editor for the Engineering Sciences Section, NEJSDS: The New England Journal of Statistics in Data Science, 2021-2023.
+* Associate Editor for the Engineering Sciences Section, NEJSDS: The New England Journal of Statistics in Data Science, 2021–present.
 
-* NSF Reviewer, 2024, 2023, 2021, 2020, 2019.
+* Guest Editor, special issue of Statistics and Data Science in Imaging (SDSI), 2026–2027.
 
-* NASA Reviewer, 2024, 2022.
+* NSF Reviewer, 2026, 2025, 2024, 2023, 2021, 2020, 2019.
 
-* Guest Editor, Frontiers in Astronomy And Space Sciences, 2022-2023.
+* NASA Reviewer, 2026, 2024, 2022.
 
-* Reviewer for journals: Annals of Applied Statistics, Journal of the American Statistical Association (Theory & Methods, Case Studies), Journal of Statistical Theory and Practice, PLOS ONE, Statistical Analysis and Data Mining, Frontiers Astronomy, Journal of Machine Learning Research, Earth, Planets and Space, Astronomy and Computing, Space Weather, Frontiers in Genetics, Front. Astron. Space Sci. - Astrostatistics, Scientific Data - Nature, The American Statistician, Journal of Geophysical Research - Machine Learning, Journal of Geophysical Research - Space Physics.
+* Guest Editor, Frontiers in Astronomy and Space Sciences, special issue in 2025; guest editor, 2022–2023.
+
+* Reviewer for journals: Annals of Applied Statistics, Biometrics, Statistics and Data Science in Imaging, The Astrophysical Journal, Journal of the American Statistical Association (Theory & Methods, Case Studies), Journal of Statistical Theory and Practice, PLOS ONE, Statistical Analysis and Data Mining, Frontiers Astronomy, Journal of Machine Learning Research, Earth, Planets and Space, Astronomy and Computing, Space Weather, Frontiers in Genetics, Front. Astron. Space Sci. - Astrostatistics, Scientific Data - Nature, The American Statistician, Journal of Geophysical Research - Machine Learning, Journal of Geophysical Research - Space Physics.
 
 * Reviewer of internal selection of Ph.D. student fellowship at the University of Michigan, September 2020.
 
 ## Conference and Seminar Organization
 
+* Scientific Program Committee, 2027 ICSA Applied Statistics Symposium, University of Pittsburgh, Pittsburgh, PA, June 13–16, 2027 (upcoming).
+
+* Committee Member, PhyStat 2027, Stanford University, May 24, 2027 (upcoming).
+
 * Scientific Program Committee for the Statistical Methods in Imaging (SMI) 2026 conference, Ann Arbor, MI, June 1-3, 2026.
 
 * Co-Organizer for invited paper session “Deep Space: Deep Learning in Astronomy”, the Joint Statistical Meeting (JSM), Boston, MA, August 1-6, 2026.
+
+* Organizer, invited paper session “Recent Advances in Matrix and Tensor Time Series Models”, CFE-CMStatistics 2025, Birkbeck, University of London, December 13–15, 2025.
 
 * Organizing committee for “SABID 2025: Workshop on Solar & Stellar Astronomy Big Data” at ICDM (The 25th IEEE International Conference on Data Mining) 2025, November 12, 2025.
 
@@ -93,7 +105,11 @@ Service to the statistics and scientific communities includes professional leade
 
 * Organizer, Bayes Reading Group, University of Michigan, January - April 2018.
 
-## University Service (2021–present)
+## University of Michigan Service (2021–present)
+
+### Department of Statistics
+
+* Chair, Task Force on AI & Teaching, 2026.
 
 *  Faculty search committee, 2022.
 
@@ -115,6 +131,18 @@ Service to the statistics and scientific communities includes professional leade
 
 *  Department culture committee, 2025.
 
+### Department of Climate and Space Sciences and Engineering
+
+* Reappointment committee for research scientist and faculty, 2026.
+
+### University-wide Service
+
+* Reviewer, MIDAS, MICDE, and MMRI, 2026.
+
+## Scientific Community Participation
+
+* Invited Participant, Heliolab Ops 2026 Missing Manual Technical Meeting, Southwest Research Institute (SwRI), Boulder, Colorado, November 2026.
+
 ## Mentoring and Outreach
 
 * CWS (Caucus for Women in Statistics and Data Science) Flash Mentoring, Mentor, 2024.
@@ -123,19 +151,23 @@ Service to the statistics and scientific communities includes professional leade
 
 * Ask-a-statistician session, 224th Meeting of the American Astronomical Society, Boston, MA, June 2014.
 
+## Postdoctoral Committee Service
+
+* Xin Xie, Physics; Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship, 2023–2025. Role: Committee member.
+
 ## Dissertation Committees
 
 ### Statistics
 
-* Sahana Rayan, Ph.D. candidate in Statistics. Chair: Ambuj Tewari (Statistics).
+* An Pho, Ph.D. student in Statistics. Chair: Long Nguyen (Statistics).
 
-* Qikai Hu, Ph.D. candidate in CLaSP. Chair: Xianglei Huang (CLaSP).
+* Sahana Rayan, Ph.D. candidate in Statistics. Chair: Ambuj Tewari (Statistics).
 
 * Kevin Liang, Ph.D. candidate in Statistics. Chair: Jonathan Terhorst (Statistics).
 
-* Katherine Ahn, Ph.D. candidate in Statistics. Chair: Kerby Shedden (Statistics).
-
 * Yiling Huang, Ph.D. candidate in Statistics. Chair: Snigdha Panigrahi (Statistics).
+
+* Katherine Ahn, Ph.D. in Statistics, 2026. Dissertation Title: Statistical Methods for Interpretable Representation in Complex Data. Chair: Kerby Shedden (Statistics).
 
 * Eduardo Ochoa, Ph.D. in Statistics, 2026. Dissertation Title: Statistical Foundations for Microplastic Identification: Efficient Sampling and Distribution-Free Uncertainty Quantification. Chair: Ambuj Tewari (Statistics).
 
@@ -182,17 +214,19 @@ in Neuroimaging Analysis. Chair: Jian Kang (Biostatistics).
 
 ### Physics and Engineering Fields
 
+* Qikai Hu, Ph.D. candidate in Climate and Space Sciences and Engineering. Chair: Xianglei Huang (CLaSP).
+
 * Vivian Cribb, Ph.D. candidate in Climate and Space Sciences and Engineering. Chair: Tuija Pulkkinen (CLaSP).
-
-* Hongfan Chen, Ph.D. candidate in Mechanical Engineering. Chair: Xun Huan (ME).
-
-* Weihao Liu, Ph.D. candidate in Climate and Space Sciences and Engineering. Chair: Lulu Zhao and Tamas Gombosi (CLaSP).
 
 * Pravendra Patel, Ph.D. candidate in Material Science & Engineering (MSE). Chair: Liang Qi (MSE).
 
 * Jieru Zhang, Ph.D. candidate in Material Science & Engineering (MSE). Chair: Liang Qi (MSE).
 
 * Eddie Aljamal, Ph.D. candidate in Astronomy. Chair: August Evrard (Astronomy).
+
+* Weihao Liu, Ph.D. in Climate and Space Sciences and Engineering, 2026. Dissertation Title: Understanding Energetic Particle Acceleration and Transport from the Solar Corona to Interplanetary Space Through the Eye of Simulation. Chairs: Lulu Zhao and Tamas Gombosi (CLaSP).
+
+* Hongfan Chen, Ph.D. in Mechanical Engineering, 2026. Dissertation Title: A Physics-Data Hybrid Approach for Probabilistic Sun-to-Earth Space Weather Forecasting in Data-Sparse Settings. Co-chairs: Yang Chen (Statistics) and Xun Huan (ME).
 
 * Jiayuan Dong, Ph.D. in Mechanical Engineering, 2026. Dissertation Title: Efficient Goal-oriented Sequential Bayesian Experimental Design with Applications to Causal and Physical Systems. Chair: Xun Huan (ME).
 
@@ -229,7 +263,7 @@ detector. Chair: Bing Zhou (Physics).
 
 * Shannon Ang, Ph.D. in Sociology, dual degree in Statistics, 2020. Dissertation title: Three Papers on Social Participation over the Life Course. Chair: Sarah Burgard (Sociology).
 
-* Jie He, Ph.D. student in Environmental Health Sciences (EHS). Chair: Richard Neitzel (EHS).
+* Jie He, Ph.D. candidate in Environmental Health Sciences (EHS). Chair: Richard Neitzel (EHS).
 
 ### Others
 

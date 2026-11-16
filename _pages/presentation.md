@@ -43,7 +43,7 @@ Related presentations are grouped by title; individual delivery dates are listed
    * SIAM Conference on Mathematics of Data Science, Salt Lake City, Utah, Nov 16-20, 2026. [[Slides](https://drive.google.com/file/d/1Et9I7gKEsoLEHPPHPij4KaktT3HQkEmu/view?usp=drive_link)]
 
 8. Conformalized Tensor Completion with Applications to Space Weather
-   * INFORMS Annual Meeting, San Francisco, California, November 1-4, 2026.
+   * INFORMS Annual Meeting, San Francisco, California, November 1-4, 2026. Presented by Jiuqian Shang.
 
 9. Real-Time 24-hour Ahead Forecasting of Solar Energetic Particle Events with SEPNET-PRISM-R
    * SEP Seminar, Space Radiation Analysis Group, Johnson Space Center, Virtual, October 2026.
@@ -114,7 +114,7 @@ Related presentations are grouped by title; individual delivery dates are listed
 9. Data-Analytic Opportunities and Challenges in Solar Eruption Forecasting [[Slides](https://drive.google.com/file/d/1U4S_iGrBpcTMWpKn9-iJOhrACK_nhxI9/view?usp=sharing)]
     * Electrical and Computer Engineering (ECE) Communications and Signal Processing (CSP) Seminar Series, University of Michigan, Ann Arbor, April 18, 2024.
     * Seminar, National Solar Observatory (NSO), Boulder, CO, June 11, 2024.
-    * 2024 INFORMS Annual Meeting in Seattle, WA, October 20-23, 2024.
+    * 2024 INFORMS Annual Meeting in Seattle, WA, October 20-23, 2024. Presented by Victor Verma.
 
 10. Discussion of "Poisson-FOCuS: An Efficient Online Method for Detecting Count Bursts with Application to Gamma Ray Burst Detection" by Kes Ward, Giuseppe Dilillo, Idris Eckley & Paul Fearnhead (2023), Journal of the American
 Statistical Association, DOI: 10.1080/01621459.2023.2235059.
@@ -125,6 +125,11 @@ Statistical Association, DOI: 10.1080/01621459.2023.2235059.
 
 12. A Statistician's Fun and Challenges Playing in Physicists' Backyard
     * IDWSDS (International Day of Women in Statistics and Data Science) Career Journey Talk, Virtual, October 8, 2024. 
+
+#### Additional panels and research meetings
+
+* Panelist, Foundations of Biomedical Data Science Seminar Series, panel for past Biomedical Data Science Innovation Lab (BDSIL) participants, virtual, November 2024.
+* Joint SCEPTER and CLEAR Meeting, Ann Arbor, MI, October 2024.
 
 ### 2023
 
@@ -165,6 +170,10 @@ Statistical Association, DOI: 10.1080/01621459.2023.2235059.
 9. Data Assimilation for Space Weather Modeling Framework (SWMF) [[Slides](https://drive.google.com/file/d/1TzgIKrOllPyT1R9_vs9kdaRuCcRoBbca/view?usp=drive_link)]
     * 2023 SWQU Spring Meeting, Cambridge, MA, March 9-10, 2023.
 
+
+#### Additional research meetings
+
+* BAYSM 2023, virtual, November 2023.
 
 ### 2022
 

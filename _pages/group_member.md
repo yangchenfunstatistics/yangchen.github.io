@@ -7,7 +7,7 @@ author_profile: true
 
 Our group develops statistical methods for complex scientific data, including tensor and spatiotemporal models, Bayesian inference, and uncertainty quantification. Learn more about our [research]({{ "/research/" | relative_url }}).
 
-Current members and alumni are listed below. Alumni entries record first positions when available.
+Current members, incoming researchers, alumni, and undergraduate research mentees are listed below. Alumni entries record first positions when available.
 
 ## Current Members
 
@@ -18,17 +18,28 @@ Current members and alumni are listed below. Alumni entries record first positio
 * [Yian Yu](https://yyianyu.github.io/), 2025–2027.
 * [Zhen Qin](https://zhenqin-robin.github.io/), 2025–2027.
   MICDE Postdoctoral Fellow, joint with [Qing Qu](https://qingqu.engin.umich.edu/).
-* [Hongfan Chen](https://scholar.google.com/citations?user=Hy9RqDwAAAAJ&hl=en), 2027–2028.
 
 ### Ph.D. Students
 
 * Victor Verma, 2022–present, joint with [Stilian Stoev](https://sites.lsa.umich.edu/sstoev/).
 * Yuxuan Ke, 2023–present.
-* Jiuqian Shang, 2023–present.
 * Noah Kochanski, 2023–present.
+* Jiuqian Shang, 2024–present.
 * Soham Das, 2024–present.
 * Kevin Jin, 2024–present.
 * Surtai Han, 2025–present.
+* Xiaoyu Qiu, 2026–present, joint with Liyue Shen.
+* Erica Brown, 2026–present.
+
+### Master's Research Mentees
+
+* Fangzhou Cao, 2026–2027.
+* Haoze Wu, 2025–2027.
+* Lucas Chiang, 2026–2027.
+
+## Incoming Postdoctoral Fellows
+
+* [Hongfan Chen](https://scholar.google.com/citations?user=Hy9RqDwAAAAJ&hl=en), 2027–2028 (forthcoming).
 
 ---
 
@@ -89,14 +100,14 @@ Current members and alumni are listed below. Alumni entries record first positio
 
 * Tian Zhou, 2018–2019, Machine Learning Engineer at Snap.
 * Naomi Giertych, 2018–2019, Ph.D. student at North Carolina State University.
-* Zhenbang Jiao, 2018–2020, Ph.D. student at The Ohio State University.
-* Hu Sun, 2018–2020, Ph.D. student at the University of Michigan, Ann Arbor.
+* Zhenbang Jiao, 2019–2020, Ph.D. student at The Ohio State University.
+* Hu Sun, 2019–2020, Ph.D. student at the University of Michigan, Ann Arbor.
 * Zhijun Hua, 2020–2021, Ph.D. student at Cornell University.
 * Xianlin Sun, 2021–2022, Ph.D. student at University of Hong Kong.
 * Hongfan Chen, 2021–2022, Ph.D. student at the University of Michigan, Ann Arbor.
 * Wei Zhao, 2021–2022, Ph.D. student at North Carolina State University.
 * Yurui Chang, 2022–2023, Ph.D. student at Penn State University.
-* Zeyuan Li, 2023.
+* Zeyuan Li, 2022.
 * Qikai Hu, 2022–2023, Ph.D. student at the University of Michigan, Ann Arbor.
 * Ruoyang Liu, 2022–2023.
 * Jiayin Ye, 2023–2024, joint with [Yi Hong](https://ciglr.seas.umich.edu/opportunities/postdoctoral-fellowships/yi-hong/), Ph.D. student at University of Maryland.
@@ -107,24 +118,30 @@ Current members and alumni are listed below. Alumni entries record first positio
 * Chia-Yun Li, 2024–2025.
 * Jiaxing Xu, 2024–2025.
 * Ashlan Simpson, 2024–2025.
-* Fangzhou Cao, 2026–2027.
-* Haoze Wu, 2025–2027.
-* Lucas Chiang, 2026–2027.
 
-### Undergraduate Alumni
+## Undergraduate Research Mentoring
 
-(name, years, first position)
+Mentoring years and subsequent positions are listed when available.
 
-* [Miaoshiqi Liu](https://shiqi.writingspace.cc/), 2018 summer, Ph.D. student at University of Toronto.
-* [Song Wei](https://sites.google.com/view/songwei-gt/home), 2018 summer, Ph.D. student at Georgia Institute of Technology.
-* Yuezhou Qu, 2023 Winter - 2024.
-* Ruipu Li, 2022–2024, joint with [Joyce Penner](https://clasp.engin.umich.edu/people/penner-joyce-e/), 2022 summer -2024, Ph.D. student at the University of Michigan.
-* Nicolas Harder, 2022–2024, joint with [Joyce Penner](https://clasp.engin.umich.edu/people/penner-joyce-e/) and [Xianglei Huang](https://clasp.engin.umich.edu/people/huang-xianglei/), 2022 summer -2024.
-* Brandon Li, 2023 Winter-2024, joint with [Yi Hong](https://ciglr.seas.umich.edu/opportunities/postdoctoral-fellowships/yi-hong/).
-* Jiuqian Shang, 2022 summer - 2023 Winter, Ph.D. student at University of Michigan.
-* Xiaoli Li, 2023 Winter - 2024, Ph.D. student at the University of Chicago.
-* Xiaofan Xia, 2023 Summer, Ph.D. student at the University of Toronto.
+### University of Michigan
+
+* Shreyas Shrivastava, 2026.
+* Huaqi Wei, 2026.
 * Qikai Shen, 2025 Winter (URPS program, with Ph.D. student Jiuqian Shang), Master's student at the University of Chicago.
 * Qinkai Li, 2025 Winter (URPS program, with Ph.D. student Jiuqian Shang).
 * Benjamin Tward, 2025 Winter (URPS program, with Ph.D. student Ashlan Simpson).
 * Meghan Kunkle, 2025 Winter (URPS program, with Ph.D. student Ashlan Simpson).
+* Yuezhou Qu, 2023.
+* Brandon Li, 2023 Winter–2024, joint with [Yi Hong](https://ciglr.seas.umich.edu/opportunities/postdoctoral-fellowships/yi-hong/).
+* Ruipu Li, 2022–2023, joint with [Joyce Penner](https://clasp.engin.umich.edu/people/penner-joyce-e/), Ph.D. student at the University of Michigan.
+* Nicolas Harder, 2022–2023, joint with [Joyce Penner](https://clasp.engin.umich.edu/people/penner-joyce-e/) and [Xianglei Huang](https://clasp.engin.umich.edu/people/huang-xianglei/).
+
+### Other Institutions
+
+* Dongrun Wu, University of Science and Technology of China, 2025.
+* Siyuan Tang, University of Science and Technology of China, 2024.
+* Xiaoli Li, University of Science and Technology of China, 2023–2024, Ph.D. student at the University of Chicago.
+* Xiaofan Xia, University of Science and Technology of China, 2023 Summer, Ph.D. student at the University of Toronto.
+* Jiuqian Shang, University of Science and Technology of China, 2022 Summer–2023 Winter, Ph.D. student at the University of Michigan.
+* [Miaoshiqi Liu](https://shiqi.writingspace.cc/), Tsinghua University, 2018 Summer, Ph.D. student at the University of Toronto.
+* [Song Wei](https://sites.google.com/view/songwei-gt/home), University of Science and Technology of China, 2018 Summer, Ph.D. student at Georgia Institute of Technology.

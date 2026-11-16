@@ -4,7 +4,7 @@ title: "Statistical learning and uncertainty quantification"
 seo_title: "Yang Chen — Statistics, University of Michigan"
 excerpt: "Statistical methods for high-dimensional scientific data, including tensor and spatiotemporal models, Bayesian inference, and uncertainty quantification."
 author_profile: true
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 redirect_from:
   - /about/
   - /about.html
@@ -18,7 +18,7 @@ I am also affiliated with the [Michigan Institute for Data and AI in Society (MI
 
 <nav class="home-links" aria-label="Explore my work">
   <a href="{{ '/research/' | relative_url }}">Research and publications</a>
-  <a href="https://drive.google.com/file/d/1l1ujRFaDQY65B1ON3ZVwvlvctWgPo4gE/view?usp=drive_link">CV (PDF)</a>
+  <a href="{{ '/files/CV_Yang_Chen.pdf' | relative_url }}">CV (PDF)</a>
   <a href="{{ '/group_member/' | relative_url }}">Research group</a>
   <a href="#forecasting-tools-and-open-data">Forecasting tools and data</a>
 </nav>
@@ -106,6 +106,12 @@ Hu Sun, Yang Chen, Shasha Zou, Jiaen Ren, Yurui Chang, Zihan Wang, and Anthea Co
 ## Research group
 
 Meet our [current researchers and alumni]({{ '/group_member/' | relative_url }}) and explore our [funded projects]({{ '/funding/' | relative_url }}). For questions about research collaborations, please [email me](mailto:ychenang@umich.edu).
+
+## Selected honors
+
+* **2026:** [IMS Thelma and Marvin Zelen Emerging Women Leaders in Data Science Award](https://imstat.org/2025/10/21/2026-ims-thelma-and-marvin-zelen-emerging-women-leaders-in-data-science-awardees/).
+* **2024:** [Inaugural Michael Woodroofe Award](https://cwstat.org/michael-woodroofe-award/), Caucus for Women in Statistics and Data Science.
+* **2024:** Elected to the International Statistical Institute.
 
 ## About and contact
 
