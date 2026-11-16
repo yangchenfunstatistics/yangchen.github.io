@@ -109,6 +109,9 @@
       {% if author.department_webpage %}
         <li><a href="{{ author.department_webpage }}"><i class="fas fa-fw fa-university" aria-hidden="true"></i> Department Webpage</a></li>
       {% endif %}
+      {% if author.space_weather_lab %}
+        <li><a href="{{ author.space_weather_lab }}"><i class="fas fa-fw fa-globe" aria-hidden="true"></i> Space Weather Lab</a></li>
+      {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
