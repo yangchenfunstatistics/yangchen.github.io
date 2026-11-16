@@ -38,6 +38,9 @@ Current members, incoming researchers, alumni, and undergraduate research mentee
 * Haoze Wu, 2025–2027.
 * Lucas Chiang, 2026–2027.
 
+### Undergraduate Thesis
+* Bryan Gao, 2026-2027.
+
 ## Incoming Postdoctoral Fellows
 
 * [Hongfan Chen](https://scholar.google.com/citations?user=Hy9RqDwAAAAJ&hl=en), 2027–2028 (forthcoming).
