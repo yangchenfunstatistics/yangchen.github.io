@@ -7,12 +7,6 @@ author_profile: true
 
 Talks on statistical methodology, scientific data analysis, and space weather forecasting. Read the [abstracts of recent talks](https://docs.google.com/document/d/1xSn__mPnUKKt2SOtQnGurk04u2QvP6RkCsEQa0sLJWo/edit?usp=sharing).
 
-## Selected Talks with Slides
-
-* [Probabilistic Tensor Prediction for High-Dimensional Solar Imaging Data](https://drive.google.com/file/d/1AG5aD8wUCZrmuJR7VTbHH5U3s1m0JjYs/view?usp=drive_link)
-* [Uncertainty Quantification for Tensor Completion with Applications to Physical Sciences](https://drive.google.com/file/d/1VRtgZpVzn0Vv3NhfXZ0zpb5S1o_Vfzwu/view?usp=drive_link)
-* [Space Weather Forecasting with Machine Learning — Lessons Learned from Research to Operation](https://drive.google.com/file/d/1tt5J2pYHjgwDuVlDegqUtHxTQXve3o1D/view?usp=drive_link)
-
 ## Talk Archive
 
 Related presentations are grouped by title; individual delivery dates are listed under each talk, including repeat presentations in other years.
